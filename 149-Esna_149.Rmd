@@ -1,0 +1,45 @@
+# Esna II, 149 {-}
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+
+- Location: Facade, central door, corniche over right (south) pillar
+- Date: Unknown
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=333){target="_blank"}
+- Bibliography: None
+
+#### Cartouche {-}
+<div class="col2">
+| ^1^ *nsw.t-bjty*  
+| *nb-tȝ.wy*  
+| (*twmtyns (nty)-ḫwj*)|  
+| ^1^ King of Upper and Lower Egypt,  
+| Lord of the Two Lands,  
+| Domitian Augustus.  
+</div>
+
+#### Title {-}
+<div class="col2">
+
+| ^2^ *jr mḏ n jt=[f]*  
+|
+| ^2^ Doing unguent for [his] father.  
+
+</div>
+
+#### Khnum-Re {-}
+<div class="col2">
+| ^3^ *ẖnmw-Rʿ nb tȝ-^4^sn.t*  
+|
+| ^3^ Khnum-Re Lord of E^4^sna.  
+</div>

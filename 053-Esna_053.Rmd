@@ -1,0 +1,50 @@
+# Esna II, 53 {-}
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+
+- Location: Facade, southern corner
+- Date: Uncertain, probably Vespasian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=185){target="_blank"}
+- Bibliography: @klotz-baboons, pp. 38-40
+
+<div class="col2">
+
+| *[...] ḥr [...]=f*  
+| *tȝ-[sn].t pw *  
+|    *tỉs=f ḏ.t=f ỉm=f *  
+|    *smn=f snṯ nb*  
+|        *m ḥry-wḏḥw* 
+|
+| *s[.t nt nḥỉ] ms.w m-ḫnt=s*  
+|    *ṯnỉ šȝy [ḥr msḫn.t...]*  
+|
+| *[...twt] mȝȝ sw r (dỉ)-mr.t*
+|   *ẖr Rʿ [...]*  
+| *ʿ ỉm=s ḥr sḥḏ tȝ.wy* 
+|
+| [...] on [...] it,
+| it is E[sn]a, 
+|     in which he reposes his body,  
+|     and sets up every foundation 
+|         as Chief of the Altar.
+|  
+| The pla[ce of beseech]ing children is within it,  
+|     and distinguishing fate [upon the birthbrick...]
+|  
+| [...] it is more perfect to see than the sky 
+|     bearing Re,
+| the moon within it lighting up the two lands.
+
+</div>
+

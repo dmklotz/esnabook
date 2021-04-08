@@ -1,0 +1,68 @@
+# Esna II, 152 {-}
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+
+- Location: Facade, Column A, Upper Bandeau
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=337){target="_blank"}
+- Bibliography: None
+
+### 152 A {-}
+
+<div class="col2">
+
+| *nṯr wr ḫnt Iwny.t*  
+| *dỉ ṯȝw n nṯr.w rmṯ*  
+|     *snsn fnḏ nb*  
+|     *ʿnḫ=sn ỉm=f*  
+| 
+| *qȝ-ḥr-ỉȝ.t=f qȝ.tw*  
+|     *ỉmỉ.tw sḫ.t=f *  
+|     *ẖnm-Rʿ nb Pr-nṯr*  
+|  
+| The great god within Iunyt,
+| who gives air to gods and men,
+|     so that every nose breathes,
+|     and they all live through him.
+|  
+| High-upon-his-Standard is elevated  
+|     within his field:
+|     Khnum-Re, lord of Per-netjer
+
+</div>
+
+### 152 B {-}
+
+<div class="col2">
+
+| *nṯr šps*  
+| *ḫpr ẖr-ḥȝ.t*  
+| *ỉmn rn=f r ms.w=f*
+|  
+| *Ptḥ ỉr wnn.t*  
+| *bs=f ḏs=f*  
+| *wʿ ỉr sw m ḥḥ.w*  
+| *qmȝ nty nb ḫpr=f*  
+|     *ẖnm-Rʿ nb Iwny.t*  
+| 
+| The august god,  
+| who came about in the beginning,  
+| who hid his name from his children.
+|  
+| Ptah, who created what exists,  
+| who emerged by himself,  
+| the sole one who made himself into millions,  
+| who created all that is when he came about:
+|     Khnum-Re Lord of Iunyt.
+</div>

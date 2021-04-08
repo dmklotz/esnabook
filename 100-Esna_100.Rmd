@@ -1,0 +1,35 @@
+# Esna II, 100 {-}
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+
+- Location: Facade, Central Door, right side
+- Date: Unknown, probably Vespasian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=266){target="_blank"}
+- Bibliography: None
+
+
+<div class="col2">
+
+| *([...nty]-ḫwỉ)|  *
+| *mry N.t wr.t  *
+| *mw.t-nṯr *  
+| *nb.t tȝ-sn.t  *
+|  
+| ([...] Augustus)|
+| beloved of great Neith,
+| Mother of God, 
+| Lady of Esna (![](images/100_1.png){width=15%})
+
+
+</div>

@@ -1,0 +1,33 @@
+# Esna II, 178 {-}
+
+
+
+- Location: Column D, Base
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=367){target="_blank"}
+- Bibliography: None
+
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+<div class="col2">
+
+| *ʿnḫ nṯr nfr  *
+| *grg spȝ.t tn   *
+|   *n ỉt=f ẖnmw  *
+| 
+| Live the good god,
+| who founded this district
+|    for his father, Khnum.
+
+</div>

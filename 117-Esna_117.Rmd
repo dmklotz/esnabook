@@ -1,0 +1,62 @@
+# Esna II, 117 {-}
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+
+- Location: Facade, intercolumnar D
+- Date: Probably Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=293){target="_blank"}
+- Bibliography: Kaper (non vidi), pp. 66, 235; El Sayed, Neith, Doc. 1034
+
+
+<div class="col2">
+
+| *[...] wbn m Nwn  *
+| *N.t wr wr.w  *
+| *ḥȝ.t nṯr.w pw  *
+|   *ḫpr m ḥȝ.t  *
+| *wbn m Nwn  *
+|   *ỉw tȝ m kkw  *
+| *ḥḏ tȝ*   
+|   *m pr=s  *
+|
+| *bẖ.n=s zȝ=s  *
+|   *r bẖ tȝ r-ḏr=f  *
+|     *m ḫy nfr  *
+|       *nn ḥr-ḫw=f  *
+|   
+| *wȝḏ-tȝ*  
+|       *m pr=f  *
+|   *m rn=f n ṯwtw[...]  *
+|
+| [...] who rises from Nun,
+| Neith, greatest of the great,
+| that means first of the gods,
+|    who came about in the beginning,
+| who arose from Nun,
+|    while the earth was in darkness,
+| the earth shone (***ḥḏ*** *tȝ*) 
+|    at her emergence.
+|
+| She bore (*bẖ*) her son,
+|    to illumine (*bẖ*) the whole earth,
+|       as a good child,
+|          without peer.
+|
+| The earth becomes verdant (***wȝḏ*** *tȝ*) 
+|       at his emergence,[^fn-117]
+|    in his name of Tutu (*twtw*) [...]
+
+</div>
+
+[^fn-117]: Note the parallelism between Neith and Tutu's "emergence". The earth becomes "white" when she appeared at the beginning of creation, and it became "green" when he comes forth. There also seems to be a pun on Tutu's name, and the vaguely similar *wȝḏ tȝ*.

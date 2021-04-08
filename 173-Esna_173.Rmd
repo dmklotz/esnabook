@@ -1,0 +1,37 @@
+# Esna II, 173 {-}
+
+
+
+- Location: Column D, Upper Bandeau
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=363){target="_blank"}
+- Bibliography: None
+
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+<div class="col2">
+
+| *[...]  *
+| *ỉr wnn.t  *
+| *nṯr nṯry  *
+| *ḫpr m pȝwty  *
+|    *ẖnmw-Rʿ nb tȝ-sn.t  *
+| 
+| [...]
+| who created what exists,
+| the divine god,
+| who came about as the Primeval One,
+|    Khnum-Re Lord of Esna.
+
+</div>

@@ -1,0 +1,65 @@
+# Esna II, 140 {-}
+
+
+
+- Location: Intercolumnar C
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=323){target="_blank"}
+- Bibliography: None
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+#### Title {-}
+
+<div class="col2">
+
+| ^1^ *ỉr snṯr n bȝ.w fdw wr.w  *
+| 
+| ^1^ Doing incense for the four great rams.
+
+</div>
+
+#### The King {-}
+
+<div class="col2">
+
+| ^2^ *nsw.t-bỉty  *
+| *(ỉwtkr(tr) ksrs)|  *
+| ^3^ *zȝ-Rʿ  *
+| *(tymtyns ḫwỉ)|  *
+|
+| ^2^ King of Upper and Lower Egypt,
+| (Autokra(tor) Caesar)|,
+| ^3^ Son of Re,
+| (Domitian Augustus)|
+
+</div>
+
+#### The Four Rams
+
+<div class="col2">
+
+| ^4^ *bȝ n šw nb Iwny.t  *
+| ^5^ *bȝ n Rʿ ḫnt ỉȝ.t-[ṯȝ.wy]  *
+| ^6^ *bȝ n Gbb nb ḥw.t-ỉt  *
+| ^7^ *bȝ n Wsỉr nb tȝ-sn.t  *
+|
+| ^4^ The Ba of Shu, Lord of Iunyt.
+| ^5^ The Ba of Re within Mound of [the Chicks][^fn-140-1].
+| ^6^ The Ba of Geb, Lord of Temple of the Father.
+| ^7^ The Ba of Osiris, Lord of Esna.
+
+</div>
+
+[^fn-140-1]: Restored from context, since the other locations are all Esna toponyms. In other texts, the four rams are linked to sites throughout Egypt ([Esna II, 17], 47-48; [Esna III, 250], 16-17).
+
