@@ -2,6 +2,10 @@ library(dplyr)
 library(stringr)
 library(textclean)
 
+bookdown::render_book(input = ".")
+bookdown::publish_book(name = "Esna2", account = "shemanefer", server = "bookdown.org")
+
+
 fix_translit <- function(x) {
   
   textclean::mgsub_fixed(x, pattern = c("a", "A", "i", "H", "x", "X","S", "D", "T"), c("ʿ","ȝ", "ỉ", "ḥ","ḫ","ẖ","š", "ḏ","ṯ"))
