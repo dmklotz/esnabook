@@ -1,0 +1,71 @@
+# Esna II, 189 {-}
+
+
+
+- Location: Column F, Middle Bandeau
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=381){target="_blank"}
+- Bibliography: None
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+## 189 A {-}
+<div class="col2">
+
+| *ʿnḫ nṯr nfr  *
+| *ḫws Iwny.t   *
+|   *mỉ ȝḫ.t n.t p.t  *
+| *ḫwỉ šzp.w=sn  *
+| *mk ʿḫm.w  *
+| *nb-ḫʿ.w  *
+| *(twmtyns ḫwỉ)|  *
+| *mrỉ ẖnmw-Rʿ nb tȝ-sn.t  *
+|  
+| Live the good god,
+| who builds Iunyt,
+|    like the Akhet of heaven,
+| who protects their statues,
+| and guards the effigies.
+| Lord of appearances,
+| (Domitian Augustus)|
+| beloved of Khnum-Re Lord of Esna.
+
+</div>
+
+
+## 189 B {-}
+<div class="col2">
+
+| *ʿnḫ nṯr nfr  *
+| *zȝ ẖnmw  *
+| *wr wr.w  *
+| *ḥwỉ ḫȝs.wt  *
+|   *m ḥqȝ.n=k tȝ.wy  *
+|     *m qn nḫt  *
+| *nb-ḫʿ.w  *
+| *(ȝwtwgrtr ksrs)|  *
+| *mrỉ ẖnmw-Rʿ nb sḫ.t  *
+| 
+| Live the good gos,
+| son of Khnum,
+| greatest of the great,
+| who smites the foreign lands,
+|   since you ruled the two lands (Egypt)
+|      in valor and strength.
+| Lord of appearances,
+| (Autokrator Caesar)|
+| Beloved of Khnum-Re Lord of the Field.
+
+
+</div>
+

@@ -146,6 +146,7 @@
 | *mw.t-nṯr nb.t tȝ-sn.t  *
 | ^14^ *ỉh.t wr.t ms.t Rʿ  *
 | *nb zȝw ḫnt N.t  *
+| 
 | ^15^ *tmȝ.t wr.t  *
 |   *ḫpr ẖr-ḥȝ.t  *
 | *mw.t ḥnʿ ỉt m šȝʿ  *
@@ -161,7 +162,8 @@
 | ^13^ Words spoken by Neith,
 | Mother of god, Lady of Esna,
 | ^14^ the Great Cow who bore Re,
-| Lady of Sais within the Neith nome,
+| Lady of Sais within the Neith nome.
+|
 | ^15^ Great mother,
 |    who came into existence before,
 | Mother with the Father in the beginning,
@@ -176,5 +178,5 @@
   
 </div>
 
-[^fn-91-1]: For this epithet of Neith, nurse of the two children of Esna, see recently Thiers, D3T III.
-[^fn-91-2]: Restored after an exact parallel in [Esna IV, 424], 2.
+[^fn-91-1]: For this epithet of Neith, nurse of the two children of Esna, see recently @thiers-tanent, pp. 312-314, n. c.
+[^fn-91-2]: ![](images/91_1.png){width=22%}: Restored after an exact parallel in [Esna IV, 424], 2.
