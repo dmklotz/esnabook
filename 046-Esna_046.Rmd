@@ -1,19 +1,8 @@
 # (PART) Facade (46-102) {-}
 
-# Esna II, 46 {-}
+# Outer Frame of the Facade (46-48) {-}
 
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
+## Esna 46 {-}
 
 - Location: Facade, corniche
 - Date: Claudius and Vespasian
@@ -21,3 +10,6 @@
 - Bibliography: None
 
 Alternating cartouches of Claudius and Vespasian.
+
+
+

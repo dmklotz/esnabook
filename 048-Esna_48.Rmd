@@ -1,4 +1,4 @@
-# Esna II, 48 {-}
+## Esna 48 {-}
 
 <style>
   .col2 {
@@ -18,7 +18,7 @@
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=174){target="_blank"}
 - Bibliography: @sauneron-5, p. 74  (48 A, partial translation); @sauneron-61, p. 233 (48 A, partial translation)
 
-## 48 A: Bandeau South (left) {-}
+### Esna 48 A: Bandeau South (left) {-}
 
 <div class="col2">
 
@@ -33,8 +33,10 @@
 | He unites with his father, Tatenen,  
 |    after he (Tatenen) lifted up the sky [bear]ing him,  
 |        on III Peret (Phamenoth) 1.[^fn-48_1] 
+
 </div>
 <div class="col2">
+
 | *ḥr-ȝḫty sḥḏ tȝ.wy*  
 |    *ʿnḫ(.w) n mȝwy=f*  
 |    *wpš nn.t*  
@@ -46,8 +48,10 @@
 |    who brightens the sky,  
 |    falcon, lord of the double firmament,  
 |        this one is Khepri, every day. 
+
 </div>
-<div class="col2">  
+<div class="col2">
+
 | *wsn pfy*  
 | *jr nḏmnḏm*  
 | *bȝ sṯj n fdw ḥr.w*  
@@ -57,8 +61,10 @@
 | he who creates sexual pleasure,  
 | the engendering ram with four faces,[^fn-48_5]
 |    foremost of Neb-ankh.[^fn-48_6]  
+
 </div>
 <div class="col2">
+
 | *sḥḏ.n=f ḥw.t-jt*  
 |     *m pr=f*  
 | *bẖ.n=f ḥw.t-ṯȝ.wy*  
@@ -70,8 +76,10 @@
 | so did he brighten the Temple of the Two Children
 |       by his rising,  
 |    so that the field is overlaid[^fn-48_3] with gold dust. 
+
 </div>
 <div class="col2">
+
 | *ḏ(d).tw js Jmn m rn=f*  
 |    *wṯz.n=f p.t m hȝy.t n bȝ=f*  
 |    *wḏ.n=f dwȝ.t r ḥȝp ḏ.t=f*
@@ -79,8 +87,10 @@
 | He is moreover called "Amun" by name:[^fn-48_4] 
 |    as he raised up the sky as a chapel for his Ba,  
 |    so did he ordain the Duat to conceal his body.
+
 </div>
 <div class="col2">
+
 | *nṯr pn šps*  
 | *ẖnm-Rʿ nb-tȝ-sn.t*  
 | *nṯr-ʿȝ nb sḫ.t*  
@@ -90,10 +100,7 @@
 | Great god, Lord of the Field.
 </div>
   
-
-#### Notes {-}
-
-
+  
 [^fn-48_1]: The festival of "lifting up heaven" on Phamenoth 1 is widely attested since the New Kingdom, and most frequently involves the Memphite demiurge Ptah-Tatenen; cf. @berlandini-1995, pp. 29-31. At Esna, this coincided with the major festival of installing the potter's wheel by Khnum-Re-Tatenen: @sauneron-5, pp. 71-88, 81-244; @leitz-loeffler.
 
 [^fn-48_2]: The text still seems to describe the union between the solar god (*pw* = Khepri), and his father, the demiurge and procreator (*pfy*  = Tatenen). Nonetheless, Khnum is elsewhere called explicitly *wsn pfy*: [Esna II, 17], 6-7; [Esna III, 249], 2; similarly [Esna II, 184], 12; cf. @pichel pp. 22-23, n. i.
@@ -102,6 +109,6 @@
 
 [^fn-48_6]: For Khnum "foremost of Neb-ankh", see also [Esna II, 52], 26.
 
-[^fn-48_3]: Not listed in dictionaries (![](images/48_1.png){width=5%}), @sauneron-61, p. 233, compared this to Coptic ⲉⲓⲉⲗⲉⲗ, "to shine" (Crum, *CD* 77 ). However, this seems to be the same hieroglyphic word *rr* which occurs in divine epithets such as *rr m nbw*, "overlaid with gold". It might be related to Demotic *lʿlʿ*, Coptic ⲗⲁⲗⲉ: @klotz-philae, pp. 91-93, n. m.
+[^fn-48_3]: Not listed in dictionaries (![](images/48_1.png){width=20%}), @sauneron-61, p. 233, compared this to Coptic ⲉⲓⲉⲗⲉⲗ, "to shine" (Crum, *CD* 77 ). However, this seems to be the same hieroglyphic word *rr* which occurs in divine epithets such as *rr m nbw*, "overlaid with gold". It might be related to Demotic *lʿlʿ*, Coptic ⲗⲁⲗⲉ: @klotz-philae, pp. 91-93, n. m.
 
 [^fn-48_4]: Yet another reference to constructing a firmament (*hȝy.t*), this section appears to refer again to Tatenen, one aspect of Khnum-Re. The god Amun-Re is frequently praised for establishing all regions of the cosmos (cf. *Deir Chelouit* III, 125, 8-9).
