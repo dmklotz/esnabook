@@ -1,4 +1,7 @@
-# Esna II, 69 {-}
+# Intercolumnar Wall D (68-70) {-}
+
+
+## Esna 69 {-}
 
 <style>
   .col2 {
@@ -12,13 +15,10 @@
 
 </style>
 
-
 - Location: Facade, intercolumnar bandeau
 - Date: Unknown, probably Claudius 
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=215){target="_blank"}
 - Bibliography: None
-
-
 
 <div class="col2">
 | *jj.tw m ḥtp*  
@@ -39,7 +39,7 @@
 |     at the gate of your temple,
 |         like Re shining in the Akhet.  
 |  
-| Wepwaet is before you,  
+| Wepwawet is before you,  
 | the Ennead is with you,  
 | the Bas of Pe and Nekhen follow you,  
 | and Horus lifts up your image,  
@@ -50,4 +50,4 @@
 
 [^fn-69-1]: This text is properly speaking a caption above [Esna II, 70], where Nekhbet and Wadjet introduce the king to Khnum and Heka the child. 
 
-[^fn-69-2]: Restored after [Esna II, 66].
+[^fn-69-2]: Restored after [Esna 66].

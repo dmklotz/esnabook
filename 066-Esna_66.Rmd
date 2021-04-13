@@ -1,4 +1,5 @@
-# Esna II, 66 {-}
+## Esna 66 {-}
+
 
 <style>
   .col2 {
@@ -12,12 +13,11 @@
 
 </style>
 
-
 - Location: Facade, intercolumnar bandeau
 - Date: Unknown, probably Claudius 
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=211){target="_blank"}
-- Bibliography: None
-
+- Bibliography: None  
+  
 
 <div class="col2">
 | *mj m ḥtp*  
@@ -38,10 +38,11 @@
 | I am coiled (*mḥn*) upon your head,  
 |     like (I would for) the All Lord,  
 | I have cut off (*mnḥ*) the heads of your enemies,
-|    in my name of Menhyt (***Mnḥ****y.t*).
+|    in my name of Menhyt (***Mnḥ****y.t*).[^fn-66_2] 
  
 
 </div>
 
-[^fn-66_1]: This text is properly speaking a caption above [Esna II, 67]. The goddess Menhyt addresses the king while he is being purified by Harsiese and Thoth.
+[^fn-66_1]: This text is properly speaking a caption above [Esna 67]. The goddess Menhyt addresses the king while he is being purified by Harsiese and Thoth.
 
+[^fn-66_2]: This entire speech has an exact parallel in *Esna* II, 15, 19.
