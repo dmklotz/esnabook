@@ -1,0 +1,97 @@
+## Esna 95 {-}
+
+- Location: Central Door, left side, base
+- Date: Unknown, likely Vespasian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=193){target="_blank"}
+- Bibliography: @sauneron-5, p. 161.
+  
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+NB: This hymn is an excerpt of a longer hymn to Khnum: *Esna* III, 276.
+
+<div class="col2">
+
+
+| ^2^ *nfr.wy ḥr=k  *
+|   *ỉw ʿ.wy=k ḥr nḥp  *
+|     *ḥr qdỉ swḥ.t nb rʿ-nb  *
+|   
+| ^3^ *nfr.wy ḥr=k  *
+|   *ỉw=k (ḥr) sṯỉ kȝ.w   *
+|       *r ỉd.wt  *
+|     *r ỉr(.t) mw   *
+|     *ḥr sḫpr qs.w  *
+|   
+| ^4^ *nfr.wy ḥr=k  *
+|   *ỉw=k (ḥr) qdỉ rmṯ  *
+|     *ms nṯr.w ʿw.t nb*
+|         *mỉt.t  *
+|   
+| ^5^ *nfr.wy ḥr=k  *
+|   *ỉw=k (ḥr) ṯnỉ nsw.t  *
+|       *ḥr nḥp=k  *
+|     *r smn tȝ * 
+|       *m wḏ.t.n=f  *
+|     
+| ^6^ *nfr.wy ḥr=k  *
+|   *ỉw=k m-ḫnt ẖ.t  *
+|     *r swḏȝ qmȝ.n=k  *
+|       *ḥr pr=sn r tȝ  *
+|   
+| ^7^ *nfr.wy ḥr=k  *
+|   *ỉw=k m bȝ šw  *
+|     *sn.t=k m mḥy.t  *
+|       *r-gs=k  *
+|   
+| ^8^ *nfr.wy ḥr=k  *
+|   *ỉw=k m ỉṯ-kȝ  *
+|     *sḫn.tw ḥnʿ ww m zp  *
+|
+| ^2^ How beautiful is your face!
+|   your arms are on the potter's wheel
+|    building every egg, daily.
+|
+| ^3^ How beautiful is your face!
+|   you make bulls ejaculate
+|        in cows,
+|      to make semen
+|      (and thereby) create bones.[^fn-95-1]
+|
+| ^4^ How beautiful is your face!
+|   you build humans,
+|    fashion gods and all livestock,
+|      likewise.
+|
+| ^5^ How beautiful is your face!
+|   you distinguish the king 
+|        upon your potter's wheel,
+|      to establish the earth
+|        through that which he decreed.
+|
+| ^6^ How beautiful is your face!
+|   you are within the womb,
+|      to preserve what you created
+|        when they come forth on earth.
+|
+| ^7^ How beautiful is your face!
+|   you are the Ba of Shu (wind),
+|      your sister is the north wind
+|        beside you.
+| 
+| ^8^ How beautiful is your face!
+|   you are the flooding Nile
+|      uniting together with the fields.
+
+</div>
+
+[^fn-95-1]: This and related epithets have been the subject of much discussion, see recently @pichel, p. 28, with references. It appears to relate to ancient medical beliefs that 1) the skeleton of an embryo was created by the father's semen, or 2) semen was generated within the father's spinal cord.
