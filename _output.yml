@@ -1,10 +1,5 @@
-bookdown::gitbook:
-  css: style.css
-  config:
-    toc:
-      after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    download: ["pdf", "epub"]
+tmp_theme:
+
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

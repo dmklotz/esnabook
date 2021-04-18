@@ -1,4 +1,6 @@
-# Esna II, 116 {-}
+# Intercolumnar Wall D (116-118) {-}
+
+## Esna 116 {-}
 
 <style>
   .col2 {
@@ -13,7 +15,7 @@
 </style>
 
 
-- Location: Facade, intercolumnar D
+- Location: Facade, intercolumnar wall D
 - Date: Domitian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=292){target="_blank"}
 - Bibliography: None

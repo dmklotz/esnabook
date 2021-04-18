@@ -1,0 +1,73 @@
+# Intercolumnar Wall F and South-East Door (104-110) {-}
+
+## Esna 105 {-}
+
+- Location: South-east door, lintel
+- Date: Unknown, probably Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=278){target="_blank"}
+- Bibliography: None
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+
+<div class="col2">
+
+| ^1^ *ṯȝw nfr n rsy.t  *
+| *šhb rn=f  *
+|   
+| ^2^ *ntf ṯz bȝ.w n nṯr.w *
+|     ^3^ *r p.t  *
+| *sʿq=f šwy* 
+|     ^4^ *m ỉȝbt.t  *
+| *bs.n=f ḥʿpỉ m ṯpḥ.t  *
+|   *r bʿḥ Iwny.t m kȝ.w ḏfȝ.w  *
+|   
+| ^5^ *ỉỉ.tw hr.tw  *
+| *ỉr nfr n Iwnyt  *
+| ^6^ *n=k ỉmy pr nb* 
+|   *n ḥʿpỉ* ^7^ *rsy  *
+| 
+| *ḥȝy m ḥȝy  *
+| *ḫȝḫ[...]* 
+| [...] ^8^ *ḥw.t-ẖnmw  *
+|   *n ỉt m šȝʿ  *
+|     *ʿbḫ.n=f fnḏ=f  *
+|
+| ^1^ The good wind of the south:
+|   Sheheb is his name.[^fn-105-1]
+| 
+| ^2^ It is he who lifts the bas of the gods 
+|   ^3^ up to the sky.
+| As he made the crocodile enter 
+|    into ^4^ the right-eye,[^fn-105-2] 
+| so he made Hapi come forth from the grotto
+|   to flood Iunyt with food and provisions.
+|   
+| ^5^ Come! Be peaceful!
+| Act kindly for Iunyt!
+| ^6^ To you belongs all that comes 
+|    from the ^7^ southern Hapi.
+| 
+| Blow in as the wind!
+| Hurry [...!]
+| [...] ^8^ the temple of Khnum
+|   of the Father in the Beginning,
+|     having uniting with his nose.
+
+</div>
+
+[^fn-105-1]: For this manifestation of the south-wind, see *LGG* VII, 111a-b and 458a; @riggs-soter, pp. 317-320 (both with references). The first lines of this text find exact parallels in the Ptolemaic chapel of Hathor, *Deir el-Médinâ* 112, 3. Based on those other versions, this figure can be restored as a lion with a ram head and four wings; this same figure appears without caption in the astronomical ceiling: *Esna* IV, 451, 7 (East) (noted by Daniel Arpagaus, personal communication).  The eastern wind appears in a symmetric scene [Esna 128].
+<!--also add notes to Panehemise when possible -->
+[^fn-105-2]: Darniel Arpagaus (personal communication) suggested this obscure reference might be illustrated on the astronomical ceiling of Esna ([Esna IV, 451](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page121){target="_blank"}). In the eastern side, the south-wind faces a crocodile with the head of a cobra for a tail. The precise astrological significance of this phrase and scene remains obscure to me.
+
+

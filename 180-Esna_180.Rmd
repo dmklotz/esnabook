@@ -1,0 +1,58 @@
+# Column E (180-186) {-}
+
+## Esna 180 {-}
+
+- Location: Column E, Top
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=369){target="_blank"}
+- Bibliography: None
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+#### 180 A {-}
+
+<div class="col2">
+
+| *ỉr p.t   *
+| *smn tȝ  *
+| *bs Nwn   *
+| *sḫpr mn.ty  *
+| *ỉr nty qmȝ wnn.t  *
+| *ẖnmw grg spȝ.wt  *
+| 
+| He who made heaven [^fn-180-1], 
+| established the earth,
+| made Nun come forth,
+| and created the desert regions,
+| who made what is and created what exists,
+| Khnum who founded the nomes.
+
+</div>
+
+[^fn-180-1]: ![](images/180_1.png){width=50%}.
+
+#### 180 B {-}
+
+<div class="col2">
+
+| *ỉȝw rnp r nw=f  *
+| *nḫḫ pw ỉr ḥwnw  *
+| *ṯȝw n ȝnḫ n nty nb  *
+| *ẖnmw sḥḏ tȝ.wy n nfrw=f  *
+| 
+| Old man who rejuvenates at his time,
+| i.e. the elder who becomes a youth,
+| breath of life for all the is,
+| Khnum who illumines the lands with his beauty.
+
+</div>

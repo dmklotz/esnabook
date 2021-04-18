@@ -1,4 +1,4 @@
-# Esna II, 135 {-}
+## Esna 135 {-}
 
 <style>
   .col2 {
@@ -13,7 +13,7 @@
 </style>
 
 
-- Location: Intercolumnar B
+- Location: Intercolumnar wall B
 - Date: Domitian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=317){target="_blank"}
 - Bibliography: @gamelin-2019, p. 38 (partial translation)

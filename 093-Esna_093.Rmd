@@ -1,6 +1,4 @@
-# Esna II, 93 {-}
-
-
+## Esna 93 {-}
 
 - Location: Central Door, Left Side,top
 - Date: Most likely Vespasian (Sauneron)
@@ -24,13 +22,13 @@
 
 | *dỉ(.t) ʿnḫ-ḏd-wȝs nb  *
 | *snb nb  *
-| *ȝw.t-ỉb nb [to...]  *
+| *ȝw.t-ỉb nb [n...]  *
 | *ḥr ḫnty ʿnḫ.w [nb].w  *
-
-She who gives all *ʿnḫ-ḏd-wȝs*
-all health,
-all happiness [to...]
-Horus, foremost of [all] the living.
+|
+| She who gives all *ʿnḫ-ḏd-wȝs*
+| all health,
+| all happiness [to...]
+| Horus, foremost of [all] the living.
 
 </div>
 #### In Front of the King {-}

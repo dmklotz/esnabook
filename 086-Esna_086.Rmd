@@ -1,4 +1,6 @@
-# Esna II, 86 {-}
+# Intercolumnar Wall B (86-88) {-}
+
+## Esna 86 {-}
 
 <style>
   .col2 {
@@ -13,7 +15,7 @@
 </style>
 
 
-- Location: Facade, Intercolumnar B
+- Location: Facade, Intercolumnar Wall B
 - Date: Vespasian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=250){target="_blank"}
 - Bibliography: None

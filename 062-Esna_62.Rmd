@@ -1,0 +1,79 @@
+## Esna 62 {-}
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+</style>
+
+- Location: South-east door, right side of lintel
+- Date: Unknown, Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=206){target="_blank"}
+- Bibliography: @sayed-neith, p. 626, Doc. 1010.
+
+### Formula {-}
+<div class="col2">
+| ^1^ *mn n=k ʿntyw n Pwn.t  *
+|   *ḥḏ.w nw tȝ-nṯr  *
+|
+| ^1^ Take the myrrh from Punt, 
+|   resin from God's Land.
+</div>
+### The King {-}
+<div class="col2">
+
+| ^2^ *nsw.t-bỉty  *
+| *(ỉwtkrtr ksrs)|  *
+| ^3^ *zȝ-Rʿ  *
+| *(twmtyns [...])|  *
+| ^4^ *sḥtp mw.t=f m sṯỉ nḏm  *
+|
+| ^2^ King of Upper and Lower Egypt,
+| (Autokrator Caesar)|
+| ^3^ Son of Re,
+| (Domitian [Augustus])|,
+| ^4^ who appeases his mother with sweet scent.
+</div>
+### Neith {-}
+<div class="col2">
+
+| ^5^ *ḏd-mdw ỉn N.t wr.t  *
+| *mw.t-nṯr nb.t tȝ-*^6^*sn.t  *
+| *tmȝ.t m šȝʿ   *
+| *sḫpr nty   *
+| ^7^ *[...]   *
+| *zȝ=s šww (ḥr) sḥḏ tȝ.wy  *
+|
+| ^5^ Words spoken by Neith the great,
+| Mother of God, Lady of ^6^ Esna,
+| mother in the beginning,
+| who created what is,
+| ^7^ [...]
+| her son the sun illumines the two lands.
+</div>
+### Nebtu {-}
+<div class="col2">
+| ^8^ *ḏd-mdw ỉn Nb.t-ww nb.t tȝ-sn.t  *
+| *ʿȝ mrw.t* ^9^ *ḫr nṯr.w  *
+| *ḥʿʿ.tw n mȝȝ=s rʿ-nb  *
+|
+| ^8^ Words spoken by Nebtu, Lady of Esna,
+| great of love ^9^ before the gods,
+| one rejoices to see her daily.
+</div>
+### Shemanefer {-}
+<div class="col2">
+| ^10^ *ḏd-mdw ỉn šmʿ-nfr  *
+| *sbk zȝ N.t  *
+| ^11^ *ʿȝ-pḥty   *
+| *sḫr ḫfty.w=f  *
+|
+| ^10^ Words spoken by Shemanefer,
+| Sobek, son of Neith,
+| ^11^ great of strength,
+| who strikes down his enemies.
+</div>

@@ -1,0 +1,63 @@
+## Esna 154 {-}
+
+<style>
+
+  .col2 {
+    columns: 2 320px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 320px; /* chrome, safari */
+    -moz-columns: 2 320px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+- Location: Column A, middle bandeau
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=339){target="_blank"}
+- Bibliography: None
+
+#### Esna 154 A {-}
+
+<div class="col2">
+
+| *bȝ ʿȝ-šfy.t  *
+|   *wr pḥty m-m nṯr.w  *
+| *nb mȝʿ.t  *
+|   *ʿnḫ=f ỉm=s  *
+| *ḫwỉ nỉw.t=f r ḏw nb  *
+| *wṯz tȝ r-ḏr=f r ḫry.t  *
+|   *ẖnmw-Rʿ nb sḫ.t  *
+| 
+| The Ba, great of prestige,
+|   great of strength among the gods,
+| Lord of Maat,
+|   from whom he lives,
+| who protects his city from all evil,
+| who keeps the whole earth from destruction:
+|   Khnum-Re Lord of the Field.
+
+</div>
+
+#### Esna 154 B {-}
+
+<div class="col2">
+
+| *bȝ ỉr bȝ.w  *
+| *qmȝ pȝty.w   *
+|   *m kȝr=sn  *
+| *sštȝ=f sw   *
+|   *m ỉr qdỉ ḥr nḥp  *
+| *ṯz mw nn=f wrḏ  *
+|   *ẖnmw-Rʿ nb tȝ-sn.t  *
+| 
+| The Ba who made the Bas,
+| who created the primeval gods 
+|   in their shrines,
+| who made himself remote
+|   as he who builds upon the potter's wheel,
+| who binds together semen without tiring:
+|   Khnum-Re Lord of Esna.
+
+</div>

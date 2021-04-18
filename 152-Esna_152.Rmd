@@ -1,10 +1,15 @@
-# Esna II, 152 {-}
+# (PART) Columns of the Facade (152-193) {-}
+
+# Column A (152-158) {-}
+
+## Esna 152 {-}
 
 <style>
+
   .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
+    columns: 2 320px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 320px; /* chrome, safari */
+    -moz-columns: 2 320px;    /* firefox */
     -webkit-column-break-inside: avoid;
     -page-break-inside: avoid;
     -break-inside: avoid;
@@ -12,13 +17,12 @@
 
 </style>
 
-
 - Location: Facade, Column A, Upper Bandeau
 - Date: Domitian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=337){target="_blank"}
 - Bibliography: None
 
-### 152 A {-}
+#### Esna 152 A {-}
 
 <div class="col2">
 
@@ -42,7 +46,7 @@
 
 </div>
 
-### 152 B {-}
+#### Esna 152 B {-}
 
 <div class="col2">
 
@@ -50,15 +54,18 @@
 | *ḫpr ẖr-ḥȝ.t*  
 | *ỉmn rn=f r ms.w=f*
 |  
+| The august god,  
+| who came about in the beginning,  
+| who hid his name from his children.
+
+</div>
+<div class="col2">
+
 | *Ptḥ ỉr wnn.t*  
 | *bs=f ḏs=f*  
 | *wʿ ỉr sw m ḥḥ.w*  
 | *qmȝ nty nb ḫpr=f*  
 |     *ẖnm-Rʿ nb Iwny.t*  
-| 
-| The august god,  
-| who came about in the beginning,  
-| who hid his name from his children.
 |  
 | Ptah, who created what exists,  
 | who emerged by himself,  

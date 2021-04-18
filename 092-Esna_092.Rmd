@@ -1,4 +1,6 @@
-# Esna II, 92 {-}
+# Central Door (92-102) {-}
+
+## Esna 92 {-}
 
 <style>
   .col2 {
@@ -17,6 +19,5 @@
 - Date: Vespasian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=257){target="_blank"}
 - Bibliography: None
-
 
 Cartouches of Vespasian.

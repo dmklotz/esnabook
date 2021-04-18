@@ -1,0 +1,97 @@
+## Esna 61 {-}
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+</style>
+
+- Location: South-east door, left side of lintel
+- Date: Unknown, Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=205){target="_blank"}
+- Bibliography: @leitz-loeffler (non vidi)
+
+### Formula {-}
+
+<div class="col2">
+
+| ^1^ *mn n=k nḥp pfy  *
+|   *mry ỉb=k  *
+| *ỉn kȝ.t=k grg tȝ pn  *
+|
+| ^1^ Take this potter's wheel,
+|    which your heart loves:
+| It is your work which settles this earth.
+
+</div>
+
+### The King {-}
+<div class="col2">
+
+| ^2^ *nsw.t-bỉty  *
+| *(ỉwtkrtr ksrs)|  *
+| ^3^ *zȝ-Rʿ  *
+| *(twm[...])|  *
+| ^4^ *zȝ-mr=f* 
+|   *n nb-nḥp  *
+|
+| ^2^ King of Upper and Lower Egypt,
+| (Autokrator Caesar)|
+| ^3^ Son of Re,
+| (Dom[itian Augustus])|,
+| ^4^ His-beloved-son priest [^fn-61-1]
+|   of the Lord of the potter's wheel.
+
+</div>
+
+### Khnum-Re Lord of Esna {-}
+
+<div class="col2">
+
+| ^5^ *ḏd-mdw ỉn ẖnmw-Rʿ nb tȝ-sn.t  *
+| ^6^ *ḥry-nḥp   *
+| *qdỉ r-mr=f  *
+| *grg tȝ* ^7^ *m kȝ.t=f*
+|     *rʿ-nb  *
+| 
+| ^5^ Words spoken by Khnum-Re Lord of Esna,
+| ^6^ chief of the potter's wheel,
+| who builds as he desires,
+| who settles the earth ^7^ through his work,
+|    daily.
+
+</div>
+
+### Menhyt {-}
+<div class="col2">
+
+| ^8^ *ḏd-mdw ỉn Mnḥy.t wr.t* 
+|    *nb.t ḫnt-tȝ  *
+| ^9^ *msḫn.t nfr.t  *
+| *ỉr(.t) mr=s * ^10^ [...]
+|
+| ^8^ Words spoken by Menhyt the great, 
+|    Lady of Khent-ta,
+| ^9^ good birth-brick,
+| who does what she desires ^10^ [...]
+
+</div>
+
+### Heka {-}
+<div class="col2">
+
+| ^11^ *ḏd-mdw ỉn ḥkȝ pȝ-ẖrd  *
+|   *ʿȝ wr tpy [n] ẖnmw  *
+| ^12^ *sḏ ỉqr nn mỉt.t=f  *
+|
+| ^11^ Words spoken by Heka the Child,
+|   very great first-born [of] Khnum,
+| ^12^ excellent youth without his equal.
+</div>
+
+
+[^fn-61-1]: This is a common priestly title, most closely associated with Herishef in Herakleopolis Magna: @klotz-titles, p. 778 (with references). <!-- Todo: check Cauville, RdE 59, for where this title is used in offering scenes --> 

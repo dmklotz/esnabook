@@ -1,6 +1,4 @@
-# Esna II, 186 {-}
-
-
+## Esna 186 {-}
 
 - Location: Column E, Base
 - Date: Domitian

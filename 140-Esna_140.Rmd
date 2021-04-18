@@ -1,4 +1,4 @@
-# Esna II, 140 {-}
+## Esna 140 {-}
 
 
 
@@ -24,7 +24,7 @@
 <div class="col2">
 
 | ^1^ *ỉr snṯr n bȝ.w fdw wr.w  *
-| 
+|   
 | ^1^ Doing incense for the four great rams.
 
 </div>
@@ -37,7 +37,7 @@
 | *(ỉwtkr(tr) ksrs)|  *
 | ^3^ *zȝ-Rʿ  *
 | *(tymtyns ḫwỉ)|  *
-|
+|  
 | ^2^ King of Upper and Lower Egypt,
 | (Autokra(tor) Caesar)|,
 | ^3^ Son of Re,
@@ -45,7 +45,7 @@
 
 </div>
 
-#### The Four Rams
+#### The Four Rams {-}
 
 <div class="col2">
 
@@ -53,13 +53,13 @@
 | ^5^ *bȝ n Rʿ ḫnt ỉȝ.t-[ṯȝ.wy]  *
 | ^6^ *bȝ n Gbb nb ḥw.t-ỉt  *
 | ^7^ *bȝ n Wsỉr nb tȝ-sn.t  *
-|
+|  
 | ^4^ The Ba of Shu, Lord of Iunyt.
-| ^5^ The Ba of Re within Mound of [the Chicks][^fn-140-1].
+| ^5^ The Ba of Re within the Nome of [the Chicks][^fn-140-1].
 | ^6^ The Ba of Geb, Lord of Temple of the Father.
 | ^7^ The Ba of Osiris, Lord of Esna.
 
 </div>
 
-[^fn-140-1]: Restored from context, since the other locations are all Esna toponyms. In other texts, the four rams are linked to sites throughout Egypt ([Esna II, 17], 47-48; [Esna III, 250], 16-17).
+[^fn-140-1]: Restored from context, since the other locations are all Esna toponyms. In other texts, the four rams are linked to sites throughout Egypt (*Esna* II, 17, 47-48; *Esna* III, 250, 16-17).
 

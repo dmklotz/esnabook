@@ -1,0 +1,63 @@
+# Intercolumnar Wall A and North-East Door (127-133) {-}
+
+## Esna 128{-}
+
+- Location: South-east door, lintel
+- Date: Unknown, probably Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=309){target="_blank"}
+- Bibliography: None
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+
+<div class="col2">
+
+| ^1^ [*ṯȝw nfr n ỉȝbt.t  *
+| [*h*]*n-xss rn=f  *
+|   
+| *ntf* ^2^ *[wṯz] hȝy.ty *
+|   *r ḥr.t m hȝw* ^2^ [...]
+|   *r wbg ỉz.ty m ḥḏḏ.wt  *
+|
+| ^4^ *[...] ḥḥ.tw m stw.t [...]   *
+| *[...].n=f m ȝw [...]  *
+| ^5^ *[...]=f ḥw.t-nṯr 
+|      *n nb nḥp  *
+|   *sʿnḫ=f sw  *
+|
+| *ʿnḫ Ptḥ* ^6^ *m ḥȝy=f  *
+| *nḏm [sṯỉ]=f m ḥȝy [...]  *
+|
+| ^1^ [The good wind of the east:]
+| [H]en-kheses is his name.[^fn-128-1]
+|
+| It is he ^2^ [who lifts] the two luminaries 
+|  up to the sky in the time/area ^3^ of [...]
+|  to illumine Egypt in radiance.
+|
+| ^4^  [...] speeding while [...]
+| [...] he in [...]
+| ^5^ he [...] the temple 
+|   of the Lord of the Potter's wheel,
+|   so he might enliven him
+|
+| Ptah lives ^6^ from his wind
+|   his [scent] is sweet as the wind [...]
+
+
+</div>
+
+[^fn-128-1]: For this manifestation of the east wind, see *LGG* IV, 806a-b; @riggs-soter, pp. 317-320 (both with references). The first lines of this text can be restored after the close parallel in the Ptolemaic chapel of Hathor, *Deir el-Médinâ* 112, 2. Based on those other versions, this figure can be restored as a scarab with a ram head and four wings, as also depicted on the astronomical ceiling: *Esna* IV, 401 C (East). The southern wind appears in a symmetric scene [Esna 95].
+<!--also add notes to Panehemise when possible -->
+
+

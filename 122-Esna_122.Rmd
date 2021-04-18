@@ -1,0 +1,67 @@
+## Esna 122 {-}
+
+- Location: Laboratory, left lintel
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=301){target="_blank"}
+- Bibliography: @vadas-2020, p. 96 (full translation).  
+  
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+#### Title {-}
+
+<div class="col2">
+
+ 
+| ^1^ *ḥnk ỉrp n mw.t[=f]  *
+|
+| ^1^ Offering wine for [his] mother.
+
+</div>
+
+#### The King {-}
+
+<div class="col2">
+
+| ^2^ *nsw.t-bỉty  *
+|  *nb-tȝ.wy  *
+| ^3^ *(wtkr(tr))|  *
+| ^4^ *(tym(t)y(ns))|  *
+|  
+| ^2^ King of Upper and Lower Egypt,
+| Lord of the Two Lands,
+| ^3^ (Autokra(tor))|
+| ^4^ (Domi(t)ia(n))|
+
+
+</div>
+
+#### Menhyt  {-}
+
+<div class="col2">
+
+
+| ^5^ *Mnḥ.t* ^6^ *nb.t ḫnt-tȝ  *
+|
+| ^5^ Menhyt, ^6^ Lady of Khent-ta
+
+</div>
+
+#### Nebtu {-}
+
+<div class="col2">
+
+| ^7^ *nb.t-ww* [...]
+| 
+| ^7^ Nebtu [...]
+
+</div>

@@ -1,4 +1,4 @@
-# Esna II, 160 {-}
+## Esna 160 {-}
 
 <style>
   .col2 {
@@ -16,8 +16,6 @@
 - Location: Facade, Column B
 - Date: Domitian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=357){target="_blank"}
-- Bibliography: None
-
-
-
-Cartouches of Domitian, before Khnum-Re Lord of Esna, and Khnum-Re Lord of the Field. 
+- Bibliography: None  
+  
+Cartouches of Domitian, before Khnum-Re Lord of Esna, and Khnum-Re Lord of the Field.

@@ -1,4 +1,4 @@
-# Esna II, 91 {-}
+## Esna 91 {-}
 
 - Location: Intercolumnar C
 - Date: Nero
@@ -179,4 +179,4 @@
 </div>
 
 [^fn-91-1]: For this epithet of Neith, nurse of the two children of Esna, see recently @thiers-tanent, pp. 312-314, n. c.
-[^fn-91-2]: ![](images/91_1.png){width=22%}: Restored after an exact parallel in [Esna IV, 424], 2.
+[^fn-91-2]: ![](images/91_1.png){width=30%}: Restored after exact parallels in *Esna* II, 26, 17; IV, 424, 2.

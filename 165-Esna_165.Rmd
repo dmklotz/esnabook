@@ -1,8 +1,6 @@
-# Esna II, 165 {-}
+## Esna 165 {-}
 
-
-
-- Location: Intercolumnar B, base
+- Location: Column B, base
 - Date: Domitian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=356){target="_blank"}
 - Bibliography: None

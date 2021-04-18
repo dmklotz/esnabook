@@ -1,0 +1,78 @@
+## Esna 83 {-}
+
+- Location: North-East door, right side of lintel 
+- Date: Uncertain
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=246){target="_blank"}
+- Bibliography: @sayed-neith, p. 623, Doc. 1006 (partial)
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+### Title {-}
+<div class="col2">
+
+| *ḥnk ỉrṯ.t* 
+|     *n ʿšȝ mnmn.t  *
+|
+| Offering milk 
+|   to she who has numerous livestock.
+
+</div>
+
+### The King {-}
+
+<div class="col2">
+
+| *nsw.t-bỉty  *
+| *(wytkrtr ksrs)|  *
+| *zȝ-Rʿ  *
+| *(tymtyns nty-ḫwỉ)|  *
+| *mhr nfr  *
+|
+| The King of Upper and Lower Egypt
+| (Autokrator Caesar)|
+| Son of Re
+| (Domitian Augustus)|
+| the good dairy worker.
+
+</div>
+
+### Neith {-}
+
+<div class="col2">
+
+| *ḏd-mdw ỉn N.t-wr.t  *
+| *mw.t-nṯr nb.t tȝ-sn.t  *
+| *nṯr.t-ʿȝ.t ḥn.t Mḥ-n.t  *
+| *mw.t n Rʿ  *
+| *šȝʿ.t ḫpr m ḥȝ.t  *
+| *sʿnḫ ṯȝw n zȝ=s  *
+|   *m ỉȝ.t-ṯȝ.wy  *
+|  
+| Words spoken by Neith the great,
+| Mother of God, Lady of Esna,
+| Great Goddess, Mistress of the Mh-n.t,
+| Mother of Re,
+| who began creation in the beginning,
+| who keeps alive the child(ren) of her son,
+|   in the Mound of the Chicks.
+  
+</div>
+
+### Shu {-}
+<div class="col2">
+
+| *ḏd-mdw ỉn šw  * [...]
+|  
+| Words spoken by Shu [...]
+
+</div>

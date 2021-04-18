@@ -1,4 +1,11 @@
-# Esna II, 166 {-}
+# Column C (166-172) {-}
+
+## Esna 166 {-}
+
+- Location: Column C, Bandeau
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=357){target="_blank"}
+- Bibliography: None
 
 <style>
   .col2 {
@@ -13,13 +20,6 @@
 </style>
 
 
-- Location: Facade, Column C, Bandeau
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=357){target="_blank"}
-- Bibliography: None
-
-
-
 <div class="col2">
 
 | *nsw.t-bỉty*
@@ -27,7 +27,7 @@
 | *ỉty nb nṯr.w rmṯ*
 | *nḫt wr-pḥty*
 | *smȝ bdš*
-| *ỉr ʿnḏ m ʿȝpp*
+| *ỉr ʿḏ(.t) m ʿȝpp*
 | *ẖnm-Rʿ nb sḫ.t* 
 |  
 | The King of Upper and Lower Egypt,
@@ -39,4 +39,3 @@
 | Khnum-Re, Lord of the Field.
 
 </div>
-

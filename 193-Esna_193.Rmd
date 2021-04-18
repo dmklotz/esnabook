@@ -1,10 +1,8 @@
-# Esna II, 193 {-}
-
-
+## Esna 193 {-}
 
 - Location: Column F, Base
 - Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=388){target="_blank"}
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=387){target="_blank"}
 - Bibliography: None
 
 

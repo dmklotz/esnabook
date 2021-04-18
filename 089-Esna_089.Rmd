@@ -1,4 +1,6 @@
-# Esna II, 89 {-}
+# Intercolumnar Wall C (89-91) {-}
+
+## Esna 89 {-}
 
 <style>
   .col2 {

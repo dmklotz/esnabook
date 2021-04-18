@@ -1,4 +1,4 @@
-# Esna II, 145 {-}
+## Esna 145 {-}
 
 <style>
   .col2 {
@@ -12,7 +12,6 @@
 
 </style>
 
-
 - Location: Facade, central door, corniche over left (north) pillar
 - Date: Unknown
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=329){target="_blank"}
@@ -21,6 +20,7 @@
 #### Title {-}
 <div class="col2">
 | ^1^ *ḥnk mḏ n mw.t=f*  
+| 
 | ^1^ Offering unguent to his mother.  
 
 </div>
@@ -29,6 +29,7 @@
 <div class="col2">
 | ^2^ [...]  
 | ^3^ *nb.t tȝ-sn.t*  
+| 
 | ^2^ [...]  
 | ^3^ Lady of Esna.
 </div>

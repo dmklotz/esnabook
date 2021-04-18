@@ -1,4 +1,4 @@
-# Esna II, 100 {-}
+## Esna 100 {-}
 
 <style>
   .col2 {
@@ -12,12 +12,10 @@
 
 </style>
 
-
 - Location: Facade, Central Door, right side
 - Date: Unknown, probably Vespasian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=266){target="_blank"}
 - Bibliography: None
-
 
 <div class="col2">
 
@@ -29,7 +27,7 @@
 | ([...] Augustus)|
 | beloved of great Neith,
 | Mother of God, 
-| Lady of Esna (![](images/100_1.png){width=15%})
+| Lady of Esna (![](images/100_1.png){width=12%})
 
 
 </div>

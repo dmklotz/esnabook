@@ -1,6 +1,8 @@
 # (PART) Interior Eastern Wall (103-193) {-}
 
-# Esna II, 103 {-}
+# Cryptographic Ram Text (103) {-}
+
+## Esna 103 {-}
 
 <style>
   .col2 {

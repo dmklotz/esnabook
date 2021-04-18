@@ -1,11 +1,10 @@
-# Esna II, 139 {-}
+# Intercolumnar Wall C (139-143) {-}
 
+## Esna 139 {-}
 
-
-- Location: Intercolumnar C
+- Location: Intercolumnar wall C
 - Date: Domitian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=322){target="_blank"}
-- Bibliography: None
-
-
+- Bibliography: None  
+  
 Cartouches of Domitian.

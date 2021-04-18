@@ -17,16 +17,21 @@ output:
 ---
 
 # Introduction {-}
+*David Klotz*  
 
-Publishing a book in Egyptology typically requires several years of intensive research, writing, and revisions. Once a volume is finally complete, most often the cost is prohibitive for most audiences besides specialized academic libraries.  
+## Motivation {-}
+
+Publishing a book in Egyptology typically requires several years of intensive research, writing, and revisions. Once a volume is finally complete, often the cost is prohibitive for most audiences besides specialized academic libraries.  
 
 This book in progress is an experiment in how one might more quickly use existing templates and online publishing tools to make an open-source book accessible to all readers both  *during* and *after* its creation, so scholars and the interested public can take advantage of any insights sooner. Corrections or updated references can be made quickly and easily.   
 
-The book is written in **Markdown** using the Bookdown package: <https://bookdown.org/yihui/bookdown/>.   
+The book is written in **markdown** using the Bookdown package: <https://bookdown.org/yihui/bookdown/>.   
 
 The only reason I chose this particular format because I frequently use R in my day job, and I believe the syntax is simple enough that most Egyptologists could pick up the skills necessary to edit and publish their own research.
 
-I have picked the temple of Esna to start with for several reasons. First of all, I spent several years at the University of Basel studying the peculiar Roman Period hieroglyphic spellings from this temple, as part of the interdisciplinary eikones project. Second, the inscriptions are notoriously difficult, and thus largely inaccessible to most non-specialists. The original editor, Serge Sauneron @sauneron-5, translated the most significant hymns and festival texts, but did not finish other works on the local theology before his untimely death. Significant portions have been translated in specialized monographs, notably in the last 20 years (e.g. @lieven-himmel; @recklinghausen-derchain; @pichel; @leitz-loeffler; @vadas-2020). More detailed references to individual passages can be found in the [index of temple texts](https://www.ifao.egnet.net/bietud/165/).
+## The Temple of Esna {-}
+
+I have picked the temple of Esna to start with for several reasons. First of all, I spent several years at the University of Basel studying the peculiar Roman Period hieroglyphic spellings from this temple, as part of the interdisciplinary eikones project. Second, the inscriptions are notoriously difficult, and thus largely inaccessible to most non-specialists. The original editor, Serge Sauneron @sauneron-5, translated the most important hymns and festival texts, but did not finish other works on the local theology before his untimely death. Significant portions have been translated in specialized monographs, notably in the last 20 years (e.g. @lieven-himmel; @recklinghausen-derchain; @pichel; @leitz-loeffler; @vadas-2020). More detailed references to individual passages can be found in the [index of temple texts](https://www.ifao.egnet.net/bietud/165/).
 
 Nonetheless there remain many individual offering scenes, bandeaus, and other interstitial texts of great interest.  The final impetus for this project came from the original publishers of the hieroglyphic text editions, the IFAO, which released all published volumes as [open-access PDFs](https://www.ifao.egnet.net/publications/catalogue/Temples-Esna/) in 2021. Please buy or download the PDFs as soon as possible.
 
@@ -37,4 +42,10 @@ n_total <- length(list.files(pattern = "Esna_"))
 ```
 As a first goal, I am working exclusively on the Roman Period inscriptions from *Esna* II (scenes 46-193). So far, **`r n_total`/148 (`r round(100.0*n_total/148.0, 1)`%)** of those scenes are complete and online. I'm clearly starting with the shortest ones first.
 
-I welcome any feedback for this project, whether regarding the format, corrections, alternative suggestions for translations, or notes to any important references I might have overlooked. You may contact me directly at <shemanefer@gmail.com>.
+## Contribute! {-}
+
+I welcome any feedback for this project, whether regarding the format, corrections, alternative suggestions for translations, or notes to any important references I might have overlooked. Or perhaps you would like to volunteer to translate certain texts!  You may contact me directly at <shemanefer@gmail.com>. I will of course fully acknowledge any suggestions, and add you to the list of contributors.
+
+## Contributors {-}
+
+Daniel Arpagaus

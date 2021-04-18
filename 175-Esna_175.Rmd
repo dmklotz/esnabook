@@ -1,0 +1,42 @@
+## Esna 175 {-}
+
+- Location: Column D, middle
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=365){target="_blank"}
+- Bibliography: None
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+<div class="col2">
+
+| *[ʿnḫ nṯr nfr]  *
+| *ỉwʿ n Rʿ  *
+| *pẖr-ns.t n nb ḥḥ  *
+| *nb srḫ   *
+| *ʿpr-ẖkr.w  *
+| *wṯz ḫʿ* 
+|    *mỉ zȝ Is.t  *
+| *nb-tȝ.wy  *
+| *(twmtyns nty-ḫwỉ)|  *
+|  
+| [Live the good god],
+| heir of Re,
+| successor of the Lord of Millions,
+| lord of the *serekh*,
+| fitted with regalia,
+| who wears the crown 
+|    like the son of Isis,
+| Lord of the Two Lands,
+| (Domitian Augustus)|
+
+</div>

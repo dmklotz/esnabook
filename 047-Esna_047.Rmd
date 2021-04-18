@@ -41,8 +41,9 @@ NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epith
 | chosen by Ptah,
 |   Great Nun, father of the gods.
 
-<div class="col2">
 </div>
+<div class="col2">
+
 
 | *ỉṯ.n=f ỉȝw.t n Rʿ  *
 |   *ns.t n Gbb  *
@@ -60,8 +61,8 @@ NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epith
 |   Upper and Lower Egypt delight in joy,
 | <like> Re who shines in the Akhet.
 
-<div class="col2">
 </div>
+<div class="col2">
 
 | *ỉty   *
 | *ḥqȝ zȝ ḥqȝ  *
@@ -79,8 +80,8 @@ NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epith
 | The living Apis loves him,
 | announcing for him numerous, excellent years.
 
-<div class="col2">
 </div>
+<div class="col2">
 
 | *smn=f hp.w nw tȝ r-ḏr=f  *
 |   *mỉ ḏḥwty ḥr ỉr(.t) mȝʿ.t  *
@@ -96,8 +97,8 @@ NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epith
 |   and the very great, first capital he prefers (= Rome),
 | who seizes the two lands and Rome.
 
-<div class="col2">
 </div>
+<div class="col2">
 
 | *nsw.t-bỉty   *
 | *nb-tȝ.wy  *
@@ -137,8 +138,8 @@ NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epith
 | chosen by Ptah,
 |   Great Nun, father of the gods.
 
-<div class="col2">
 </div>
+<div class="col2">
 
 | *ỉṯ.n=f ỉȝw.t n Rʿ  *
 |   *ns.t n Gbb  *
@@ -156,8 +157,8 @@ NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epith
 |   Upper and Lower Egypt [delight] in joy,
 | <like> Re who shines in the Akhet.
 
-<div class="col2">
 </div>
+<div class="col2">
 
 | *ỉty   *
 | *ḥqȝ zȝ ḥqȝ  *
@@ -175,8 +176,8 @@ NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epith
 | The living Apis loves him,
 | announcing for him years.
 
-<div class="col2">
 </div>
+<div class="col2">
 
 | *smn=f hp.w nw tȝ r-ḏr=f  *
 |   *mỉ ḏḥwty ḥr ỉr(.t) mȝʿ.t  *
@@ -192,8 +193,8 @@ NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epith
 |   and the very great, first capital he prefers (= Rome),
 | who seizes the two lands and Rome.
 
-<div class="col2">
 </div>
+<div class="col2">
 
 | *nsw.t-bỉty   *
 | *nb-tȝ.wy  *

@@ -1,4 +1,4 @@
-# Esna II, 112 {-}
+## Esna 112 {-}
 
 <style>
   .col2 {
@@ -19,15 +19,15 @@
 - Bibliography: None
 
 
-
 #### Formula {-}
 <div class="col2">
+
 | ^1^ *ỉȝw n=k* 
 | *pȝ bȝ ʿȝ-ỉrw  *
 | *wr-nrw štȝ-*^2^*ms.w  *
 | *nṯr wʿ ḫpr m ḥḥ(.w) *
 | *qmȝ nty nb ḫpr=f  *
-
+|  
 | ^1^ Greetings to you,
 | o Ba, great of form,
 | great of fear, remote ^2^ of appearance,
@@ -43,14 +43,13 @@
 | *(wytqrtr ksrs)|  *
 | ^4^ *zȝ-Rʿ  *
 | *(twm[t]yns ḫwỉ)|  *
-
+| 
 | ^3^ King of Upper and Lower Egypt,
 | Autokrator Caesar,
 | ^4^ Son of Re,
 | Domitian, Augustus
 
 </div>
-
 
 #### Nekhbet (vulture) {-}
 <div class="col2">
@@ -71,11 +70,9 @@
 #### Behind the king {-}
 <div class="col2">
 
-
 | ^9^ *nṯr nfr ỉr ḥk(nw)[...]*
 |
 | ^9^ The good god, who makes praises [...]
-
 </div>
 
 #### Ram-headed Crocodile {-}
@@ -92,8 +89,8 @@
 | *pr=sn m n.t  *
 | *kȝ=sn ḏsr   *
 |   *m ẖnmw-[Rʿ] nb tȝ-sn.t  *
-
-| ^10^ šsr-tȝ(?) [^fn-112-1] who came about in the first moment,
+|  
+| ^10^ *šsr-tȝ*(?) [^fn-112-1] who came about in the first moment,
 | who began Nun, who birthed the primeval one,
 |    while the earth was in Nun and inert,
 | light captured it (earth),
@@ -114,8 +111,7 @@
 | ^14^ Wadjet, the leftt eye of Atum.
 </div>
 
-
-#### Behind Wadjet
+#### Behind Wadjet {-}
 
 <div class="col2">
 
@@ -128,7 +124,7 @@
 | [...]
 </div>
 
-[^fn-112-1]: ![](images/112_1.png){width=10%}: The reading is not entirely certain, and it is unclear if this is an epithet or a divine name for the ram-headed crocodile. *LGG* VII, 128a, cites only this example, tentatively translating: "Der das Land erleuchtet."
+[^fn-112-1]: ![](images/112_1.png){width=20%}: The reading is not entirely certain, and it is unclear if this is an epithet or a divine name for the ram-headed crocodile. *LGG* VII, 128a, cites only this example, tentatively translating: "Der das Land erleuchtet."
 
-[^fn-112-2]: The element for "Re" is damaged, but Sauneron suggested it might be: ![](images/112_2.png){width=5%}. Thus a graphic allusion to Re emerging from the flood, as described in the present text. 
+[^fn-112-2]: The element for "Re" is damaged, but Sauneron suggested it might be: ![](images/112_2.png){width=12%}. Thus a graphic allusion to Re emerging from the flood, as described in the present text. 
 

@@ -1,4 +1,4 @@
-# Esna II, 189 {-}
+## Esna 189 {-}
 
 
 
@@ -19,7 +19,7 @@
 
 </style>
 
-## 189 A {-}
+### 189 A {-}
 <div class="col2">
 
 | *ʿnḫ nṯr nfr  *
@@ -43,7 +43,7 @@
 </div>
 
 
-## 189 B {-}
+### 189 B {-}
 <div class="col2">
 
 | *ʿnḫ nṯr nfr  *
@@ -56,7 +56,7 @@
 | *(ȝwtwgrtr ksrs)|  *
 | *mrỉ ẖnmw-Rʿ nb sḫ.t  *
 | 
-| Live the good gos,
+| Live the good god,
 | son of Khnum,
 | greatest of the great,
 | who smites the foreign lands,

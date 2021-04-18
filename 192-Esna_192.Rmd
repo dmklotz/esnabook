@@ -1,5 +1,4 @@
-# Esna II, 192 {-}
-
+## Esna 192 {-}
 
 
 - Location: Column F, Base
@@ -19,7 +18,7 @@
 
 </style>
 
-## 192 A {-}
+## Esna 192 A {-}
 <div class="col2">
 
 | *ʿnḫ nṯr nfr  *
@@ -39,7 +38,7 @@
 | ([Domitian Caesar])|
 </div>
 
-## 192 B {-}
+## Esna 192 B {-}
 <div class="col2">
 
 | *nsw.t-bỉty  *
@@ -47,7 +46,7 @@
 | *qmȝ m ḥȝ.t  *
 | *ḫy wr nfr-ḥr  *
 | *ṯḥn ỉtn wr   *
-|   *n mAA(?)=f  *
+|   *n mȝȝ(?)=f  *
 | *ḫy[...]  *
 | *wbn m Nwn  *
 | *zȝ ḥqȝ(.t) wsr.t  *
@@ -66,4 +65,4 @@
 
 </div>
 
-[^fn-192-1]: ![](images/192_1.png){width=13%}: It would hardly make sense that the sundisk is afraid of the youthful king. The present suggestion is only tentative.
+[^fn-192-1]: ![](images/192_1.png){width=20%}: It would hardly make sense that the sundisk is afraid of the youthful king. The present suggestion is only tentative.

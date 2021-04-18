@@ -107,8 +107,8 @@
 
 [^fn-48_5]: Reference to the quadrifrontic ram of Mendes, composed of Re, Shu, Geb, and Osiris. They are explicitly labelled elsewhere in [Esna II, 17], 46-49; [Esna III, 250], 16-17; [Esna III, 232], 6; separate depictions of them in [Esna II 140]. Cf. @pichel, pp. 76-79. The Mendesian ram frequently receives these same virile epithets, as well as Khnum at Esna.
 
-[^fn-48_6]: For Khnum "foremost of Neb-ankh", see also [Esna II, 52], 26.
+[^fn-48_6]: For Khnum "foremost of Neb-ankh", see also [Esna II, 52], 26; *Esna* VII, 577, 5 (epithet of Khnum Lord of the Field).
 
-[^fn-48_3]: Not listed in dictionaries (![](images/48_1.png){width=20%}), @sauneron-61, p. 233, compared this to Coptic ⲉⲓⲉⲗⲉⲗ, "to shine" (Crum, *CD* 77 ). However, this seems to be the same hieroglyphic word *rr* which occurs in divine epithets such as *rr m nbw*, "overlaid with gold". It might be related to Demotic *lʿlʿ*, Coptic ⲗⲁⲗⲉ: @klotz-philae, pp. 91-93, n. m.
+[^fn-48_3]: Not listed in dictionaries (![](images/48_1.png){width=10%}), @sauneron-61, p. 233, compared this to Coptic ⲉⲓⲉⲗⲉⲗ, "to shine" (Crum, *CD* 77 ). However, this seems to be the same hieroglyphic word *rr* which occurs in divine epithets such as *rr m nbw*, "overlaid with gold". It might be related to Demotic *lʿlʿ*, Coptic ⲗⲁⲗⲉ: @klotz-philae, pp. 91-93, n. m.
 
 [^fn-48_4]: Yet another reference to constructing a firmament (*hȝy.t*), this section appears to refer again to Tatenen, one aspect of Khnum-Re. The god Amun-Re is frequently praised for establishing all regions of the cosmos (cf. *Deir Chelouit* III, 125, 8-9).

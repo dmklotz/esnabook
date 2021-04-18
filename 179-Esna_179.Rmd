@@ -1,8 +1,6 @@
-# Esna II, 179 {-}
+## Esna 179 {-}
 
-
-
-- Location: Intercolumnar D
+- Location: Column D
 - Date: Domitian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=367){target="_blank"}
 - Bibliography: None
