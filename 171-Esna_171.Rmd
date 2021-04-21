@@ -1,49 +1,49 @@
-## Esna 171 {-}
-
-
-- Location: Column C, Base
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=361){target="_blank"}
-- Bibliography: None
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-## 171 A {-}
-<div class="col2">
-
-| *ʿnḫ nṯr nfr  *
-| *mḥ nỉw.t tn   *
-|   *n mw.t=f N.t  *
-|
-| Live the good god,  
-| who fills this city
-|   for his mother, Neith.
-
-</div>
-
-## 171 B {-}
-<div class="col2">
-
-| *ʿnḫ nṯr nfr  *
-| *smȝwỉ wȝsy  *
-| *mḥ gm-wš  *
-| *nb snṯ  *
-| *(twmtyns ḫwỉ)|  *
-|
-| Live the good god,
-| who renews what is ruined,
-| who fills what is found missing,
-| lord of the foundation,
-| (Domitian Augustus)|
-
-</div>
+## Esna 171 {-}  
+  
+  
+- Location: Column C, Base  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=361){target="_blank"}  
+- Bibliography: None  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+## 171 A {-}  
+<div class="col2">  
+  
+*ʿnḫ nṯr nfr  *  
+*mḥ nỉw.t tn   *  
+  *n mw.t=f N.t  *  
+  
+Live the good god,    
+who fills this city  
+  for his mother, Neith.  
+  
+</div>  
+  
+## 171 B {-}  
+<div class="col2">  
+  
+*ʿnḫ nṯr nfr  *  
+*smȝwỉ wȝsy  *  
+*mḥ gm-wš  *  
+*nb snṯ  *  
+*(twmtyns ḫwỉ) *  
+  
+Live the good god,  
+who renews what is ruined,  
+who fills what is found missing,  
+lord of the foundation,  
+(Domitian Augustus)  
+  
+</div>  

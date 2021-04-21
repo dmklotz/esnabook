@@ -5,7 +5,7 @@ date: "`r Sys.Date()` (latest update)"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-biblio-style: apalike
+biblio-style: chicago
 html_document:
     number_sections: false
 link-citations: yes
@@ -44,8 +44,10 @@ As a first goal, I am working exclusively on the Roman Period inscriptions from 
 
 ## Contribute! {-}
 
-I welcome any feedback for this project, whether regarding the format, corrections, alternative suggestions for translations, or notes to any important references I might have overlooked. Or perhaps you would like to volunteer to translate certain texts!  You may contact me directly at <shemanefer@gmail.com>. I will of course fully acknowledge any suggestions, and add you to the list of contributors.
+I welcome any feedback for this project, whether regarding the format, corrections, alternative suggestions for translations, or notes to any important references I might have overlooked. Or perhaps you would like to volunteer to translate certain texts!  You may contact me directly at <shemanefer@gmail.com>. I will of course fully acknowledge any suggestions, and add you to the list of contributors.  
+
+I would also appreciate help with relevant bibliography, especially newer monographs. I already have most basic references in digital or paper form, but if you noticing any major ommissions, please let me know. 
 
 ## Contributors {-}
 
-Daniel Arpagaus
+Daniel Arpagaus; Maged Mahgoub

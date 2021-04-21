@@ -1,7 +1,7 @@
 library(dplyr)
 library(stringr)
 library(textclean)
-
+library(translit)
 
 # replaceTranslit = function() {
 #   
@@ -29,7 +29,7 @@ fix_translit <- function(x) {
 
 }
 
-tmp_theme <- function() bookdown::bs4_book(theme = bookdown::bs4_book_theme(font_scale = .5, 
+tmp_theme <- function() bookdown::bs4_book(css = "style.css", theme = bookdown::bs4_book_theme(font_scale = .5, 
                                                                             primary = "#9B110E"))
 translate <- function(x){
  

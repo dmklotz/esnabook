@@ -12,3 +12,8 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.csl-entry {
+margin-top:8px;
+text-indent:-12px;
+}

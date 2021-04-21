@@ -1,58 +1,58 @@
-## Esna 182 {-}
-
-- Location: Column E, Top
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=371){target="_blank"}
-- Bibliography: None
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-#### 182 A {-}
-
-<div class="col2">
-
-| *psḏ [...]  *
-|   *dgȝ ỉr.t nb ỉm=f  *
-| *wbn ḥtp r nw=f  *
-| *ẖnmw-Rʿ nb tȝ-sn.t  *
-| *šw wr ḏf(ḏ) n Rʿ  *
-|
-| The one who shines [...]
-|   all eyes see because of him,
-| who rises and sets at his time,
-| Khnum-Re Lord of Esna,
-| Great Shu, iris of Re
-
-</div>
-
-#### 182 B {-}
-
-<div class="col2">
-
-| *[...] štȝ [...]  *
-| *[...]  *
-|   *nỉ rḫ sštȝ=f  *
-| *ỉt nṯr.w  *
-| *nṯr ʿȝ n ḏr-ʿ  *
-| *ẖnmw-Rʿ nb sḫ.t  *
-| *nṯr ʿȝ ḥr-ỉb tȝ-sn.t  *
-| 
-| [...] remote [...]
-| [...]
-|   whose secret form is unknown,
-| father of the gods,
-| great god since the beginning,
-| Khnum-Re Lord of the Field,
-| great god within Esna.
-
+## Esna 182 {-}  
+  
+- Location: Column E, Top  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=371){target="_blank"}  
+- Bibliography: None  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+#### 182 A {-}  
+  
+<div class="col2">  
+  
+*psḏ [...]  *  
+  *dgȝ ỉr.t nb ỉm=f  *  
+*wbn ḥtp r nw=f  *  
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+*šw wr ḏf(ḏ) n Rʿ  *  
+  
+The one who shines [...]  
+  all eyes see because of him,  
+who rises and sets at his time,  
+Khnum-Re Lord of Esna,  
+Great Shu, iris of Re  
+  
+</div>  
+  
+#### 182 B {-}  
+  
+<div class="col2">  
+  
+*[...] štȝ [...]  *  
+*[...]  *  
+  *nỉ rḫ sštȝ=f  *  
+*ỉt nṯr.w  *  
+*nṯr ʿȝ n ḏr-ʿ  *  
+*ẖnmw-Rʿ nb sḫ.t  *  
+*nṯr ʿȝ ḥr-ỉb tȝ-sn.t  *  
+  
+[...] remote [...]  
+[...]  
+  whose secret form is unknown,  
+father of the gods,  
+great god since the beginning,  
+Khnum-Re Lord of the Field,  
+great god within Esna.  
+  
 </div>

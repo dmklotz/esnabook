@@ -1,72 +1,74 @@
-# Column F (187-193) {-}
-
-## Esna 187 {-}
-
-- Location: Column F, Middle Bandeau
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=379){target="_blank"}
-- Bibliography: None
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-### Esna 187 A {-}
-
-<div class="col2">
-
-| *nsw.t-bỉty  *
-| *Nwn-wr [...]  *
-| *ʿšȝ-ms.w  *
-| *mȝỉ-ḥzȝ   *
-|   *ḫnt tȝ-šmʿ tȝ-mḥw  *
-| *nṯr.w spȝ.wt snḏ(.w)  *
-|   *n snḏ=f  *
-| *ẖnmw-Ptḥ ỉr wnn.t  *
-|  
-| King of Upper and Lower Egypt,
-| Great Nun [...]
-| great of children,
-| Fierce lion
-|   within Upper and Lower Egypt,
-| the gods of the nomes are in fear
-|   for fear of him:
-| Khnum-Ptah, who made what exists.
-
-</div>
-
-### Esna 187 B {-}
-
-<div class="col2">
-
-| *nsw.t-bỉty  *
-| *qȝ-šw.ty nb wrr.t  *
-| *ḫpr ḏs=f  *
-|   *ỉwty ỉd.t ms.t=f  *
-| *ḫpr=f m rw(?)  *
-|   *r smȝ ḫfty=f  *
-| *ẖnmw-Rʿ  *
-| *pȝ mȝỉ nhs  *
-|  
-| King of Upper and Lower Egypt,
-| high of double plumes,
-| lord of the double crown,
-| who came into existence himself,
-|   no womb gave birth to him.
-| He transformed into a lion(?) [^fn-187-1],
-|   to slaughter his enemy:
-| Khnum-Re, the guardian lion [^fn-187-2].
-
-</div>
-
-[^fn-187-1]: ![](images/187_1.png){width=15%} - The cat sign write lion (*mȝỉ*) in [Esna 187 B], but the tusk hieroglyph is confusing. Perhaps it is a mistake for the sickle (*mȝ*), or another example of the tusk for the unliteral *r* (@kurth-1, p. 234, n. 123).
-
+# Column F (187-193) {-}  
+  
+## Esna 187 {-}  
+  
+- Location: Column F, Middle Bandeau  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=379){target="_blank"}  
+- Bibliography: None  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+### Esna 187 A {-}  
+  
+<div class="col2">  
+  
+*nsw.t-bỉty  *  
+*Nwn-wr [...]  *  
+*ʿšȝ-ms.w  *  
+*mȝỉ-ḥzȝ   *  
+  *ḫnt tȝ-šmʿ tȝ-mḥw  *  
+*nṯr.w spȝ.wt snḏ(.w)  *  
+  *n snḏ=f  *  
+*ẖnmw-Ptḥ ỉr wnn.t  *  
+   
+King of Upper and Lower Egypt,  
+Great Nun [...]  
+great of children,  
+Fierce lion  
+  within Upper and Lower Egypt,  
+the gods of the nomes are in fear  
+  for fear of him:  
+Khnum-Ptah, who made what exists.  
+  
+</div>  
+  
+### Esna 187 B {-}  
+  
+<div class="col2">  
+  
+*nsw.t-bỉty  *  
+*qȝ-šw.ty *  
+*nb wrr.t  *  
+*ḫpr ḏs=f  *  
+  *ỉwty ỉd.t ms.t=f  *  
+*ḫpr=f m rw(?)  *  
+  *r smȝ ḫfty=f  *  
+*ẖnmw-Rʿ  *  
+*pȝ mȝỉ nhs  *  
+   
+King of Upper and Lower Egypt,  
+high of double plumes,  
+lord of the double crown,  
+who came into existence himself,  
+  no womb gave birth to him.  
+He transformed into a lion(?) [^fn-187-1],  
+  to slaughter his enemy:  
+Khnum-Re,   
+the guardian lion [^fn-187-2].  
+  
+</div>  
+  
+[^fn-187-1]: ![](images/187_1.png){width=15%} - The cat sign writes lion (*mȝỉ*) in [Esna 187 A], but the tusk hieroglyph here is confusing. Perhaps it is a mistake for the sickle (*mȝ*), or another example of the tusk for the unliteral *r* (@kurth-1, p. 234, n. 123).  
+  
 [^fn-187-2]: Written here as if "wakeful lion", this seems to be a reinterpretation of the term *mnhs*, "guardian" (*Wb* II, 83, 2); cf. also *Esna* III, 355, 4 (30); 368, 31. <!--# check LGG and PL 432 for this, both mnhs and mAi-nhz -->
