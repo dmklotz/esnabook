@@ -1,41 +1,41 @@
-# Column C (166-172) {-}
-
-## Esna 166 {-}
-
-- Location: Column C, Bandeau
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=357){target="_blank"}
-- Bibliography: None
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-
-<div class="col2">
-
-| *nsw.t-bỉty*
-| *nṯr nṯry ḥqȝ pȝwty.w*
-| *ỉty nb nṯr.w rmṯ*
-| *nḫt wr-pḥty*
-| *smȝ bdš*
-| *ỉr ʿḏ(.t) m ʿȝpp*
-| *ẖnm-Rʿ nb sḫ.t* 
-|  
-| The King of Upper and Lower Egypt,
-| the divine god, ruler of the primeval gods,
-| sovereign, lord of gods and men,
-| mighty, greath of strength,
-| who slaughters the rebel,
-| and makes a massacre of Apophis:
-| Khnum-Re, Lord of the Field.
-
-</div>
+# Column C (166-172) {-}  
+  
+## Esna 166 {-}  
+  
+- Location: Column C, Bandeau  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=357){target="_blank"}  
+- Bibliography: None  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+  
+<div class="col2">  
+  
+*nsw.t-bỉty*  
+*nṯr nṯry ḥqȝ pȝwty.w*  
+*ỉty nb nṯr.w rmṯ*  
+*nḫt wr-pḥty*  
+*smȝ bdš*  
+*ỉr ʿḏ(.t) m ʿȝpp*  
+*ẖnm-Rʿ nb sḫ.t*   
+   
+The King of Upper and Lower Egypt,  
+the divine god, ruler of the primeval gods,  
+sovereign, lord of gods and men,  
+mighty, greath of strength,  
+who slaughters the rebel,  
+and makes a massacre of Apophis:  
+Khnum-Re, Lord of the Field.  
+  
+</div>  

@@ -1,56 +1,56 @@
-## Esna 151 {-}
-
-<style>
-
-  .col2 {
-    columns: 2 320px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 320px; /* chrome, safari */
-    -moz-columns: 2 320px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-- Location: Central Door, right (south) side
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=335){target="_blank"}
-- Bibliography: None
-
-
-<div class="col2">
-
-| *wnn sḫt-šzp=f  *
-|   *(ḥr) wbn m ȝḫ.t  *
-|   *st.wt=f (ḥr) pẖr tȝ.wy  *
-|   
-| *wnn nṯr.w p.t [...]  *
-| *[...] ỉm=s m ỉhy rʿ-nb  *
-|   
-| *wnn ḥw.t-ẖnmw* 
-    *nt ẖnmw Mnḥy.t Nb.t-ww  *
-| *(ḥr) pr m wpy  *
-|   
-| *[w]nn zȝ-Rʿ  *
-| *(tmtyns ḫwỉ)|   *
-| *[...] ḏ.t  *
-|  
-| While He who Weaves his Light [^fn-151-1]
-|   is rising in the Akhet,
-|   his rays encircling the two lands;
-|   
-| while the gods of the sky [...]
-| [...] therein, are in jubliation, every day;
-| 
-| while the Temple of Khnum,
-|    of Khnum, Menhyet, and Nebtuu,
-|     is coming forth in festival;
-|     
-| the son of Re,
-| (Domitian Augustus)|
-| [is ....] eternally.
-
-</div>
-
+## Esna 151 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: Central Door, right (south) side  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=335){target="_blank"}  
+- Bibliography: None  
+  
+  
+<div class="col2">  
+  
+*wnn sḫt-šzp=f  *  
+  *(ḥr) wbn m ȝḫ.t  *  
+  *st.wt=f (ḥr) pẖr tȝ.wy  *  
+    
+*wnn nṯr.w p.t [...]  *  
+*[...] ỉm=s m ỉhy rʿ-nb  *  
+    
+*wnn ḥw.t-ẖnmw*   
+    *nt ẖnmw Mnḥy.t Nb.t-ww  *  
+*(ḥr) pr m wpy  *  
+    
+*[w]nn zȝ-Rʿ  *  
+*(tmtyns ḫwỉ)  *  
+*[...] ḏ.t  *  
+   
+While He who Weaves his Light [^fn-151-1]  
+  is rising in the Akhet,  
+  his rays encircling the two lands;  
+    
+while the gods of the sky [...]  
+[...] therein, are in jubliation, every day;  
+  
+while the Temple of Khnum,  
+   of Khnum, Menhyet, and Nebtuu,  
+    is coming forth in festival;  
+      
+the son of Re,  
+(Domitian Augustus)  
+[is ....] eternally.  
+  
+</div>  
+  
 [^fn-151-1]: For this frequent solar epithet of Khnum in Esna, see recently @pichel, pp. 80, n. b, 83.

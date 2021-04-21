@@ -1,46 +1,46 @@
-## Esna 137 {-}
-
-- Location: Intercolumnar Wall B, lower bandeau (below [Esna 136]) 
-- Date: Uncertain
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=321){target="_blank"}
-- Bibliography: None
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-
-<div class="col2">
-
-| *[...n]fr ḥr ỉfdw=f  *
-|     *ỉn sšȝ.t pḏ-sšr  *
-| *nbỉ n ẖnmw m ʿ.wy=f ḏs=f  *
-| *rsy-ỉnb=f ḥr swȝḥ=f  *
-| *ḫwsỉ ỉn šw  *
-| *ḫtỉ(?) m sš.w   *
-|   *n ḏḥwty m ḏbʿ.w=f  *
-| *nḫb ḥr <rn?>=f  *
-| 
-| [...g]ood [...] upon its four corners,
-|     by Seshat who stretched the cord,[^fn-137-1]
-| fashioned by Khnum with his own hands,
-| Resy-inebef (Ptah) makes it stable,
-| being founded by Shu,
-| inscribed(?) with the writings
-|   of Thoth with his fingers,
-| written in his <name?>.[^fn-137-2]
-
-</div>
-
-[^fn-137-1]: This is the scene represented immediately above: [Esna 136].
-
-[^fn-137-2]: The conclusion of this text is uncertain: ![](images/137_1.png){width=35%} 
-
+## Esna 137 {-}  
+  
+- Location: Intercolumnar Wall B, lower bandeau (below [Esna 136])   
+- Date: Uncertain  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=321){target="_blank"}  
+- Bibliography: None  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+  
+<div class="col2">  
+  
+*[...n]fr ḥr ỉfdw=f  *  
+    *ỉn sšȝ.t pḏ-sšr  *  
+*nbỉ n ẖnmw m ʿ.wy=f ḏs=f  *  
+*rsy-ỉnb=f ḥr swȝḥ=f  *  
+*ḫwsỉ ỉn šw  *  
+*ḫtỉ(?) m sš.w   *  
+  *n ḏḥwty m ḏbʿ.w=f  *  
+*nḫb ḥr <rn?>=f  *  
+  
+[...g]ood [...] upon its four corners,  
+    by Seshat who stretched the cord,[^fn-137-1]  
+fashioned by Khnum with his own hands,  
+Resy-inebef (Ptah) makes it stable,  
+being founded by Shu,  
+inscribed(?) with the writings  
+  of Thoth with his fingers,  
+written in his <name?>.[^fn-137-2]  
+  
+</div>  
+  
+[^fn-137-1]: This is the scene represented immediately above: [Esna 136].  
+  
+[^fn-137-2]: The conclusion of this text is uncertain: ![](images/137_1.png){width=35%}   
+  

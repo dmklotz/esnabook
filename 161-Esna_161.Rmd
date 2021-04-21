@@ -1,59 +1,59 @@
-## Esna 161 {-}
-
-- Location: Column B, middle bandeau
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=349){target="_blank"}
-- Bibliography: None  
+## Esna 161 {-}  
   
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-### Esna 161 A {-}
-<div class="col2">
-
-| *nṯr nṯry   *
-| *nṯr.tw s.t=f  *
-| *ʿḥ=f qȝ.tw ỉmỉtw sḫ.t=f  *
-| *pr=f šps.tw   *
-|   *m ỉr(.w) r-nfr  *
-| *ẖnmw-Rʿ nb sḫ.t nsw-nṯr.w  *
-|
-| The divine god,
-| whose place is made sacred,
-| his palace is elevated within his field,
-| his domain is made august
-|   with that which is done well:
-| Khnum-Re Lord of the Field,
-| king of the gods.
-
-</div>
-
-### Esna 161 B {-}
-<div class="col2">
-
-| *bȝ ʿnḫ ḫnty bȝ.w  *
-| *kȝ ỉr kȝ.w  *
-| *sḫpr wnn.t  *
-| *ỉr ʿnḫ   *
-|   *n ks n bȝw=f  *
-| *ẖnmw-Rʿ nb tȝ-sn.t  *
-| *ỉt-nṯr.w  *
-|
-| The living Ba, foremost of Bas,
-| Ka who made the Kas,
-| who created what exists,
-| who makes life
-|   for those bowing to his power:
-| Khnum-Re Lord of Esna,
-| father of the gods.
-
+- Location: Column B, middle bandeau  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=349){target="_blank"}  
+- Bibliography: None    
+    
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+### Esna 161 A {-}  
+<div class="col2">  
+  
+*nṯr nṯry   *  
+*nṯr.tw s.t=f  *  
+*ʿḥ=f qȝ.tw ỉmỉtw sḫ.t=f  *  
+*pr=f šps.tw   *  
+  *m ỉr(.w) r-nfr  *  
+*ẖnmw-Rʿ nb sḫ.t nsw-nṯr.w  *  
+  
+The divine god,  
+whose place is made sacred,  
+his palace is elevated within his field,  
+his domain is made august  
+  with that which is done well:  
+Khnum-Re Lord of the Field,  
+king of the gods.  
+  
+</div>  
+  
+### Esna 161 B {-}  
+<div class="col2">  
+  
+*bȝ ʿnḫ ḫnty bȝ.w  *  
+*kȝ ỉr kȝ.w  *  
+*sḫpr wnn.t  *  
+*ỉr ʿnḫ   *  
+  *n ks n bȝw=f  *  
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+*ỉt-nṯr.w  *  
+  
+The living Ba, foremost of Bas,  
+Ka who made the Kas,  
+who created what exists,  
+who makes life  
+  for those bowing to his power:  
+Khnum-Re Lord of Esna,  
+father of the gods.  
+  
 </div>

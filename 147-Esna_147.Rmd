@@ -1,67 +1,67 @@
-## Esna 147 {-}
-
-- Location: Central Door, Left 
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=331){target="_blank"}
-- Bibliography: None.
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-NB: As Sauneron noted in the original edition, very similar parallels exist in *KO* 325; 423, 1-2; *Philä* I, 279. These variants help to confirm certain readings.
-
-
-
-<div class="col2">
-
-| *wnn gb.t smn.tw ḥr sḫn.w=s  *
-| *wnn tȝ mn(.w) ḥr ndb.wt=f  *
-| *wnn ẖnmw-Rʿ (ḥr) wbn m skt.t  *
-|   *mȝwy=f (ḥr) sḥḏ tȝ.wy  *
-| *wnn ỉʿḥ ḥr psḏ m wḫȝ  *
-| *wnn sȝḥ m bȝ n Wsỉr  *
-|   *spd.t m ḥqȝ ḫȝbs.w  *
-|   *ḥw.t-nṯr ẖr ʿḫm.w=sn  *
-| *wnn ḥʿpỉ (ḥr) ỉỉ r nw=f  *
-|   *[ȝḫ].t (ḥr) [s]qʿ rḏ.w=s  *
-|   *ỉrw n Is.t mn(.w) n Wsỉr  *
-|   *mn.ty mn(.w) ḥr s.t=sn  *
-|   
-| *wnn ḥw.t-N.t mn.tw r-nḥḥ  *
-|   *zȝ-Rʿ (tmtyns nty-ḫwỉ)|  *
-|   *nsw.t-bỉty  *
-|     *ḥr ns.t=f ḏ.t  *
-|
-| As the sky is estbalished upon its supports;
-| as the earth is stable upon its foundations;
-| as Khnum-Re shines in the day bark,
-|   his rays illumiing the two lands;
-| as the moon shines in the night;
-| as Orion is the Ba of Osiris[^fn-147-1],
-|   Sothis as Ruler of the Decan stars,
-|   the temple bearing their statues;
-| as the Inundation arrives at his time,
-|   [the lan]d [s]pits out its plants,
-|   that which Isis did remains for Osiris,
-|   the mountains remaining in their places;
-|   
-| Then the temple of Neith remains[^fn-147-2] forever,
-|   the son of Re, (Domitian Augustus)|,
-|   King of Upper and Lower Egypt,
-|     is upon his throne, eternally.
-
-
-</div>
-
-[^fn-147-1]: ![](images/147_1.png){width=20%} - Acrophonic spelling. Cf. @sauneron-bifao62, pp. 16-17. <!--add parallels from Esna VIII, ref. to Sauneron for the griffin; other parallels from my files and/or Leitz, RdE -->
-
+## Esna 147 {-}  
+  
+- Location: Central Door, Left   
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=331){target="_blank"}  
+- Bibliography: None.  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+NB: As Sauneron noted in the original edition, very similar parallels exist in *KO* 325; 423, 1-2; *Philä* I, 279. These variants help to confirm certain readings.  
+  
+  
+  
+<div class="col2">  
+  
+*wnn gb.t smn.tw ḥr sḫn.w=s  *  
+*wnn tȝ mn(.w) ḥr ndb.wt=f  *  
+*wnn ẖnmw-Rʿ (ḥr) wbn m skt.t  *  
+  *mȝwy=f (ḥr) sḥḏ tȝ.wy  *  
+*wnn ỉʿḥ ḥr psḏ m wḫȝ  *  
+*wnn sȝḥ m bȝ n Wsỉr  *  
+  *spd.t m ḥqȝ ḫȝbs.w  *  
+  *ḥw.t-nṯr ẖr ʿḫm.w=sn  *  
+*wnn ḥʿpỉ (ḥr) ỉỉ r nw=f  *  
+  *[ȝḫ].t (ḥr) [s]qʿ rḏ.w=s  *  
+  *ỉrw n Is.t mn(.w) n Wsỉr  *  
+  *mn.ty mn(.w) ḥr s.t=sn  *  
+    
+*wnn ḥw.t-N.t mn.tw r-nḥḥ  *  
+  *zȝ-Rʿ (tmtyns nty-ḫwỉ) *  
+  *nsw.t-bỉty  *  
+    *ḥr ns.t=f ḏ.t  *  
+  
+As the sky is estbalished upon its supports;  
+as the earth is stable upon its foundations;  
+as Khnum-Re shines in the day bark,  
+  his rays illumiing the two lands;  
+as the moon shines in the night;  
+as Orion is the Ba of Osiris[^fn-147-1],  
+  Sothis as Ruler of the Decan stars,  
+  the temple bearing their statues;  
+as the Inundation arrives at his time,  
+  [the lan]d [s]pits out its plants,  
+  that which Isis did remains for Osiris,  
+  the mountains remaining in their places;  
+    
+Then the temple of Neith remains[^fn-147-2] forever,  
+  the son of Re, (Domitian Augustus),  
+  King of Upper and Lower Egypt,  
+    is upon his throne, eternally.  
+  
+  
+</div>  
+  
+[^fn-147-1]: ![](images/147_1.png){width=20%} - Acrophonic spelling. Cf. @sauneron-bifao62, pp. 16-17. <!--add parallels from Esna VIII, ref. to Sauneron for the griffin; other parallels from my files and/or Leitz, RdE -->  
+  
 [^fn-147-2]: ![](images/147_2.png){width=8%} - Note how Montu (*Mnṯw*) writes both the verb and its stative ending (*mn.tw*)

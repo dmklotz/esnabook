@@ -1,55 +1,55 @@
-## Esna 142 {-}
-
-- Location: Intercolumnar Wall C, Lower Bandeau 
-- Date: Probably Hadrian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=326){target="_blank"}
-- Bibliography: None.
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-<div class="col2">
-
-| *m nsw.t-bỉtỉ (  )|  *
-| *[wn]n nṯr nṯr.t [...]  *
-|   *n kȝ=f m nḏm-ỉb  *
-| *m ḏ(d).n Rʿ ḏs=f  *
-|   
-| *ẖnmw-Rʿ nb tȝ-sn.t  *
-| *ʿq=k r=f  *
-| *wbn=k m-ḫnt=f  *
-|   *r wḏ-mdw n tpy.w-tȝ=s  *
-|   
-| *mn=f ẖr bȝ=k  *
-| *wȝḥ=f [ẖr sštȝ=k?]  *
-| *[...] ḏ.t  *
-|
-| as [^fn-142-1] the King of Upper and Lower Egypt ( )|[^fn-142-2]
-| Gods and goddesses [do ...]
-|   for his Ka in happiness,
-| because of what Re himself said.[^fn-142-3]
-| 
-| Khnum-Re, Lord of Esna:
-| May you enter it,
-| and shine within it,
-|   to issue commands to its citizens.
-|   
-| As it remains bearing your Ba,
-| it endures [bearing your secret image?] [^fn-142-4]
-| [...] eternally.
-
-</div>
-
-[^fn-142-1]: This inscription begins with a prepositional phrase, and apparently continues one of the texts from the related scene [Esna 141].
-[^fn-142-2]: Empty cartouche, but does not make sense to translate as "name" or "titulary".
-[^fn-142-3]: Allusion to the standard "Decree of Re" granting the king, and Horus, legitimate rule over Egypt. Cf. @derchain-1995, pp. 93-97.
+## Esna 142 {-}  
+  
+- Location: Intercolumnar Wall C, Lower Bandeau   
+- Date: Probably Hadrian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=326){target="_blank"}  
+- Bibliography: None.  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+<div class="col2">  
+  
+*m nsw.t-bỉtỉ (  ) *  
+*[wn]n nṯr nṯr.t [...]  *  
+  *n kȝ=f m nḏm-ỉb  *  
+*m ḏ(d).n Rʿ ḏs=f  *  
+    
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+*ʿq=k r=f  *  
+*wbn=k m-ḫnt=f  *  
+  *r wḏ-mdw n tpy.w-tȝ=s  *  
+    
+*mn=f ẖr bȝ=k  *  
+*wȝḥ=f [ẖr sštȝ=k?]  *  
+*[...] ḏ.t  *  
+  
+as [^fn-142-1] the King of Upper and Lower Egypt ( )[^fn-142-2]  
+Gods and goddesses [do ...]  
+  for his Ka in happiness,  
+because of what Re himself said.[^fn-142-3]  
+  
+Khnum-Re, Lord of Esna:  
+May you enter it,  
+and shine within it,  
+  to issue commands to its citizens.  
+    
+As it remains bearing your Ba,  
+it endures [bearing your secret image?] [^fn-142-4]  
+[...] eternally.  
+  
+</div>  
+  
+[^fn-142-1]: This inscription begins with a prepositional phrase, and apparently continues one of the texts from the related scene [Esna 141].  
+[^fn-142-2]: Empty cartouche, but does not make sense to translate as "name" or "titulary".  
+[^fn-142-3]: Allusion to the standard "Decree of Re" granting the king, and Horus, legitimate rule over Egypt. Cf. @derchain-1995, pp. 93-97.  
 [^fn-142-4]: Restoration suggested by similar phrases at Esna.

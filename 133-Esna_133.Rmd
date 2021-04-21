@@ -1,37 +1,37 @@
-## Esna 133 {-}
-
-
-
-- Location: North-east door, ceiling
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=316){target="_blank"}
-- Bibliography: None
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-#### Text between two vultures wearing red crowns {-}
-
-<div class="col2">
-
-| *Wȝdy.t nb.t P Dp  *
-| *dỉ=s nsyw.t ʿȝ.t   *
-|   *n zȝ Rʿ  *
-|   *(tmtyns nty-ḫwỉ)|  *
-|
-| Wadjet, lady of Pe and Dep,
-| she gives a great kingship 
-|    to the son of Re,
-|    (Domitian, Augustus)|
+## Esna 133 {-}  
   
   
+  
+- Location: North-east door, ceiling  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=316){target="_blank"}  
+- Bibliography: None  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+#### Text between two vultures wearing red crowns {-}  
+  
+<div class="col2">  
+  
+*Wȝdy.t nb.t P Dp  *  
+*dỉ=s nsyw.t ʿȝ.t   *  
+  *n zȝ Rʿ  *  
+  *(tmtyns nty-ḫwỉ) *  
+  
+Wadjet, lady of Pe and Dep,  
+she gives a great kingship   
+   to the son of Re,  
+   (Domitian, Augustus)  
+    
+    
 </div>
