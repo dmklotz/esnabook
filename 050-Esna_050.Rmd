@@ -1,0 +1,165 @@
+## Esna 50 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: South Anta, Middle   
+- Date: Claudius  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=177){target="_blank"}  
+- Bibliography: None  
+  
+#### The King {-}  
+  
+<div class="col2">  
+  
+
+^1^ *nsw.t bỉty  *  
+*nb tȝ.wy  *  
+*(tbrys [k]rwtỉ[s nty]-ḫwỉ)|  *  
+^2^ *zȝ-Rʿ nb ḫʿ.w  *  
+*(krmnyqs ȝwdgrtwr)|  *  
+
+^3^ *ḥʿpỉ n Km.t  *  
+*Rnn.t n tȝ.wy  *  
+  
+^4^ *mn n=k qbḥw  *  
+*pr.w m ṯpḥ.t  *  
+*ḫpr(.w) m-m tȝ m Iwnw  *  
+    
+*ʿnḫ=k ỉm=sn  *  
+*wȝš=k ỉm=sn  *  
+*ỉw=w wʿb.w  *  
+    
+*ʿnḫ psḏ.t ʿȝ.t ỉm=sn  *  
+  *m ḥw.t-sr wr m Iwnw  *  
+*st[...] ỉm=sn  *
+
+^1^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Tiberius [Cl]audi[us] Augustus)|  
+^2^ Son of Re, Lord of Appearances,  
+(Germanicus Autokrator)|  
+  
+^3^ Hapi of Egypt,  
+Renenutet of the Two Lands.[^fn-50-1]  
+  
+^4^ Receive the cool waters,  
+which come forth from the grotto,  
+and came about in the ground in Heliopolis.[^fn-50-2]  
+  
+May you live from them,  
+may you be strong from them,  
+since they are pure!  
+  
+May the great Ennead live from them,  
+in the great Temple of the Prince in Heliopolis  
+[...] from them.  
+  
+</div>
+
+[^fn-50-1]: Note Nebtu is also identified with Renenutet in this scene (below, line 10). 
+[^fn-50-2]: For the signifiance of this phrase, see @klotz-varia, pp. 183-189.
+
+#### Khnum-Re Lord of the Field {-}
+
+<div class="col2"> 
+
+^5^ *ḏd-mdw ỉn ẖnmw-Rʿ nb sḫ.t  *  
+*ḫpr ḫnt  *  
+*Nwn wr  *  
+*wtṯ ỉḫt nbw  *  
+^6^ *ỉwn sḫpr ḫpr.w  *
+
+
+^7^ *ḏỉ=ỉ wḥm=k rnp  *  
+*mỉ wḥm-ʿnḫ  *  
+*mȝwy zp-snw  *  
+  
+^8^ *ḏỉ=ỉ bs n=k ỉṯ-kȝ  *  
+*r nw=f  *  
+*mḥ=f pr=k* *  
+*m ỉḫt nb  *  
+  
+^5^ Words spoken by Khnum-Re Lord of the Field,  
+who came about before,  
+Great Nun,  
+who begat all things,  
+^6^ Pillar who created forms.  
+  
+^7^ I allow you to repeat (*wḥm*) rejuvenation,  
+like the *wḥm-ʿnḫ* flood,  
+renewed, renewed!  
+  
+^8^ I cause the *ỉṯ-kȝ* flood to surge for you  
+at its time,  
+so it might fill your temple with all good things.  
+
+</div>
+
+#### Nebtu  {-}
+
+<div class="col2"> 
+
+^9^ *ḏd-mdw ỉn Nb.t-ww  *  
+*nb.t tȝ-sn.t  *  
+*ỉr.t-Rʿ nb.t p.t  *  
+*ḥnw.t [nṯr.w] nb  *  
+  
+^10^ *Rnn.t nfr.t  *  
+*šd.t ỉḫt nb  *  
+*[...] ỉb  *  
+^11^ *ʿȝ-rqḥ  *  
+*Wȝḏ.t wȝd ʿnḫ  *  
+*m tȝ-ḥr-ȝw=f  *  
+    
+^12^ *ḏỉ=ỉ n=k ḥʿpỉ wr  *  
+*ḥr sỉwr n=k ȝḫ.t  *  
+*r dmḏy.t=s  *  
+   
+^9^ Words spoken by Nebtu,  
+Lady of Esna,  
+Eye of Re, Lady of Heaven,  
+Mistress of all the [gods].  
+  
+^10^ Good Renenutet,  
+who nurtures all things,  
+[...] heart,  
+^11^ great of heat,  
+Wadjet, who spreads life  
+throughout the whole land.  
+  
+^12^ I give you a great Inundation,  
+making the Field pregnant for you  
+at its time.  
+
+</div>
+
+#### Behind Khnum and Nebtu  {-}
+
+<div class="col2"> 
+
+^13^ *šzp.n=n qbḥw=k  *  
+*s[...] m mw ʿnḫ [...]  *  
+    
+*[ḏỉ]=n n=k ḫȝs.wt nb  *  
+*dmḏ(.w) ẖr ṯb.ty=k  *  
+*ỉw=k ḫʿ.tw ḥr s.t-ḥr  *  
+  
+^13^ We receive your cool water,  
+[...] in living water [...]  
+  
+We [give] you all foreign lands,  
+united beneath your sandals,  
+as you appear upon the Throne of Horus. 
+  
+</div>

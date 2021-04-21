@@ -1,0 +1,312 @@
+# Calendar I (55) {-}
+
+## Esna 55 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: South-East Door, right   
+- Date: Probably Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=190){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 7, 11-19 (complete); @grimm
+
+#### Title {-}
+
+<div class="col2">
+^1^ *rḫ(.t) ḥb.w nw Iwny.t  *  
+  *ḥw.t-bȝ.w ḥw.t-ṯʿ.wy  *  
+*nty ḥr ʿr.w nw nṯr.w  *  
+*ḥnʿ ḏ(d) n tpy.w-ʿ  *  
+
+^1^ List of the festivals of Iunyt,  
+Temple of the Bas, Temple of the Chicks,  
+which are on the papyri of the gods,  
+and the oral tradition of the ancestors.  
+</div>
+
+### Thoth (Akhet I) {-}
+
+#### Thoth 1 {-}
+
+<div class="col2">  
+
+*ḥb wp.t-rnpt nfr nfr  *  
+*ḥb Nḥb-kȝ.w  *  
+*ẖnmw ḥnʿ psḏ.t=f  *  
+   
+*gm šw ỉr.t=ḥr  *  
+*m-ʿ Swt(ḫ)  *  
+*nḥm=f sw m [...]  *  
+  
+*nỉs pȝ ʿn *  
+*n šzp rnp.t-nfr.t  *  
+*ỉr(.t) ỉrw nb  *  
+*mỉ nty r nt-ʿ  *  
+    
+*sḫʿ n ẖnmw-Rʿ nb tȝ-sn.t  *  
+*ḥnʿ psḏ.t=f  *  
+*pr-ẖnmw pr-sȝḥw-Rʿ   *  
+*ẖnm-ỉtn ḥtp  *   
+  
+New Year festival: twice good!  
+Festival of Nehebkau,  
+Khnum with his Ennead.  
+  
+Shu finds the eye of Horus  
+in the hand of Seth,[^fn-55-1]  
+he takes it as [...]  
+  
+Reading the tablet   
+of receiving the Good Year.[^fn-55-1a]  
+Perform all rites  
+like what is on the festival papyrus.  
+  
+Procession of Khnum-Re Lord of Esna,  
+along with his Ennead:  
+(to) Per-Khnum (and) Per-Sahure.  
+Union with the disk. Return.  
+
+</div>
+
+[^fn-55-1]: ![](images/55_1.png){width=12%} - Note the spelling of *m-ʿ*. 
+[^fn-55-1a]: For this ritual, see @germond-nouvelan.
+
+#### Thoth 4 {-}
+
+<div class="col2">  
+
+*m ʿȝ-ỉb  *  
+*ḥb ḏḥwty  *  
+  
+Do not be haughty![^fn-55-2]  
+Festival of Thoth.  
+
+</div>
+
+[^fn-55-2]: ![](images/55_2.png){width=15%} - @sauneron-5, p. 12, n. f, refrained from translating this group. Like other warnings from the Calendars of Lucky and Unlucky Days, this appears to be an injunction against boastful activity on this particular day. For this phrase, compare *Ptahhotep* 2, 1; 5, 8 (*m ʿȝ-ỉb=k*). @grimm, pp. 25,  240, L2, n. a, suggested "rein an Herz (?) (*m ʿbw jb*)", but that does not appear to fit the existing hieroglyphs.
+
+#### Thoth 9 {-}
+
+<div class="col2"> 
+
+*ḥb Imn ḥb Rw  *  
+*m wp.t-rnp.t   *  
+*ḏ(d) tpy.w-ʿ  *  
+  
+*ỉr(.t) mnḫ.t n ẖnmw  *  
+*ḥnʿ psḏ.t=f  *  
+*n Pr-ẖnmw n sḫ.t  *  
+*nn s(w) m ḥr(.w)  *  
+  
+Festival of Amun, Festival of Re,  
+being the New Year,  
+as the ancestors would say.  
+  
+Giving linens to Khnum  
+along with his Ennead  
+of Per-Khnum of the Field,  
+but not in public.[^fn-55-3]  
+
+</div>
+
+[^fn-55-3]: ![](images/55_3.png){width=15%} - @sauneron-5, pp. 11-12, n. g, emended this to "Priere (?) devant son visage (*sns m ḥr=f*)," while @grimm, pp 25, 241, L3, n. g, read "Rufen vor dem Gesicht(?) (*njs m ḥr(?)*)." The present translation requires no correction, understanding a set phrase: *Wb* III, 128, 1.  
+
+#### Thoth 10 {-}
+
+<div class="col2"> 
+*ʿḥȝ nfr  *  
+*ḥb tfn.t m Iwny.t  *  
+^2^ *ỉn Rʿ ỉr n=s  *  
+*šȝʿ ỉr(.t) kȝ.t   *  
+*n ms.w šrq.t  *  
+   
+*sḫʿ n Nb.t-ww Nb.t tȝ-sn.t  *  
+*ḏbȝ=s m ḥbs n ins  *  
+*ḫʿỉ r s.t-ḥry [...]  *  
+*[...]  *  
+*[...] ms.w Rʿ   *  
+
+*ḥtp  *  
+*šzp jns   *  
+*jr(.t) ʿȝb.t ʿȝ.t  *  
+   
+*sḫʿ n Is.t m pr-nṯr  *  
+*r wȝḥ ỉ[ḫ]t   *  
+*n sn=s Wsỉr ḥnʿ [...]  *  
+*[...]  *  
+    
+*sḫʿ nṯr.t tn   *  
+*m tr n rwhȝ  *  
+
+*ḥtp n pr-ẖnmw  *  
+  
+Bad and good.  
+Festival of Tefnut in Iunyt:  
+^2^ it is Re who acts for her.  
+Beginning doing work  
+for the children of Serqet.[^fn-55-4]  
+  
+Procession of Nebtu, Lady of Esna;  
+covering her in red cloth;  
+going to the Higher Place [...],  
+[...]  
+[...] of the children of Re.  
+  
+Return.  
+Receiving red cloth.  
+performing a great offering.  
+  
+Procession of Isis in Per-netjer,  
+in order to lay down offerings  
+for her brother Osiris, along with [...]  
+[...]  
+  
+Procession of this goddess  
+at the time of evening.  
+  
+Return to the temple of Khnum.    
+  
+</div>
+
+
+[^fn-55-4]: According to *LGG* III, 427c, these beings are a group of snakes, occasionally mentioned in magical texts.
+
+#### Thoth 1[2] {-}
+
+<div class="col2"> 
+*[s]ḫʿỉ n nṯr.t tn   *  
+*r pr-sȝḥw-Rʿ  *  
+*ḥtp m tȝ-sn.t  *  
+*m tr n rwhȝ  *  
+  
+[Pro]cession of this goddess  
+to Per-sahure,  
+returning to Esna  
+at the time of evening.  
+</div>
+
+#### Thoth 14 {-}
+<div class="col2"> 
+
+*ḥb twtw zȝ N.t  *  
+*ṯz ỉḫt (ḥr) ḫȝw.t  *
+  
+Festival of Tutu, son of Neith:  
+binding offerings (on) the altar.  
+
+</div>
+
+#### Thoth 19 {-}
+
+<div class="col2"> 
+
+*ḥb ḏḥwty ʿȝ wr  *  
+*m tȝ-r-ḏr=f  *  
+*ḥb ḥr  *  
+   
+*ʿq šw zȝ Rʿ  *  
+*r ḏȝ-rȝ n ỉt=f  *  
+*m hrw pn  *  
+*ỉr.t ỉrw nb  *  
+  
+Festival of Thoth, the very great  
+in the entire land.  
+Festival of Horus.  
+  
+Shu, the son of Re, enters  
+to feed his father  
+on this day.  
+Performing every ritual.  
+   
+</div>
+
+#### Thoth 21 {-}
+
+<div class="col2">
+
+*ỉr.t mȝʿ-ḫrw   *  
+*n ḏḥwty m-bȝḥ Rʿ  *  
+  
+Performing justification  
+for Thoth before Re.  
+</div>
+
+### Paophi (Akhet II) {-}
+
+#### Paophi [1?] {-}
+<div class="col2">
+*[...] [n]ḏ.t ỉr.t-ḥr  *  
+*hrw pfy  *  
+  
+*^3^ pr ỉn šw  *  
+*ḥnʿ tfn.t  *  
+*r wḏʿ ỉmy.w-ẖ.t *   
+  *ḥm=f  *  
+    
+*sḫʿỉ n ḥkȝ ḫnsw ḏḥwty  *  
+*ẖnm-ỉtn ḥtp  *  
+  
+[...] protecting the Eye of Horus  
+on this day.  
+  
+^3^ Shu comes forth  
+together with Tefnut  
+to decapitate[^fn-55-5] those in the body   
+  of his Majesty.  
+  
+Procession of Heka, Khonsu, Thoth.  
+Union with the disk, return.  
+
+</div>
+
+[^fn-55-5]: Apparently an allusion to Apophis and other enemies of Re who emerged from Atum's. If they are indeed serpents, they appear to be identified here with intestines (also *ỉmy.w-ẖ.t*). For the signifiance of this verb (*wḏʿ*), see Corteggiani, BIFAO 95; for the Heliopolitan mythology here, see @meeks-delta.
+<!--Note the original reading by Junker, Auszug, p. 71, appears to make more sense: "um die Eingeweide abzuschneiden(?)" (Cited by Grimm, p. 243, L10, n. e) -->
+
+
+#### Paophi 4 {-}
+
+<div class="col2">
+
+*ḥb Gm-bȝ.w=s  *  
+*gm.n.tw ỉr.t-ḥr  *  
+*m bȝ=s m bȝẖ  *  
+   
+*nṯr.t m hrw pn Nb.t-ww  *  
+*bwt=s ḥqr ỉbw  *  
+    
+*sḫʿỉ n nṯr.t tn ḥnʿ [...]  *  
+*m-bȝḥ=s  *  
+*sḏr m pr=s*  
+*n tr n rwhȝ  *  
+  
+Festival of *Gm-bȝ.w=s*:  
+the Eye of Horus was found  
+in her Ba in Bakhu.  
+  
+The goddess in this day is Nebtu,  
+her taboos are hunger and thirst.  
+  
+Procession of this goddess with [...]  
+in her presence,  
+spending the night in her temple  
+at the time of evening.  
+
+</div>
+
+
+#### Paophi 6 {-}
+
+<div class="col2">
+</div>
+
+***under construction***

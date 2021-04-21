@@ -1,48 +1,48 @@
-## Esna 66 {-}
-
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-- Location: Facade, intercolumnar bandeau
-- Date: Unknown, probably Claudius 
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=211){target="_blank"}
-- Bibliography: None  
+## Esna 66 {-}  
   
-
-<div class="col2">
-| *mj m ḥtp*  
-| *ẖnm=k pr-wr m pr-m-qd*  
-| *ʿq=k ḥw.t-nṯr m nḏm-jb*
-|    *wʿb.tw nn ḏw nb ḫr=k*  
-|  
-| *mḥn=j ḥr tp=k*  
-|     *mj nb-ḏr*  
-| *mnḥ.n=j tpy.w nw ḫfty.w=k*  
-|    *m rn=j pfy n Mnḥy.t*  
-|  
-| Come in peace![^fn-66_1]  
-| Unite with the Per-wer in extasy,  
-| enter the temple in joy,  
-|    being pure, without evil.  
-|  
-| I am coiled (*mḥn*) upon your head,  
-|     like (I would for) the All Lord,  
-| I have cut off (*mnḥ*) the heads of your enemies,
-|    in my name of Menhyt (***Mnḥ****y.t*).[^fn-66_2] 
- 
-
-</div>
-
-[^fn-66_1]: This text is properly speaking a caption above [Esna 67]. The goddess Menhyt addresses the king while he is being purified by Harsiese and Thoth.
-
-[^fn-66_2]: This entire speech has an exact parallel in *Esna* II, 15, 19.
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: Facade, intercolumnar bandeau  
+- Date: Unknown, probably Claudius   
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=211){target="_blank"}  
+- Bibliography: None    
+    
+  
+<div class="col2">  
+*mj m ḥtp*    
+*ẖnm=k pr-wr m pr-m-qd*    
+*ʿq=k ḥw.t-nṯr m nḏm-jb*  
+   *wʿb.tw nn ḏw nb ḫr=k*    
+   
+*mḥn=j ḥr tp=k*    
+    *mj nb-ḏr*    
+*mnḥ.n=j tpy.w nw ḫfty.w=k*    
+   *m rn=j pfy n Mnḥy.t*    
+   
+Come in peace![^fn-66_1]    
+Unite with the Per-wer in extasy,    
+enter the temple in joy,    
+   being pure, without evil.    
+   
+I am coiled (*mḥn*) upon your head,    
+    like (I would for) the All Lord,    
+I have cut off (*mnḥ*) the heads of your enemies,  
+   in my name of Menhyt (***Mnḥ****y.t*).[^fn-66_2]   
+   
+  
+</div>  
+  
+[^fn-66_1]: This text is properly speaking a caption above [Esna 67]. The goddess Menhyt addresses the king while he is being purified by Harsiese and Thoth.  
+  
+[^fn-66_2]: This entire speech has an exact parallel in *Esna* II, 15, 19.  

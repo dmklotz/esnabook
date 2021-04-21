@@ -1,217 +1,217 @@
-## Esna 47 {-}
+## Esna 47 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: South Anta, Top Panel  
+- Date: Claudius (A) and Vespasian (B)  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=172){target="_blank"}  
+- Bibliography: @grenier-1987.  
+- Photographs: @sauneron-1, Pls. XXIV, XXV (partial).  
+  
+NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epithets of the Roman emperor, collected and analyzed by @grenier-1987. An excellent, fully-preserved example can be found in [*Opet* I, 232](http://sith.huma-num.fr/karnak/3946){target="_blank"}.   
+  
+  
+  
+#### Esna 47 A {-}  
+  
+**Left = South**  
+  
+<div class="col2">  
+  
+*ʿnḫ ḥr   *  
+*ṯmȝ-ʿ wr-pḥty  *  
+*ḥqȝ ḥqȝ.w   *  
+*stp.n Ptḥ  *  
+  *Nwn-wr ỉt-ntr.w  *  
+  
+Live the Horus,  
+Valiant of Arm, Great of Strength,  
+Ruler of Rulers,  
+chosen by Ptah,  
+  Great Nun, father of the gods.  
+  
+</div>  
+<div class="col2">  
+  
+  
+*ỉṯ.n=f ỉȝw.t n Rʿ  *  
+  *ns.t n Gbb  *  
+*rdỉ(.w) [n=f ỉmy.t]-pr n šw  *  
+    
+*ʿq=f tȝ-mry  *  
+  *hr(.w) tȝ-šmʿ tȝ-mḥw m ḥʿʿ  *  
+*<mỉ> Rʿ psḏ m ȝḫ.t  *  
+  
+As he seized the office of Re,  
+  and the throne of Geb,  
+so [he was] given the inheritance of Shu.  
+  
+When he enters Egypt  
+  Upper and Lower Egypt delight in joy,  
+<like> Re who shines in the Akhet.  
+  
+</div>  
+<div class="col2">  
+  
+*ỉty   *  
+*ḥqȝ zȝ ḥqȝ  *  
+*wḏ=f pw tkn r ḥr.t  *  
+*sbty n bỉȝ ḥȝ Bȝq.t  *  
+    
+*mrỉ sw ḥp-ʿnḫ  *  
+*sr=f n=f hȝ.w ʿšȝ.w nfr.w  *  
 
-<style>
+The sovereign,   
+ruler, son of the ruler,  
+it is his command which reaches up to heaven,  
+a wall of iron around all Egypt.  
+  
+The living Apis loves him,  
+announcing for him numerous, excellent years.  
+  
+</div>  
+<div class="col2">  
+  
+*smn=f hp.w nw tȝ r-ḏr=f  *  
+  *mỉ ḏḥwty ḥr ỉr(.t) mȝʿ.t  *  
+    
+*smnḫ tȝ.wy   *  
+  *pȝ ẖnw ʿȝ wr tpy mr=f  *  
+*ỉṯ tȝ.wy hrwm.t  *  
+   
+He establishes laws for the entire land  
+  like Thoth, performing Maat.  
+    
+He who makes excellent the two lands  
+  and the very great, first capital he prefers (= Rome),  
+who seizes the two lands and Rome.  
+  
+</div>  
+<div class="col2">  
+  
+*nsw.t-bỉty   *  
+*nb-tȝ.wy  *  
+*(tbrys grwtys ksrs nty-ḫwỉ) *  
+*zȝ Rʿ nb-ḫʿ.w  *  
+*(krmnyqs ȝwdgrtwr) *  
+*mrỉ ẖnmw-Rʿ nb tȝ-sn.t  *  
+*dỉ(.w) ʿnḫ mỉ-Rʿ ḏ.t  *  
+   
+The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Tiberius Claudius Caesar Augustus)|  
+Son of Re, Lord of Appearances,  
+(Germanicus Autokrator)|  
+beloved of ***Khnum-Re Lord of Esna***,[^fn-47-1]  
+given life like Re forever.  
+  
+</div>  
+  
+[^fn-47-1]: The temple inscriptions are generally divided between Khnum-Re (south) and Neith (north); cf. @sauneron-1, p. 64. The bandeau, however, is split between the two forms of Khnum: Lord of Esna (south), and Lord of the Field (north). The same duality is present in most of the columns from the facade, where the royal cartouches appear before both forms of Khnum, never Neith (e.g. [Esna 188]), as well as other bandeau texts (e.g. [Esna 189 A] vs. [Esna 189 B]).  
+  
+#### Esna 47 B {-}  
+  
+**Right = North**  
+  
+<div class="col2">  
+  
+*ʿnḫ ḥr   *  
+*ṯmȝ-ʿ wr-pḥty  *  
+*ḥqȝ ḥqȝ.w   *  
+*stp.n Ptḥ  *  
+  *Nwn-wr ỉt-ntr.w  *  
 
-  .col2 {
-    columns: 2 320px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 320px; /* chrome, safari */
-    -moz-columns: 2 320px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-- Location: South Anta, Top Panel
-- Date: Claudius (A) and Vespasian (B)
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=172){target="_blank"}
-- Bibliography: @grenier-1987.
-- Photographs: @sauneron-1, Pls. XXIV, XXV (partial).
-
-NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epithets of the Roman emperor, collected and analyzed by @grenier-1987. An excellent, fully-preserved example can be found in [*Opet* I, 232](http://sith.huma-num.fr/karnak/3946){target="_blank"}. 
-
-
-
-#### Esna 47 A {-}
-
-**Left = South**
-
-<div class="col2">
-
-| *ʿnḫ ḥr   *
-| *ṯmȝ-ʿ wr-pḥty  *
-| *ḥqȝ ḥqȝ.w   *
-| *stp.n Ptḥ  *
-|   *Nwn-wr ỉt-ntr.w  *
-|
-| Live the Horus,
-| Valiant of Arm, Great of Strength,
-| Ruler of Rulers,
-| chosen by Ptah,
-|   Great Nun, father of the gods.
-
-</div>
-<div class="col2">
-
-
-| *ỉṯ.n=f ỉȝw.t n Rʿ  *
-|   *ns.t n Gbb  *
-| *rdỉ(.w) [n=f ỉmy.t]-pr n šw  *
-|   
-| *ʿq=f tȝ-mry  *
-|   *hr(.w) tȝ-šmʿ tȝ-mḥw m ḥʿʿ  *
-| *<mỉ> Rʿ psḏ m ȝḫ.t  *
-|
-| As he seized the office of Re,
-|   and the throne of Geb,
-| so [he was] given the inheritance of Shu.
-| 
-| When he enters Egypt
-|   Upper and Lower Egypt delight in joy,
-| <like> Re who shines in the Akhet.
-
-</div>
-<div class="col2">
-
-| *ỉty   *
-| *ḥqȝ zȝ ḥqȝ  *
-| *wḏ=f pw tkn r ḥr.t  *
-| *sbty n bỉȝ ḥȝ Bȝq.t  *
-|   
-| *mrỉ sw ḥp-ʿnḫ  *
-| *sr=f n=f hȝ.w ʿšȝ.w nfr.w  *
-|
-| The sovereign, 
-| ruler, son of the ruler,
-| it is his command which reaches up to heaven,
-| a wall of iron around all Egypt.
-| 
-| The living Apis loves him,
-| announcing for him numerous, excellent years.
-
-</div>
-<div class="col2">
-
-| *smn=f hp.w nw tȝ r-ḏr=f  *
-|   *mỉ ḏḥwty ḥr ỉr(.t) mȝʿ.t  *
-|   
-| *smnḫ tȝ.wy   *
-|   *pȝ ẖnw ʿȝ wr tpy mr=f  *
-| *ỉṯ tȝ.wy hrwm.t  *
-|  
-| He establishes laws for the entire land
-|   like Thoth, performing Maat.
-|   
-| He who makes excellent the two lands
-|   and the very great, first capital he prefers (= Rome),
-| who seizes the two lands and Rome.
-
-</div>
-<div class="col2">
-
-| *nsw.t-bỉty   *
-| *nb-tȝ.wy  *
-| *(tbrys grwtys ksrs nty-ḫwỉ)|  *
-| *zȝ Rʿ nb-ḫʿ.w  *
-| *(krmnyqs ȝwdgrtwr)|  *
-| *mrỉ ẖnmw-Rʿ nb tȝ-sn.t  *
-| *dỉ(.w) ʿnḫ mỉ-Rʿ ḏ.t  *
-|  
-| The King of Upper and Lower Egypt,
-| Lord of the Two Lands,
-| (Tiberius Claudius Caesar Augustus)|
-| Son of Re, Lord of Appearances,
-| (Germanicus Autokrator)|
-| beloved of ***Khnum-Re Lord of Esna***,[^fn-47-1]
-| given life like Re forever.
-
-</div>
-
-[^fn-47-1]: The temple inscriptions are generally divided between Khnum-Re (south) and Neith (north); cf. @sauneron-1, p. 64. The bandeau, however, is split between the two forms of Khnum: Lord of Esna (south), and Lord of the Field (north). The same duality is present in most of the columns from the facade, where the royal cartouches appear before both forms of Khnum, never Neith (e.g. [Esna 188]), as well as other bandeau texts (e.g. [Esna 189 A] vs. [Esna 189 B]).
-
-#### Esna 47 B {-}
-
-**Right = North**
-
-<div class="col2">
-
-| *ʿnḫ ḥr   *
-| *ṯmȝ-ʿ wr-pḥty  *
-| *ḥqȝ ḥqȝ.w   *
-| *stp.n Ptḥ  *
-|   *Nwn-wr ỉt-ntr.w  *
-|
-| Live the Horus,
-| Valiant of Arm, Great of Strength,
-| Ruler of Rulers,
-| chosen by Ptah,
-|   Great Nun, father of the gods.
-
-</div>
-<div class="col2">
-
-| *ỉṯ.n=f ỉȝw.t n Rʿ  *
-|   *ns.t n Gbb  *
-| *[rdỉ(.w)] n[=f ỉmy.t-pr n šw  *
-|   
-| *ʿq=f tȝ-mry  *
-|   *hr(.w)] tȝ-šmʿ tȝ-mḥw m ḥʿʿ  *
-| *<mỉ> Rʿ psḏ m ȝḫ.t  *
-|
-| As he seized the office of Re,
-|   and the throne of Geb,
-| [so he] was [given the inheritance of Shu.
-| 
-| When he enters Egypt]
-|   Upper and Lower Egypt [delight] in joy,
-| <like> Re who shines in the Akhet.
-
-</div>
-<div class="col2">
-
-| *ỉty   *
-| *ḥqȝ zȝ ḥqȝ  *
-| *wḏ=f pw tkn r ḥr.t  *
-| *sbty n bỉȝ ḥȝ Bȝq.t  *
-|   
-| *mrỉ sw ḥp-ʿnḫ  *
-| *sr=f n=f hȝ.w  *
-|
-| The sovereign, 
-| ruler, son of the ruler,
-| it is his command which reaches up to heaven,
-| a wall of iron around all Egypt.
-| 
-| The living Apis loves him,
-| announcing for him years.
-
-</div>
-<div class="col2">
-
-| *smn=f hp.w nw tȝ r-ḏr=f  *
-|   *mỉ ḏḥwty ḥr ỉr(.t) mȝʿ.t  *
-|   
-| *smnḫ tȝ.wy   *
-|   *pȝ ẖnw ʿȝ wr tpy mr=f  *
-| *ỉṯ tȝ.wy hrwm.t  *
-|  
-| He establishes laws for the entire land
-|   like Thoth, performing Maat.
-|   
-| He who makes excellent the two lands
-|   and the very great, first capital he prefers (= Rome),
-| who seizes the two lands and Rome.
-
-</div>
-<div class="col2">
-
-| *nsw.t-bỉty   *
-| *nb-tȝ.wy  *
-| *(ȝwtwkrdwr gysrs)|  *
-| *zȝ Rʿ nb-ḫʿ.w  *
-| *(wspysyns nty-ḫwỉ)|  *
-| *mrỉ ẖnmw-Rʿ nb sḫ.t  *
-|    *nṯr ʿȝ nb tȝ-sn.t  *
-| *dỉ(.w) ʿnḫ mỉ-Rʿ ḏ.t  *
-|  
-| The King of Upper and Lower Egypt,
-| Lord of the Two Lands,
-| (Autokrator Caesar)|
-| Son of Re, Lord of Appearances,
-| (Vespasian Augustus)|
-| beloved of ***Khnum-Re Lord of the Field***,
-|   great god, lord of Esna,
-| given life like Re forever.
-
+Live the Horus,  
+Valiant of Arm, Great of Strength,  
+Ruler of Rulers,  
+chosen by Ptah,  
+  Great Nun, father of the gods.  
+  
+</div>  
+<div class="col2">  
+  
+*ỉṯ.n=f ỉȝw.t n Rʿ  *  
+  *ns.t n Gbb  *  
+*[rdỉ(.w)] n[=f ỉmy.t-pr n šw  *  
+    
+*ʿq=f tȝ-mry  *  
+  *hr(.w)] tȝ-šmʿ tȝ-mḥw m ḥʿʿ  *  
+*<mỉ> Rʿ psḏ m ȝḫ.t  *  
+  
+As he seized the office of Re,  
+  and the throne of Geb,  
+[so he] was [given the inheritance of Shu.  
+  
+When he enters Egypt]  
+  Upper and Lower Egypt [delight] in joy,  
+<like> Re who shines in the Akhet.  
+  
+</div>  
+<div class="col2">  
+  
+*ỉty   *  
+*ḥqȝ zȝ ḥqȝ  *  
+*wḏ=f pw tkn r ḥr.t  *  
+*sbty n bỉȝ ḥȝ Bȝq.t  *  
+    
+*mrỉ sw ḥp-ʿnḫ  *  
+*sr=f n=f hȝ.w  *  
+  
+The sovereign,   
+ruler, son of the ruler,  
+it is his command which reaches up to heaven,  
+a wall of iron around all Egypt.  
+  
+The living Apis loves him,  
+announcing for him years.  
+  
+</div>  
+<div class="col2">  
+  
+*smn=f hp.w nw tȝ r-ḏr=f  *  
+  *mỉ ḏḥwty ḥr ỉr(.t) mȝʿ.t  *  
+    
+*smnḫ tȝ.wy   *  
+  *pȝ ẖnw ʿȝ wr tpy mr=f  *  
+*ỉṯ tȝ.wy hrwm.t  *  
+   
+He establishes laws for the entire land  
+  like Thoth, performing Maat.  
+    
+He who makes excellent the two lands  
+  and the very great, first capital he prefers (= Rome),  
+who seizes the two lands and Rome.  
+  
+</div>  
+<div class="col2">  
+  
+*nsw.t-bỉty   *  
+*nb-tȝ.wy  *  
+*(ȝwtwkrdwr gysrs) *  
+*zȝ Rʿ nb-ḫʿ.w  *  
+*(wspysyns nty-ḫwỉ) *  
+*mrỉ ẖnmw-Rʿ nb sḫ.t  *  
+   *nṯr ʿȝ nb tȝ-sn.t  *  
+*dỉ(.w) ʿnḫ mỉ-Rʿ ḏ.t  *  
+   
+The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+Son of Re, Lord of Appearances,  
+(Vespasian Augustus)|  
+beloved of ***Khnum-Re Lord of the Field***,  
+  great god, lord of Esna,  
+given life like Re forever.  
+  
 </div>

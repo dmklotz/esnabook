@@ -1,53 +1,53 @@
-# Intercolumnar Wall D (68-70) {-}
-
-
-## Esna 69 {-}
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-- Location: Facade, intercolumnar bandeau
-- Date: Unknown, probably Claudius 
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=215){target="_blank"}
-- Bibliography: None
-
-<div class="col2">
-| *jj.tw m ḥtp*  
-| *[ẖnm=k? pr]-wr*  
-| *ḫʿ=k m nfrw=k*  
-|    *m r' n pr=k*
-|       *mj Rʿ psḏ m ȝḫ.t*  
-| 
-| *Wp-Wȝ.wt m-ḥȝ.t=k*  
-| *psḏ.t ḥnʿ=k*  
-| *bȝ.w P Nḫn jmyt-ḫ.t=k*
-| *ḥr ḥr sqȝ sšm=k*
-| *jw=k ḫʿ.tw [ḥr] s.t-ḥr ḏ.t*  
-|  
-| Welcome in peace![^fn-69-1] 
-| [May you enter the Per]-wer, [^fn-69-2] 
-| appearing in your perfection 
-|     at the gate of your temple,
-|         like Re shining in the Akhet.  
-|  
-| Wepwawet is before you,  
-| the Ennead is with you,  
-| the Bas of Pe and Nekhen follow you,  
-| and Horus lifts up your image,  
-| you appear [upon] the throne of Horus, eternally   
-
-
-</div>
-
-[^fn-69-1]: This text is properly speaking a caption above [Esna II, 70], where Nekhbet and Wadjet introduce the king to Khnum and Heka the child. 
-
-[^fn-69-2]: Restored after [Esna 66].
+# Intercolumnar Wall D (68-70) {-}  
+  
+  
+## Esna 69 {-}  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: Facade, intercolumnar bandeau  
+- Date: Unknown, probably Claudius   
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=215){target="_blank"}  
+- Bibliography: None  
+  
+<div class="col2">  
+*jj.tw m ḥtp*    
+*[ẖnm=k? pr]-wr*    
+*ḫʿ=k m nfrw=k*    
+   *m r' n pr=k*  
+      *mj Rʿ psḏ m ȝḫ.t*    
+  
+*Wp-Wȝ.wt m-ḥȝ.t=k*    
+*psḏ.t ḥnʿ=k*    
+*bȝ.w P Nḫn jmyt-ḫ.t=k*  
+*ḥr ḥr sqȝ sšm=k*  
+*jw=k ḫʿ.tw [ḥr] s.t-ḥr ḏ.t*    
+   
+Welcome in peace![^fn-69-1]   
+[May you enter the Per]-wer, [^fn-69-2]   
+appearing in your perfection   
+    at the gate of your temple,  
+        like Re shining in the Akhet.    
+   
+Wepwawet is before you,    
+the Ennead is with you,    
+the Bas of Pe and Nekhen follow you,    
+and Horus lifts up your image,    
+you appear [upon] the throne of Horus, eternally     
+  
+  
+</div>  
+  
+[^fn-69-1]: This text is properly speaking a caption above [Esna II, 70], where Nekhbet and Wadjet introduce the king to Khnum and Heka the child.   
+  
+[^fn-69-2]: Restored after [Esna 66].  
