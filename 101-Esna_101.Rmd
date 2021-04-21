@@ -1,97 +1,97 @@
-## Esna 101 {-}
-
-- Location: Central Door, right side, base
-- Date: Unknown, likely Vespasian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=199){target="_blank"}
-- Bibliography: @sauneron-5, pp. 161-162.
+## Esna 101 {-}  
   
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-<!--To Do: Did Kaper, Soubassements, ever publish on this subject?? -->
-
-NB: This hymn is an excerpt of a longer hymn to Khnum: *Esna* III, 276, just like [Esna 95]. In this case, Khnum's epithets are attributed to Neith, and the second person feminine singular pronoun is used.
-
-<div class="col2">
-
-| ^3^ [...]
-| *[tȝ] r-ḏr=f sḥḏ.w   *
-|   *m nfrw=t  *
-|   
-| *[nfr.wy ḥr=ṯ   *
-|   *ỉw=t] sṯy ḥʿpỉ m ṯpḥ.t  *
-|   *tȝ nb bʿḥ(.w) m nfrw=t  *
-|   *bȝq Bȝq.t m ȝḫ.w=t  *
-|     
-| *[nfr.wy ḥr=ṯ]   *
-|   *ỉw=t m nb.t sḫ.t  *
-|     *ḥȝy m ṯȝw  *
-|       *r srwḏ sm.w  *
-|       *r sḫpr ẖr.w   *
-|         *n ḥr nb  *
-|       
-| *[nfr.wy] ḥr=ṯ   *
-|   *ỉw=t m tr n ȝḫ.t  *
-|     *srwḏ.n=t rwḏ.w  *
-|     *ḏdȝ.n=t npry  *
-|     *sḫpr.n=t ḫ.t-n-ʿnḫ  *
-|         *n ʿnḫ.w*
-|   
-| *nfr.wy ḥr=ṯ  *
-|   *ỉw=t m tr n pr.t  *
-|     *ww wbs.w m wȝḏwȝḏ  *
-|        *rr.n=t pr.t nb ỉm=s  *
-|   
-| *nfr.wy ḥr=ṯ  *
-|   *ỉw=t m tr n šmw  *
-|     *mḥ.n=t ʿḥ  *
-|     *ʿpr.n=t šnw.t  *
-|     *ỉr.n=t ḥtp.w-nṯr  *
-|       *n nṯr.w nb.w  *
-|
-| ^3^ [...]
-| the whole [earth] is illumined
-|      from your beauty.
-|
-| ^4^ [How beautiful is your face!
-|   You] spit out Hapi from the cavern
-|     every land is flooded with your beauty,
-|     Egypt is radiant with your luminescence.
-|
-| ^5^ [How beautiful is your face!]
-|   You are Lady of the Field,
-|     who blows as the wind
-|       to make plants grow,
-|       to create food 
-|          for everybody.
-|             
-| ^6^ [How beautiful] is your face!
-|   You are the season of Akhet,
-|      just as you made plants grow,
-|      you fattened the grain,
-|      and created the tree-of-life 
-|        for the living.
-|
-| ^7^ How beautiful is your face!
-|   You are the season of Peret,
-|     the field blossoms with verdure,
-|     you nurtured all that grows from it.
-|
-| ^8^ How beautiful is your face!
-|   You are the season of Shomu,
-|     as you filled the palace,
-|     so you equipped the granary,
-|     and you made offerings
-|        for all the gods.
+- Location: Central Door, right side, base  
+- Date: Unknown, likely Vespasian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=199){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 161-162.  
+    
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+<!--To Do: Did Kaper, Soubassements, ever publish on this subject?? -->  
+  
+NB: This hymn is an excerpt of a longer hymn to Khnum: *Esna* III, 276, just like [Esna 95]. In this case, Khnum's epithets are attributed to Neith, and the second person feminine singular pronoun is used.  
+  
+<div class="col2">  
+  
+^3^ [...]  
+*[tȝ] r-ḏr=f sḥḏ.w   *  
+  *m nfrw=t  *  
+    
+*[nfr.wy ḥr=ṯ   *  
+  *ỉw=t] sṯy ḥʿpỉ m ṯpḥ.t  *  
+  *tȝ nb bʿḥ(.w) m nfrw=t  *  
+  *bȝq Bȝq.t m ȝḫ.w=t  *  
+      
+*[nfr.wy ḥr=ṯ]   *  
+  *ỉw=t m nb.t sḫ.t  *  
+    *ḥȝy m ṯȝw  *  
+      *r srwḏ sm.w  *  
+      *r sḫpr ẖr.w   *  
+        *n ḥr nb  *  
         
-
-</div>
+*[nfr.wy] ḥr=ṯ   *  
+  *ỉw=t m tr n ȝḫ.t  *  
+    *srwḏ.n=t rwḏ.w  *  
+    *ḏdȝ.n=t npry  *  
+    *sḫpr.n=t ḫ.t-n-ʿnḫ  *  
+        *n ʿnḫ.w*  
+    
+*nfr.wy ḥr=ṯ  *  
+  *ỉw=t m tr n pr.t  *  
+    *ww wbs.w m wȝḏwȝḏ  *  
+       *rr.n=t pr.t nb ỉm=s  *  
+    
+*nfr.wy ḥr=ṯ  *  
+  *ỉw=t m tr n šmw  *  
+    *mḥ.n=t ʿḥ  *  
+    *ʿpr.n=t šnw.t  *  
+    *ỉr.n=t ḥtp.w-nṯr  *  
+      *n nṯr.w nb.w  *  
+  
+^3^ [...]  
+the whole [earth] is illumined  
+     from your beauty.  
+  
+^4^ [How beautiful is your face!  
+  You] spit out Hapi from the cavern  
+    every land is flooded with your beauty,  
+    Egypt is radiant with your luminescence.  
+  
+^5^ [How beautiful is your face!]  
+  You are Lady of the Field,  
+    who blows as the wind  
+      to make plants grow,  
+      to create food   
+         for everybody.  
+              
+^6^ [How beautiful] is your face!  
+  You are the season of Akhet,  
+     just as you made plants grow,  
+     you fattened the grain,  
+     and created the tree-of-life   
+       for the living.  
+  
+^7^ How beautiful is your face!  
+  You are the season of Peret,  
+    the field blossoms with verdure,  
+    you nurtured all that grows from it.  
+  
+^8^ How beautiful is your face!  
+  You are the season of Shomu,  
+    as you filled the palace,  
+    so you equipped the granary,  
+    and you made offerings  
+       for all the gods.  
+          
+  
+</div>  

@@ -1,38 +1,38 @@
-# Laboratory (119-125) {-}
-
-All texts and scenes from the Laboratory were recently discussed in detail by @vadas-2020. A photograph of the ensemble can be found on @vadas-2020, p. 127, Fig. 2.
-
-## Esna 119 {-}
-
-- Location: Laboratory, upper bandeau
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=297){target="_blank"}
-- Bibliography: @vadas-2020, p. 94 (full translation).  
+# Laboratory (119-125) {-}  
   
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-
-<div class="col2">
-
-| *[ỉỉ.n]* ([...])| *ḫr=k*  *
-|   *ẖnmw nb nṯr.w [...]  *
-| *[...]   *
-|   *m ỉd.t=f  *
-| 
-| [The king (...)| has come] before you,
-|   Khnum, lord of the gods [...]
-| [...]
-|   with his scent
-
-</div>
-
+All texts and scenes from the Laboratory were recently discussed in detail by @vadas-2020. A photograph of the ensemble can be found on @vadas-2020, p. 127, Fig. 2.  
+  
+## Esna 119 {-}  
+  
+- Location: Laboratory, upper bandeau  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=297){target="_blank"}  
+- Bibliography: @vadas-2020, p. 94 (full translation).    
+    
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+  
+<div class="col2">  
+  
+*[ỉỉ.n]* ([...])*ḫr=k*  *  
+  *ẖnmw nb nṯr.w [...]  *  
+*[...]   *  
+  *m ỉd.t=f  *  
+  
+[The king (...)has come] before you,  
+  Khnum, lord of the gods [...]  
+[...]  
+  with his scent  
+  
+</div>  
+  

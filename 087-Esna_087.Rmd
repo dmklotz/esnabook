@@ -1,54 +1,54 @@
-## Esna 87 {-}
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-
-- Location: Facade, intercolumnar B
-- Date: Uncertain
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=251){target="_blank"}
-- Bibliography: None
-
-<div class="col2">
-
-| *ỉt m šȝʿ*  
-| *ṯz pr.t n nṯr.w rmṯ*  
-| *nb sḫm.ty*  
-| *ḥqȝ mn.ty*  
-| *rḏỉ ỉȝw.t n mr=f*  
-|  
-| *ʿḥʿ(.w) ḥr ns.t=f*  
-|     *ḥr ḫbỉ ỉnw*  
-|     *m tȝ ḥr-ȝw=f*  
-| *tȝ r-ḏr=f n=f m ʿq*  
-| *ỉw=f m nsw.t*  
-|     *mn(.w) wȝḥ(.w) n nḥḥ*  
-|     *ỉwty wḥm.t=fy ḏ.t* 
-
-
-| The Father in the Beginning,  
-| who binds seed for gods and men,  
-| lord of the two crowns/uraei,  
-| ruler of the desert regions,  
-| who gives the office to whom he prefers,
-|  
-| (so that he)[^fn-1] ascends upon his throne,
-|     collecting tribute
-|     from the entire world,
-| the whole world belongs to him in joy,
-| while he is the king,  
-|     remaining and enduring for eternity,
-|     without one who might ever repeat him.
-
-</div>
-
-[^fn-1]: The text here appears to switch from praising Khnum-Re to describe the king, who has received his royal legitimacy from the god.
+## Esna 87 {-}  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+  
+- Location: Facade, intercolumnar B  
+- Date: Uncertain  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=251){target="_blank"}  
+- Bibliography: None  
+  
+<div class="col2">  
+  
+*ỉt m šȝʿ*    
+*ṯz pr.t n nṯr.w rmṯ*    
+*nb sḫm.ty*    
+*ḥqȝ mn.ty*    
+*rḏỉ ỉȝw.t n mr=f*    
+   
+*ʿḥʿ(.w) ḥr ns.t=f*    
+    *ḥr ḫbỉ ỉnw*    
+    *m tȝ ḥr-ȝw=f*    
+*tȝ r-ḏr=f n=f m ʿq*    
+*ỉw=f m nsw.t*    
+    *mn(.w) wȝḥ(.w) n nḥḥ*    
+    *ỉwty wḥm.t=fy ḏ.t*   
+  
+  
+The Father in the Beginning,    
+who binds seed for gods and men,    
+lord of the two crowns/uraei,    
+ruler of the desert regions,    
+who gives the office to whom he prefers,  
+   
+(so that he)[^fn-1] ascends upon his throne,  
+    collecting tribute  
+    from the entire world,  
+the whole world belongs to him in joy,  
+while he is the king,    
+    remaining and enduring for eternity,  
+    without one who might ever repeat him.  
+  
+</div>  
+  
+[^fn-1]: The text here appears to switch from praising Khnum-Re to describe the king, who has received his royal legitimacy from the god.  

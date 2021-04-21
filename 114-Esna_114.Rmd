@@ -1,63 +1,63 @@
-## Esna 114 {-}
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-
-- Location: Intercolumnar E
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=290){target="_blank"}
-- Bibliography: None
-
-<div class="col2">
-
-| *wnn zȝ-Rʿ*  
-| *(tmtyns ʿnḫ ḏ.t)|*  
-|   *m ỉwʿ n ṯnn*  
-|   *ḥr dwn ḏr.t=f *  
-|     *ẖr šʿ n wḏb*  
-|       
-| *sw m ʿqȝ-ỉb*  
-|   *sšm kȝ.t*  
-|   *ḏbȝ snṯ*  
-|   *ỉr ȝḫ.w n ỉt=f*  
-| 
-| *twt nb qȝḥ*  
-|   *ʿȝ nš.w*  
-|   *wr mšʿ*  
-|   *ṯz ḏȝm.w*  
-|   *smn ḥw.wt-nṯr.w*  
-|   *ḥsb ʿḫm.w*  
-
-| While the son of Re,  
-| (Domitian, living eternally)|,  
-|    is the heir of Tatenen,  
-|    extending his hand  
-|       with sand of the shore,
-|  
-| He is straight of heart,
-|    great of sand,
-|    who fills the foundation[^fn-0],
-|    and does benefactions for his father.
-|
-| You are the lord of clay,
-|    numerous of sand,
-|    great of troops,  
-|    who binds together recruits,
-|    who establishes temples,
-|    and accounts the statues.
-|   
-
-
-</div>
-
-[^fn-0]: ![](images/114_1.png){width=10%}: This same phrase occurs in the related scene with a similar spelling of *snṯ* [Esna II, 113], 2; a more conventional spelling in [Esna II, 113], 1, confirms the reading. The reference is to the king "filling" (*ḏbȝ*; *Wb* V, 558, 12) the excavated temple foundation with sand. Cf. @laroche-2020, pp. 85-86.
+## Esna 114 {-}  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+  
+- Location: Intercolumnar E  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=290){target="_blank"}  
+- Bibliography: None  
+  
+<div class="col2">  
+  
+*wnn zȝ-Rʿ*    
+*(tmtyns ʿnḫ ḏ.t)*    
+  *m ỉwʿ n ṯnn*    
+  *ḥr dwn ḏr.t=f *    
+    *ẖr šʿ n wḏb*    
+        
+*sw m ʿqȝ-ỉb*    
+  *sšm kȝ.t*    
+  *ḏbȝ snṯ*    
+  *ỉr ȝḫ.w n ỉt=f*    
+  
+*twt nb qȝḥ*    
+  *ʿȝ nš.w*    
+  *wr mšʿ*    
+  *ṯz ḏȝm.w*    
+  *smn ḥw.wt-nṯr.w*    
+  *ḥsb ʿḫm.w*    
+  
+While the son of Re,    
+(Domitian, living eternally),    
+   is the heir of Tatenen,    
+   extending his hand    
+      with sand of the shore,  
+   
+He is straight of heart,  
+   great of sand,  
+   who fills the foundation[^fn-0],  
+   and does benefactions for his father.  
+  
+You are the lord of clay,  
+   numerous of sand,  
+   great of troops,    
+   who binds together recruits,  
+   who establishes temples,  
+   and accounts the statues.  
+    
+  
+  
+</div>  
+  
+[^fn-0]: ![](images/114_1.png){width=10%}: This same phrase occurs in the related scene with a similar spelling of *snṯ* [Esna II, 113], 2; a more conventional spelling in [Esna II, 113], 1, confirms the reading. The reference is to the king "filling" (*ḏbȝ*; *Wb* V, 558, 12) the excavated temple foundation with sand. Cf. @laroche-2020, pp. 85-86.  

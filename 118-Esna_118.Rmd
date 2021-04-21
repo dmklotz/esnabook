@@ -1,136 +1,136 @@
-## Esna 118 {-}
-
-- Location: Intercolumnar Wall, D
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=294){target="_blank"}
-- Bibliography: @sayed-neith, pp. 626-627, Doc. 1011; O. Kaper, *Tutu*, 236-7 (non vidi)  
+## Esna 118 {-}  
   
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-#### Title {-}
-
-<div class="col2">
-
-
-| ^1^  *ỉr(.t) mḏ n mw.t=f  *
-| *snfr ḥʿ.w n ỉt=f  *
-|
-| ^1^ Doing ointment for his mother,
-| beautifying the body of his father.
-
-</div>
-
-#### The King {-}
-
-<div class="col2">
-
-|  
-| ^2^ *nsw.t-bỉty  *
-| *(ỉwtgrtr ksrs)|  *
-| ^3^ *zȝ-Rʿ  *
-| *(tymdns ḫwỉ)|  *
-|   
-| ^4^ *wnn zȝ-Rʿ  *
-| *(tymdns ʿnḫ-ḏ.t)|  *
-|   *m snn n šsmw  *
-|   *ḥr ḫrp ḫȝw nb n tȝ-nṯr  *
-| *sw mỉ ḥr   *
-|   *ḥrỉ psḏ.t nw ỉs.t  *
-|
-| King of Upper and Lower Egypt,
-| (Autokrator Caesar)|
-| Son of Re
-| (Domitian Augustus)|
-| 
-| While the son of Re,
-| (Domitian, living eternally)|
-|   is in his form of Shesemu,
-|   offering all ingredients from God's Land,
-| he is like Horus,
-|   chief of the Ennead of the Laboratory.[^fn-118-1]
-
-</div>
-
-[^fn-118-1]: The reliefs concerning the Laboratory are immediately below this scene ([Esna 119]-[Esna 125]).
-
-#### Tutu {-}
-
-<div class="col2">
-
-| *twtw wr [zȝ] N.t  *
-| *nṯr nṯry  *
-| *nb nmt.t  *
-|  
-| *ḥdy=k r s.t * 
-|    *[...] mw.t=f  *
-| *pẖr [...]  *
-| *[...]k nḫy [...]  *
-|   
-| *mry dỉ ʿnḫ-ḏd-wȝs *
-| *snb ȝw.t-ỉb nb  *
-| *mỉ Rʿ  *
-|
-| Tutu the great, [son] of Neith,
-| divine god,
-| lord of steps:
-|
-| May you fly to the place 
-|   [of] your mother,
-| and travel around [...]
-| you [...] protector [of ...]
-|
-| Beloved of the one who gives
-| all *ʿnḫ-ḏd-wȝs*, health, and happiness,
-| like Re.
-
-</div>
-
-#### Neith  {-}
-
-<div class="col2">
-
-| ^8^ *ḏd-mdw ỉn N.t wr.t  *
-| *mw.t-nṯr* ^9^ *nb.t tȝ-sn.t  *
-|   
-| *mw.t n Rʿ  *
-| ^10^ *qmȝ ḫn.ty  *
-| *ỉr nṯr.w nw pȝwty.w  *
-|   
-| ^11^ *mw.t-nṯr   *
-| *ḫpr [m] ḥȝ.t  *
-| *qmȝ tȝ  *
-| *ỉr nṯr.w pȝwty.w  *
-| *ỉwty snw=s  *
-|   
-| *p.t mḥ.tw m nfrw=s  *
-| *tȝ ʿpr.tw m [...]=s  *
-| *ḥw.wt-nṯr.w ẖr ʿḫm.w=sn  *
-|  
-| ^8^ Words spoken by Neith the great,
-| Mother of God, ^9^ Lady of Esna.
-| 
-| Mother of Re,
-| ^10^ who created the two crocodiles,
-| who made the primeval gods.
-| 
-| ^11^ Mother of God, 
-| who came about [in] the beginning,
-| who created the earth,
-| who made the primeval gods,
-| without her peer.
-| 
-| Heaven is filled with her beauty,
-| the earth is equipped with her [...],
-| temples bear their statues.
-
+- Location: Intercolumnar Wall, D  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=294){target="_blank"}  
+- Bibliography: @sayed-neith, pp. 626-627, Doc. 1011; O. Kaper, *Tutu*, 236-7 (non vidi)    
+    
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+#### Title {-}  
+  
+<div class="col2">  
+  
+  
+^1^  *ỉr(.t) mḏ n mw.t=f  *  
+*snfr ḥʿ.w n ỉt=f  *  
+  
+^1^ Doing ointment for his mother,  
+beautifying the body of his father.  
+  
+</div>  
+  
+#### The King {-}  
+  
+<div class="col2">  
+  
+   
+^2^ *nsw.t-bỉty  *  
+*(ỉwtgrtr ksrs) *  
+^3^ *zȝ-Rʿ  *  
+*(tymdns ḫwỉ) *  
+    
+^4^ *wnn zȝ-Rʿ  *  
+*(tymdns ʿnḫ-ḏ.t) *  
+  *m snn n šsmw  *  
+  *ḥr ḫrp ḫȝw nb n tȝ-nṯr  *  
+*sw mỉ ḥr   *  
+  *ḥrỉ psḏ.t nw ỉs.t  *  
+  
+King of Upper and Lower Egypt,  
+(Autokrator Caesar)  
+Son of Re  
+(Domitian Augustus)  
+  
+While the son of Re,  
+(Domitian, living eternally)  
+  is in his form of Shesemu,  
+  offering all ingredients from God's Land,  
+he is like Horus,  
+  chief of the Ennead of the Laboratory.[^fn-118-1]  
+  
+</div>  
+  
+[^fn-118-1]: The reliefs concerning the Laboratory are immediately below this scene ([Esna 119]-[Esna 125]).  
+  
+#### Tutu {-}  
+  
+<div class="col2">  
+  
+*twtw wr [zȝ] N.t  *  
+*nṯr nṯry  *  
+*nb nmt.t  *  
+   
+*ḥdy=k r s.t *   
+   *[...] mw.t=f  *  
+*pẖr [...]  *  
+*[...]k nḫy [...]  *  
+    
+*mry dỉ ʿnḫ-ḏd-wȝs *  
+*snb ȝw.t-ỉb nb  *  
+*mỉ Rʿ  *  
+  
+Tutu the great, [son] of Neith,  
+divine god,  
+lord of steps:  
+  
+May you fly to the place   
+  [of] your mother,  
+and travel around [...]  
+you [...] protector [of ...]  
+  
+Beloved of the one who gives  
+all *ʿnḫ-ḏd-wȝs*, health, and happiness,  
+like Re.  
+  
+</div>  
+  
+#### Neith  {-}  
+  
+<div class="col2">  
+  
+^8^ *ḏd-mdw ỉn N.t wr.t  *  
+*mw.t-nṯr* ^9^ *nb.t tȝ-sn.t  *  
+    
+*mw.t n Rʿ  *  
+^10^ *qmȝ ḫn.ty  *  
+*ỉr nṯr.w nw pȝwty.w  *  
+    
+^11^ *mw.t-nṯr   *  
+*ḫpr [m] ḥȝ.t  *  
+*qmȝ tȝ  *  
+*ỉr nṯr.w pȝwty.w  *  
+*ỉwty snw=s  *  
+    
+*p.t mḥ.tw m nfrw=s  *  
+*tȝ ʿpr.tw m [...]=s  *  
+*ḥw.wt-nṯr.w ẖr ʿḫm.w=sn  *  
+   
+^8^ Words spoken by Neith the great,  
+Mother of God, ^9^ Lady of Esna.  
+  
+Mother of Re,  
+^10^ who created the two crocodiles,  
+who made the primeval gods.  
+  
+^11^ Mother of God,   
+who came about [in] the beginning,  
+who created the earth,  
+who made the primeval gods,  
+without her peer.  
+  
+Heaven is filled with her beauty,  
+the earth is equipped with her [...],  
+temples bear their statues.  
+  
 </div>

@@ -1,0 +1,129 @@
+## Esna 85 {-}
+
+- Location: North-east door, right side
+- Date: Probably Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=249){target="_blank"}
+- Bibliography: @sayed-neith, p. >>, Doc. 1031.
+
+<div class="col2">  
+
+^1^ *rȝ mḥty [Iwn]y.t [...]  *  
+[...]      
+*[...] ḥw.t-mw.t  *  
+*mw.t-nṯr Rʿ wr.tw m-ẖnw=f  *    
+*s.t=s ʿḥʿ ḥm=s m tȝ-šmʿ  *  
+*ṯnỉ.tw r mn.t  *  
+  *ẖr ỉtn.wy  *  
+    
+*wbn=s m-ḫnt=f  *  
+*mỉ wn=s ḫnty ḥr.t  *  
+*ḫʿỉ=s r tr=s  *  
+*m ỉrw=s n ỉwnt.t  *  
+*m* ^2^ *ḥb=s nfr ḥb-N.t  *  
+[...]  
+   
+^1^ The northern door of [Iu]nyt [...]  
+[...]  
+[...] the Temple of the Mother.  
+The Mother of God is great therein,  
+Her throne, where she stays in Upper Egypt,  
+more distinguished than the sky  
+  bearing the two disks.  
+   
+She rises within it  
+  as if she were in heaven,[^fn-85-1]  
+she appears in procession at her season  
+  in her form of the Archer,  
+in her ^2^ good festival, the Festival of Neith  
+[...]
+
+</div>
+
+[^fn-85-1]: Similar phraseology describing Neith's procession in the symmetric text, [Esna 64],1.
+
+<div class="col2">  
+
+[...]    
+*[...] wr  *  
+*ṯ.t=s dns.tw m ḥtp.w-nṯr  *  
+*sḥ.w=s ʿpr.tw m nṯry  *  
+*ʿḥ=s ḥnʿ.tw m ỉbr  *  
+   
+*nỉ gm wš m ḥw.t-nṯr=s  *  
+  *r-ʿ nḥḥ  *  
+    
+*ḫpr Mḥ-N.t m rn sḥ   *  
+  *ḥr ỉȝb n r-pr.w nb  *  
+  *r mn hrw pn    *  
+  
+[...]      
+[...] great,  
+her altar is heavy with offerings,  
+her chambers are equipped with linen,  
+her palace is stocked with *ỉbr*-unguent.  
+    
+Nothing is found to be missing in her temple,  
+until the end of eternity.  
+  
+Thus *Mḥ-n.t* is the name of the [shrine]  [^fn-85-2]  
+  on the left of every temple  
+    until this very day.
+
+</div>
+
+[^fn-85-2]: It's unclear what etymology is being referred to here. Possibly the preceding statements about how Neith's temple chapels are "filled (*mḥ*)" with all good things?
+
+<div class="col2">
+
+^3^ *mȝȝ [...]  *  
+*[...]=s ḫnt ḥr.t  *  
+*psḏ.t=s ḥr wnm-ỉȝb  *  
+  *mỉ gnẖ.w ḥr šms=s  *  
+  
+*zȝ=s Rʿ m šww ỉmỉ.tw=s  *  
+*ỉwr(.w) r ms.t=f*  
+*rʿ-nb  *  
+*^4^ ʿq=f ḥw.t-N.t  *  
+*r mȝȝ mw.t=f  *  
+*ršw ỉb=f *  
+*ḥr mȝȝ ṯȝ.wy=f  *  
+  
+*ṯḥn.wy ḫnty pn nfr  *  
+*wr.wy sy*   
+  *r nty ẖr-ḥȝ.t  *  
+    
+*pẖr(.w) m sš.w  *  
+*nḫb(.w) ḥr rn wr  *  
+*ʿpr.tw ḏsr.tw ẖr ỉm[=s?]  *  
+*ḥr swr šfy.t n mw.t-nṯr  *  
+*ḥnʿ psḏ.t=s  *  
+*ḏ.t nḥḥ  *
+
+[...] sees [...]  
+[...] she [...] within the sky,  
+her Ennead on the right and left,  
+  like the stars in her following.  
+    
+Her son Re is the sun within her,  
+being pregnant in order to birth him  
+  every day,  
+^4^ he enters[^fn-85-3] the Temple of Neith  
+in order to see his mother,  
+and his heart rejoices  
+from seeing his two children.  
+  
+How scintillating is this good forecourt!  
+How much greater it is  
+than what was there before!  
+  
+Inscribed with all writings,  
+carved in the great name (of the king),  
+equipped and made sacred with [its] contents,  
+magnifying the prestige of the Mother of God,  
+along with her Ennead,  
+for ever and for all eternity.  
+
+</div>
+
+[^fn-85-3]: ![](images/85_1.png){width=10%} - The serpent appears to be serving double duty as the verb *and* the suffix pronoun. Alternatively, this could be a participle in apposition to Re: "He who enters the temple of Neith..."
+

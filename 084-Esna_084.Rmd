@@ -1,4 +1,4 @@
-## Esna 84{-}
+## Esna 84 {-}
 
 - Location: North-east door, left side
 - Date: Probably Domitian
@@ -22,21 +22,27 @@
 *s.t tn tȝ pw  [...]  *  
 
 ^1^ [...]  
-[...the work of] his [hands?]  
+[...the work of] his [hands?] [^fn-84-1] 
 settles nomes and cities.  
 
 Then Re said to his [son], Shu:  
-May you go [...]  
-you [...] the area of every god for him.  
+"May you go [...]  
+you [...] the area of every god for him."  
   
 They went upstream to the southern cities,  
   to where the Mother of God (Neith) was,  
-That is: the South City (*Rs-n.t*).  
+That is: the South City (*Rs-n.t*).[^fn-84-2]  
   
 Then Shu said to Re:  
-This place is the land of [...]  
+"This place is the land of [...]"  
 
 </div>
+
+
+[^fn-84-1]: Tentative restoration based on [Esna 61], 1 and 6-7; [Esna 177], 11.
+
+[^fn-84-2]: Although the syntax is unconventional, there appears to be a pun on the "southern city" (i.e. Esna) and the *Rs-n.t* chapel of Neith.
+
 <div class="col2">
  ^2^ [....]  
  *[...ḏd].tw [ḫnt]-tȝ  *  
@@ -49,14 +55,21 @@ This place is the land of [...]
 
 ^2^ [...]  
 Thus one [says Khent]-ta  
-   as the name of this district;  
+   as the name of this district;[^fn-84-3]  
      
-Khonsu and Thoth came about in this place  
-   for the Festival of Fury  
+Khonsu and Thoth [^fn-84-4] came about in this place  
+   for the Festival of Fury [^fn-84-5]  
      within this temple for that reason,  
    until today.  
    
 </div>
+
+[^fn-84-3]: Restoration suggested by @sauneron-2, p. 181, n. a. Presumably, Shu's damaged speech that began mentioning a "land (*tȝ*)" also mentioned the term *ḫnt* or a homophone.
+
+[^fn-84-4]: @sauneron-2, p. 181, n. a., noted the names **Khon**su and **Tho**th acrophonically evoke the name of **Khent-ta**.
+
+[^fn-84-5]: The "moment of fury" is mentioned in relation to Neith in [Esna 102], 2. It's unclear which actual festival from the calendar at Esna this corresponds to.
+
 <div class="col2">
 
 ^3^ [...]   
@@ -64,7 +77,7 @@ Khonsu and Thoth came about in this place
  *ḥnʿ ỉt=sn mw.t=sn  *  
 
 ^4^ [...]  
-*nḥm.tw n kȝ=s   *  
+*nhm.tw n kȝ=s   *  
 *[...]  *  
 *[ʿq m pr] pn   *  
  *[m wrḏ?]-ỉb  *  
@@ -81,9 +94,12 @@ Khonsu and Thoth came about in this place
 one rejoices for her Ka [...]  
 [...]  
 [if one enters th[is [temple]  
- [in ill] health(?),  
+ [in ill] health(?),[^fn-84-6]  
  he leaves it in good health.  
   
 The condition of the entire world  
  is before her face.  
+ 
 </div>
+
+[^fn-84-6]: ![](images/84_1.png){width=35%} - The precise negative adjective of the heart is unclear, but it clearly contrasts with *snb-ỉb* mentioned next.

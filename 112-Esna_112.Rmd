@@ -1,130 +1,130 @@
-## Esna 112 {-}
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-
-- Location: Intercolumnar E
-- Date: Domitian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=285){target="_blank"}
-- Bibliography: None
-
-
-#### Formula {-}
-<div class="col2">
-
-| ^1^ *ỉȝw n=k* 
-| *pȝ bȝ ʿȝ-ỉrw  *
-| *wr-nrw štȝ-*^2^*ms.w  *
-| *nṯr wʿ ḫpr m ḥḥ(.w) *
-| *qmȝ nty nb ḫpr=f  *
-|  
-| ^1^ Greetings to you,
-| o Ba, great of form,
-| great of fear, remote ^2^ of appearance,
-| sole god who transformed into millions,
-| who created all that is when he came about.
-
-</div>
-
-#### The King {-}
-<div class="col2">
-
-| ^3^ *nsw.t-bỉty  *
-| *(wytqrtr ksrs)|  *
-| ^4^ *zȝ-Rʿ  *
-| *(twm[t]yns ḫwỉ)|  *
-| 
-| ^3^ King of Upper and Lower Egypt,
-| Autokrator Caesar,
-| ^4^ Son of Re,
-| Domitian, Augustus
-
-</div>
-
-#### Nekhbet (vulture) {-}
-<div class="col2">
-
-| ^5^ *Nḫb.t ỉr.t wnm.t n* ^6^ *Itm  *
-| ^7^ *mry  *
-| *dỉ(.) ʿnḫ-ḏd-wȝs nb  *
-|   *snb nb  *
-|   ^8^ *ȝw.t-ỉb nb ḥr s.t-ḥr  *
-|
-| ^5^ Nekhbet, the right eye of ^6^ Atum,
-| ^7^ beloved, 
-| who gives all *ʿnḫ-ḏd-wȝs*,
-|    all health,
-|    ^8^ all happiness upon the throne of Horus.
-</div>
-
-#### Behind the king {-}
-<div class="col2">
-
-| ^9^ *nṯr nfr ỉr ḥk(nw)[...]*
-|
-| ^9^ The good god, who makes praises [...]
-</div>
-
-#### Ram-headed Crocodile {-}
-
-<div class="col2">
-
-| ^10^ *šsr-tȝ ḫpr m* ^11^ *zp tpy  *
-| *šȝʿ Nwn* ^12^ *ms pȝwty  *
-|   *ỉs tȝ m Nwn m nn  *
-| *nḥm s(w) šzp  *
-|   *wn(.w) m kkw  *
-|   
-| ^13^ *ỉwn ḫnt  *
-| *pr=sn m n.t  *
-| *kȝ=sn ḏsr   *
-|   *m ẖnmw-[Rʿ] nb tȝ-sn.t  *
-|  
-| ^10^ *šsr-tȝ*(?) [^fn-112-1] who came about in the first moment,
-| who began Nun, who birthed the primeval one,
-|    while the earth was in Nun and inert,
-| light captured it (earth),
-|    when it had been in darkness.
-| 
-| ^13^ The pillar of wind and the crocodile:
-| they both emerged from the flood,
-| their name is sacred  
-|    as Khnum-[Re][^fn-112-2], lord of Esna.
-</div>
-
-
-#### Wadjet (cobra) {-}
-<div class="col2">
-
-| ^14^ *wȝḏy.t ỉr.t ỉȝbt.t n Itm  *
-|
-| ^14^ Wadjet, the leftt eye of Atum.
-</div>
-
-#### Behind Wadjet {-}
-
-<div class="col2">
-
-| ^15^ *nsw.t-bỉty  *
-| *swȝš ḥknw n kȝ n pȝwty  *
-| *ẖnm[...] m [...]  *
-|
-| ^15^ The King of Upper and Lower Egypt,
-| who utters praises for the Ka of the Primeval One,
-| [...]
-</div>
-
-[^fn-112-1]: ![](images/112_1.png){width=20%}: The reading is not entirely certain, and it is unclear if this is an epithet or a divine name for the ram-headed crocodile. *LGG* VII, 128a, cites only this example, tentatively translating: "Der das Land erleuchtet."
-
-[^fn-112-2]: The element for "Re" is damaged, but Sauneron suggested it might be: ![](images/112_2.png){width=12%}. Thus a graphic allusion to Re emerging from the flood, as described in the present text. 
-
+## Esna 112 {-}  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+  
+- Location: Intercolumnar E  
+- Date: Domitian  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=285){target="_blank"}  
+- Bibliography: None  
+  
+  
+#### Formula {-}  
+<div class="col2">  
+  
+^1^ *ỉȝw n=k*   
+*pȝ bȝ ʿȝ-ỉrw  *  
+*wr-nrw štȝ-*^2^*ms.w  *  
+*nṯr wʿ ḫpr m ḥḥ(.w) *  
+*qmȝ nty nb ḫpr=f  *  
+   
+^1^ Greetings to you,  
+o Ba, great of form,  
+great of fear, remote ^2^ of appearance,  
+sole god who transformed into millions,  
+who created all that is when he came about.  
+  
+</div>  
+  
+#### The King {-}  
+<div class="col2">  
+  
+^3^ *nsw.t-bỉty  *  
+*(wytqrtr ksrs) *  
+^4^ *zȝ-Rʿ  *  
+*(twm[t]yns ḫwỉ) *  
+  
+^3^ King of Upper and Lower Egypt,  
+Autokrator Caesar,  
+^4^ Son of Re,  
+Domitian, Augustus  
+  
+</div>  
+  
+#### Nekhbet (vulture) {-}  
+<div class="col2">  
+  
+^5^ *Nḫb.t ỉr.t wnm.t n* ^6^ *Itm  *  
+^7^ *mry  *  
+*dỉ(.) ʿnḫ-ḏd-wȝs nb  *  
+  *snb nb  *  
+  ^8^ *ȝw.t-ỉb nb ḥr s.t-ḥr  *  
+  
+^5^ Nekhbet, the right eye of ^6^ Atum,  
+^7^ beloved,   
+who gives all *ʿnḫ-ḏd-wȝs*,  
+   all health,  
+   ^8^ all happiness upon the throne of Horus.  
+</div>  
+  
+#### Behind the king {-}  
+<div class="col2">  
+  
+^9^ *nṯr nfr ỉr ḥk(nw)[...]*  
+  
+^9^ The good god, who makes praises [...]  
+</div>  
+  
+#### Ram-headed Crocodile {-}  
+  
+<div class="col2">  
+  
+^10^ *šsr-tȝ ḫpr m* ^11^ *zp tpy  *  
+*šȝʿ Nwn* ^12^ *ms pȝwty  *  
+  *ỉs tȝ m Nwn m nn  *  
+*nḥm s(w) šzp  *  
+  *wn(.w) m kkw  *  
+    
+^13^ *ỉwn ḫnt  *  
+*pr=sn m n.t  *  
+*kȝ=sn ḏsr   *  
+  *m ẖnmw-[Rʿ] nb tȝ-sn.t  *  
+   
+^10^ *šsr-tȝ*(?) [^fn-112-1] who came about in the first moment,  
+who began Nun, who birthed the primeval one,  
+   while the earth was in Nun and inert,  
+light captured it (earth),  
+   when it had been in darkness.  
+  
+^13^ The pillar of wind and the crocodile:  
+they both emerged from the flood,  
+their name is sacred    
+   as Khnum-[Re][^fn-112-2], lord of Esna.  
+</div>  
+  
+  
+#### Wadjet (cobra) {-}  
+<div class="col2">  
+  
+^14^ *wȝḏy.t ỉr.t ỉȝbt.t n Itm  *  
+  
+^14^ Wadjet, the leftt eye of Atum.  
+</div>  
+  
+#### Behind Wadjet {-}  
+  
+<div class="col2">  
+  
+^15^ *nsw.t-bỉty  *  
+*swȝš ḥknw n kȝ n pȝwty  *  
+*ẖnm[...] m [...]  *  
+  
+^15^ The King of Upper and Lower Egypt,  
+who utters praises for the Ka of the Primeval One,  
+[...]  
+</div>  
+  
+[^fn-112-1]: ![](images/112_1.png){width=20%}: The reading is not entirely certain, and it is unclear if this is an epithet or a divine name for the ram-headed crocodile. *LGG* VII, 128a, cites only this example, tentatively translating: "Der das Land erleuchtet."  
+  
+[^fn-112-2]: The element for "Re" is damaged, but Sauneron suggested it might be: ![](images/112_2.png){width=12%}. Thus a graphic allusion to Re emerging from the flood, as described in the present text.   
+  

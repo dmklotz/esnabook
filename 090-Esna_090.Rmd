@@ -1,72 +1,72 @@
-## Esna 90 {-}
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-
-- Location: Facade, Intercolumnar C
-- Date: Uncertain, probably Nero (cf. [Esna 91])
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=257){target="_blank"}
-- Bibliography: @sayed-neith, II, p. 633, Doc. 1023a (complete translation)
-
-
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-    -webkit-column-break-inside: avoid;
-    -page-break-inside: avoid;
-    -break-inside: avoid;
-  }
-
-</style>
-
-
-<div class="col2">
-
-| *spr m ḥtp r ḥw.t-Mw.t  *
-|   *n mw.t=f wr.t-ḥkȝw  *
-|     *ḫw=s ḥʿw=k  *
-|     *rn=k nḫb(.w)   *
-|       *m nỉw.wt spȝ.wt  *
-|   
-| *štȝ.t wr.t  *
-| *ỉr=s mk.t=k  *
-| *sḫr=s sbỉ  *
-|   *r bw ẖr ḥm=k  *
-|   
-| *šzp.tw=k Mnṯw  *
-| *ẖnm.tw=k Itm m ḥtp*
-|    *ỉw ỉb=k nḏm(.w)  *  
-|
-| Arrive in peace to the Temple of the Mother,[^fn-090-0]  
-|  of your mother, Weret-hekau,  
-|    she protects your body,
-|    and your name is inscribed[^fn-090-1]  
-|      in (all) cities and nomes. 
-|  
-| The great, mysterious one:
-| she performs your protections,
-| she knocks downs the rebel 
-|    wherever your majesty might be.  
-|
-| Montu receives you,  
-| Atum embraces you in peace, 
-|    your heart is pleased.  
-
-
-</div>
-
-[^fn-090-0]: This text runs over [Esna 91], where Montu and Atum introduce Nero before Neith and Heka the child.
-
-[^fn-090-1]: ![](images/090_1.png){width=8%}: @sayed-neith, p. 633 translated: "ton nom est «celui de lotus»", but this is more likely the verb *nḫb*, "to inscribe", regularly determined with the lotus (*Wb* II, 307, 15).
+## Esna 90 {-}  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+  
+- Location: Facade, Intercolumnar C  
+- Date: Uncertain, probably Nero (cf. [Esna 91])  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=257){target="_blank"}  
+- Bibliography: @sayed-neith, II, p. 633, Doc. 1023a (complete translation)  
+  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+  
+<div class="col2">  
+  
+*spr m ḥtp r ḥw.t-Mw.t  *  
+  *n mw.t=f wr.t-ḥkȝw  *  
+    *ḫw=s ḥʿw=k  *  
+    *rn=k nḫb(.w)   *  
+      *m nỉw.wt spȝ.wt  *  
+    
+*štȝ.t wr.t  *  
+*ỉr=s mk.t=k  *  
+*sḫr=s sbỉ  *  
+  *r bw ẖr ḥm=k  *  
+    
+*šzp.tw=k Mnṯw  *  
+*ẖnm.tw=k Itm m ḥtp*  
+   *ỉw ỉb=k nḏm(.w)  *    
+  
+Arrive in peace to the Temple of the Mother,[^fn-090-0]    
+ of your mother, Weret-hekau,    
+   she protects your body,  
+   and your name is inscribed[^fn-090-1]    
+     in (all) cities and nomes.   
+   
+The great, mysterious one:  
+she performs your protections,  
+she knocks downs the rebel   
+   wherever your majesty might be.    
+  
+Montu receives you,    
+Atum embraces you in peace,   
+   your heart is pleased.    
+  
+  
+</div>  
+  
+[^fn-090-0]: This text runs over [Esna 91], where Montu and Atum introduce Nero before Neith and Heka the child.  
+  
+[^fn-090-1]: ![](images/090_1.png){width=8%}: @sayed-neith, p. 633 translated: "ton nom est «celui de lotus»", but this is more likely the verb *nḫb*, "to inscribe", regularly determined with the lotus (*Wb* II, 307, 15).  
