@@ -1,6 +1,3 @@
-# Intercolumnar Wall D (68-70) {-}  
-  
-  
 ## Esna 69 {-}  
   
 <style>  
@@ -15,10 +12,10 @@
   
 </style>  
   
-- Location: Facade, intercolumnar bandeau  
+- Location: Facade, intercolumnar wall D, bandeau  
 - Date: Unknown, probably Claudius   
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=215){target="_blank"}  
-- Bibliography: None  
+- Bibliography: @elgawady, p. 195.  
   
 <div class="col2">  
 *jj.tw m ḥtp*    
@@ -48,6 +45,5 @@ you appear [upon] the throne of Horus, eternally
   
 </div>  
   
-[^fn-69-1]: This text is properly speaking a caption above [Esna II, 70], where Nekhbet and Wadjet introduce the king to Khnum and Heka the child.   
-  
+[^fn-69-1]: This text is properly speaking a caption above [Esna II, 70], where Nekhbet and Wadjet introduce the king to Khnum and Heka the child.
 [^fn-69-2]: Restored after [Esna 66].  

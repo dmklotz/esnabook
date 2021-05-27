@@ -22,7 +22,7 @@
 <div class="col2">  
   
 *s.t tn n nṯr.t  *  
-  *pḏ-nmṯ.t ḥr sỉn=s (?)  *  
+  *pḏ-nmṯ.t ḥr ḥn.t=s (?)  *  
 *(w)ḏ(ȝ)=s wḏȝ tȝ  *  
     
 *ḥw.t-Nt pw snḏm=s ỉm=s  *  
@@ -65,7 +65,7 @@ It resembles [^fn-75-5] the heaven
   
 </div>  
   
-[^fn-75-1]: ![](images/75_1.png){width=20%}. Reading uncertain. The initial epithet seems likely, assuming the first sign writes *pḏ*, "to stretch out (wings)" (*Wb* I, 568, 2).  
+[^fn-75-1]: ![](images/75_1.png){width=30%}. Reading uncertain. The initial epithet seems likely, assuming the first sign writes *pḏ*, "to stretch out (wings)" (*Wb* I, 568, 2). For the location, compare [Esna 58], 1.
   
 [^fn-75-2]: A desert region (*mr.t*) of Esna is mentioned on the funerary pOIC 25389 (35, 8) belonging to a Latopolite priest: @herbin-ldpe, p. 273.  
   

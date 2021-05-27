@@ -13,11 +13,11 @@
 - Location: South-east door, right side of lintel  
 - Date: Unknown, Domitian  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=206){target="_blank"}  
-- Bibliography: @sayed-neith, p. 626, Doc. 1010.  
+- Bibliography: @sayed-neith, p. 626, Doc. 1010; @gamelin-2019, p. 27 (partial translation).
   
 ### Formula {-}  
 <div class="col2">  
-^1^ *mn n=k ʿntyw n Pwn.t  *  
+^1^ *mn n=ṯ ʿntyw n Pwn.t  *  
   *ḥḏ.w nw tȝ-nṯr  *  
   
 ^1^ Take the myrrh from Punt,   

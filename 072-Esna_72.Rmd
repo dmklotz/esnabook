@@ -1,0 +1,175 @@
+## Esna 72 {-}  
+  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: North Anta, middle
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=220){target="_blank"}  
+- Bibliography: None; see LGG references on [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/370){target="_blank"}  
+- [Photograph](http://www.temples-egypte.net/sud/esna/devant/montantNord.html#B1){target="_blank"} 
+
+#### Formula {-}
+
+<div class="col2">  
+
+^1^ *mn n=ṯ ỉḫt  *  
+*[f]ȝỉ=ỉ n* ^2^ *kȝ=t  *  
+*ḥnk(=i) sn [m] ḫft-ḥr=ṯ  *  
+^3^ *šzp=t ỉm=sn   *  
+*ỉw=w wʿb.w  *  
+  
+^1^ Take these offering,  
+which I [li]ft to ^2^ your Ka,  
+which (I) offer [in] your forecourt.  
+^3^ Eat from them,  
+they being pure.  
+
+</div>
+
+#### The King {-}
+
+<div class="col2"> 
+
+^4^ *nsw.t-bỉty  *  
+*nb-tȝ.wy  *  
+*(ȝwtwkrtwr kysrs)|  *  
+^5^ *zȝ-Rʿ nb-ḫʿ.w  *  
+*(twmtyns nty-ḫwỉ)|  *  
+  
+^6^ *ỉry-ȝbd n ntr.w nṯry.w  *  
+*(wʿb?) ʿ.wy  *  
+
+^7^ *mn n=t ỉḫt  *  
+*fȝỉ=ỉ m bȝḥ=t  *  
+*bȝk tȝ-mrỉ r-ȝw=s  *  
+*ẖr ỉḫt=sn n kȝ=t  *  
+*ỉnw=sn n=t *  
+*m ȝḫ.w nb.w  *  
+*nw šmʿ-mḥw  *  
+*r bȝḥ tȝ-sn.t m nfrw  *  
+  
+^4^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^5^ Son of Re, Lord of Appearancs,  
+(Domitian Augustus)|  
+  
+^6^ Monthly priest of gods and goddesses,  
+(pure?) of hands.  
+
+^7^ Take these offerings,  
+which I lift up before you!  
+All of Egypt has worked,  
+bearing their offerings for your Ka,  
+their tribute for you   
+is all excellent things   
+from Upper and Lower Egypt,  
+to flood Esna with goodness.  
+
+</div>
+
+#### Menhyt {-}
+
+<div class="col2"> 
+
+^10^ *ḏd-mdw n Mnḥy.t wr.t  *  
+*nb.t ḫnt-tȝ  *  
+*sḫm.t sḫm m ḫfty=s  *  
+*ḥr.t-tp ḫpr m-ḥȝ.t   *  
+*ȝḫ.t bẖ rnp.w  *  
+*ṯz ẖ.t n [...]  *  
+  
+^11^ *ḏỉ=ỉ n=k ỉḫt nb nfr  *  
+*kȝ.w ḏfȝ.w  *  
+*ḫpr nb r ẖr.t=k  *  
+  
+^10^ Words spoken by Menhyt the great,  
+Lady of Khent-ta,  
+Sakhmet, who takes control of her enemy,  
+uraeus, who came about in the beginning,  
+Excellent one, who births plants,  
+who binds the body of [...]  
+  
+^11^ I give to you all good things,  
+food, provision,  
+all come about for your share of food.
+
+</div>
+
+#### Heka {-}
+
+<div class="col2">
+
+^12^ *ḏd mdw n ḥkȝ wr-ḥkȝw  *  
+*zȝ sḫm.t  *  
+*ʿȝ wr tpy n ẖnmw  *  
+^13^ *zȝ wr   *  
+*ḏfḏ n wḏȝ.t  *  
+*ỉḥy nb pr-Gbb  *  
+^14^ *ỉry-pʿ.t nṯr.w  *  
+*sḫm m pʿ.t  *  
+*ʿn-ḥr*  
+^15^ *ḫʿỉ m sḫm.ty  *  
+*ḥr s.t ỉt=f m Iwny.t  *  
+    
+^16^ *ḏỉ=ỉ n=k wȝḏ.ty  *  
+*mn.tw m bȝḥ=k  *  
+*rtḥ.n=k sbỉ m rk=k  *  
+  
+^12^ Words spoken by Heka, Great of Magic,  
+son of Sakhmet,  
+the very great, first-born of Khnum,  
+^13^ great son,  
+iris of the *wedjat*-eye,  
+Ihy, lord of the House of Geb,  
+^14^ *ỉry-pʿ.t* of the gods,  
+who controls the *pʿ.t*-people,  
+pleasant of face,  
+^15^ who appears with the double crown  
+upon the throne of his father in Iunyt.  
+  
+^16^ I give you the two papyrus scepters,  
+established before you,  
+since you subdued the rebel in your time.  
+  
+</div>
+
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^17^ *šzp.n=ỉ t=k  *  
+*snm(?)=ỉ m ỉḫt=k  *  
+*ʿnḫ=ỉ m gs-pḫȝ=k  *  
+*šms-ỉb=ỉ m wnḏ.w nb.w  *  
+*nw ḥtp.w-nṯr  *  
+    
+*hỉms=ỉ n=k ỉdb.w-[ḥr]  *  
+*ḥr mzỉ n=k ỉnw=sn  *  
+*sṯty.w ḥr ỉn.t bỉȝ.wt=sn  *  
+  
+^17^ I have received your bread,  
+I feed(?)[^fn-72-1] upon your offerings,  
+I live from your loaves,  
+I enjoy myself with all foods  
+from the divine offerings.  
+  
+I make the Lands of [Horus] come to you  
+bringing to you their tribute,  
+and the Asiatics bringing their marvels.  
+
+</div>
+
+[^fn-72-1]: ![](images/72_1.png){width=15%} - Rather than translating this statement literally ("I am established (*smn=ỉ*)"), this seems to be a mistake for *snm*, "to eat; feed" (*Wb* IV, 164, 1-16).

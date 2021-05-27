@@ -29,13 +29,13 @@ NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epith
   
 <div class="col2">  
   
-*ʿnḫ ḥr   *  
+^A^ *ʿnḫ ḥr   *  
 *ṯmȝ-ʿ wr-pḥty  *  
 *ḥqȝ ḥqȝ.w   *  
 *stp.n Ptḥ  *  
   *Nwn-wr ỉt-ntr.w  *  
   
-Live the Horus,  
+^A^ Live the Horus,  
 Valiant of Arm, Great of Strength,  
 Ruler of Rulers,  
 chosen by Ptah,  
@@ -126,13 +126,13 @@ given life like Re forever.
   
 <div class="col2">  
   
-*ʿnḫ ḥr   *  
+^B^ *ʿnḫ ḥr   *  
 *ṯmȝ-ʿ wr-pḥty  *  
 *ḥqȝ ḥqȝ.w   *  
 *stp.n Ptḥ  *  
   *Nwn-wr ỉt-ntr.w  *  
 
-Live the Horus,  
+^B^ Live the Horus,  
 Valiant of Arm, Great of Strength,  
 Ruler of Rulers,  
 chosen by Ptah,  

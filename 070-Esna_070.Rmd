@@ -3,7 +3,7 @@
 - Location: Facade, intercolumnar wall D  
 - Date: Tiberius (not Claudius, as Sauneron claimed; cf. @grenier-1988, pp. 57-59)  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=215){target="_blank"}  
-- Bibliography: None  
+- Bibliography: @elgawady, pp. 196-197.  
   
 <style>  
   .col2 {  
@@ -86,7 +86,7 @@ so you might see the god,
 *sʿšȝ=f ḏȝm.w=k  *  
     
 ^8^ *spr r ḥw.t-ẖnmw  *  
-*ỉt-ỉt.w [...]  *  
+*n ỉt-ỉt.w [...]  *  
 *sšm=ỉ k(w) (ḥr) wȝ.t  *  
   *sqd=k ỉm=s  *  
 *snṯr(=ỉ) k(w) *   
@@ -101,7 +101,7 @@ so the Lord of the Potter's wheel
 and magnify your population.  
   
 ^8^ Arrive to the Temple of Khnum,  
-the father of fathers [...]  
+of the father of fathers [...]  
 I guide you (upon) the path [^fn-70-0]  
    through which you travel,  
 I make you more sacred   
@@ -215,12 +215,12 @@ all lands kiss the earth for your power.
   
 [^fn-70-0]: Wadjet uses the archaizing form of the second person masculine singular dependent pronoun *k(w)*, instead of *tw/ṯw*. Cf. @vernus-brown, pp. 208-213.  
   
-[^fn-70-1]: ![](images/70_1.png){width=15%} - A notable heraldic spelling of *pʿ.t rḫy.t*, confirmed by a fuller writing in [Esna 191],11:  
-![](images/70_4.png){width=25%}.   
-The first sign is relatively common, but the latter has not been registered before. Typically, a person holding a small bird or goose writes *zȝw*, "Sais" (@kurth-1, p. 132, 25e). The current phonetic value is apparently derived from two geese in the word *rḫ.ty*, "washers" (Wb II, 448, 9-11). A similar goose appears in this word in Esna IV, 416, 2: ![](images/70_3.png){width=18%}  
+[^fn-70-1]: ![](images/70_1.png){width=15%} - A notable heraldic spelling of *pʿ.t rḫy.t*, confirmed by a fuller writing in [Esna 191],11: 
+![](images/70_4.png){width=25%}; same in *Esna* VII, 582, 16.
+The first sign is relatively common, but the latter has not been registered before. Typically, a person holding a small bird or goose writes *zȝw*, "Sais" (@kurth-1, p. 132, 25e). The current phonetic value is apparently derived from two geese in the word *rḫ.ty*, "washers" (Wb II, 448, 9-11); as also suggested by @elgawady, p. 196, n. 1370. A similar goose appears in this word in Esna IV, 416, 2: ![](images/70_3.png){width=18%}  
   
 [^fn-70-2]: ![](images/70_2.png){width=15%} - Elsewhere at Esna, a similar animal head typically writes *ȝ.t*, "moment." This is most likely a hippopotamus head, which elsewhere writes *Dp*, "Buto", via substitution with the human head (@klotz-philae, p. 104, n. 136).  
   
-[^fn-70-3]: The same cosmic event, the initial creation of light by Khnum, is described in greater detail in *Esna* II 17, 12-15, with a direct parallel to this text: "while the earth was mixed in darkness (*ỉw tȝ ȝbḫ(.w) m zmȝwy*) (...) he opened his eyes, and light came into being immediately (*ptḥ.n=f ỉr.ty=f ḫpr wyn ḥr-ʿ*); cf. @pichel, pp. 34-39.  The text previously mentioned Kematef, the first serpent god who remains in Nun; his successor, Irita, is typically the one who rises from Nun, head first, to create light and solidify the earth: @klotz-caesar, pp. 122-125. Just like Amun in Thebes, Khnum at Esna embodied both "generations" of the creator.  
+[^fn-70-3]: The same cosmic event, the initial creation of light by Khnum, is described in greater detail in *Esna* II 17, 12-15, with a direct parallel to this text: "while the earth was mixed in darkness (*ỉw tȝ ȝbḫ(.w) m zmȝwy*) (...) he opened his eyes, and light came into being immediately (*ptḥ.n=f ỉr.ty=f ḫpr wyn ḥr-ʿ*); cf. @pichel, pp. 34-39; *Esna* VI, 541, South.  The text previously mentioned Kematef, the first serpent god who remains in Nun; his successor, Irita, is typically the one who rises from Nun, head first, to create light and solidify the earth: @klotz-caesar, pp. 122-125. Just like Amun in Thebes, Khnum at Esna embodied both "generations" of the creator.  
   
 [^fn-70-4]: Typical epithets of Amun in the Graeco-Roman period, who is usually "lord" of this list of celestial regions: @klotz-caesar, p. 60, with n. 104. Applied to Amun elewhere at *Esna* II, 25, 8-9; *Esna* VI, 487, 10-11; 518, 8-9.

@@ -16,7 +16,7 @@
 - Location: Facade, intercolumnar bandeau  
 - Date: Unknown, probably Claudius   
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=211){target="_blank"}  
-- Bibliography: None    
+- Bibliography: @elgawady, p. 197.
     
   
 <div class="col2">  
@@ -44,5 +44,4 @@ I have cut off (*mnḥ*) the heads of your enemies,
 </div>  
   
 [^fn-66_1]: This text is properly speaking a caption above [Esna 67]. The goddess Menhyt addresses the king while he is being purified by Harsiese and Thoth.  
-  
-[^fn-66_2]: This entire speech has an exact parallel in *Esna* II, 15, 19.  
+[^fn-66_2]: This entire speech has exact parallels in *Esna* II, 15, 19; [Esna 104], 3-4. 

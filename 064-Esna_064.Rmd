@@ -87,7 +87,7 @@ in order to build an heir
 for who ever is loyal to them.  
   
 One cannot be distinguished from the other,[^fn-64-2]   
-as Khnum and the goddess with him.  
+as Khnum and the goddess with him.[^fn-64-2b]   
   
 They are the great, beneficent ones  
 of the entire land.  
@@ -100,6 +100,7 @@ who rescues a man from his Fate.
 </div>
 
 [^fn-64-2]: ![](images/64_1.png){width=20%} - Note the spelling: a single stroke for "one", with a serpent determinative; the reading is confirmed by *Esna* II, 17, 63. Khnum and Neith are two primeval serpents (above, col. 1), Irita and the Living Goddess, impossible to tell apart.
+[^fn-64-2b]: For Khnum and "the goddess with him" (Neith-Menhyt), cf. *Esna* II, 17, 63; [Esna 64], 2. 
 
 <div class="col2">  
 
@@ -180,7 +181,7 @@ for the duration of eternity.
 
 </div>
 
-[^fn-64-5b]: ![](images/64_5.png){width=8%} - Good representation of the forecourt, including the intercolumnar panels.
+[^fn-64-5b]: ![](images/64_5.png){width=8%} - Good representation of the forecourt, including the intercolumnar panels. The same hieroglyph is used in [Esna 156], 20.
 [^fn-64-6]: ![](images/64_3.png){width=25%} - @sauneron-bifao62, p. 19, discussed first part of phrase. The *wȝs*-scepter stands for two grammatical elements: the -*wy* ending + the pronoun *sw*. However, he did not mention the standing man. Based on context, I suggest reading this sign as the adverb *ḫnt*, "before" < *ẖntỉ*, "statue."
 [^fn-64-7]: ![](images/64_4.png){width=12%} - Similar spellings of *ptr* without the medial consonant (cf. Coptic: ⲡⲱⲱⲣⲉ) are known from the Graeco-Roman period: @sauneron-61, p. 240; @klotz-khepri, p. 71, n. 25.
 [^fn-64-8]: Same ending to the monography in [Esna 85], 4, but there referring to Neith. 
