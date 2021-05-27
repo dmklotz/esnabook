@@ -1,5 +1,5 @@
 --- 
-title: "The Temple of Esna II: an Evolving Translation"
+title: "The Temple of Esna. An Evolving Translation: Esna II"
 author: "David Klotz"
 date: "`r Sys.Date()` (latest update)"
 site: bookdown::bookdown_site
@@ -9,6 +9,8 @@ biblio-style: chicago
 html_document:
     number_sections: false
 link-citations: yes
+cover-image: Esna2Cover.png
+
 output:
   bookdown::gitbook:
     split_bib: no
@@ -16,12 +18,9 @@ output:
 
 ---
 
-# Introduction {-}
-*David Klotz*  
-
-## Motivation {-}
-
-Publishing a book in Egyptology typically requires several years of intensive research, writing, and revisions. Once a volume is finally complete, often the cost is prohibitive for most audiences besides specialized academic libraries.  
+# Esna II {-}  
+  
+[![Esna II Cover](Esna2cover.png){.cover width="250"}](https://bookdown.org/shemanefer/Esna2) Publishing a book in Egyptology typically requires several years of intensive research, writing, and revisions. Once a volume is finally complete, often the cost is prohibitive for most audiences besides specialized academic libraries.  
 
 This book in progress is an experiment in how one might more quickly use existing templates and online publishing tools to make an open-source book accessible to all readers both  *during* and *after* its creation, so scholars and the interested public can take advantage of any insights sooner. Corrections or updated references can be made quickly and easily.   
 
@@ -31,7 +30,7 @@ The only reason I chose this particular format because I frequently use R in my 
 
 ## The Temple of Esna {-}
 
-I have picked the temple of Esna to start with for several reasons. First of all, I spent several years at the University of Basel studying the peculiar Roman Period hieroglyphic spellings from this temple, as part of the interdisciplinary eikones project. Second, the inscriptions are notoriously difficult, and thus largely inaccessible to most non-specialists. The original editor, Serge Sauneron @sauneron-5, translated the most important hymns and festival texts, but did not finish other works on the local theology before his untimely death. Significant portions have been translated in specialized monographs, notably in the last 20 years (e.g. @lieven-himmel; @recklinghausen-derchain; @pichel; @leitz-loeffler; @vadas-2020). More detailed references to individual passages can be found in the [index of temple texts](https://www.ifao.egnet.net/bietud/165/).
+I have picked the temple of Esna to start with for several reasons. First of all, I spent several years at the University of Basel studying the peculiar Roman Period hieroglyphic spellings from this temple, as part of the interdisciplinary eikones project. Second, the inscriptions are notoriously difficult, and thus largely inaccessible to most non-specialists. The original editor, Serge Sauneron @sauneron-5, translated the most important hymns and festival texts, but did not finish other works on the local theology before his untimely death. Significant portions have been translated in specialized monographs, notably in the last 20 years (e.g. @lieven-himmel; @recklinghausen-derchain; @elgawady, @pichel; @leitz-loeffler; @vadas-2020). More detailed references to individual passages can be found in the [index of temple texts](https://www.ifao.egnet.net/bietud/165/).
 
 Nonetheless there remain many individual offering scenes, bandeaus, and other interstitial texts of great interest.  The final impetus for this project came from the original publishers of the hieroglyphic text editions, the IFAO, which released all published volumes as [open-access PDFs](https://www.ifao.egnet.net/publications/catalogue/Temples-Esna/) in 2021. Please buy or download the PDFs as soon as possible.
 
@@ -40,13 +39,23 @@ Nonetheless there remain many individual offering scenes, bandeaus, and other in
 n_total <- length(list.files(pattern = "Esna_"))
 
 ```
-As a first goal, I am working exclusively on the Roman Period inscriptions from *Esna* II (scenes 46-193). So far, **`r n_total`/148 (`r round(100.0*n_total/148.0, 1)`%)** of those scenes are complete and online. I'm clearly starting with the shortest ones first.
+As a first goal, I am working exclusively on the Roman Period inscriptions from *Esna* II (scenes 46-193). So far, **`r n_total`/148 (`r round(100.0*n_total/148.0, 1)`%)** of those scenes are complete and online. I started with the shortest inscriptions, and am now slowly working through the longer hymns, calendars, and "temple monographies."
 
 ## Contribute! {-}
 
 I welcome any feedback for this project, whether regarding the format, corrections, alternative suggestions for translations, or notes to any important references I might have overlooked. Or perhaps you would like to volunteer to translate certain texts!  You may contact me directly at <shemanefer@gmail.com>. I will of course fully acknowledge any suggestions, and add you to the list of contributors.  
 
 I would also appreciate help with relevant bibliography, especially newer monographs. I already have most basic references in digital or paper form, but if you noticing any major ommissions, please let me know. 
+
+## Photographs {-}
+
+So far, I have not included the published line drawings of each scene, since there are direct links to the relevant pages in the IFAO book. Photographs would still be very helpful to show the layout, architectural context, and general condition of each inscription.  
+
+I have already added Wikimedia Commons photographs from the public domain, which are of very excellent quality. Click on the images to see the original high-resolution files, where you can zoom in and see details of individual hieroglyphs. So far, I only have photos of the intercolumnar walls and columns on the outer facade -- apparently the most popular choices for tourist photographs.  
+
+There are also photographs of most scenes from the facade and interior wall, helpfully organized by location and identified with Sauneron's inscription numbers at [Les temples d'Egypte](http://www.temples-egypte.net/sud/esna/esna.html).
+  
+If anybody has good digital images they would like to share for this book, please contact me and I will of course credit your photography. For the moment, I am most interested in images of the main, central door, interior scenes from the intercolumnar walls, the Laboratory, calendars, and Ram and Crocodile hymns.
 
 ## Contributors {-}
 

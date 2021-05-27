@@ -18,6 +18,9 @@ library(translit)
 #   }
 # }
 
+##  remaining files:
+list.files(pattern = "Esna_") %>% substr(1,3) %>% as.integer() %>% setdiff(46:193, .) %>% paste0(collapse = "; ")
+
 bookdown::render_book(input = ".")
 bookdown::publish_book(name = "Esna2", account = "shemanefer", server = "bookdown.org")
 rmarkdown::find_pandoc(dir = "c://users/klotzd/AppData/local/pandoc/", version = "2.13.0")
@@ -29,43 +32,30 @@ fix_translit <- function(x) {
 
 }
 
-tmp_theme <- function() bookdown::bs4_book(css = "style.css", theme = bookdown::bs4_book_theme(font_scale = .5, 
-                                                                            primary = "#9B110E"))
-translate <- function(x){
- 
-    stringr::str_split(x, "\\n") %>% 
-    unlist %>% 
-    #paste0("| ", .) %>% 
-    paste(collapse = "  \n") %>% 
-    cat
+  tmp_theme <- function() bookdown::bs4_book(css = "style.css", theme = bookdown::bs4_book_theme(font_scale = .5, 
+                                                                              primary = "#9B110E"))
+  translate <- function(x){
+   
+      stringr::str_split(x, "\\n") %>% 
+      unlist %>% 
+      #paste0("| ", .) %>% 
+      paste(collapse = "  \n") %>% 
+      cat
+      
+  }
+  translit <- function(x){
     
-}
-translit <- function(x){
-  
-  fix_translit(x) %>% 
-    stringr::str_split(., "\\n") %>% 
-    unlist %>% 
-    paste0("*", ., "*  ") %>% 
-    stringi::stri_replace_all_fixed("*  ", "  *") %>% 
-    stringi::stri_replace_all_fixed("*  ", "  *") %>% 
-    stringi::stri_replace_all_fixed("*  ", "  *") %>% 
-    stringi::stri_replace_all_fixed("*  ", "  *") %>% 
-    paste(collapse = "  \n") 
-  
-  
-}
+    fix_translit(x) %>% 
+      stringr::str_split(., "\\n") %>% 
+      unlist %>% 
+      paste0("*", ., "*  ") %>% 
+      stringi::stri_replace_all_fixed("*  ", "  *") %>% 
+      stringi::stri_replace_all_fixed("*  ", "  *") %>% 
+      stringi::stri_replace_all_fixed("*  ", "  *") %>% 
+      stringi::stri_replace_all_fixed("*  ", "  *") %>% 
+      paste(collapse = "  \n") 
+    
+    
+  }
 
-translit("| *qȝ pȝwty.w  *
-| *ỉty nb nṯr.w rmṯ  *
-| *nḫt wr-pḥty  *
-| *smȝ bdš  *
-| *ỉr ʿnḏ m ʿȝpp  *
-| *ẖnm-Rʿ nb sḫ.t  *")
-
-| *nsw.t-bỉty  *
-| *nṯr nṯry ḥqȝ pȝwty.w  *
-| *ỉty nb | *nṯr  *.w rmṯ  *
-| *nḫt wr-pḥty  *
-| *smȝ bdš  *
-| *ỉr ʿnḏ m ʿȝpp  *
-| *ẖnm-Rʿ nb sḫ.t  *
+  
