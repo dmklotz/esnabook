@@ -16,7 +16,8 @@
 - Location: Intercolumnar E  
 - Date: Domitian  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=285){target="_blank"}  
-- Bibliography: None  
+- Bibliography: @elgawady, pp. 207-208.  
+- [Photograph](http://www.temples-egypte.net/sud/esna/envers/murBahutSud.html#B2){target="_blank"}
   
   
 #### Formula {-}  
@@ -40,7 +41,7 @@ who created all that is when he came about.
 <div class="col2">  
   
 ^3^ *nsw.t-bỉty  *  
-*(wytqrtr ksrs) *  
+*(ywtqrtr ksrs) *  
 ^4^ *zȝ-Rʿ  *  
 *(twm[t]yns ḫwỉ) *  
   
@@ -108,7 +109,7 @@ their name is sacred
   
 ^14^ *wȝḏy.t ỉr.t ỉȝbt.t n Itm  *  
   
-^14^ Wadjet, the leftt eye of Atum.  
+^14^ Wadjet, the left eye of Atum.  
 </div>  
   
 #### Behind Wadjet {-}  
@@ -125,6 +126,5 @@ who utters praises for the Ka of the Primeval One,
 </div>  
   
 [^fn-112-1]: ![](images/112_1.png){width=20%}: The reading is not entirely certain, and it is unclear if this is an epithet or a divine name for the ram-headed crocodile. *LGG* VII, 128a, cites only this example, tentatively translating: "Der das Land erleuchtet."  
-  
 [^fn-112-2]: The element for "Re" is damaged, but Sauneron suggested it might be: ![](images/112_2.png){width=12%}. Thus a graphic allusion to Re emerging from the flood, as described in the present text.   
   

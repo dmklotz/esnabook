@@ -1,0 +1,188 @@
+## Esna 110 {-}  
+  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: South-East Door, interior left
+- Date: Probably Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=283){target="_blank"}  
+- Bibliography: None. References to *LGG* in [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/696){target="_blank"}
+
+NB: This text is extremely obscure. Obviously it is some sort of ritual text aimed at driving away impurity from the temple, and protecting the food of Khnum-Re, and possibly Nebtu (lines 14-15). As such, it is comparable to the ritual text preserved in the opposite door [Esna 131]. I know of no direct parallels.
+
+<div class="col2">  
+
+^1^ *[wbn?] Rʿ  *  
+*nwr ḥry.w-mw  *  
+    
+*hwt* ^2^ *ỉr=f   *  
+*psḏ.t wr.t m Iwnw  *  
+    
+^1^ When Re [shines?]  
+those Upon the Water tremble.  
+  
+It wails, ^2^ truly,  
+the Great Ennead in Heliopolis!  
+
+</div>
+<div class="col2">
+
+*hȝỉ m p.t  *  
+*prỉ m ȝḫ.t  *  
+*ḫrs ḥry.w-mw* ^3^ *ỉpw  *  
+  
+Which comes down from heaven,  
+and emerges from the Akhet,  
+and repels These ^3^ Upon the Water.  
+
+</div>
+<div class="col2">
+
+*sȝq=s ʿ.wy=s   *  
+*ḥr ḥrr.w nb  *  
+*ḥry.w-mw ỉpw  * 
+  
+It gathers its arms  
+around all snakes,  
+o These Upon the Water.
+
+</div>
+<div class="col2">
+ 
+*wʿb  *  
+*ỉỉ m p.t  *    
+*šms [...] Rʿ  *   
+  
+O pure one,  
+who comes from heaven,  
+and follows [...] Re.  
+
+</div>
+<div class="col2">
+
+^4^ *ỉn ḥr snṯr=sn  *  
+*ỉn ḏḥwty dỉ ḥsmn=sn  *  
+*ỉn sšȝ.t dỉ ḥnq.t=sn  *  
+^5^ *ỉn Wp-wȝ.wt wp.n=f ẖ.t=sn  *  
+  
+^4^ It is Horus who censes them,  
+it is Thoth who gives their natron,  
+it is Seshat who gives their beer,  
+^5^ it is Wepwawet who opened their bodies.  
+
+</div>
+<div class="col2">
+
+*ỉw=w [...] ʿ.wy [...]  *  
+^6^ *ḥḏ-tȝ  *  
+*ỉtn zȝ=f tn  *
+  
+They are [...] arms(?) [...]  
+^6^ at dawn,  
+the sundisk protects you.  
+
+</div>
+<div class="col2">
+
+*hwt [...]  *  
+*^7^ ʿ=s ḥȝ Gbb  *  
+*wp=s rmn.wy   *  
+  *(ḥȝ) Wsỉr  *  
+*ḏr ỉw [...]  *  
+^8^ *ḫrs n=f šw.t-nṯr  *  
+*sḥtm [...]  *  
+^9^ *tfy nt mwt mwt.t  *  
+  
+It wails [...]  
+^7^ her arm around Geb,  
+she opens her shoulders  
+around Osiris,  
+since [...] comes [...],  
+^8^ the Shadow of God repels for him,  
+and destroys [...]  
+^9^ this [...] of any ghost.  
+
+</div>
+<div class="col2">
+
+*ḥry.w-mw ỉpw  *  
+*ỉw sḫm.t sḥr=s ỉḫt nb ḏw  *  
+*[...]* ^10^ *nfw=s  *  
+     
+*ḥry.w-mw ỉpw  *  
+*ỉsds sḥr=f ỉḫt nb ḏw  *  
+*ḏȝ.t (ḥr) šm n ȝ.t=sn  *  
+     
+*ḥry.w-mw ỉpw  *  
+*ỉḫt nb ḏw   *  
+*(ḥr) šm n šw.t-nṯr  *  
+*mwt mwt.t ḥm.t-rȝ  *  
+      
+*ḥry.w mw ỉpw  *  
+^12^ *ḏḥwty sḥr=f ỉḫt nb ḏw  *  
+   
+*ḥry.w[-mw ỉpw]  *  
+*ỉr.n [...]  *  
+    
+^13^ *[ḥry.w]-mw ỉ[pw]  *  
+*n ẖnmw-Rʿ [nb-tȝ]-sn.t  *  
+*nṯr ʿȝ [p]fy [...]  *  
+
+O These Upon the Water:  
+Sakhmet drives away all evil things,  
+[...] ^10^ her breath.  
+  
+O These Upon the Water:  
+Isdes drives away all evil things,  
+enemies go off to their moment.  
+  
+O These Upon the Water:  
+all evil things  
+go off to the Shadow of God,  
+all ghosts, etc.  
+  
+O These Upon the Water:   
+^12^ Thoth drives away all evil things.  
+  
+O [These] Upon [the Water]:  
+[...] did [...]  
+  
+^13^ O T[hese Upon] the Water,  
+for Khnum-Re [Lord of E]sna,  
+this great god [...]  
+  
+</div>
+
+<div class="col2">
+
+*[wnm=f]* ^14^ *nn t  *  
+*swr=f nn ḥnq.t  *  
+*ỉr=f zȝ=f   *  
+*ḥsmn=f m [...]  *  
+^15^ *ȝw.t-ỉb=s [...]   *  
+*ỉn Nb.t[-ww?]  *  
+    
+*ḥry.w-[mw ỉpw]  *  
+*[...]  *  
+  
+[He eats] ^14^ this bread,  
+he drinks this beer,  
+he carries out his protection  
+his natron is [...]  
+^15^ she is happy [...]  
+by Nebt[u?]  
+  
+O [These] Upon [the Water]  
+[...]  
+
+</div>

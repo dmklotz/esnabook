@@ -59,15 +59,15 @@
   
 <div class="col2">  
   
-^8^ *tȝ-(nt)-Bȝst.t *  
-^9^ *ʿḏ.t ṯḥn.t(??) * [^fn123-1]  
+^8^ *tȝ-(nt) (pr)-Bȝst.t *  
+^9^ *ʿḏ.t Bȝst.t * [^fn123-1]  
   
-^8^ She of Bastet,  
-^9^ the scintillating ichneumon(??).  
+^8^ She of Bubastis,  
+^9^ the ichneumon, Bastet.  
   
 </div>  
   
-[^fn123-1]: ![](images/123_1.png){width=15%} - Tentatively following the reading of @vadas-2020, p. 96, with n. 22.  
+[^fn123-1]: ![](images/123_1.png){width=15%} - For the reading "ichneumon", see @vadas-2020, p. 96, with n. 22, who read "Who belongs to Bastet, ichneumon, the bright one (*ṯḥn.t*)." Maged Mahgoub (personal communication) suggested the final signs write the combination "ichneumon, Bastet", that occurs on multiple texts recently discussed by @leitz-ichneumon.
   
 #### Heka {-}  
   

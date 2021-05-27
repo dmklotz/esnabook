@@ -1,11 +1,10 @@
-# Intercolumnar Wall F and South-East Door (104-110) {-}  
-  
 ## Esna 105 {-}  
   
 - Location: South-east door, lintel  
 - Date: Unknown, probably Domitian  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=278){target="_blank"}  
 - Bibliography: None  
+- [Photograph](http://www.temples-egypte.net/sud/esna/envers/murBahutSud.html#B2){target="_blank"}
   
 <style>  
   .col2 {  

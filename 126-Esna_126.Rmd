@@ -1,0 +1,27 @@
+# Cryptographic Crocodile Text (126) {-}
+
+## Esna 126 {-}
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+    -webkit-column-break-inside: avoid;
+    -page-break-inside: avoid;
+    -break-inside: avoid;
+  }
+
+</style>
+
+
+- Location: Interior Eastern wall, right corner
+- Date: Unknown
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=306){target="_blank"}
+- Bibliography: @leitz-rams (complete)
+
+This inscription is much more difficult than the corresponding ram hymn [Esna 103]. While in the former, the rams wear different crowns, rest upon various signs, or feature other attributes (e.g. wings), here such attributes are rare, and we primarily have two types of crocodiles, interspersed occasionally with other hieroglyphs as reading aids.  
+  
+Unfortunately, large portions of this text are illegible, since any attributes or additional signs have been lost in lacunae. An earlier copy was made by the Lepsius expedition, but it is unclear how many of those rams were partially restored, or whether that early copy correctly noted individual features.  
+  
+More than the ram hymn, this text merits a very detailed analysis, which I do not have space to do in this format.  For now, one may consult the heroic efforts in @leitz-rams. Just note that certain proposals given there, while ingenious, are not always verifiable; for example, reading a group of 17 identical crocodiles as "the father of fathers."

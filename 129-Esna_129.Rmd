@@ -1,0 +1,162 @@
+## Esna 129 {-}  
+  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: North-East Door, interior, left
+- Date: Probably Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=311){target="_blank"}  
+- Bibliography: @sternberg, pp. 103-105; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/641){target="_blank"}  
+- Parallels: *Esna* III, 196, 3-5. Note that the latter text was inscribed on Column 1, immediately inside this north-east door, and thus very close to the present inscriptions. The same is true of vague parallels between [Esna 129] and *Esna* III, 197.  
+
+
+<div class="col2">  
+
+^1^ *ỉr rȝ nṯry   *  
+*nty [ḥr gs ỉmnty]  *  
+*[n] pr-ẖnmw n sḫ.t  *  
+*s.t-ḥr.t rn[=f]  *  
+*[...]  *  
+*ȝḫȝḫ.tw m s[nḏm?] [...]  *  
+     
+*[...ḥw.t-ḥr] nb.t ỉnr.ty  *  
+*r mȝȝ [...]  *  
+*[...] zȝ=f šw  *  
+*ḥtp ỉb=f  *  
+*m-ḫt mȝȝ=f s(w)  *  
+  
+As for the divine portal,  
+which is [on the western side]  
+[of] Per-Khnum of the Field,[^fn-129-1]  
+[its] name is the Upper Place  
+[...]  
+flourishing while s[itting?...]  
+  
+[...Hathor] Lady of Gebelein,[^fn-129-3]  
+to see [...]  
+[...] his son Shu.  
+His heart is satisfied  
+after he sees him.[^fn-129-4]  
+
+</div>
+
+[^fn-129-1]: Restored after the similar introduction in [Esna 130], 1, and geographic designations of this location in *Esna* III, 196, 3 (*ḥr gs-ḥry ỉmnty n Pr-nṯr*); 196, 5 (*m gs-ḥry ỉmnty n Pr-ẖnmw*).
+
+[^fn-129-3]: @sternberg, p. 103, did not translate this phrase, but the reading is clear. Gebelein was in the orbit of Esna, so perhaps the local Hathor would visit Esna or Esna North, just like other local divinities would do in the month of Khoiak (cf. @sauneron-5, pp. 47-52).
+
+[^fn-129-4]: Close parallel in *Esna* III, 196, 4; a shorter mention in the calendar of *Esna* II, 77 ([Payni 9]); cf. @sternberg, p. 104, n. c.  The mythological allusion is to a period when mankind revolted against Re, and he hid himself within this location. His son Shu (aka Khnum the Good Protector) visits him, kills the enemies, then gives offerings and fresh air to the blessed dead buried in the same spot.
+
+<div class="col2">
+
+^2^ *ḏd.ỉn zȝ n ỉt=f  *  
+*ỉȝw tw ỉt-ỉtw  *  
+*tm m ḥʿw=f  *  
+  
+*ḏd.tw n=f   *  
+*Itm pȝ wrš n hrw 9  *  
+*ḫr.tw r=f  *  
+*ḏr wrš ḥm=f m hrw pn   *  
+  
+^2^ Then the son said to his father:[^fn-129-5]
+Glory to you, father of fathers,
+he who is complete (*tm*) in his body!
+
+So one calls him  
+Atum (*ỉtm*), the Guard (*wrš*) of the 9th Day.[^fn-129-6]  
+He is called this,  
+since his majesty guarded (*wrš*) on this day.
+
+</div>
+
+[^fn-129-5]: This entire text is paralleled in *Esna* III, 196, 4 (cf. @sauneron-5, p. 325), in a lengthy description of the festival on [Payni 9]. This was the day when Khnum-Shu massacred the enemies of his father, Re-Atum, hence Atum's epithet with "Day 9."
+[^fn-129-6]: The same god is mentioned in the hymn to Neith, [Esna 163], 27, when she enters the divine necropolis as Isis to give offerings to the deceased. He is also mentioned in the parallel text *Esna* III, 196, 4, and appears in a food offering scene together with Khnum in *Esna* VI, 508, 9-11.
+
+<div class="col2">
+
+*ỉmn=f sw m [ḥr-ỉb ḏw]  *  
+*ḏd.tw n=s [ḥw.t-ỉmn wr zp-snw]  *  
+*[...]  *  
+*[...] sšm Rʿ  *  
+*qmȝ(.w) ḫnn m-ḫnt=s  *  
+    
+^3^ *ḥȝp=n sḫr.w=sn  *  
+*m s.t štȝ.t  *  
+*ỉmn=sn m ḥr-ỉb ỉȝ.t tn  *  
+*ḥtpty.w ỉmy.w ỉz=sn  *  
+*[ỉzy].t šw  *  
+*Wsỉr mỉt.t  *  
+*ỉrw=sn ỉmn(.w) m ḫnt=s  *  
+*stwḫ (r) nfr m [...]  *  
+  
+He hid himself with[in the mountain]  
+so one calls it [the great hidden chapel][^fn-129-7]  
+[...]  
+[...] guiding Re,  
+those who created chaos therein.[^fn-129-8]  
+  
+^3^ Let us hide their condition  
+in a remote place,[^fn-129-9]  
+and hide them within this mound:  
+the blessed dead within their tombs,  
+[the cre]w of Shu,[^fn-129-10]  
+Osiris, likewise.  
+Their physical forms are hidden within it,  
+being mummified well in [...]  
+
+</div>
+
+[^fn-129-7]: @sternberg, p. 103, did not suggest any restorations. Similar phraseology occurs in the parallel *Esna* III, 196, 4 (*ỉmn.n=f sw m ḥr-ỉb ḏw, ḥw.t-ỉmn wr zp-snw*), and the same name for Esna North is linked with Atum in [Esna 127], 10.
+[^fn-129-8]: According to the fuller account in *Esna* III, 196, 5, it was the enemies of Re who came and "created chaos (*qmȝ=sn ḫnn*)" before Shu and his followers massacred them.
+[^fn-129-9]: This is apparently the speech of Re to Shu, discussing what to do with the blessed dead who helped suppress the rebellion. The exact same phrase is used to describe Re hiding himself from the rebels in *Esna* III, 196, 3-4 (*ḥȝp.n=f sḫr.w=f m s.t-štȝ.t*); cf. @sauneron-5, p. 328, n. l; and see also [Esna 81], 3.
+[^fn-129-10]: ![](images/129_1.png){width=12%} - Restored after multiple allusions to the "crew of Re" in the parallel text: *Esna* III, 196, 3 and 5, and "crew of Shu" (*Esna* III, 197, 14); cf. @sauneron-5, p. 326, n. d.
+
+<div class="col2">
+
+*[...] ḥr ỉr(.t) ỉz nȝy  *  
+*r fnḏ=sn rʿ nb  *  
+^4^ *ḫʿỉ=f r ssw[=f?]  *  
+*[...] m ḏbȝ.t=sn  *  
+*m ʿȝ n šfy.t=f  *  
+   
+*ḫʿ.ỉn Is.t m pr-nṯr  *  
+*wp=s [...]  *  
+*[... sfsf] ȝw  *  
+*kȝ[....]  *  
+*ḫr.tw r bw p[n]  *  
+
+*ʿq nṯr ỉm [....]  *  
+*[...] m ḫnt=s  *  
+*ỉw bw mry[=f?]  *  
+*nỉ sk ḏ.t nḥḥ  *
+
+[...] making sweet air[^fn-129-11]  
+for their noses, daily.  
+^4^ He appears at [his?] day  
+[...] in their coffins,  
+from the greatness of his prestige.  
+  
+Then Isis appears in Per-netjer,[^fn-129-12]  
+she opens [...]  
+[...to deposit] offerings  
+[...]  
+so one calls thi[s] place.  
+  
+The god enters therein [...]  
+[...] inside it,  
+it is the place [he?] loves,  
+without fail, for all eternity.  
+
+</div>
+
+[^fn-129-11]: This is what this form of Khnum-Shu is said to do during the festival of Payni 9: *Esna* III, 196, 11.
+[^fn-129-12]: Possibly an allusion to the festival of Isis on the subsequent day of Payni 10: *Esna* III, 196, 12. Another procession of Isis occurs in Per-netjer on [Thoth 10].

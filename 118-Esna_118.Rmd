@@ -3,7 +3,7 @@
 - Location: Intercolumnar Wall, D  
 - Date: Domitian  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=294){target="_blank"}  
-- Bibliography: @sayed-neith, pp. 626-627, Doc. 1011; O. Kaper, *Tutu*, 236-7 (non vidi)    
+- Bibliography: @elgawady, pp. 206-207; @sayed-neith, pp. 626-627, Doc. 1011; @kaper-tutu, pp. 236-237.    
     
 <style>  
   .col2 {  

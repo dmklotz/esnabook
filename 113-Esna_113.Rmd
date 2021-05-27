@@ -1,0 +1,169 @@
+## Esna 113 {-}  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: Intercolumnar wall E
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=287){target="_blank"}  
+- Bibliography: @elgawady, pp. 209-209; see additional entries in [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/711){target="_blank"}    
+- [Photograph](http://www.temples-egypte.net/sud/esna/envers/murBahutSud.html#B3){target="_blank"}
+
+#### Title {-}
+<div class="col2">  
+
+^1^ *wšȝ šʿy ḏbȝ snṯ  *  
+*ḏd-mdw  *  
+  
+^2^ *ḏbȝ.n=ỉ snṯ=k  *  
+*smn.n=ỉ ʿḥ=k  *  
+*srwḏ.n=ỉ ʿ.t=k   *  
+*r ḥn.ty  *  
+
+*[ntk] ỉr* ^3^ *šʿy  *  
+*sḫpr ỉnr  *  
+*r ḫws ḥw.wt  *  
+*n nṯr.w nṯry.t  *  
+  
+^1^ Pouring sand, filling the foundation.[^fn-113-0]  
+Words spoken:  
+  
+^2^ As I have filled your foundation,  
+so I have established your palace,  
+and I have made your place endure  
+for the limits of eternity.  
+  
+[You are] he who makes ^3^ sand,  
+who creates stone,  
+to build temples  
+for gods and goddesses.  
+  
+</div>
+
+[^fn-113-0]: For this step of the temple foundation ritual, see recently @laroche-2020, pp. 85-86.
+
+#### The King {-}
+<div class="col2">  
+
+^4^ *nsw.t-bỉty  *  
+*nb tȝ.wy  *  
+*(ȝwtwkrtwr kysrs)|  *  
+^5^ *zȝ-Rʿ nb-ḫʿ.w  *  
+*(twmdyns nty-ḫwỉ)|  *  
+^6^ *spd sḫr.w  *  
+*ỉr mrỉ nṯr.w  *  
+*snṯ ḥw.t-nṯr  *  
+*ḫws [...]  *  
+
+^4^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^5^ Son of Re, Lord of Appearances  
+(Domitian Augustus)|  
+^6^ Sharp of plans,  
+who does what the gods love,  
+who founds a temple,  
+and builds [...]
+
+</div>
+
+#### Khnum-Re Lord of Esna {-}
+<div class="col2">  
+
+^7^ *ḏd-mdw n ẖnmw-Rʿ nb tȝ-sn.t  *  
+*nṯr šps  *  
+*wr.tw r nṯr.w  *  
+^8^ *bȝ ḏsr ḫnty ỉtr.ty  *  
+*mnḫ kȝ.t  *  
+*m šw rḫ-dd-ṯȝw  *  
+^9^ *nfrw=f mn.tw   *  
+*m nỉw.wt spȝ.wt  *  
+*ỉṯ bȝw=f ḥr.w-nb  *  
+  
+*qmȝ Nwn  *  
+^10^ *sḫpr mn.ty   *  
+*bs.n=f rwḏ.w nb  *
+
+^11^ *ḏỉ=ỉ n=k   *  
+*ḫʿỉ n Rʿ  *  
+*wbn n [ỉʿḥ]  *  
+*[nm]t.t n ṯȝw ḫnt Nn.t  *  
+
+^7^ Words spoken by Khnum-Re Lord of Esna,  
+august god,   
+greatest of the gods.  
+^8^ Sacred Ba, foremost of the two chapels,  
+beneficent of works  
+as Shu, who can give air.  
+^9^ His perfection endures   
+in cities and districts,  
+and his Baw-power seizes everybody.  
+  
+He who created Nun,   
+^10^ who produced the mountains,  
+who made all plants come forth.
+
+^11^ I give to you   
+the rising of Re,  
+the shining of the [moon],[^fn-113-1]  
+the [ste]ps of the wind within the sky. 
+  
+</div>
+
+[^fn-113-1]: ![](images/113_1.png){width=20%} - For similar spellings of *wbn*, see @klotz-baboons, p. 34, n. b (to which this example should be added).
+
+#### Menhyt {-}
+<div class="col2">  
+
+^12^ *ḏd-mdw n Mnḥy.t wr.t  *  
+*nb.t ḫnt-tȝ  *  
+*tmȝ.t ỉr nṯr.w  *  
+*ḥr.t-tp n* ^13^ *nḥḥ ḏ.t  *  
+  
+*nb(.t) šmʿ-s  *  
+*ḥqȝ mḥw-s  *  
+*msḫn.t nfr.t  *  
+*nb.t mrw.t  *  
+*grg(.t) tȝ m ms.w=s   *  
+    
+*ḫbỉ(.t) ỉn.w  * 
+^15^ *m tȝ.w nb  *  
+*ḥʿʿ nṯr.w n mȝȝ=s  *  
+    
+^16^ *ḏỉ=ỉ mn mnw=k  *  
+*mỉ p.t  *  
+*ḏd rn=k ḥr ỉr.n=k  *  
+*stp-zȝ=k mn.tw ḥr snṯ=f  *  
+*mỉ sḫr.w n ḥw.wt-nṯr.w  *  
+  
+^12^ Words spoken by Menhyt the great,  
+Lady of Khent-ta,  
+Mother who made the gods,  
+Uraeus for ^13^ all eternity  
+  
+Lady of the White crown,  
+Ruler of the Red crown,  
+good birth brick  
+Lady of love,  
+who settled the earth with her children.  
+    
+She who collects tribute 
+^15^ from all lands,  
+at whose sight the gods rejoice.  
+    
+^16^ I cause that your monument remains  
+like the sky,  
+that your name endures upon what you made,  
+and your palace remains upon its foundation,  
+just as with the temples.  
+
+</div>

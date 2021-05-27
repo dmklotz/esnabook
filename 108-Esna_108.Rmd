@@ -1,0 +1,32 @@
+## Esna 108 {-}
+
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: South-East Door, Interior, Ceiling
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=282){target="_blank"}
+- Bibliography: None
+
+#### Wadjet {-}
+<div class="col2">
+*Wȝḏy.t ỉr.t ỉȝbt.t nt Itm  *  
+*ḏỉ=s snb nb  *  
+*n zȝ-Rʿ  *  
+*(twmtyns ḫwỉ)|  *  
+    
+Wadjet, the left eye of Atum.  
+She gives all health   
+to the son of Re,  
+(Domitian Augustus)|  
+
+</div>

@@ -3,7 +3,7 @@
 - Location: Intercolumnar C  
 - Date: Nero  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=255){target="_blank"}  
-- Bibliography: @sayed-neith, pp. 633-634, Doc. 1023b (partial translation)  
+- Bibliography: @sayed-neith, pp. 633-634, Doc. 1023b (partial translation); @elgawady, pp. 194-195
   
 <style>  
   .col2 {  
