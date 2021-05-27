@@ -23,13 +23,13 @@
   
 <div class="col2">  
   
-*ʿnḫ nṯr nfr  *  
+^A^ *ʿnḫ nṯr nfr  *  
 *wbn tȝ-sn.t  *  
 *sḥḏ ḥw.t-bȝ.w  *  
 *mk ỉȝ.t-ṯȝ.wy  *  
 *mỉ Rʿ ḏ.t nḥḥ  *  
   
-Live the good god,  
+^A^ Live the good god,  
 who shines [^fn-164-1] (over) Esna [^fn-164-2],  
 who illumines [^fn-164-3] the Temple of the Bas,  
 who protects the Nome of the Chicks,  
@@ -47,7 +47,7 @@ like Re, for all eternity.
   
 <div class="col2">  
   
-*nsw.t-bỉty   *  
+^B^ *nsw.t-bỉty   *  
 *nfr [...]  *  
 *[...] m ms.w  *  
 *wȝḏ zȝṯ   *  
@@ -55,7 +55,7 @@ like Re, for all eternity.
 *[...] tȝ.wy nb   *  
   *m nfrw=f  *  
   
-King of Upper and Lower Egypt,  
+^B^ King of Upper and Lower Egypt,  
 good [...]  
 [...] in products,  
 the earth becomes green   
@@ -73,13 +73,13 @@ all lands [...]
 *ḥʿʿ ḥʿʿ.tw n mȝȝ=f  *  
 *ḥkȝ  *  
 *ḥqȝ m Bȝq.t  *  
-  
+    
 Lord of wonders,   
 who foretells [^fn-164-4] what will come,  
 great sovereign among the gods,  
 lord of rejoicing,  
   one rejoices to see him:  
-Heka (![](images/164_2.png){width=20%}):[^fn-164-5]  
+Heka,[^fn-164-5]  
 ruler in Egypt.  
   
 </div>  
@@ -88,4 +88,4 @@ ruler in Egypt.
   
 [^fn-164-4]: ![](images/164_3.png){width=8%} - The spelling of this participle is notable, Anubis playing a tambourine, iconography discussed by Ritner and Von Lieven. This apparently derives from s(h)r, to "strike a drum" (>>refs>>), and relates to the phrase sr-biAy.t, "to foretell wonders", used in a musical sense (ref. to H.G. Fischer). In his litany, Heka is similarly "lord of wonders" and "he who foretells what will come to pass (*sr ḫpr*)" (Esna III, 242, 18 (19)-(20); cf. also *Esna*)  
 <!--to do: add refs. to Ritner, Von Lieven; check LGG and PWL for sr,shr-->.  
-[^fn-164-5]: *ḥ* < *ḥȝy*, "to shine" (@sauneron-8, p. 160); *kȝ* < *qȝ*. The same spelling of Heka occurs in *Esna* III, 242, 20 (33), shortly before the same epithet as here, "one rejoices to see him": *Esna* III, 242, 20 (34); the signs are inverted in *Esna* III, 242, 22 (48).  
+[^fn-164-5]: ![](images/164_2.png){width=12%} - *ḥ* < *ḥȝy*, "to shine" (@sauneron-8, p. 160); *kȝ* < *qȝ*. The same spelling of Heka occurs in *Esna* III, 242, 20 (33), shortly before the same epithet as here, "one rejoices to see him": *Esna* III, 242, 20 (34); the signs are inverted in *Esna* III, 242, 22 (48).  

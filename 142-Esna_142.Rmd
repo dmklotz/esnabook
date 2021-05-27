@@ -3,7 +3,7 @@
 - Location: Intercolumnar Wall C, Lower Bandeau   
 - Date: Probably Hadrian  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=326){target="_blank"}  
-- Bibliography: None.  
+- Bibliography: @elgawady, p. 205. 
   
 <style>  
   .col2 {  
@@ -19,9 +19,9 @@
   
 <div class="col2">  
   
-*m nsw.t-bỉtỉ (  ) *  
-*[wn]n nṯr nṯr.t [...]  *  
-  *n kȝ=f m nḏm-ỉb  *  
+*m nsw.t-bỉty*  
+*rn n nṯr nṯr.t [nb?]  *  
+*qn(.w) m kȝ.t=f m nḏm-ỉb  *  
 *m ḏ(d).n Rʿ ḏs=f  *  
     
 *ẖnmw-Rʿ nb tȝ-sn.t  *  
@@ -33,10 +33,10 @@
 *wȝḥ=f [ẖr sštȝ=k?]  *  
 *[...] ḏ.t  *  
   
-as [^fn-142-1] the King of Upper and Lower Egypt ( )[^fn-142-2]  
-Gods and goddesses [do ...]  
-  for his Ka in happiness,  
-because of what Re himself said.[^fn-142-3]  
+as [^fn-142-1] the King of Upper and Lower Egypt,  
+and the name of [every?] god and goddess; 
+being happily completed in its work  [^fn-142-2],  
+as Re himself said.[^fn-142-3]  
   
 Khnum-Re, Lord of Esna:  
 May you enter it,  
@@ -49,7 +49,7 @@ it endures [bearing your secret image?] [^fn-142-4]
   
 </div>  
   
-[^fn-142-1]: This inscription begins with a prepositional phrase, and apparently continues one of the texts from the related scene [Esna 141].  
-[^fn-142-2]: Empty cartouche, but does not make sense to translate as "name" or "titulary".  
+[^fn-142-1]: This inscription continues immediately from [Esna 137].  
+[^fn-142-2]: ![](images/142_1.png){width=30%} - Restorations and translation suggested by Daniel Arpagaus. 
 [^fn-142-3]: Allusion to the standard "Decree of Re" granting the king, and Horus, legitimate rule over Egypt. Cf. @derchain-1995, pp. 93-97.  
 [^fn-142-4]: Restoration suggested by similar phrases at Esna.

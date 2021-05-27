@@ -1,0 +1,170 @@
+## Esna 136 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: Intercolumnar Wall B 
+- Date: Hadrian (so Sauneron, but cartouche looks like Trajan) 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=318){target="_blank"}  
+- Bibliography: @elgawady, pp. 201-202; @sayed-neith, p. 632, Doc. 1022 (partial); also see entries in [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/713){target="_blank"} 
+- [Photograph 1](http://www.temples-egypte.net/sud/esna/envers/nord/mursBahutDetails.html#B1){target="_blank"} [Photograph 2](http://www.temples-egypte.net/sud/esna/envers/murBahutNord.html#B1){target="_blank"}
+  
+#### Title and Formula {-}  
+<div class="col2">  
+  
+^1^ *pḏ šs*  
+*m ḥw.t-ỉt  *  
+*nḏr qd *  
+*m ḥw.t-mw.t  *  
+    
+^2^ *mn.n=ỉ nbȝ.t tp-sms  *  
+*pḏ=ỉ šs ḥnʿ sšȝ.t  *  
+*smȝwỉ=ỉ pr ḥr snṯ=f  *  
+*ḥts(=ỉ)* ^3^ *ỉrw*  
+*m ỉr r-nfr  *  
+*nn ḫnn m r'-ʿ.wy=n  *  
+*ḫntỉ m kȝ.t mnḫ.t n.t nḥḥ  *  
+  
+^1^ Pulling the cord   
+in the Temple of the Father,  
+beginning construction  
+in the Temple of the Mother.  
+  
+^2^ I take the stake and the mallet,  
+I stretch the cord with Seshat,  
+I renew the temple on its foundation,  
+I complete ^3^ the work,  
+being done properly,  
+without collapse in our handiwork,  
+foremost of effective work of eternity.  
+
+</div>
+
+#### The King {-}  
+<div class="col2">  
+
+^4^ *nsw.t-bỉty  *  
+*nb-tȝ.wy  *  
+*(ȝwtwkrtwr kysrs)|  *  
+^5^ *zȝ-Rʿ nb-ḫʿ.w  *  
+*(ȝtryns nty-ḫwỉ)|  *  
+   
+^6^ *ỉqr-ḏbʿ.w  *  
+*m-snỉ r rḫ-sỉ  *  
+  
+^4^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^5^ Son of Re, Lord of Appearances,  
+(Hadrian Augustus)|  
+  
+^6^ Excellent of finds,  
+just like Rekh-si (Thoth).  
+
+</div>
+
+#### Seshat {-}  
+<div class="col2">  
+
+^7^ *ḏd-mdw n sšȝ.t wr.t  *  
+*nb.t sš.w ḫnt pr-mḏȝ.t  *  
+    
+*šȝʿ pḏ šs m* ^8^ *s.t nb  *  
+*qdi.t ʿn ṯzm   *  
+*ỉr(?) ȝḫ.w m gs.w-pr.w  *  
+  
+*nb.t nỉw.wt  *  
+^9^ *snṯ spȝ.wt  *  
+*grg ḥw.wt-nṯr ẖr ʿḫm=sn  *  
+    
+^10^ *wn=ỉ ḥnʿ=k m mnḫ kȝ.t  *  
+*rwḏ ʿ.wy=ỉ   *  
+*n ỉr(.t) m ỉb=ỉ  *  
+*pḏ=ỉ šs* ^11^ *m ḥw.t-nṯr  *  
+*sʿḥʿ=ỉ pr ḥr snṯ=f  *  
+    
+*sỉp=ỉ tȝ-sn.t m ḥḥ.w n rnp.wt  *  
+*m [...] ḏ.t  *  
+    
+^12^ *ḏỉ=ỉ n=k ḫȝ-wr  *  
+*ḥr snṯ  *  
+*tp.w-rd.w=f *  
+*m ḥn.ty nḥḥ  *  
+  
+^7^ Words spoken by Seshat the great,  
+Lady of writing within the Library.  
+  
+Who began pulling the cord in ^8^ all places.  
+The builder, pleasant of walls,  
+who does(?) excellent work in temples.  
+  
+Lady of cities,  
+^9^ who makes foundations for districts,  
+who founds temples bearing their images.  
+  
+^10^ I am with you in effective work,  
+my arms are firm  
+realizing what is in my mind.  
+I pull the cord ^9^ in the temple,  
+I erect the domain upon its foundation.  
+  
+I fix Esna for millions of years,
+in [...] of eternity.
+  
+^12^ I give you the great office  
+upon the foundation,  
+all of its regulations   
+for the limits of eternity.
+
+</div>
+
+#### Neith {-}  
+<div class="col2">  
+
+^13^ *ḏd-mdw n N.t wr.t  *  
+*mw.t-nṯr nb.t tȝ-sn.t  *  
+*štȝ.t ʿȝ.t   *  
+*šȝʿ.t* ^14^ *ḫpr m ḥȝ.t  *  
+*ỉt mw.t n zȝ.w-n=sn  *  
+*tȝ-ṯnn pw ṯnỉ r nṯr.w  *  
+  
+^15^ *bȝ.t mnḫ.t  *  
+*ḥnw.t tȝ-šmʿ tȝ-mḥw  *  
+*tmȝ.t n Rʿ  *  
+*nḏ.t m ḥȝ.t=f  *  
+*ỉr=f ỉḫt* ^16^ *ḫft wḏ=s  *  
+*qmȝ gb.t  *  
+*wȝḥ ḫt-mn  *  
+*ỉr wnn(.t) nb m tȝ pn  *  
+  
+^17^ *ḏi=ỉ n=k ḫt-mn [...]  *  
+  
+^13^ Words spoken by Neith the great,  
+Mother of God, Lady of Esna,  
+the great Mysterious one,  
+who began ^14^ creation in the beginning,  
+father and mother of the guardian deities,  
+that is Tatenen, distinguished of the gods.  
+  
+^15^ Beneficient female Ba,  
+mistress of Upper and Lower Egypt,  
+mother of Re,  
+guardian on his brow,  
+he does things ^16^ as she decrees,  
+who created the celestial vault,  
+who establishes the earth,  
+who made all that exists on this earth.  
+  
+^17^ I give you the earth [...]
+
+</div>

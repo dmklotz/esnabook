@@ -1,12 +1,10 @@
 ## Esna 140 {-}  
   
-  
-  
-- Location: Intercolumnar C  
+- Location: Intercolumnar Wall C  
 - Date: Domitian  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=323){target="_blank"}  
-- Bibliography: None  
-  
+- Bibliography: @elgawady, p. 203.
+- [Photograph](http://www.temples-egypte.net/sud/esna/envers/nord/mursBahutDetails.html#B2){target="_blank"}
 <style>  
   .col2 {  
     columns: 2 300px;         /* number of columns and width in pixels*/  

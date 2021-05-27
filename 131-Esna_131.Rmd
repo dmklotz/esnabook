@@ -1,0 +1,115 @@
+## Esna 131 {-}  
+  
+  
+<style>  
+  .col2 {  
+    columns: 2 300px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 300px; /* chrome, safari */  
+    -moz-columns: 2 300px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+  
+- Location: North-East Door, interior left
+- Date: Probably Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=314){target="_blank"}  
+- Bibliography: @goyon-cde; [see additional entries in Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/698){target="_blank"}    
+- Parallels: For lines 8-14, see *Edfou* VI, 155, 8-12; *KO* I, 181 a (discussed by @goyon-cde, pp. 267-271)    
+
+<div class="col2">  
+
+^4^ [...]  
+^5^ *[m rn=k n] bȝw  *  
+*wȝš r=k   *   
+*m rn=k n wȝš  *  
+^6^ *[ḏ]d [bȝ=k]   *  
+*m rn=k n ḏd-bȝ.w  *  
+*ḏsr [r=f] *  
+*m rn[=k n ḏsr]  *  
+^7^ *[qfȝ]=k *  
+*m rn=k n qfȝ  *  
+[...]  
+  
+^4^ [...]  
+^5^ [in your name of] Bau-power!  
+Be powerful,  
+in your name of Powerful! [^fn-131-1] 
+[May your Ba en]dure,  
+in your name of Enduring Bas!   
+Be sacred  
+in [your] name [of Sacred]!  
+^7^ Be [prestigious],  
+in your name of Prestigious!  
+[...]
+
+</div>
+
+[^fn-131-1]: The much longer parallel text in *Edfou* VI, 153-155, contains many such etymologies.
+
+<div class="col2">
+
+^8^ *[ỉ] sḫm.t m sf  *  
+*Wȝḏy.t m pȝ hrw  *  
+*[ỉỉ.n=ṯ]*  
+*[swȝḏ=ṯ* ^9^ *wḏ]ḥw pn  *  
+*n ẖnmw-Rʿ nb tȝ-sn.t  *  
+*mỉ [nn ỉr]=ṯ   *  
+*n ỉt=[ṯ]  * ^10^ *Rʿ  *  
+*m pr=ṯ m P  *  
+  
+*ḫwỉ=ṯ ẖnmw-Rʿ nb tȝ-sn.t  *  
+*m wȝḏ [pfy]  * ^11^ *n ʿnḫ  *  
+*m ʿ=ṯ  *  
+*m rn=ṯ pfy n Wȝḏy.t  *
+
+*wdỉ=ṯ šsr.w=ṯ*  
+*m wnmy.w nb nw* ^12^ *ḫfty.w=f   *  
+*ḫpr ḫrwy.t ỉm=sn  *  
+    
+*mỉ nn sḫm[=t]  *  
+^13^ *[m] ḫfty.w nw Rʿ  *  
+*m zp tpy  *  
+*m rn=ṯ pfy n  * ^14^ *[sḫm.t]  *  
+  
+*[ỉ]w ḥtp.w n=t   *  
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+^15^ *ntf Rʿ pr.n=ṯ ỉm=f  *  
+*wn=f wn=ṯ  *  
+*ṯz-[pẖr]  *  
+  
+^8^ [O] Sakhmet of yesterday,  
+Wadjet of today:[^fn-131-2]  
+[You have come]   
+so you might preserve] ^9^ this [al]tar,  
+for Khnum-Re Lord of Esna,  
+like [that which] you [did]  
+for [your] father ^10^ Re,  
+when you came forth from Pe (Buto).  
+  
+May you protect[^fn-131-3] Khnum-Re Lord of Esna  
+with [this] papyrus ^11^ of life  
+in your hand,  
+in this your name of Wadjet.  
+  
+May you send your arrows  
+in all food of ^12^ his enemies,  
+so that a disaster results from them.  
+  
+Like the time when [you] took power  
+^13^ [over] the enemies of Re  
+in the first moment,  
+in this your name of ^14^ [Sakhmet].  
+  
+These offerings are for you!  
+Khnum-Re Lord of Esna,  
+^15^ he is Re, from who you emerged.  
+As long as he exists, you exist,  
+and vice-versa.
+
+</div>
+
+[^fn-131-2]: This text has parallels from a long food purification ritual at Edfu, and a similar doorway at Kom Ombo. It calls on both aspects of the beneficient-dangerous goddess (Wadjyt/Sakhmet): as Wadjet (*Wȝḏy.t*), she preserves (*s****wȝḏ***) the altar (***wḏ****ḥw*) of Khnum, and protects him with her papyrus-scepter (*wȝḏ*) of life. As Sakhmet (*Sḫm.t*), meanwhile, she poisons the food of Khnum's enemies, taking control (*sḫm*) of them. 
+[^fn-131-3]: ![](images/131_1.png){width=30%} - Note the multiple flying creatures in this and the preceding phrase, evoking images of Wadjyt as a winged cobra: e.g. [Esna 112], [Esna 135].

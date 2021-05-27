@@ -22,7 +22,7 @@
 #### Esna 157 A {-}  
   
 <div class="col2">  
-*ʿnḫ nṯr nfr  *  
+^A^ *ʿnḫ nṯr nfr  *  
 *dỉ-ʿ m sqd   *  
   *r ḥw.t-Mw.t  *  
     *r ỉr(.t) ȝḫ.w n mw.t=f  *  
@@ -30,7 +30,7 @@
 *nb nfrw  *  
 *(twmtyns ḫwỉ) *  
   
-Live the good god,  
+^A^ Live the good god,  
 who sets out on a journey   
   to the Temple of the Mother  
     to perform benefactions for his mother.  
@@ -48,13 +48,13 @@ NB: Without the aid of parallels, this short text would be one of the most diffi
   
 <div class="col2">  
   
-*nsw.t-bỉty *  
+^B^ *nsw.t-bỉty *  
 *zȝ-tȝ nb ḥw.t-nṯr  *  
 *ḥkȝ wr-ḥkȝw *  
    *zȝ Sḫm.t  *  
 *ʿȝ wr tpy n ẖnmw  *  
   
-King of Upper and Lower Egypt,  
+^B^ King of Upper and Lower Egypt,  
  zȝ-tȝ-serpent, Lord of the Temple [^fn-157-1],  
 Heka[^fn-157-2], greatest of magic [^fn-157-3],  
   son of Sakhmet [^fn-157-4],  

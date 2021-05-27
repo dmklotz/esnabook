@@ -24,7 +24,7 @@
   
 <div class="col2">  
   
-*šw ṯmȝ-ʿ   *  
+^A^ *šw ṯmȝ-ʿ   *  
 *ḥwỉ ẖȝk.w=ỉb  *  
 *šzp mʿȝby.t   *  
   *r sḫr ḫfty=f  *  
@@ -32,7 +32,7 @@
   *ḥr wȝ.t-nḥḥ  *  
 *ẖnmw ḫnty pr-nṯr  *  
    
-Shu, valiant of arm,  
+^A^ Shu, valiant of arm,  
 who smites the disaffected,  
 who seizes the harpoon  
   to fell his enemy,  
@@ -48,12 +48,13 @@ Khnum, foremost of Per-netjer
   
 <div class="col2">  
   
-*tȝ-ṯnn mrw.ty  *  
-*pȝwty.w-tp[y.w] r-ḫt ḥm=f  *  
+^B^ *tȝ-ṯnn mrw.ty  *  
+*pȝwty.w-tp[y.w]*  
+*r-ḫt ḥm=f  *  
 *ẖnmw-Rʿ nb tȝ-sn.t  *  
 *nṯr-ʿȝ ḫnt Iwny.t  *  
    
-Tatenen, the beloved,  
+^B^ Tatenen, the beloved,  
 the first primeval ones [^fn-159-2]  
   follow his majesty:  
 Khnum-Re, lord of Esna,  
@@ -61,4 +62,4 @@ great god, foremost of Iunyt.
   
 </div>  
   
-[^fn-159-2]: ![](images/159_3.png){width=30%}
+[^fn-159-2]: ![](images/159_3.png){width=15%} - For the spelling, cf. [Esna 156], 19.

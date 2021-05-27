@@ -21,7 +21,7 @@
 ## Esna 192 A {-}  
 <div class="col2">  
   
-*ʿnḫ nṯr nfr  *  
+^A^ *ʿnḫ nṯr nfr  *  
 *šzp wȝ.t m ḥtp   *  
   *r ḥw.t-ẖnmw  *  
 *r [...]  *  
@@ -29,7 +29,7 @@
 *[nb]-ḫʿ.w  *  
 *([...]) *  
   
-Live the good god,    
+^A^ Live the good god,    
 who takes up the path in peace  
    to the Temple of Knum,  
 in order to [...]  
@@ -41,7 +41,7 @@ in order to [...]
 ## Esna 192 B {-}  
 <div class="col2">  
   
-*nsw.t-bỉty  *  
+^B^ *nsw.t-bỉty  *  
 *ḥwnw nfr  *  
 *qmȝ m ḥȝ.t  *  
 *ḫy wr nfr-ḥr  *  
@@ -52,7 +52,7 @@ in order to [...]
 *zȝ ḥqȝ(.t) wsr.t  *  
 *rnpỉ wr ḥr-ỉb [...]  *  
    
-King of Upper and Lower Egypt  
+^B^ King of Upper and Lower Egypt  
 good youth,  
 created in the beginning,  
 great child, beautiful of face,  

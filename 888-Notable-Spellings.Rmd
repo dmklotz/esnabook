@@ -1,0 +1,147 @@
+# Notable Spellings {-} 
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+<!--made it so far through around 70; long way to go -->
+
+*ỉs*, *ỉsṯ*, "meanwhile"  
+  
+![](images/58_7.png){width=6%} - [Esna 58], 6  
+  
+![](images/59_3.png){width=8%} - [Esna 59], 2
+
+*Itm*, "Atum"  
+  
+![](images/163_1.png){width=16%} - [Esna 54], 12; [Esna 67], 12; [Esna 163], 13   
+  
+*ʿš*, "to call"
+  
+![](images/59_2.png){width=10%} - [Esna 59], 1
+  
+*wbn*, "to rise; shine"  
+
+![](images/60_3.png){width=10%} - [Esna 60], 4
+  
+![](images/169_8.png){width=18%} - [Esna 169], 5
+  
+*Wsỉr*, "Osiris" 
+
+![](images/110_9.png){width=16%} - [Esna 81], 3; [Esna 110], 7; [Esna 163], 20  
+  
+![](images/147_1.png){width=18%} - [Esna 147]  
+
+![](images/58_6.png){width=9%} - [Esna 58], 5
+
+  
+*wṯz*, "to raise up"  
+  
+![](images/169_1.png){width=13%} - [Esna 169], 1  
+
+  
+*wḏȝ.ty*, "the wedjat-eyes"  
+
+![](images/169_11.png){width=20%} - [Esna 169], 8
+
+*Mḥ.t-wr.t*, "Mehet-weret"  
+  
+![](images/58_2.png){width=16%} - [Esna 58], 2
+
+
+
+*nb*, "lord; all"  
+  
+![](images/54_9.png){width=7%} - [Esna 53]; [Esna 76], 15; [Esna 103], 1, 2, 3; [Esna 191], 21.  
+
+  
+*nb wʿ*, "the Sole Lord (Re)"  
+
+![](images/64_2.png){width=12%} - [Esna 64], 3
+ 
+
+*Rʿ*, "Re"  
+  
+![](images/184_8.png){width=12%} - [Esna 155], 1; [Esna 184], 27; [Esna 191], 3
+
+
+*ḥw.t-ỉt*, "Temple of the Father"  
+  
+![](images/56_4.png){width=11%} - [Esna 56]
+
+*ẖnmw*, "Khnum"   
+  
+![](images/54_10.png){width=18%} - [Esna 54], 7  
+  
+![](images/190_2.png){width=15%} - [Esna 190], 7  
+  
+![](images/169_5.png){width=20%} - [Esna 169], 2; [Esna 183], 1.
+
+![](images/56_0.png){width=08%} - [Esna 56]  
+  
+
+*sḥḏ*, "to illumine"  
+  
+![](images/53_5.png){width=8%} - [Esna 53]  
+
+![](images/74_3.png){width=7%} - [Esna 74], 28  
+  
+![](images/164_5.png){width=7%} - [Esna 164 A]
+
+![](images/103_40.png){width=8%} - [Esna 103]. 3 
+
+*šw*, "Shu"  
+
+![](images/156_9.png){width=15%} - [Esna 156], 25  
+  
+![](images/96_10.png){width=15%} - [Esna 96], 2
+  
+*šps*, "august"  
+  
+![](images/59_6.png){width=6%} - [Esna 59], 1
+  
+*šm*, "to go"  
+  
+![](images/60_9.png){width=8%} - [Esna 60], 5
+
+
+*tȝ-sn.t*, "Esna"  
+  
+![](images/52_4.jpg){width=12%} - [Esna 52], 20  
+
+![](images/54_11.png){width=17%} - [Esna 54], 7 
+  
+![](images/96_7.png){width=13%} - [Esna 96], 2  
+  
+![](images/102_1.png){width=20%} - [Esna 102], 1  
+  
+![](images/76_9.png){width=22%} - [Esna 76], 15
+  
+![](images/81_1.png){width=21%} - [Esna 81], 2  
+  
+![](images/94_1.png){width=14%} - [Esna 94]
+
+*tȝ-ṯnn N.t*, "Tatenen Neith" (palindrome)
+
+![](images/104_3.png){width=24%} - [Esna 63], 3; [Esna 104], 4  
+
+*tfn.t*, "Tefnut"   
+  
+![](images/60_6.png){width=5%} - [Esna 60], 1  
+
+![](images/60_8.png){width=8%} - [Esna 60], 5  
+
+![](images/60_7.png){width=22%} - [Esna 60], 3  
+
+*tmdỉʿns nty-ḫwỉ*, "Domitian Augustus" 
+
+![](images/59_1.png){width=24%} - [Esna 59], 1

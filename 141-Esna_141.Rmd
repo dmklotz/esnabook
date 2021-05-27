@@ -16,14 +16,16 @@
 - Location: Intercolumnar Wall C  
 - Date: Hadrian  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=324){target="_blank"}  
-- Bibliography: None  
+- Bibliography: @elgawady, pp. 203-205.
+- [Photograph](http://www.temples-egypte.net/sud/esna/envers/nord/mursBahutDetails.html#B3){target="_blank"}
   
-This is a truly remarkable scene. The Bas of Pe and Nekhen carry the Roman emperor Hadrian in a sedan chair, just as if he were celebrating a classical Pharaonic jubilee (Sed Festival). Hadrian actually visited Upper Egypt in 130-131 CE, including trips to famous monuments such as the Colossus of Memnon in Western Thebes, and he reportedly interacted closely with local Egyptian clergy.[^fn-141-1]    
+This is a potentially significant scene. The Bas of Pe and Nekhen carry the Roman emperor Hadrian in a sedan chair, just as if he were celebrating a classical Pharaonic jubilee (Sed Festival). Hadrian actually visited Upper Egypt in 130-131 CE, including trips to famous monuments such as the Colossus of Memnon in Western Thebes, and he reportedly interacted closely with local Egyptian clergy.[^fn-141-1]    
     
-This unique relief does not fit in with the other intercolumnar scenes at Esna, which otherwise show the well-attested ritual sequence of building the temple and seeing the chief divinities. Since most of the surrounding reliefs were decorated under Domitian, including the inscriptions immediately above this scene ([Esna 139), [Esna 140]), it is tempting to speculate this scene commemorates a visit by Hadrian himself to the temple of Esna. At the very least, it seems as if the cartouches were finished during his reign. The royal names carved beneath his feet (below, 12) more closely resemble the name of his predecessor, Trajan.  
+This unique relief does not fit in with the other intercolumnar scenes at Esna, which otherwise show the well-attested ritual sequence of building the temple and seeing the chief divinities. Nonetheless, similar scenes of the king carried on a sedan chair can accompany scenes of "appearing from the palace", as depicted in [Esna 52] and [Esna 74].[^fn-141-1b] Since most of the surrounding reliefs were decorated under Domitian, including the inscriptions immediately above this scene ([Esna 139), [Esna 140]), it is tempting to speculate this scene commemorates a visit by Hadrian himself to the temple of Esna. At the very least, it seems as if the cartouches were finished during his reign. The royal names carved beneath his feet (below, 12) more closely resemble the name of his predecessor, Trajan.  
   
 [^fn-141-1]: @klotz-caesar, pp. 322-324, 336-337.  
-  
+[^fn-141-1b]: E.g. *Edfou* III, 161-163 (cf. *Edfou* IX, pl. LXIII); *KO* 71.  
+
 ### Above Hadrian {-}  
   
 <div class="col2">  

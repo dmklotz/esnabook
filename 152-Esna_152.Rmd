@@ -26,7 +26,7 @@
   
 <div class="col2">  
   
-*nṯr wr ḫnt Iwny.t*    
+^A^ *nṯr wr ḫnty Iwny.t*    
 *dỉ ṯȝw n nṯr.w rmṯ*    
     *snsn fnḏ nb*    
     *ʿnḫ=sn ỉm=f*    
@@ -35,7 +35,7 @@
     *ỉmỉ.tw sḫ.t=f *    
     *ẖnm-Rʿ nb Pr-nṯr*    
    
-The great god within Iunyt,  
+^A^ The great god within Iunyt,  
 who gives air to gods and men,  
     so that every nose breathes,  
     and they all live through him.  
@@ -50,11 +50,11 @@ High-upon-his-Standard is elevated
   
 <div class="col2">  
   
-*nṯr šps*    
+^B^ *nṯr šps*    
 *ḫpr ẖr-ḥȝ.t*    
 *ỉmn rn=f r ms.w=f*  
    
-The august god,    
+^B^ The august god,    
 who came about in the beginning,    
 who hid his name from his children.  
   

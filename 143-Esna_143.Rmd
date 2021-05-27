@@ -16,7 +16,7 @@
 - Location: Intercolumnar Wall B, soubassement  
 - Date: Domitian  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=327){target="_blank"}  
-- Bibliography: @tattko-2014, pp. 375-376, 415-416 (translation of Nile figure, with parallels)  
+- Bibliography: @elgawady, pp. 205-206; @tattko-2014, pp. 375-376, 415-416 (translation of Nile figure, with parallels)  
 - Parallels: *Esna* VI, 634, 20-23, No. 10; *Urk* VIII, 122, 3 (for the Nile figure)  
   
 ### 1 - Nile {-}  
@@ -71,8 +71,8 @@ good at nurturing.
   
 </div>  
   
-[^fn-143-0]: The Hapi called *Mtr* occurs in numerous temples; cf. @tattko-2014, pp. 374-377. It's listed as one category of inundation already in New Kingdom onomastica: Gardiner, *AEO*, p. __. 
-[^fn-143-1]: ![](images/143_1.png){width=10%} - This same spelling of Neith occurs fairly often at Esna, particularly in other Hapi scenes: . It is an allusion to her form as the primeval *ḏ*-serpent, sometimes called *ḏ.t*, "Eternity." Cf. @klotz-caesar, p. 174.  
+[^fn-143-0]: The Hapi called *Mtr* occurs in numerous temples; cf. @tattko-2014, pp. 374-377. It's listed as one category of inundation already in New Kingdom onomastica: Gardiner, *AEO*. 
+[^fn-143-1]: ![](images/143_1.png){width=10%} - This same spelling of Neith occurs fairly often at Esna, particularly in other Hapi scenes: >>. It is an allusion to her form as the primeval *ḏ*-serpent, sometimes called *ḏ.t*, "Eternity." Cf. @klotz-caesar, p. 174.  
 [^fn-143-2]: ![](images/143_2.png){width=35%} - Other restorations are possible.  
   
 ### 2 - Field {-}  
