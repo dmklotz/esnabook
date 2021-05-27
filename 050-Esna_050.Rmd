@@ -17,6 +17,7 @@
 - Date: Claudius  
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=177){target="_blank"}  
 - Bibliography: None  
+- [Photograph](http://www.temples-egypte.net/sud/esna/devant/montantSud.html){target="_blank"}
   
 #### The King {-}  
   
@@ -117,8 +118,8 @@ so it might fill your temple with all good things.
   
 ^10^ *Rnn.t nfr.t  *  
 *šd.t ỉḫt nb  *  
-*[...] ỉb  *  
-^11^ *ʿȝ-rqḥ  *  
+*[...]   *  
+^11^ *bȝst.t ʿȝ-rqḥ  *  
 *Wȝḏ.t wȝd ʿnḫ  *  
 *m tȝ-ḥr-ȝw=f  *  
     
@@ -133,8 +134,8 @@ Mistress of all the [gods].
   
 ^10^ Good Renenutet,  
 who nurtures all things,  
-[...] heart,  
-^11^ great of heat,  
+[...]  
+Bastet[^fn-50-3], ^11^ great of heat,  
 Wadjet, who spreads life  
 throughout the whole land.  
   
@@ -143,6 +144,8 @@ making the Field pregnant for you
 at its time.  
 
 </div>
+
+[^fn-50-3]: ![](images/50_2.png){width=22%} - Sauneron's copy includes a heart sign, but a close parallel in *Esna* II, 15, 17 (Menhyt) shows the correct reading: ![](images/50_1.png){width=20%} (suggestion by Daniel Arpagaus). The subsequent epithets are also paralleled in that text.
 
 #### Behind Khnum and Nebtu  {-}
 

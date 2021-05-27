@@ -18,22 +18,22 @@
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna002.pdf#page=174){target="_blank"}  
 - Bibliography: @sauneron-5, p. 74  (48 A, partial translation); @sauneron-61, p. 233 (48 A, partial translation)  
   
-### Esna 48 A: Bandeau South (left) {-}  
+#### Esna 48 A: Bandeau South (left) {-}  
   
 <div class="col2">  
   
-*dgȝ Rʿ jm=f m ḫy šps*    
+^A^ *dgȝ Rʿ jm=f m ḫy šps*    
    *ms m dwȝw*    
-*ẖnm=f jt=f Tȝ-ṯnn*    
+*ẖnm=f ḥnʿ jt=f Tȝ-ṯnn*    
    *ʿḫ[.n]=f p.t [ẖ]r=f*    
        *n ȝbd 3 pr.t sw 1*    
      
-Re is seen within as an august child,    
+^A^ Re is seen within as an august child,    
    who is born in the morning.    
 He unites with his father, Tatenen,    
    after he (Tatenen) lifted up the sky [bear]ing him,    
-       on III Peret (Phamenoth) 1.[^fn-48_1]   
-  
+       on III Peret ([Phamenoth 1]).
+       
 </div>  
 <div class="col2">  
   
@@ -101,8 +101,7 @@ Great god, Lord of the Field.
 </div>  
     
     
-[^fn-48_1]: The festival of "lifting up heaven" on Phamenoth 1 is widely attested since the New Kingdom, and most frequently involves the Memphite demiurge Ptah-Tatenen; cf. @berlandini-1995, pp. 29-31. At Esna, this coincided with the major festival of installing the potter's wheel by Khnum-Re-Tatenen: @sauneron-5, pp. 71-88, 81-244; @leitz-loeffler.  
-  
+
 [^fn-48_2]: The text still seems to describe the union between the solar god (*pw* = Khepri), and his father, the demiurge and procreator (*pfy*  = Tatenen). Nonetheless, Khnum is elsewhere called explicitly *wsn pfy*: [Esna II, 17], 6-7; [Esna III, 249], 2; similarly [Esna II, 184], 12; cf. @pichel pp. 22-23, n. i.  
   
 [^fn-48_5]: Reference to the quadrifrontic ram of Mendes, composed of Re, Shu, Geb, and Osiris. They are explicitly labelled elsewhere in [Esna II, 17], 46-49; [Esna III, 250], 16-17; [Esna III, 232], 6; separate depictions of them in [Esna II 140]. Cf. @pichel, pp. 76-79. The Mendesian ram frequently receives these same virile epithets, as well as Khnum at Esna.  
@@ -112,3 +111,106 @@ Great god, Lord of the Field.
 [^fn-48_3]: Not listed in dictionaries (![](images/48_1.png){width=10%}), @sauneron-61, p. 233, compared this to Coptic ⲉⲓⲉⲗⲉⲗ, "to shine" (Crum, *CD* 77 ). However, this seems to be the same hieroglyphic word *rr* which occurs in divine epithets such as *rr m nbw*, "overlaid with gold". It might be related to Demotic *lʿlʿ*, Coptic ⲗⲁⲗⲉ: @klotz-philae, pp. 91-93, n. m.  
   
 [^fn-48_4]: Yet another reference to constructing a firmament (*hȝy.t*), this section appears to refer again to Tatenen, one aspect of Khnum-Re. The god Amun-Re is frequently praised for establishing all regions of the cosmos (cf. *Deir Chelouit* III, 125, 8-9).  
+
+
+#### Esna 48 B: Bandeau North (right) {-}  
+  
+<div class="col2">  
+
+^B^ *dgȝ Rʿ ỉm=f  *  
+*ms n tmȝ.t  *  
+*m ḫy tp nḫb  *  
+    
+*sr.n=f n=f  *  
+*šzp n wnny.w  *  
+*wpš ỉtn  *  
+*bs=f [...] ḥr.t  *  
+*ḫrs mȝwy=f kwkw  *  
+    
+*ḏsr=s nw.t m kȝr=f  *  
+*srnp=s ḏ.t n Rʿ m wḥm  *  
+*m sštȝ=s wr.t   *  
+*nt Rs.t-ḥw.wt=s  *   
+  
+^B^ The sight of Re is in it,  
+born of the Mother,  
+as a child upon the lotus.  
+  
+He (sic) announced for him  
+light for those who exist,  
+the sundisk shines,  
+his image goes up [...] heaven,  
+and his rays dispel darkness  
+  
+She sanctifies the sky as his shrine,  
+she rejuvenates the body of Re again,  
+in her great mysterious form,  
+of *Rs.t-ḥw.wt=s*.
+
+</div>
+
+<div class="col2">
+
+*ỉʿb.tw Wsỉr m Pr-nṯr  *  
+*ḥnʿ ḏȝỉs.w wr.w nw Mḥ.t-wr.t  *  
+*nty ỉmn(.w) m ỉmḥ.t  *  
+*nỉ mȝȝ=s rmṯ  *  
+*nỉ rḫ=s nṯr.w  *  
+*tȝ (r)-ḏr=f wʿb.tw*  
+*r bwt=s  *  
+    
+*Is.t ḥnw.t   *  
+*ḥr ỉr(.t) qbḥw snṯr n kȝ=s(n)  *  
+*ḥnʿ ḥtpty.w  *  
+  
+Osiris is buried in Per-netjer,  
+with the great Djaisu of Mehet-weret,  
+who are concealed in the cavern.  
+People cannot see it,  
+gods cannot know it,  
+the whole world is pure   
+from its abomination.  
+  
+Isis, the mistress,  
+performs cool water and incense for their Ka,  
+along with the blessed dead.
+
+</div>
+
+<div class="col2">
+
+*Mȝʿ.t ỉỉ.tw m p.t ḫr Rʿ  *  
+*ỉr=s s.t=s m tȝ pn  *  
+*nṯr.w nṯry.t twt(.w) r mȝȝ=s  *  
+    
+*mw.t ḥnʿ ỉt-m-šȝʿ  *  
+*šȝʿ ḫpr nỉ ḫpr ḫpr  *  
+*ḫpr ḫpr nb *  
+*m-ḫt ḫpr=s  *  
+      
+*mw.t pw nt Rʿ  *  
+*ʿq=s pr=s   *  
+*ỉw ỉb=s ȝw(.w)  *  
+      
+*N.t wr.t mw.t-nṯr  *  
+*nb.t tȝ-sn.t  *  
+*Mnḥy.t-Nb.t-ww ḥqȝ.t m pr-nṯr   *  
+  
+Maat came down from heaven to Re,  
+and made her seat in this land,  
+gods and goddesses assemble to see her.  
+  
+The mother and father in the beginning,  
+who began creation, before creation existed,  
+all creation came into existence  
+after they came into existence.  
+  
+She is the mother of Re,  
+as she enters her domain  
+her heart is glad.  
+  
+Neith the great, Mother of God,  
+Lady of Esna.  
+Menhyt-Nebtu ruler in Per-netjer. 
+
+</div>

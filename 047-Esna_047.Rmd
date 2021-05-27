@@ -25,7 +25,7 @@ NB: [Esna 47 A], [Esna 47 B], and [Esna 97] all present canonical Egyptian epith
   
 #### Esna 47 A {-}  
   
-**Left = South**  
+**Left (South)**  
   
 <div class="col2">  
   
@@ -122,7 +122,7 @@ given life like Re forever.
   
 #### Esna 47 B {-}  
   
-**Right = North**  
+**Right (North)**  
   
 <div class="col2">  
   
