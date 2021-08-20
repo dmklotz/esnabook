@@ -19,7 +19,7 @@
 - Bibliography: @elgawady, pp. 203-205.
 - [Photograph](http://www.temples-egypte.net/sud/esna/envers/nord/mursBahutDetails.html#B3){target="_blank"}
   
-This is a potentially significant scene. The Bas of Pe and Nekhen carry the Roman emperor Hadrian in a sedan chair, just as if he were celebrating a classical Pharaonic jubilee (Sed Festival). Hadrian actually visited Upper Egypt in 130-131 CE, including trips to famous monuments such as the Colossus of Memnon in Western Thebes, and he reportedly interacted closely with local Egyptian clergy.[^fn-141-1]    
+This is a potentially significant scene. The Bas of Pe and Nekhen carry the Roman emperor Hadrian in a sedan chair, just as if he were celebrating a classical Pharaonic jubilee (Sed Festival). Similar reliefs can be found at Karnak under [Ramesses II](http://sith.huma-num.fr/karnak/1833) and [Ramesses III](http://sith.huma-num.fr/karnak/4523). Hadrian actually visited Upper Egypt in 130-131 CE, including trips to famous monuments such as the Colossus of Memnon in Western Thebes, and he reportedly interacted closely with local Egyptian clergy.[^fn-141-1]    
     
 This unique relief does not fit in with the other intercolumnar scenes at Esna, which otherwise show the well-attested ritual sequence of building the temple and seeing the chief divinities. Nonetheless, similar scenes of the king carried on a sedan chair can accompany scenes of "appearing from the palace", as depicted in [Esna 52] and [Esna 74].[^fn-141-1b] Since most of the surrounding reliefs were decorated under Domitian, including the inscriptions immediately above this scene ([Esna 139), [Esna 140]), it is tempting to speculate this scene commemorates a visit by Hadrian himself to the temple of Esna. At the very least, it seems as if the cartouches were finished during his reign. The royal names carved beneath his feet (below, 12) more closely resemble the name of his predecessor, Trajan.  
   
@@ -41,8 +41,8 @@ This unique relief does not fit in with the other intercolumnar scenes at Esna, 
 *wṯz-ḫʿ ḥr tnṯȝ.t  *  
 *ȝm ḥḥ*   
    *m sḏd nsy.wt  *  
-*ḫfʿ [nḫȝḫȝ?   *  
-  *ḥr] ḥȝq [...]  *  
+*ḫfʿ [nḫȝḫȝ?]*       
+  *[ḥr] ḥȝq [...]  *  
       
 ^1^ The King of Upper and Lower Egypt,  
 Lord of the Two Lands,  
@@ -130,7 +130,8 @@ nourished by Weret-hekau:
   
 *nsw.t m pr=f  *  
 *ḥqȝ tp nwd.t=f  *  
-*nb wʿ ḥr ndb.t=f  *  
+*nb wʿ ḥr ndb.t=f  *   
+  
 ^9^ *zȝ Wsỉr  *  
 *ms.n Is.t  *  
 *bỉk n nbw  *  

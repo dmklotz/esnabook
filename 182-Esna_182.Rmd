@@ -21,13 +21,13 @@
   
 <div class="col2">  
   
-*psḏ [...]  *  
+^A^ *psḏ [...]  *  
   *dgȝ ỉr.t nb ỉm=f  *  
 *wbn ḥtp r nw=f  *  
 *ẖnmw-Rʿ nb tȝ-sn.t  *  
 *šw wr ḏf(ḏ) n Rʿ  *  
   
-The one who shines [...]  
+^A^ The one who shines [...]  
   all eyes see because of him,  
 who rises and sets at his time,  
 Khnum-Re Lord of Esna,  
@@ -39,7 +39,7 @@ Great Shu, iris of Re
   
 <div class="col2">  
   
-*[...] štȝ [...]  *  
+^B^ *[...] štȝ [...]  *  
 *[...]  *  
   *nỉ rḫ sštȝ=f  *  
 *ỉt nṯr.w  *  
@@ -47,7 +47,7 @@ Great Shu, iris of Re
 *ẖnmw-Rʿ nb sḫ.t  *  
 *nṯr ʿȝ ḥr-ỉb tȝ-sn.t  *  
   
-[...] remote [...]  
+^B^ [...] remote [...]  
 [...]  
   whose secret form is unknown,  
 father of the gods,  

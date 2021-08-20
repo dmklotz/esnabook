@@ -208,7 +208,7 @@ Perform all rites until dawn.
 <div class="col2">
 
 *ḥb ẖnmw Nb.t-ww ḥkȝ ḏḥwty  *  
-*Ntr.w nṯr.yt  *  
+*nṯr.w nṯr.yt  *  
 *ms.tw šw tfn.t ḥkȝ pȝ-ẖrd  *  
 *Gbb pw zȝ=sn mr=sn  *  
      
@@ -669,7 +669,7 @@ Likewise.
       
 *ḥtp m wsḫ.t-ḫʿ  *  
 *ỉr(.t)-ỉrw.w   *  
-*nw dỉ(.t) ȝh.t km.t  *  
+*nw dỉ(.t) ỉh.t km.t  *  
 *m tr n rwhȝ  *  
       
 *ỉr(.t) ỉrw nb.w  *  
@@ -943,7 +943,7 @@ along with his Ennead.
 <div class="col2">
 
 *ms Nb.t-ḥw.t ḥb  *  
-*wn Is.t m pr-Ntr  *  
+*wn Is.t m pr-Nṯr  *  
 *ḫʿỉ r tp hrw 10  *  
   
 ^19^ *[...]*  

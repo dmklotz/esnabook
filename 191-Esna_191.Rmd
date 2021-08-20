@@ -259,7 +259,7 @@ and created creation.
 <div class="col2">
 
 *ḫdỉ.n=f mḥy.t  *  
-*m-ḫt(?) mȝʿ-ḫrw  *  
+*m ʿȝ mȝʿ-ḫrw  *  
 *sȝḥ=f tȝ-mrỉ  *  
 *m ʿq-pr  *  
   
@@ -277,7 +277,7 @@ and created creation.
 *m drf m ỉnm nb  *  
    
 He went downstream to the north,  
-after(?) the process of justification.[^fn-191-14]  
+as the one Great of Justification.[^fn-191-14]  
 He landed at the Beloved Land (Egypt),  
 having complete access, coming and going.  
   
@@ -296,7 +296,7 @@ being decorated with all types of coloring.[^fn-191-18]
 
 </div>
 
-[^fn-191-14]: ![](images/191_5a.png){width=5%}![](images/191_5b.png){width=6%} - This seems to be "after being justified", but the seated god determinative typically follows the epithet "lord of justification." 
+[^fn-191-14]: ![](images/191_5a.png){width=5%}![](images/191_5b.png){width=6%} - First sign emended based on the epithet in [Esna III], 326, A. Other texts refer to the "Lord of Justification (*nb mȝʿ-ḫrw*)", also determined with a falcon-headed god.
 [^fn-191-15]: Yet another reference to Khnum speedily voyaging to Chemmis and the Delta at night, returning to Esna in the morning.
 [^fn-191-16]: ![](images/191_6.png){width=26%} - The verb *ʿrr* is a hapax. Based on conteext and the determinative, it seems to be  onomatopoeia for an animal noise.
 [^fn-191-17]: The same term occurs in a similar context in [Esna 156], 21. The present translation follows the suggestion by @sauneron-1, p. 63, n. a, which fits the general context.
@@ -355,7 +355,7 @@ the mixed bull for Khnum,
 *nb.w n wrr.t  *  
 *ḫmḫm.w n wrḏ-ỉb  *  
 *bȝk.w n bȝ   *  
-^25^ *ẖmty n sšmw  *  
+^25^ *ẖmty n šsmw  *  
 *šʿsy.t   *  
 *n pr(.t)-m-wr.t  *  
 *šmʿ.w n nb.t-ỉmȝw  *  
@@ -364,7 +364,7 @@ the mixed bull for Khnum,
 *sʿy n dwȝ-mw.t=f  *  
 *sḏm.wt n ḫntỉ-wȝḏ=s  *  
 *nfry n ḥr-šdnw  *  
-*ḏdʿ-m-ỉwf=sn  *  
+*ḏdȝ-m-ỉwf=sn  *  
 ^26^ *n ẖry-bȝq=f  *  
 *ḥnskty n ḥr-mr.ty  *  
 *ḥn-sd.w n Itm nb Iwnw  *  
@@ -389,7 +389,7 @@ the *gbgb*-bulls for Heqat,
 the *nb*-bulls for She of the White Crown,  
 *ḫmḫm*-bulls for Weary-of-Heart,  
 *bȝk*-bulls for the Ba,  
-^25^ the *ẖmty*-bull for Seshemu,  
+^25^ the *ẖmty*-bull for Shesemu,  
 the *šʿsy.t*-cow   
 for She who comes forth from the Great,   
 the *šmʿ*-bulls for the Lady of Imau,  

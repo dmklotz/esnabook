@@ -16,7 +16,7 @@
   }  
   
 </style>  
-  
+
   
 #### The King {-}  
   
@@ -47,7 +47,7 @@ Lord of the Two Lands,
     *ḫnty kȝ.w ʿnḫ.w ḏ.t  *  
     
 ^6^ *[...] m[-bȝḥ] mw.t=k  *  
-  *Mḥy.t-wr.t  *  
+  *Mḥ.t-wr.t  *  
 *ẖnm=k pr-wr   *  
   *n nb.t Zȝw  *  
   
@@ -89,7 +89,7 @@ she puts you before her,
 ^10^ *ỉỉ.n=k ḥnʿ=ỉ   *  
   *r ḥw.t-N.t  *  
     *n Rs.t-ḥw.wt=s  *  
-*ẖnm=s tw m nḏm=ỉb  *  
+*ẖnm=s tw m nḏm-ỉb  *  
   
 *ʿq.n=k m bȝ  *  
 *pr.n=k m rw  *  

@@ -23,7 +23,7 @@
   
 <div class="col2">  
   
-*nsw.t-bỉty  *  
+^A^ *nsw.t-bỉty  *  
 *Nwn-wr [...]  *  
 *ʿšȝ-ms.w  *  
 *mȝỉ-ḥzȝ   *  
@@ -32,7 +32,7 @@
   *n snḏ=f  *  
 *ẖnmw-Ptḥ ỉr wnn.t  *  
    
-King of Upper and Lower Egypt,  
+^A^ King of Upper and Lower Egypt,  
 Great Nun [...]  
 great of children,  
 Fierce lion  
@@ -47,8 +47,8 @@ Khnum-Ptah, who made what exists.
   
 <div class="col2">  
   
-*nsw.t-bỉty  *  
-*qȝ-šw.ty *  
+^B^ *nsw.t-bỉty  *  
+*qȝ šw.ty *  
 *nb wrr.t  *  
 *ḫpr ḏs=f  *  
   *ỉwty ỉd.t ms.t=f  *  
@@ -57,7 +57,7 @@ Khnum-Ptah, who made what exists.
 *ẖnmw-Rʿ  *  
 *pȝ mȝỉ nhs  *  
    
-King of Upper and Lower Egypt,  
+^B^ King of Upper and Lower Egypt,  
 high of double plumes,  
 lord of the double crown,  
 who came into existence himself,  

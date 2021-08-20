@@ -144,7 +144,7 @@ This papyrus thicket (*ȝḫy*),
 is excellent (*ȝḫ*) in your heart,  
 the [gods?] delight    
 [from] seeing it,  
-^8* your face is happy  
+^8^ your face is happy  
 from seeing its flowers,[^fn-169-11]  
 it scintillates your *wedjat*-eyes,[^fn-169-12]  
 with fresh plants for the future.  
@@ -162,42 +162,46 @@ with fresh plants for the future.
 *ḥn[...]k  *  
 *ḥngg=k m ḥzw.t=f  *  
 *ḫnmw=f nḏm  *  
-*ʿšȝ[..]=f  *  
-*rnp.w wr[...] sw *  
+  
+*ʿšȝ [n]=f rnp.w *  
+*wr [s]m.w sw(t) *  
 *nỉ rḫ ṯnw=sn  *  
-
 ^9^ *ḥtp.w=f mỉ ȝḫ.t  *  
 *hrw wȝḏ  *  
 *šmȝ.w=s nb.w  *  
-*ḥr wp šnw=sn  *  
+*ḥr wp šnʿ=sn  *  
 *ȝḫȝḫ=sn m wbȝ=k  *  
 *rʿ nb  *  
+   
 *ḫntš ỉb=k  *  
 *ḥr ḥpt=f  *  
   
 This [...]*ḥy*,  
 you rejoice (*ḥʿʿ*) to embrace (*ḥpt*) it,  
 you hurry(?) [...],  
-and you sing (*ḥngg*) from its encounter (*ḥzw.t*).  
-Its smell is sweet,  
-its [...] are numerous,  
-fresh plants are great [...] it,  
+and you sing (*ḥngg*) from its encounter (*ḥzw.t*),  
+its smell is sweet.  
+
+Fresh flowers are numerous [for] it,  
+and indeed it is great of [pl]ants:  
 one cannot know their number.    
-  
-^9^ Its plant offerings (*ḥtpw*) are like the field  
+ ^9^ Its *ḥtp*-flowers (*ḥtpw*) are like the field  
 on a green day (*hrw*);  
 all of its flowers  
 are opening up their blossoms[^fn-169-13],  
 they flourish in your forecourt,  
-every day,  
-your heart rejoices  
+every day.[^fn-169-13a]   
+
+Tour heart rejoices  
 to embrace (*ḥpt*) it.
 
 </div>
 
 [^fn-169-13]: ![](images/169_12.png){width=25%} - Apparently the same word as above, line 8.
+[^fn-169-13a]: This entire stanza has a direct parallel in *Esna* III, 286, 16, whence the minor restorations.
 
 <div class="col2"> 
+
 *sʿr pw  *  
 *sṯỉ m ṯḥn  *  
 *šbn m ḥrr.w nb.w  *  

@@ -24,7 +24,7 @@
 
 <div class="col2">
 ^1^ *rḫ(.t) ḥb.w nw Iwny.t  *  
-  *ḥw.t-bȝ.w ḥw.t-ṯʿ.wy  *  
+  *ḥw.t-bȝ.w ḥw.t-ṯȝ.wy  *  
 *nty ḥr ʿr.w nw nṯr.w  *  
 *ḥnʿ ḏ(d) n tpy.w-ʿ  *  
 
@@ -128,7 +128,7 @@ but not in public.[^fn-55-3]
 *ḥb tfn.t m Iwny.t  *  
 ^2^ *ỉn Rʿ ỉr n=s  *  
 *šȝʿ ỉr(.t) kȝ.t   *  
-*n ms.w šrq.t  *  
+*n ms.w Srq.t  *  
    
 *sḫʿ n Nb.t-ww Nb.t tȝ-sn.t  *  
 *ḏbȝ=s m ḥbs n ins  *  
@@ -1028,7 +1028,7 @@ Unite with the sundisk, return.
 <div class="col2"> 
 
 *ḥb N.t nb.t tȝ-mḥw  *  
-*ỉr(.t) mỉtt ḥb tȝ-nt-šmr.t   *  
+*ỉr(.t) mỉt.t ḥb tȝ-nt-šmr.t   *  
 *n nb.t zȝw  *  
   
 Festival of Neith, Lady of Lower Egypt.  

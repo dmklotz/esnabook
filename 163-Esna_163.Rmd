@@ -121,7 +121,7 @@ from the tears (*rmy.t*) of his eye.
 <div class="col2">
 
 *dỉ(=s) sw ḥr tp=s  *  
-*m ỉrw=s n ȝh.t  *  
+*m ỉrw=s n ỉh.t  *  
 *mḥỉ=s ẖr=f  *  
 *m Mḥ.t-wr.t   *  
   
@@ -156,13 +156,13 @@ until she reaches Sais in the night
 *qmȝ Itm  *  
 *Mḥ.t-wr.t   *  
 *sḫpr ḏȝỉs.w  *  
-*ȝh.t qmȝ ḫmnỉ.w  *  
+*ỉh.t qmȝ ḫmnỉ.w  *  
 *ḥr spr tȝ-sn.t   *  
 *m [...]  *  
 *s.t mr ỉb=s  *  
 *n ʿ.t-rsy.t  *  
     
-*ḫnmỉ.w m ỉȝw  *  
+*ḫmnỉ.w m ỉȝw  *  
 *n ḥr=s  *  
 *ḏȝỉs.w wr.w   *  
 *m zȝ n ḥʿw=s  *  
@@ -201,7 +201,7 @@ are behind her
 [^fn-163-6]: Amunet at Thebes is often associated with Neith, particularly as an Ihet-cow associated with the Ogdoad and the birth of Re: @klotz-caesar, pp. 71-74.
 [^fn-163-7]: ![](images/163_3.png){width=10%} - For this spelling of the Ogdoad with walking legs representing the nisbe ending, cf. @klotz-ram, p. 73, n. 33.
 [^fn-163-8]: ![](images/163_4.png){width=10%} - @sauneron-5, pp. 289, 293, n. i, thought this was a group writing Menehwy, with the first crocodile god merely holding the god's knife. Instead, I suggest the first crocodile here is Sobek, juxtaposed with Neith's other saurian son Shemanefer in the next verse. Both gods show up in [Esna 185 A], where the crocodile with a crown writes *s* < 'Sobek'.
-[^fn-163-9]: ![](images/163_5.png){width=15%} - @sauneron-5, p. 289, read the group as 'Tithoès le grand coutelier', whereas @kaper-tutu, p. 237, understood the second crocodile as a writing of *pḥty*, "strength." Based on the of gods in the preceding verse, I prefer to identify both Tutu and Shemanefer, both children of Neith revered at Esna.
+[^fn-163-9]: ![](images/163_5.png){width=15%} - @sauneron-5, p. 289, read the group as 'Tithoès le grand coutelier', whereas @kaper-tutu, p. 237, understood the second crocodile as a writing of *pḥty*, "strength." Based on the of gods in the preceding verse, I prefer to identify both Tutu and Shemanefer, both children of Neith revered at Esna. For the two gods together, see *Esna* VI, 486; they are also mentioned together in [Esna 107], 4.
 [^fn-163-9b]: ![](images/163_20.png){width=5%} - As @sauneron-5, p. 294, n. x, noted, this ram-headed falcon sign represents the western wind (cf. @riggs-soter, pp. 329-329), as also represented on the ceiling: *Esna* IV, 451, Right (Ouest). This is similar to the southern and eastern winds featured in [Esna 105] and [Esna 128], and the hieroglyph showing the northern wind later on in [Esna 163], 26. 
 
 
@@ -543,7 +543,7 @@ Esna likewise in Upper Egypt.
     
 *nṯr.w štȝ.w  *  
 *(ḥr) ʿḏʿḏ n mȝȝ=t  *  
-*ỉmỉ.w s.t-[ʿȝ.]ṯ  *  
+*ỉmỉ.w s.t-[ʿȝ.].t  *  
 *Wsỉr-nḫt Inp Imy-P  *  
 *ḥr.t zȝ.t-Rʿ ỉwt.t-ww Nb.t-ww  *  
 *ḥr nhm n rn=t  *  
@@ -626,6 +626,6 @@ into the future.
 
 </div>
 
-[^fn-163-27a]: ![](images/163_16.png){width=25%} - While this appears to be *wṯz-ỉb=t*, "lift up your heart (*sursum corda*)", the aleph-bird indicates this cannot be correct. Instead, this is another example of the *wṯz*-sign replacing the similarly-shaped *wḏȝ* hieroglyph: @sauneron-2, p. xxxv; [Esna 156], 20; [Esna 169], 8.
+[^fn-163-27a]: ![](images/163_30.png){width=25%} - While this appears to be *wṯz-ỉb=t*, "lift up your heart (*sursum corda*)", the aleph-bird indicates this cannot be correct. Instead, this is another example of the *wṯz*-sign replacing the similarly-shaped *wḏȝ* hieroglyph: @sauneron-2, p. xxxv; [Esna 156], 20; [Esna 169], 8.
 [^fn-163-27]: ![](images/163_16.png){width=25%} - Sauneron assumed *ḏ.t* means eternity here, but the sun determinative would be unexpected. Instead, I assume this is a reference to Neith creating Re in the morning, just as in the phrase *m-ḏ.t=f*, "in the morning."
 [^fn-163-28]: See the corrected version of this passage in @sauneron-2, p. i (Corrections, p. 283, l. 2).

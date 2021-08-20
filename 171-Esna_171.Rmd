@@ -21,11 +21,11 @@
 ## 171 A {-}  
 <div class="col2">  
   
-*ʿnḫ nṯr nfr  *  
+^A^ *ʿnḫ nṯr nfr  *  
 *mḥ nỉw.t tn   *  
   *n mw.t=f N.t  *  
   
-Live the good god,    
+^A^ Live the good god,    
 who fills this city  
   for his mother, Neith.  
   
@@ -34,13 +34,13 @@ who fills this city
 ## 171 B {-}  
 <div class="col2">  
   
-*ʿnḫ nṯr nfr  *  
+^B^ *ʿnḫ nṯr nfr  *  
 *smȝwỉ wȝsy  *  
 *mḥ gm-wš  *  
 *nb snṯ  *  
 *(twmtyns ḫwỉ) *  
   
-Live the good god,  
+^B^ Live the good god,  
 who renews what is ruined,  
 who fills what is found missing,  
 lord of the foundation,  
