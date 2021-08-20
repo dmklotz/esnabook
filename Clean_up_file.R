@@ -100,16 +100,21 @@ for(files in z){
     pull(value) %>% paste0(., collapse = " ") %>% 
     stringi::stri_replace_all_fixed("*", "")  %>% 
     stringi::stri_replace_all_fixed("[...]", "") %>% 
-    str_split(pattern = "\\^(?=[0-9])")  %>% unlist %>% 
+    str_split(pattern = "\\^(?=[0-9AB])")  %>% unlist %>% 
     enframe %>% 
     filter(nchar(value) > 1) %>% select(-name) %>% 
     separate(value, into = c("row", "text"), sep = "\\^") %>% 
     mutate(text = str_remove_all(text, "\\((.)*\\)\\|")) %>% 
+    mutate(text = str_remove_all(text, "=sn")) %>%
+    mutate(text = str_remove_all(text, "=tn")) %>%
+    mutate(text = str_remove_all(text, "=ṯn")) %>%
+    mutate(text = str_remove_all(text, "=[fstṯnỉj]")) %>%
     mutate(text = stringi::stri_replace_all_fixed(text, ".tw","")) %>% 
+    mutate(text = stringi::stri_replace_all_fixed(text, ".n","")) %>% 
     mutate(text = stringi::stri_replace_all_fixed(text, "[","") %>% stringi::stri_replace_all_fixed("]","")) %>% 
     unnest_tokens(input = text, output = "word", token = "ptb") %>% 
     filter(nchar(word) > 1) %>% 
-    filter(!word %in% c("sn", "tn", "pn", "pw", ".t", "tw")) %>% 
+    filter(!word %in% c("sn", "tn", "pn", "pw", ".t", "tw", "ṯn")) %>% 
     filter(!str_detect(word, "=")) %>% 
     mutate(first = substr(word, 1,1), second = substr(word, 2,2),
            third = substr(word, 3,3)) %>% 
@@ -126,8 +131,22 @@ for(files in z){
 final_tbl %>% mutate_at(vars(word, first, second, third), ~str_replace_all(., "i", "ỉ") %>% str_replace_all("j", "ỉ")) %>% 
      
      mutate_at(vars(first, second, third), 
-              +             ~factor(., levels = trans_levels)) %>% 
+                           ~factor(., levels = trans_levels)) %>% 
      arrange(first, second, third, word, text, row) %>% mutate(row = as.integer(row)) %>% filter(!is.na(row)) %>% 
+  mutate(out_text = paste0("[Esna ", text, "], ", row)) %>% 
+  rowid_to_column("word_order") %>% 
+  group_by(word) %>% 
+  summarize(out_text = paste0(out_text, collapse = "; "), word_order = min(word_order)) %>% 
+  ungroup %>% 
+  arrange(word_order) %>% 
+  mutate(word = paste0("*", word, "*")) %>% 
+  unite(final_text, c(word, out_text), sep = "\t\t") %>% 
+  pull(final_text) %>% 
+  paste(collapse = "   \n   \n") %>% 
+  write_file("800-Naive-Dictionary.Rmd")
+  
+  
+  
      write.xlsx("dictionary2.xlsx")
 
 

@@ -27,9 +27,11 @@ rmarkdown::find_pandoc(dir = "c://users/klotzd/AppData/local/pandoc/", version =
 
 fix_translit <- function(x) {
   
-  textclean::mgsub_fixed(x, pattern = c("a", "A", "i", "H", "x", "X","S", "D", "T"), c("ʿ","ȝ", "ỉ", "ḥ","ḫ","ẖ","š", "ḏ","ṯ"))
+  textclean::mgsub_fixed(x, pattern = c("a", "A", "i","I", "H","@", "x","#", "X","S", "$","%", "D", "T", "_", "+"), 
+                         c("ʿ","ȝ", "ỉ","Ỉ", "ḥ", "Ḥ","ḫ","Ḫ", "ẖ","š","S","Š", "ḏ","ṯ","Ṯ", "Ḏ"))
   
-
+  
+  
 }
 
   tmp_theme <- function() bookdown::bs4_book(css = "style.css", theme = bookdown::bs4_book_theme(font_scale = .5, 

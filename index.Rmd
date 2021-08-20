@@ -5,7 +5,7 @@ date: "`r Sys.Date()` (latest update)"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-biblio-style: chicago
+csl: institut-francais-darcheologie-orientale.csl
 html_document:
     number_sections: false
 link-citations: yes
@@ -24,7 +24,7 @@ output:
 
 This book in progress is an experiment in how one might more quickly use existing templates and online publishing tools to make an open-source book accessible to all readers both  *during* and *after* its creation, so scholars and the interested public can take advantage of any insights sooner. Corrections or updated references can be made quickly and easily.   
 
-The book is written in **markdown** using the Bookdown package: <https://bookdown.org/yihui/bookdown/>.   
+The book was written in **markdown** using the Bookdown package: <https://bookdown.org/yihui/bookdown/>.   
 
 The only reason I chose this particular format because I frequently use R in my day job, and I believe the syntax is simple enough that most Egyptologists could pick up the skills necessary to edit and publish their own research.
 
@@ -39,7 +39,7 @@ Nonetheless there remain many individual offering scenes, bandeaus, and other in
 n_total <- length(list.files(pattern = "Esna_"))
 
 ```
-As a first goal, I am working exclusively on the Roman Period inscriptions from *Esna* II (scenes 46-193). So far, **`r n_total`/148 (`r round(100.0*n_total/148.0, 1)`%)** of those scenes are complete and online. I started with the shortest inscriptions, and am now slowly working through the longer hymns, calendars, and "temple monographies."
+As a first goal, I am working exclusively on the Roman Period inscriptions from *Esna* II (scenes 46-193). So far, **`r n_total`/148 (`r round(100.0*n_total/148.0, 1)`%)** of those scenes are complete and online. I have moved on to translating [Esna III](https://bookdown.org/shemanefer/Esna3/), but I will continue to update and proofread *Esna* II, especially as I find more parallels or clues to improved readings elsewhere. 
 
 ## Contribute! {-}
 
