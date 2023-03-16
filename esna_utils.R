@@ -19,7 +19,7 @@ library(translit)
 # }
 
 ##  remaining files:
-list.files(pattern = "Esna_") %>% substr(1,3) %>% as.integer() %>% setdiff(46:193, .) %>% paste0(collapse = "; ")
+#list.files(pattern = "Esna_") %>% substr(1,3) %>% as.integer() %>% setdiff(46:193, .) %>% paste0(collapse = "; ")
 
 bookdown::render_book(input = ".")
 bookdown::publish_book(name = "Esna2", account = "shemanefer", server = "bookdown.org")

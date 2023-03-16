@@ -1,0 +1,3793 @@
+*ȝwtkrtr*		Esna II, 150, 2   
+   
+*ȝwtkrtwr*		Esna II, 71, 2; Esna II, 96, 1   
+   
+*ȝwtwkrtr*		Esna II, 143, 3; Esna II, 146, 2   
+   
+*ȝwtwktr*		Esna II, 141, 1   
+   
+*ȝwdgrtwr*		Esna II, 49, 3   
+   
+*ȝwdkrtr*		Esna II, 115, 3   
+   
+*ȝw-ỉb*		Esna II, 73, 19; Esna II, 176, 4   
+   
+*ȝw*		Esna II, 64, 4; Esna II, 80, 3; Esna II, 81, 4; Esna II, 128, 4; Esna II, 129, 4; Esna II, 163, 28; Esna II, 184, 27   
+   
+*ȝw.t-ỉb*		Esna II, 55, 6; Esna II, 70, 9; Esna II, 81, 6; Esna II, 110, 15; Esna II, 112, 8; Esna II, 118, 4; Esna II, 127, 8; Esna II, 135, 15; Esna II, 135, 6; Esna II, 155, 3; Esna II, 184, 28   
+   
+*ȝw.w*		Esna II, 127, 3   
+   
+*ȝbw*		Esna II, 191, 16   
+   
+*ȝbḫ*		Esna II, 51, 4; Esna II, 70, 13; Esna II, 183, 3   
+   
+*ȝbd*		Esna II, 55, 6; Esna II, 55, 6; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 17; Esna II, 163, 25; Esna II, 184, 22   
+   
+*ȝbd.w*		Esna II, 51, 8; Esna II, 184, 22   
+   
+*ȝb*		Esna II, 58, 3; Esna II, 58, 3; Esna II, 58, 7; Esna II, 60, 5; Esna II, 80, 7; Esna II, 81, 6; Esna II, 82, 1; Esna II, 120, 3; Esna II, 125, 2; Esna II, 156, 17; Esna II, 191, 17   
+   
+*ȝpd.w*		Esna II, 54, 4; Esna II, 156, 16; Esna II, 156, 21; Esna II, 191, 21   
+   
+*ȝms-ỉb*		Esna II, 104, 1   
+   
+*ȝm*		Esna II, 54, 8; Esna II, 135, 16; Esna II, 141, 3   
+   
+*ȝh*		Esna II, 163, 19   
+   
+*ȝḥ.t*		Esna II, 191, 23   
+   
+*ȝḫȝḫ*		Esna II, 81, 6; Esna II, 129, 1; Esna II, 163, 26; Esna II, 169, 7; Esna II, 169, 9; Esna II, 190, 2   
+   
+*ȝḫty*		Esna II, 52, 6; Esna II, 74, 8   
+   
+*ȝḫty.w*		Esna II, 156, 18   
+   
+*ȝḫ-bỉ.t*		Esna II, 155, 2; Esna II, 156, 23; Esna II, 176, 3; Esna II, 190, 1   
+   
+*ȝḫ-rȝ*		Esna II, 163, 24   
+   
+*ȝḫ*		Esna II, 63, 1; Esna II, 82, 2; Esna II, 106, 3; Esna II, 162, 5; Esna II, 163, 19; Esna II, 169, 7; Esna II, 183, 4   
+   
+*ȝḫ.t*		Esna II, 50, 12; Esna II, 55, 6; Esna II, 64, 3; Esna II, 64, 4; Esna II, 71, 13; Esna II, 72, 10; Esna II, 74, 11; Esna II, 74, 14; Esna II, 76, 16; Esna II, 77, 13; Esna II, 81, 5; Esna II, 81, 6; Esna II, 102, 1; Esna II, 106, 3; Esna II, 106, 3; Esna II, 107, 3; Esna II, 110, 2; Esna II, 127, 4; Esna II, 141, 5; Esna II, 141, 6; Esna II, 146, 2; Esna II, 162, 3; Esna II, 163, 21; Esna II, 163, 24; Esna II, 163, 25; Esna II, 169, 9; Esna II, 176, 1; Esna II, 184, 15; Esna II, 184, 20; Esna II, 184, 22; Esna II, 191, 17; Esna II, 191, 18   
+   
+*ȝḫ.ty*		Esna II, 184, 13   
+   
+*ȝḫ.w*		Esna II, 72, 7; Esna II, 74, 21; Esna II, 96, 2; Esna II, 136, 8; Esna II, 163, 19; Esna II, 183, 2   
+   
+*ȝḫ.wt*		Esna II, 54, 10   
+   
+*ȝḫy*		Esna II, 169, 7   
+   
+*ȝḫy.t*		Esna II, 155, 5; Esna II, 155, 5; Esna II, 156, 13   
+   
+*ȝsb.t*		Esna II, 74, 17   
+   
+*ȝt*		Esna II, 102, 2   
+   
+*ȝty*		Esna II, 190, 3   
+   
+*ȝṯt*		Esna II, 73, 9; Esna II, 104, 7   
+   
+*ȝ.t*		Esna II, 59, 1; Esna II, 110, 10; Esna II, 163, 25; Esna II, 184, 24; Esna II, 190, 1; Esna II, 191, 21   
+   
+*ȝy*		Esna II, 58, 3; Esna II, 58, 4; Esna II, 163, 24; Esna II, 191, 23   
+   
+*ỉȝw*		Esna II, 63, 4; Esna II, 102, 2; Esna II, 103, 1; Esna II, 112, 1; Esna II, 129, 2; Esna II, 156, 11; Esna II, 156, 19; Esna II, 163, 11; Esna II, 163, 18; Esna II, 163, 18; Esna II, 184, 19; Esna II, 191, 13   
+   
+*ỉȝw.t*		Esna II, 51, 17; Esna II, 74, 39; Esna II, 88, 14; Esna II, 88, 16   
+   
+*ỉȝb*		Esna II, 85, 2   
+   
+*ỉȝb.t*		Esna II, 107, 2   
+   
+*ỉȝbt.t*		Esna II, 55, 5; Esna II, 81, 1; Esna II, 91, 18; Esna II, 105, 4; Esna II, 106, 2; Esna II, 112, 14; Esna II, 184, 14; Esna II, 184, 20; Esna II, 191, 18   
+   
+*ỉȝbty*		Esna II, 55, 5   
+   
+*ỉȝt*		Esna II, 81, 1   
+   
+*ỉȝd.t*		Esna II, 124, 1; Esna II, 163, 22   
+   
+*ỉȝ.t*		Esna II, 58, 1; Esna II, 60, 1; Esna II, 60, 2; Esna II, 60, 3; Esna II, 64, 1; Esna II, 80, 1; Esna II, 80, 4; Esna II, 81, 1; Esna II, 81, 2; Esna II, 104, 8; Esna II, 106, 4; Esna II, 127, 4; Esna II, 127, 9; Esna II, 129, 3; Esna II, 130, 1; Esna II, 130, 3; Esna II, 130, 4; Esna II, 130, 4; Esna II, 130, 5; Esna II, 162, 4; Esna II, 162, 4; Esna II, 163, 26; Esna II, 183, 4   
+   
+*ỉȝ.t-ṯȝ.wy*		Esna II, 74, 34; Esna II, 80, 4; Esna II, 104, 1; Esna II, 104, 10; Esna II, 140, 5   
+   
+*ỉỉỉ*		Esna II, 77, 16   
+   
+*ỉỉ*		Esna II, 52, 12; Esna II, 54, 11; Esna II, 54, 11; Esna II, 54, 2; Esna II, 54, 7; Esna II, 55, 5; Esna II, 55, 6; Esna II, 58, 2; Esna II, 67, 9; Esna II, 73, 18; Esna II, 74, 24; Esna II, 74, 39; Esna II, 76, 11; Esna II, 76, 15; Esna II, 76, 3; Esna II, 76, 7; Esna II, 76, 8; Esna II, 77, 11; Esna II, 77, 15; Esna II, 81, 4; Esna II, 96, 1; Esna II, 104, 1; Esna II, 105, 5; Esna II, 110, 3; Esna II, 115, 3; Esna II, 115, 4; Esna II, 115, 7; Esna II, 120, 10; Esna II, 127, 6; Esna II, 131, 8; Esna II, 143, 3; Esna II, 143, 7; Esna II, 184, 15   
+   
+*ỉỉ.ỉn*		Esna II, 130, 4   
+   
+*ỉʿw.t*		Esna II, 184, 15   
+   
+*ỉʿrr.t*		Esna II, 74, 25; Esna II, 130, 4   
+   
+*ỉʿḥ*		Esna II, 51, 8; Esna II, 113, 11; Esna II, 184, 14   
+   
+*ỉwʿʿ*		Esna II, 49, 4; Esna II, 51, 6; Esna II, 64, 2; Esna II, 67, 3; Esna II, 104, 6; Esna II, 135, 12; Esna II, 183, 3   
+   
+*ỉwʿw*		Esna II, 59, 1   
+   
+*ỉwf*		Esna II, 51, 4   
+   
+*ỉwn*		Esna II, 50, 6; Esna II, 80, 2; Esna II, 80, 2; Esna II, 106, 3; Esna II, 112, 13; Esna II, 162, 5; Esna II, 169, 2; Esna II, 169, 2; Esna II, 177, 11; Esna II, 184, 21   
+   
+*ỉwn-ḥʿʿ*		Esna II, 52, 10; Esna II, 169, 1; Esna II, 184, 22; Esna II, 191, 18   
+   
+*ỉwn-mw.t*		Esna II, 52, 14; Esna II, 74, 32; Esna II, 191, 25   
+   
+*ỉwn-wr*		Esna II, 162, 5   
+   
+*ỉwn.t*		Esna II, 52, 25   
+   
+*ỉwnn*		Esna II, 125, 1   
+   
+*ỉwnt.t*		Esna II, 85, 1   
+   
+*ỉwnw*		Esna II, 50, 4; Esna II, 50, 4; Esna II, 60, 1; Esna II, 73, 6; Esna II, 80, 6; Esna II, 110, 2; Esna II, 156, 24; Esna II, 191, 26   
+   
+*ỉwny.t*		Esna II, 51, 5; Esna II, 52, 3; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 5; Esna II, 55, 7; Esna II, 60, 1; Esna II, 60, 1; Esna II, 60, 2; Esna II, 70, 16; Esna II, 70, 5; Esna II, 72, 15; Esna II, 73, 10; Esna II, 73, 17; Esna II, 73, 5; Esna II, 77, 11; Esna II, 80, 2; Esna II, 85, 1; Esna II, 96, 1; Esna II, 104, 1; Esna II, 104, 11; Esna II, 105, 4; Esna II, 106, 1; Esna II, 106, 3; Esna II, 125, 2; Esna II, 140, 4; Esna II, 141, 4; Esna II, 141, 8; Esna II, 162, 2; Esna II, 183, 1; Esna II, 184, 28; Esna II, 191, 21   
+   
+*ỉwnyt*		Esna II, 105, 5   
+   
+*ỉwr*		Esna II, 85, 3   
+   
+*ỉwḥ*		Esna II, 184, 15   
+   
+*ỉwt.t-ww*		Esna II, 130, 1; Esna II, 163, 27   
+   
+*ỉwtgrtr*		Esna II, 118, 2   
+   
+*ỉwtk*		Esna II, 123, 3   
+   
+*ỉwtkr*		Esna II, 140, 2   
+   
+*ỉwtkrtr*		Esna II, 61, 2; Esna II, 62, 2   
+   
+*ỉwty*		Esna II, 60, 5; Esna II, 73, 7; Esna II, 118, 11; Esna II, 162, 1; Esna II, 184, 15   
+   
+*ỉwd*		Esna II, 177, 11   
+   
+*ỉw*		Esna II, 51, 4; Esna II, 51, 8; Esna II, 55, 6; Esna II, 55, 6; Esna II, 58, 3; Esna II, 58, 4; Esna II, 58, 4; Esna II, 59, 2; Esna II, 59, 2; Esna II, 59, 2; Esna II, 60, 1; Esna II, 60, 2; Esna II, 60, 2; Esna II, 70, 13; Esna II, 70, 9; Esna II, 73, 4; Esna II, 73, 4; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 18; Esna II, 80, 2; Esna II, 80, 2; Esna II, 80, 7; Esna II, 81, 1; Esna II, 81, 4; Esna II, 81, 5; Esna II, 84, 1; Esna II, 95, 2; Esna II, 96, 2; Esna II, 104, 10; Esna II, 104, 3; Esna II, 104, 6; Esna II, 104, 7; Esna II, 110, 7; Esna II, 110, 9; Esna II, 124, 1; Esna II, 127, 3; Esna II, 127, 4; Esna II, 129, 4; Esna II, 131, 14; Esna II, 156, 18; Esna II, 162, 5; Esna II, 169, 10; Esna II, 176, 10; Esna II, 176, 4; Esna II, 176, 5; Esna II, 176, 9; Esna II, 176, 9; Esna II, 176, 9; Esna II, 184, 27; Esna II, 191, 17; Esna II, 191, 17; Esna II, 191, 18; Esna II, 191, 21   
+   
+*ỉbw*		Esna II, 55, 3   
+   
+*ỉbn*		Esna II, 130, 2   
+   
+*ỉbr*		Esna II, 85, 2; Esna II, 125, 1; Esna II, 163, 22   
+   
+*ỉbs*		Esna II, 77, 13   
+   
+*ỉbty.w*		Esna II, 156, 24   
+   
+*ỉbṯ.wt*		Esna II, 155, 3   
+   
+*ỉb-n-rʿ*		Esna II, 52, 24   
+   
+*ỉb*		Esna II, 58, 3; Esna II, 60, 1; Esna II, 60, 2; Esna II, 60, 4; Esna II, 70, 9; Esna II, 71, 14; Esna II, 74, 38; Esna II, 77, 16; Esna II, 77, 17; Esna II, 80, 3; Esna II, 80, 6; Esna II, 81, 5; Esna II, 81, 5; Esna II, 85, 4; Esna II, 102, 2; Esna II, 104, 3; Esna II, 104, 6; Esna II, 127, 11; Esna II, 127, 3; Esna II, 129, 1; Esna II, 130, 3; Esna II, 136, 10; Esna II, 155, 3; Esna II, 155, 6; Esna II, 163, 18; Esna II, 163, 23; Esna II, 163, 28; Esna II, 169, 10; Esna II, 191, 20   
+   
+*ỉb.w*		Esna II, 80, 3; Esna II, 155, 2; Esna II, 184, 24   
+   
+*ỉpw*		Esna II, 71, 7; Esna II, 110, 10; Esna II, 110, 10; Esna II, 110, 10; Esna II, 110, 12; Esna II, 110, 13; Esna II, 110, 15; Esna II, 110, 3; Esna II, 110, 3; Esna II, 110, 9   
+   
+*ỉpn*		Esna II, 67, 16   
+   
+*ỉp*		Esna II, 156, 26   
+   
+*ỉp.t*		Esna II, 55, 3   
+   
+*ỉfd.w*		Esna II, 73, 21; Esna II, 155, 3; Esna II, 169, 1; Esna II, 176, 4   
+   
+*ỉfdw*		Esna II, 82, 2; Esna II, 191, 21   
+   
+*ỉmȝ*		Esna II, 81, 5   
+   
+*ỉmȝ-ỉb*		Esna II, 130, 2; Esna II, 146, 2   
+   
+*ỉmỉ*		Esna II, 60, 4; Esna II, 74, 10; Esna II, 74, 11; Esna II, 76, 7; Esna II, 77, 16; Esna II, 85, 3; Esna II, 127, 10; Esna II, 127, 6   
+   
+*ỉmỉ-ỉb*		Esna II, 58, 2   
+   
+*ỉmỉ-wȝḏ*		Esna II, 130, 4   
+   
+*ỉmỉ..*		Esna II, 162, 3   
+   
+*ỉmỉ.t-pr*		Esna II, 51, 17; Esna II, 73, 13; Esna II, 73, 20; Esna II, 73, 21; Esna II, 73, 3; Esna II, 88, 14   
+   
+*ỉmỉ.w*		Esna II, 55, 6; Esna II, 76, 6; Esna II, 163, 27; Esna II, 163, 28; Esna II, 184, 18; Esna II, 184, 19   
+   
+*ỉmn*		Esna II, 55, 1; Esna II, 55, 3; Esna II, 55, 5; Esna II, 70, 16; Esna II, 74, 37; Esna II, 81, 3; Esna II, 129, 2; Esna II, 129, 3; Esna II, 129, 3; Esna II, 156, 20; Esna II, 184, 25   
+   
+*ỉmn-rʿ*		Esna II, 156, 23   
+   
+*ỉmn-wr*		Esna II, 184, 19   
+   
+*ỉmn.w*		Esna II, 155, 5   
+   
+*ỉmnt.t*		Esna II, 81, 1; Esna II, 91, 18   
+   
+*ỉmnty*		Esna II, 129, 1; Esna II, 163, 19   
+   
+*ỉmnty.w*		Esna II, 156, 19; Esna II, 156, 19   
+   
+*ỉmḥ*		Esna II, 104, 7   
+   
+*ỉmḥ.t*		Esna II, 55, 6; Esna II, 82, 2; Esna II, 130, 1   
+   
+*ỉm*		Esna II, 50, 4; Esna II, 50, 4; Esna II, 50, 4; Esna II, 50, 4; Esna II, 51, 4; Esna II, 58, 3; Esna II, 58, 5; Esna II, 58, 5; Esna II, 59, 2; Esna II, 59, 2; Esna II, 60, 2; Esna II, 60, 3; Esna II, 60, 4; Esna II, 63, 1; Esna II, 63, 1; Esna II, 64, 2; Esna II, 64, 3; Esna II, 70, 15; Esna II, 70, 8; Esna II, 72, 3; Esna II, 76, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 17; Esna II, 80, 4; Esna II, 81, 1; Esna II, 81, 3; Esna II, 81, 4; Esna II, 82, 1; Esna II, 84, 1; Esna II, 85, 4; Esna II, 104, 2; Esna II, 104, 6; Esna II, 106, 2; Esna II, 106, 3; Esna II, 106, 4; Esna II, 124, 2; Esna II, 124, 2; Esna II, 125, 2; Esna II, 127, 10; Esna II, 127, 2; Esna II, 129, 4; Esna II, 130, 1; Esna II, 130, 2; Esna II, 130, 3; Esna II, 130, 3; Esna II, 131, 12; Esna II, 131, 15; Esna II, 141, 11; Esna II, 143, 4; Esna II, 156, 17; Esna II, 156, 21; Esna II, 163, 19; Esna II, 169, 1; Esna II, 170, 11; Esna II, 176, 4; Esna II, 183, 2; Esna II, 184, 15; Esna II, 184, 25; Esna II, 190, 2; Esna II, 191, 17; Esna II, 191, 17   
+   
+*ỉm.t*		Esna II, 124, 2   
+   
+*ỉmy*		Esna II, 55, 7; Esna II, 70, 5; Esna II, 105, 6; Esna II, 106, 3; Esna II, 183, 2   
+   
+*ỉmy-p*		Esna II, 130, 1; Esna II, 163, 27   
+   
+*ỉmy-rȝ*		Esna II, 190, 1   
+   
+*ỉmy-rȝ.w*		Esna II, 156, 26   
+   
+*ỉmy-wȝḏ*		Esna II, 130, 5   
+   
+*ỉmy.w*		Esna II, 55, 6; Esna II, 129, 3; Esna II, 155, 3; Esna II, 156, 17; Esna II, 156, 18; Esna II, 156, 19; Esna II, 184, 27; Esna II, 190, 7   
+   
+*ỉmy.w-*		Esna II, 55, 5   
+   
+*ỉmy.w-ḫt*		Esna II, 156, 17; Esna II, 163, 26   
+   
+*ỉmy.w-ẖ.t*		Esna II, 55, 3   
+   
+*ỉnỉ*		Esna II, 163, 16   
+   
+*ỉnw*		Esna II, 72, 17; Esna II, 72, 7   
+   
+*ỉnb*		Esna II, 162, 2; Esna II, 162, 4   
+   
+*ỉnb-ḥḏ*		Esna II, 58, 7   
+   
+*ỉnp*		Esna II, 163, 27   
+   
+*ỉnpw*		Esna II, 130, 1; Esna II, 191, 24   
+   
+*ỉnm*		Esna II, 176, 9; Esna II, 190, 2; Esna II, 191, 21; Esna II, 191, 23   
+   
+*ỉnm.t*		Esna II, 124, 2   
+   
+*ỉnr*		Esna II, 113, 3   
+   
+*ỉnr.ty*		Esna II, 129, 1   
+   
+*ỉnḥ*		Esna II, 52, 24   
+   
+*ỉnḥ.wy*		Esna II, 74, 10   
+   
+*ỉns*		Esna II, 55, 2; Esna II, 55, 2   
+   
+*ỉnk*		Esna II, 59, 1; Esna II, 82, 1   
+   
+*ỉn*		Esna II, 49, 10; Esna II, 49, 5; Esna II, 50, 5; Esna II, 50, 9; Esna II, 51, 13; Esna II, 51, 5; Esna II, 54, 11; Esna II, 54, 2; Esna II, 54, 7; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 8; Esna II, 60, 3; Esna II, 60, 4; Esna II, 61, 1; Esna II, 61, 11; Esna II, 61, 5; Esna II, 61, 8; Esna II, 62, 10; Esna II, 62, 5; Esna II, 62, 8; Esna II, 70, 11; Esna II, 70, 3; Esna II, 70, 6; Esna II, 71, 10; Esna II, 71, 5; Esna II, 73, 19; Esna II, 76, 11; Esna II, 76, 15; Esna II, 76, 3; Esna II, 76, 7; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 14; Esna II, 77, 14; Esna II, 77, 18; Esna II, 81, 2; Esna II, 81, 5; Esna II, 91, 13; Esna II, 91, 7; Esna II, 96, 1; Esna II, 110, 15; Esna II, 110, 4; Esna II, 110, 4; Esna II, 110, 4; Esna II, 110, 5; Esna II, 115, 3; Esna II, 115, 7; Esna II, 118, 8; Esna II, 127, 5; Esna II, 127, 6; Esna II, 141, 10; Esna II, 141, 11; Esna II, 143, 3; Esna II, 143, 7; Esna II, 156, 11; Esna II, 156, 18; Esna II, 156, 20; Esna II, 156, 26; Esna II, 156, 27; Esna II, 156, 27; Esna II, 156, 27; Esna II, 184, 18   
+   
+*ỉn.t*		Esna II, 72, 17; Esna II, 163, 22   
+   
+*ỉn.w*		Esna II, 113, 13; Esna II, 124, 2   
+   
+*ỉrỉ-tȝ*		Esna II, 58, 1; Esna II, 64, 1   
+   
+*ỉrỉ-wḥm*		Esna II, 106, 1   
+   
+*ỉrw*		Esna II, 51, 4; Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 9; Esna II, 58, 4; Esna II, 59, 1; Esna II, 73, 4; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 15; Esna II, 77, 16; Esna II, 85, 1; Esna II, 120, 3; Esna II, 125, 2; Esna II, 129, 3; Esna II, 136, 3; Esna II, 162, 3; Esna II, 163, 17; Esna II, 176, 5; Esna II, 184, 15   
+   
+*ỉrw-nb*		Esna II, 77, 10   
+   
+*ỉrp*		Esna II, 77, 17; Esna II, 122, 1; Esna II, 124, 2   
+   
+*ỉrt-ḥr*		Esna II, 55, 8   
+   
+*ỉrṯ.t*		Esna II, 77, 17; Esna II, 104, 10; Esna II, 104, 7; Esna II, 104, 7; Esna II, 155, 2   
+   
+*ỉr-ȝbd*		Esna II, 51, 4   
+   
+*ỉr*		Esna II, 51, 4; Esna II, 52, 15; Esna II, 52, 16; Esna II, 52, 17; Esna II, 52, 17; Esna II, 52, 22; Esna II, 52, 23; Esna II, 52, 23; Esna II, 52, 26; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 4; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 9; Esna II, 58, 3; Esna II, 58, 3; Esna II, 58, 4; Esna II, 58, 4; Esna II, 58, 6; Esna II, 59, 2; Esna II, 60, 1; Esna II, 60, 1; Esna II, 60, 3; Esna II, 60, 4; Esna II, 60, 5; Esna II, 60, 5; Esna II, 61, 9; Esna II, 64, 1; Esna II, 64, 2; Esna II, 67, 18; Esna II, 70, 12; Esna II, 70, 12; Esna II, 70, 16; Esna II, 70, 5; Esna II, 71, 6; Esna II, 73, 21; Esna II, 73, 4; Esna II, 74, 10; Esna II, 74, 25; Esna II, 74, 38; Esna II, 76, 8; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 14; Esna II, 77, 15; Esna II, 77, 15; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 18; Esna II, 77, 18; Esna II, 77, 18; Esna II, 80, 7; Esna II, 80, 7; Esna II, 81, 1; Esna II, 81, 1; Esna II, 81, 2; Esna II, 81, 4; Esna II, 81, 4; Esna II, 88, 10; Esna II, 95, 3; Esna II, 96, 1; Esna II, 96, 2; Esna II, 103, 2; Esna II, 103, 2; Esna II, 104, 1; Esna II, 104, 2; Esna II, 104, 3; Esna II, 105, 5; Esna II, 106, 4; Esna II, 110, 12; Esna II, 110, 14; Esna II, 110, 2; Esna II, 112, 9; Esna II, 113, 12; Esna II, 113, 2; Esna II, 113, 6; Esna II, 115, 8; Esna II, 118, 1; Esna II, 118, 10; Esna II, 118, 11; Esna II, 120, 1; Esna II, 120, 13; Esna II, 120, 3; Esna II, 125, 2; Esna II, 127, 2; Esna II, 127, 5; Esna II, 127, 7; Esna II, 129, 1; Esna II, 129, 3; Esna II, 130, 1; Esna II, 130, 2; Esna II, 130, 3; Esna II, 131, 9; Esna II, 135, 11; Esna II, 136, 10; Esna II, 136, 15; Esna II, 136, 16; Esna II, 136, 3; Esna II, 136, 8; Esna II, 140, 1; Esna II, 141, 11; Esna II, 149, 2; Esna II, 162, 1; Esna II, 162, 2; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 18; Esna II, 163, 21; Esna II, 163, 22; Esna II, 163, 24; Esna II, 163, 25; Esna II, 163, 25; Esna II, 163, 25; Esna II, 163, 25; Esna II, 163, 28; Esna II, 170, 11; Esna II, 183, 1; Esna II, 183, 1; Esna II, 183, 2; Esna II, 183, 3; Esna II, 183, 5; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 18; Esna II, 184, 18; Esna II, 184, 21; Esna II, 184, 23; Esna II, 184, 28; Esna II, 191, 11; Esna II, 191, 17; Esna II, 191, 20   
+   
+*ỉr.t*		Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 9; Esna II, 55, 9; Esna II, 60, 3; Esna II, 70, 13; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 14; Esna II, 77, 16; Esna II, 77, 17; Esna II, 106, 3; Esna II, 112, 14; Esna II, 112, 5; Esna II, 162, 3; Esna II, 163, 13; Esna II, 163, 17; Esna II, 163, 20; Esna II, 169, 1   
+   
+*ỉr.t-ḥr*		Esna II, 55, 2; Esna II, 55, 3; Esna II, 124, 1   
+   
+*ỉr.t-ỉḫt*		Esna II, 191, 28   
+   
+*ỉr.t-rʿ*		Esna II, 50, 9; Esna II, 55, 3; Esna II, 60, 4; Esna II, 135, 14   
+   
+*ỉr.ty*		Esna II, 127, 1   
+   
+*ỉry*		Esna II, 54, 16; Esna II, 124, 1; Esna II, 127, 2; Esna II, 127, 9; Esna II, 156, 27   
+   
+*ỉry-ȝbd*		Esna II, 72, 6   
+   
+*ỉry-pʿ.t*		Esna II, 72, 14   
+   
+*ỉry.w*		Esna II, 71, 14; Esna II, 163, 22   
+   
+*ỉhȝy*		Esna II, 127, 9; Esna II, 130, 3; Esna II, 184, 24; Esna II, 184, 28   
+   
+*ỉhm.w*		Esna II, 124, 1   
+   
+*ỉh.t*		Esna II, 77, 16; Esna II, 91, 14; Esna II, 106, 1; Esna II, 141, 7; Esna II, 163, 17; Esna II, 163, 18   
+   
+*ỉhy*		Esna II, 81, 5   
+   
+*ỉḥ.ty*		Esna II, 60, 4   
+   
+*ỉḥ.w*		Esna II, 155, 2; Esna II, 156, 25; Esna II, 190, 1; Esna II, 190, 10   
+   
+*ỉḥ.wt*		Esna II, 156, 16; Esna II, 156, 21   
+   
+*ỉḥy*		Esna II, 72, 13; Esna II, 104, 11   
+   
+*ỉḥy-nwn*		Esna II, 146, 2   
+   
+*ỉḫm.w-sk.w*		Esna II, 184, 19   
+   
+*ỉḫm.w-wrḏ.w*		Esna II, 184, 18   
+   
+*ỉḫt*		Esna II, 49, 9; Esna II, 50, 10; Esna II, 50, 5; Esna II, 50, 8; Esna II, 54, 2; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 7; Esna II, 55, 8; Esna II, 63, 1; Esna II, 72, 1; Esna II, 72, 11; Esna II, 72, 7; Esna II, 72, 7; Esna II, 73, 4; Esna II, 76, 3; Esna II, 77, 10; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 18; Esna II, 77, 18; Esna II, 80, 7; Esna II, 96, 1; Esna II, 102, 1; Esna II, 104, 3; Esna II, 104, 9; Esna II, 110, 10; Esna II, 110, 10; Esna II, 110, 12; Esna II, 110, 9; Esna II, 124, 1; Esna II, 127, 11; Esna II, 135, 16; Esna II, 136, 15; Esna II, 162, 1; Esna II, 162, 3; Esna II, 163, 20; Esna II, 170, 11; Esna II, 176, 9; Esna II, 191, 28   
+   
+*ỉḫt-nṯr*		Esna II, 120, 2; Esna II, 162, 3; Esna II, 163, 22   
+   
+*ỉzwy*		Esna II, 125, 1   
+   
+*ỉzty.w*		Esna II, 190, 3   
+   
+*ỉz*		Esna II, 129, 3; Esna II, 129, 3; Esna II, 162, 2   
+   
+*ỉz.t-rʿ*		Esna II, 163, 28   
+   
+*ỉz.ty*		Esna II, 128, 2   
+   
+*ỉzy.t*		Esna II, 129, 3   
+   
+*ỉsk*		Esna II, 59, 2; Esna II, 183, 9   
+   
+*ỉsṯ*		Esna II, 58, 6   
+   
+*ỉsds*		Esna II, 110, 10   
+   
+*ỉs*		Esna II, 58, 1; Esna II, 59, 2; Esna II, 80, 1; Esna II, 112, 12; Esna II, 163, 16; Esna II, 176, 10   
+   
+*ỉs.t*		Esna II, 55, 2; Esna II, 55, 3; Esna II, 67, 6; Esna II, 71, 10; Esna II, 77, 18; Esna II, 77, 18; Esna II, 118, 4; Esna II, 129, 4; Esna II, 141, 9; Esna II, 190, 3   
+   
+*ỉšrw*		Esna II, 55, 8; Esna II, 163, 23   
+   
+*ỉšš*		Esna II, 73, 7   
+   
+*ỉšd*		Esna II, 163, 26   
+   
+*ỉqr*		Esna II, 61, 12; Esna II, 74, 34; Esna II, 74, 38; Esna II, 107, 3; Esna II, 127, 4   
+   
+*ỉqr-ḏbʿ.w*		Esna II, 136, 6   
+   
+*ỉqḥ*		Esna II, 104, 6   
+   
+*ỉgr.t*		Esna II, 156, 25   
+   
+*ỉtm*		Esna II, 51, 17; Esna II, 51, 3; Esna II, 54, 12; Esna II, 67, 12; Esna II, 77, 16; Esna II, 91, 7; Esna II, 106, 1; Esna II, 112, 14; Esna II, 112, 6; Esna II, 127, 9; Esna II, 129, 2; Esna II, 156, 23; Esna II, 156, 24; Esna II, 163, 13; Esna II, 163, 18; Esna II, 163, 26; Esna II, 191, 26   
+   
+*ỉtn*		Esna II, 52, 9; Esna II, 73, 4; Esna II, 73, 4; Esna II, 74, 19; Esna II, 74, 8; Esna II, 77, 18; Esna II, 80, 3; Esna II, 91, 18; Esna II, 106, 1; Esna II, 106, 2; Esna II, 110, 6; Esna II, 141, 5; Esna II, 163, 16; Esna II, 170, 11; Esna II, 184, 13   
+   
+*ỉtn-m-hrw*		Esna II, 156, 22   
+   
+*ỉtn.wy*		Esna II, 49, 12; Esna II, 71, 13; Esna II, 80, 3; Esna II, 81, 6; Esna II, 85, 1; Esna II, 107, 2; Esna II, 127, 9   
+   
+*ỉtr.ty*		Esna II, 113, 8   
+   
+*ỉtrỉnỉs*		Esna II, 141, 2   
+   
+*ỉtrw*		Esna II, 77, 17   
+   
+*ỉtrynỉs*		Esna II, 143, 7   
+   
+*ỉtḥ*		Esna II, 162, 5   
+   
+*ỉt-ỉt.w*		Esna II, 70, 8; Esna II, 71, 5; Esna II, 81, 1; Esna II, 162, 1; Esna II, 170, 11; Esna II, 183, 1   
+   
+*ỉt-ỉtw*		Esna II, 129, 2   
+   
+*ỉt-m-šȝʿ*		Esna II, 52, 3   
+   
+*ỉt-nṯr.w*		Esna II, 176, 2   
+   
+*ỉt*		Esna II, 49, 4; Esna II, 51, 6; Esna II, 52, 12; Esna II, 52, 24; Esna II, 52, 25; Esna II, 52, 3; Esna II, 55, 2; Esna II, 55, 8; Esna II, 58, 3; Esna II, 58, 6; Esna II, 59, 1; Esna II, 63, 3; Esna II, 64, 1; Esna II, 64, 3; Esna II, 72, 15; Esna II, 73, 3; Esna II, 74, 27; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 14; Esna II, 77, 16; Esna II, 82, 1; Esna II, 84, 1; Esna II, 91, 15; Esna II, 104, 3; Esna II, 104, 5; Esna II, 104, 8; Esna II, 105, 7; Esna II, 107, 1; Esna II, 118, 1; Esna II, 127, 8; Esna II, 129, 2; Esna II, 130, 2; Esna II, 135, 1; Esna II, 136, 14; Esna II, 141, 13; Esna II, 143, 4; Esna II, 155, 8; Esna II, 156, 19; Esna II, 176, 1; Esna II, 176, 1; Esna II, 183, 1; Esna II, 184, 15; Esna II, 184, 15   
+   
+*ỉt.w*		Esna II, 58, 3; Esna II, 58, 6; Esna II, 77, 14   
+   
+*ỉty*		Esna II, 97, 3; Esna II, 135, 13; Esna II, 190, 10; Esna II, 191, 16   
+   
+*ỉty.t*		Esna II, 163, 16   
+   
+*ỉṯ-kȝ*		Esna II, 50, 8; Esna II, 76, 13; Esna II, 76, 15; Esna II, 95, 8; Esna II, 191, 19   
+   
+*ỉṯ*		Esna II, 60, 5; Esna II, 113, 9   
+   
+*ỉṯ.s*		Esna II, 163, 24   
+   
+*ỉdb.w*		Esna II, 76, 4; Esna II, 143, 4; Esna II, 183, 3; Esna II, 191, 14   
+   
+*ỉdb.w-ḥr*		Esna II, 72, 17   
+   
+*ỉdn*		Esna II, 141, 6   
+   
+*ỉdr*		Esna II, 156, 27   
+   
+*ỉdḥ*		Esna II, 162, 5; Esna II, 176, 7   
+   
+*ỉdḥ.w*		Esna II, 76, 4; Esna II, 191, 21   
+   
+*ỉdḥw*		Esna II, 162, 6   
+   
+*ỉd.wt*		Esna II, 95, 3; Esna II, 155, 5; Esna II, 155, 6; Esna II, 156, 23; Esna II, 190, 2; Esna II, 190, 4; Esna II, 191, 21   
+   
+*ỉ.ỉr*		Esna II, 191, 11; Esna II, 191, 13   
+   
+*ỉyḥ.w*		Esna II, 176, 8   
+   
+*ʿȝb.t*		Esna II, 55, 2   
+   
+*ʿȝpp*		Esna II, 81, 3; Esna II, 127, 7; Esna II, 163, 17; Esna II, 163, 28   
+   
+*ʿȝ-ỉb*		Esna II, 55, 1   
+   
+*ʿȝ-ỉrw*		Esna II, 112, 1   
+   
+*ʿȝ-pḥty*		Esna II, 62, 11; Esna II, 82, 1; Esna II, 127, 5   
+   
+*ʿȝ-rqḥ*		Esna II, 50, 11   
+   
+*ʿȝ-šb.w*		Esna II, 91, 16   
+   
+*ʿȝ*		Esna II, 51, 13; Esna II, 55, 2; Esna II, 59, 1; Esna II, 61, 11; Esna II, 62, 8; Esna II, 63, 3; Esna II, 67, 20; Esna II, 70, 10; Esna II, 70, 16; Esna II, 72, 12; Esna II, 74, 14; Esna II, 77, 14; Esna II, 80, 7; Esna II, 81, 3; Esna II, 81, 6; Esna II, 91, 3; Esna II, 103, 1; Esna II, 110, 13; Esna II, 120, 3; Esna II, 127, 8; Esna II, 129, 4; Esna II, 135, 12; Esna II, 135, 13; Esna II, 135, 8; Esna II, 150, 2; Esna II, 155, 3; Esna II, 155, 3; Esna II, 156, 21; Esna II, 163, 18; Esna II, 176, 5; Esna II, 183, 1; Esna II, 183, 4; Esna II, 191, 20   
+   
+*ʿȝ.t*		Esna II, 49, 11; Esna II, 50, 4; Esna II, 51, 15; Esna II, 55, 2; Esna II, 67, 18; Esna II, 73, 6; Esna II, 73, 6; Esna II, 77, 12; Esna II, 115, 8; Esna II, 127, 2; Esna II, 136, 13; Esna II, 156, 17; Esna II, 162, 4; Esna II, 170, 11; Esna II, 183, 2   
+   
+*ʿȝ.w*		Esna II, 64, 2; Esna II, 73, 10; Esna II, 77, 14; Esna II, 104, 5; Esna II, 130, 3   
+   
+*ʿʿ*		Esna II, 162, 5   
+   
+*ʿwȝy*		Esna II, 191, 21   
+   
+*ʿwn.t*		Esna II, 77, 16   
+   
+*ʿw.t*		Esna II, 95, 4; Esna II, 103, 1   
+   
+*ʿw.t-nṯr*		Esna II, 190, 2   
+   
+*ʿbȝ*		Esna II, 71, 11   
+   
+*ʿbȝ.t*		Esna II, 77, 16; Esna II, 163, 26; Esna II, 184, 25   
+   
+*ʿbʿb.w*		Esna II, 190, 5   
+   
+*ʿbw*		Esna II, 49, 1; Esna II, 49, 5; Esna II, 49, 9; Esna II, 52, 14; Esna II, 52, 15; Esna II, 67, 10; Esna II, 67, 11; Esna II, 67, 11; Esna II, 67, 18; Esna II, 67, 4; Esna II, 67, 4; Esna II, 67, 5; Esna II, 74, 25; Esna II, 74, 32; Esna II, 82, 2; Esna II, 184, 21   
+   
+*ʿbw-wr*		Esna II, 77, 11   
+   
+*ʿbḫ*		Esna II, 105, 7   
+   
+*ʿb*		Esna II, 67, 16; Esna II, 67, 9; Esna II, 104, 9; Esna II, 104, 9   
+   
+*ʿby.w*		Esna II, 190, 4   
+   
+*ʿpr*		Esna II, 54, 13; Esna II, 74, 22; Esna II, 85, 2; Esna II, 85, 4; Esna II, 118, 11; Esna II, 124, 1; Esna II, 156, 21; Esna II, 156, 21; Esna II, 162, 3; Esna II, 163, 19; Esna II, 190, 2; Esna II, 191, 21   
+   
+*ʿpy*		Esna II, 74, 36; Esna II, 74, 36; Esna II, 191, 18   
+   
+*ʿm*		Esna II, 60, 3; Esna II, 155, 2   
+   
+*ʿmy.wt*		Esna II, 190, 4   
+   
+*ʿnḫ*		Esna II, 50, 11; Esna II, 50, 13; Esna II, 50, 4; Esna II, 51, 4; Esna II, 51, 4; Esna II, 51, 6; Esna II, 52, 8; Esna II, 54, 16; Esna II, 59, 1; Esna II, 59, 1; Esna II, 59, 2; Esna II, 63, 4; Esna II, 70, 15; Esna II, 70, 15; Esna II, 70, 15; Esna II, 70, 5; Esna II, 72, 17; Esna II, 74, 37; Esna II, 74, 5; Esna II, 76, 8; Esna II, 80, 1; Esna II, 80, 2; Esna II, 82, 1; Esna II, 91, 5; Esna II, 97, 1; Esna II, 97, 2; Esna II, 97, 3; Esna II, 103, 1; Esna II, 103, 2; Esna II, 104, 10; Esna II, 104, 3; Esna II, 104, 7; Esna II, 107, 1; Esna II, 120, 10; Esna II, 128, 5; Esna II, 131, 11; Esna II, 135, 16; Esna II, 135, 16; Esna II, 141, 5; Esna II, 146, 2; Esna II, 156, 17; Esna II, 156, 17; Esna II, 162, 1; Esna II, 163, 15; Esna II, 163, 20; Esna II, 163, 21; Esna II, 163, 24; Esna II, 163, 26; Esna II, 169, 2; Esna II, 177, 11; Esna II, 184, 24; Esna II, 191, 17; Esna II, 191, 28   
+   
+*ʿnḫ-ḏ.t*		Esna II, 118, 4   
+   
+*ʿnḫ-ḏd-wȝs*		Esna II, 51, 16; Esna II, 51, 16; Esna II, 52, 9; Esna II, 74, 5; Esna II, 112, 7; Esna II, 118, 4; Esna II, 135, 1; Esna II, 135, 6; Esna II, 135, 8; Esna II, 190, 8   
+   
+*ʿnḫ-tȝ.wy*		Esna II, 55, 3; Esna II, 163, 13; Esna II, 163, 23   
+   
+*ʿnḫ-wȝs*		Esna II, 67, 16; Esna II, 135, 15   
+   
+*ʿnḫ-wḏȝ-snb*		Esna II, 52, 3   
+   
+*ʿnḫ.t*		Esna II, 74, 18   
+   
+*ʿnḫ.w*		Esna II, 55, 7; Esna II, 67, 15; Esna II, 67, 8; Esna II, 88, 5; Esna II, 91, 5; Esna II, 135, 6; Esna II, 141, 12; Esna II, 184, 23   
+   
+*ʿnty.w*		Esna II, 102, 1   
+   
+*ʿntyw*		Esna II, 62, 1; Esna II, 81, 6; Esna II, 102, 1; Esna II, 123, 1; Esna II, 163, 21   
+   
+*ʿnḏ*		Esna II, 91, 6   
+   
+*ʿn-ḥr*		Esna II, 72, 14   
+   
+*ʿn-ḫʿỉ*		Esna II, 88, 11   
+   
+*ʿn*		Esna II, 55, 1; Esna II, 136, 8; Esna II, 141, 4; Esna II, 156, 17; Esna II, 163, 16; Esna II, 190, 8   
+   
+*ʿn.wy*		Esna II, 127, 9   
+   
+*ʿrr*		Esna II, 191, 21   
+   
+*ʿrry.t*		Esna II, 124, 2   
+   
+*ʿrq*		Esna II, 49, 13; Esna II, 184, 22   
+   
+*ʿrq.w*		Esna II, 64, 4   
+   
+*ʿr*		Esna II, 52, 18; Esna II, 77, 14; Esna II, 81, 2; Esna II, 127, 10; Esna II, 156, 20; Esna II, 162, 5; Esna II, 183, 5; Esna II, 183, 5; Esna II, 183, 5   
+   
+*ʿr.w*		Esna II, 55, 1   
+   
+*ʿh*		Esna II, 141, 11   
+   
+*ʿḥȝ*		Esna II, 55, 1; Esna II, 77, 16; Esna II, 127, 1   
+   
+*ʿḥȝ-nfr*		Esna II, 55, 8; Esna II, 77, 14   
+   
+*ʿḥʿ*		Esna II, 51, 4; Esna II, 54, 8; Esna II, 73, 14; Esna II, 85, 1; Esna II, 130, 4; Esna II, 156, 19; Esna II, 156, 28; Esna II, 184, 24; Esna II, 184, 27   
+   
+*ʿḥʿ.ỉn*		Esna II, 55, 6   
+   
+*ʿḥʿ.w*		Esna II, 163, 26   
+   
+*ʿḥʿy*		Esna II, 73, 12   
+   
+*ʿḥʿy-nfr*		Esna II, 107, 1   
+   
+*ʿḥ*		Esna II, 49, 11; Esna II, 52, 8; Esna II, 74, 37; Esna II, 74, 4; Esna II, 74, 6; Esna II, 74, 7; Esna II, 77, 14; Esna II, 81, 2; Esna II, 85, 2; Esna II, 88, 16; Esna II, 162, 3; Esna II, 162, 4; Esna II, 163, 21   
+   
+*ʿḫỉ*		Esna II, 77, 10; Esna II, 177, 11; Esna II, 177, 11; Esna II, 184, 18   
+   
+*ʿḫỉ-p.t*		Esna II, 77, 10   
+   
+*ʿḫỉ-pt*		Esna II, 64, 3   
+   
+*ʿḫm*		Esna II, 106, 4; Esna II, 127, 2; Esna II, 136, 9   
+   
+*ʿḫm.w*		Esna II, 71, 12; Esna II, 118, 11; Esna II, 183, 4   
+   
+*ʿḫn*		Esna II, 127, 1   
+   
+*ʿḫy.t*		Esna II, 156, 24   
+   
+*ʿšȝ*		Esna II, 52, 6; Esna II, 54, 4; Esna II, 67, 19; Esna II, 71, 3; Esna II, 77, 17; Esna II, 124, 1; Esna II, 127, 2; Esna II, 135, 1; Esna II, 155, 3; Esna II, 155, 4; Esna II, 156, 18; Esna II, 156, 18; Esna II, 156, 24; Esna II, 169, 8; Esna II, 169, 9; Esna II, 190, 1   
+   
+*ʿšȝ-dm*		Esna II, 55, 5   
+   
+*ʿšȝ-m-bḥs*		Esna II, 191, 24   
+   
+*ʿšȝ.w*		Esna II, 51, 12; Esna II, 54, 4; Esna II, 73, 20; Esna II, 97, 3   
+   
+*ʿšʿ*		Esna II, 77, 18   
+   
+*ʿš*		Esna II, 59, 1; Esna II, 104, 1; Esna II, 120, 10   
+   
+*ʿq-pr*		Esna II, 191, 20   
+   
+*ʿq*		Esna II, 51, 8; Esna II, 52, 9; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 8; Esna II, 71, 9; Esna II, 73, 4; Esna II, 74, 11; Esna II, 77, 10; Esna II, 77, 14; Esna II, 84, 1; Esna II, 85, 4; Esna II, 96, 1; Esna II, 104, 9; Esna II, 125, 2; Esna II, 127, 10; Esna II, 129, 4; Esna II, 130, 3; Esna II, 155, 3; Esna II, 184, 26; Esna II, 190, 1; Esna II, 191, 21   
+   
+*ʿgny*		Esna II, 55, 5; Esna II, 55, 8; Esna II, 77, 15   
+   
+*ʿḏʿḏ*		Esna II, 156, 16; Esna II, 163, 27   
+   
+*ʿḏ*		Esna II, 54, 13   
+   
+*ʿḏ.t*		Esna II, 127, 7   
+   
+*ʿ-rsy*		Esna II, 64, 1; Esna II, 81, 1; Esna II, 191, 20   
+   
+*ʿ.wt*		Esna II, 63, 3; Esna II, 70, 14; Esna II, 81, 2; Esna II, 156, 16; Esna II, 156, 20   
+   
+*ʿ.wy*		Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 9; Esna II, 60, 5; Esna II, 70, 14; Esna II, 72, 6; Esna II, 74, 29; Esna II, 84, 1; Esna II, 110, 3; Esna II, 110, 5; Esna II, 135, 16; Esna II, 136, 10; Esna II, 156, 17; Esna II, 156, 19   
+   
+*ʿ.t*		Esna II, 125, 2   
+   
+*ʿ.t-rsy.t*		Esna II, 163, 18   
+   
+*wȝỉ*		Esna II, 82, 2; Esna II, 176, 9   
+   
+*wȝrḫ*		Esna II, 183, 6   
+   
+*wȝḥ*		Esna II, 55, 2; Esna II, 102, 1; Esna II, 104, 3; Esna II, 127, 6; Esna II, 136, 16; Esna II, 162, 2; Esna II, 169, 1; Esna II, 176, 1   
+   
+*wȝḥ-qd*		Esna II, 52, 5   
+   
+*wȝḥ-sȝḥw-rʿ*		Esna II, 77, 14   
+   
+*wȝḥ-tp*		Esna II, 88, 18; Esna II, 163, 19   
+   
+*wȝḥ.t*		Esna II, 163, 20   
+   
+*wȝḥy.t*		Esna II, 191, 17   
+   
+*wȝs*		Esna II, 74, 5; Esna II, 91, 5; Esna II, 135, 16   
+   
+*wȝs.t*		Esna II, 60, 1; Esna II, 73, 5   
+   
+*wȝsỉ*		Esna II, 183, 3   
+   
+*wȝš*		Esna II, 131, 5; Esna II, 131, 5   
+   
+*wȝd*		Esna II, 50, 11   
+   
+*wȝḏ*		Esna II, 51, 4; Esna II, 130, 4; Esna II, 131, 10; Esna II, 162, 5; Esna II, 162, 5; Esna II, 169, 4; Esna II, 169, 9   
+   
+*wȝḏ-ḥr*		Esna II, 162, 5   
+   
+*wȝḏ-ḥw*		Esna II, 91, 16   
+   
+*wȝḏ-wr*		Esna II, 163, 12   
+   
+*wȝḏ.t*		Esna II, 50, 11   
+   
+*wȝḏ.ty*		Esna II, 51, 17; Esna II, 72, 16; Esna II, 74, 35; Esna II, 88, 6; Esna II, 191, 16   
+   
+*wȝḏ.w*		Esna II, 130, 5; Esna II, 130, 5; Esna II, 191, 23   
+   
+*wȝḏwȝḏ*		Esna II, 54, 2; Esna II, 76, 4; Esna II, 81, 6; Esna II, 156, 16; Esna II, 190, 2   
+   
+*wȝḏwȝḏ.w*		Esna II, 169, 7   
+   
+*wȝḏy*		Esna II, 156, 27   
+   
+*wȝḏy.t*		Esna II, 70, 6; Esna II, 74, 26; Esna II, 74, 26; Esna II, 112, 14; Esna II, 131, 11; Esna II, 131, 8; Esna II, 135, 14; Esna II, 169, 5   
+   
+*wȝ.t*		Esna II, 52, 19; Esna II, 70, 8; Esna II, 74, 35; Esna II, 127, 11   
+   
+*wȝ.wt*		Esna II, 52, 11; Esna II, 52, 20; Esna II, 74, 33   
+   
+*wỉȝ*		Esna II, 184, 19   
+   
+*wỉ*		Esna II, 77, 17   
+   
+*wʿw*		Esna II, 191, 16   
+   
+*wʿb*		Esna II, 49, 7; Esna II, 52, 13; Esna II, 55, 7; Esna II, 67, 12; Esna II, 67, 5; Esna II, 67, 9; Esna II, 71, 14; Esna II, 71, 14; Esna II, 71, 14; Esna II, 72, 6; Esna II, 74, 27; Esna II, 74, 27; Esna II, 74, 28; Esna II, 74, 28; Esna II, 74, 29; Esna II, 74, 29; Esna II, 110, 3; Esna II, 120, 3; Esna II, 127, 11; Esna II, 127, 11; Esna II, 155, 2   
+   
+*wʿb-sḫm.t*		Esna II, 77, 14   
+   
+*wʿb.t*		Esna II, 55, 6   
+   
+*wʿb.w*		Esna II, 50, 4; Esna II, 72, 3; Esna II, 143, 8; Esna II, 176, 9   
+   
+*wʿr*		Esna II, 60, 3   
+   
+*wʿ-wʿ.w*		Esna II, 97, 1   
+   
+*wʿ*		Esna II, 63, 3; Esna II, 64, 2; Esna II, 64, 2; Esna II, 64, 3; Esna II, 73, 7; Esna II, 80, 4; Esna II, 91, 8; Esna II, 104, 4; Esna II, 112, 2; Esna II, 120, 13; Esna II, 127, 9; Esna II, 141, 8; Esna II, 155, 1; Esna II, 156, 21; Esna II, 163, 24; Esna II, 190, 1; Esna II, 191, 16   
+   
+*wʿ.t*		Esna II, 88, 17; Esna II, 130, 3   
+   
+*ww*		Esna II, 54, 16; Esna II, 60, 5; Esna II, 71, 11; Esna II, 73, 11; Esna II, 73, 5; Esna II, 76, 3; Esna II, 76, 4; Esna II, 80, 3; Esna II, 95, 8; Esna II, 156, 15   
+   
+*ww.t*		Esna II, 81, 4; Esna II, 127, 4   
+   
+*wbȝ*		Esna II, 52, 20; Esna II, 55, 9; Esna II, 162, 3; Esna II, 162, 8; Esna II, 183, 5; Esna II, 191, 27   
+   
+*wbn*		Esna II, 51, 10; Esna II, 52, 4; Esna II, 52, 6; Esna II, 52, 6; Esna II, 52, 8; Esna II, 52, 9; Esna II, 60, 4; Esna II, 64, 3; Esna II, 70, 13; Esna II, 73, 16; Esna II, 74, 15; Esna II, 76, 12; Esna II, 80, 4; Esna II, 85, 1; Esna II, 91, 18; Esna II, 103, 2; Esna II, 106, 1; Esna II, 106, 2; Esna II, 110, 1; Esna II, 113, 11; Esna II, 127, 5; Esna II, 130, 2; Esna II, 141, 5; Esna II, 156, 18; Esna II, 169, 5; Esna II, 170, 11; Esna II, 184, 13; Esna II, 184, 19; Esna II, 191, 18; Esna II, 191, 19; Esna II, 191, 19   
+   
+*wbg*		Esna II, 128, 2; Esna II, 156, 14   
+   
+*wpš*		Esna II, 49, 1; Esna II, 58, 1; Esna II, 127, 3; Esna II, 184, 20   
+   
+*wp-rnp.t*		Esna II, 77, 15   
+   
+*wp-tr.w*		Esna II, 51, 4   
+   
+*wp-wȝ.wt*		Esna II, 52, 20; Esna II, 91, 10; Esna II, 110, 5; Esna II, 191, 24   
+   
+*wp*		Esna II, 52, 20; Esna II, 110, 5; Esna II, 110, 7; Esna II, 129, 4; Esna II, 163, 25; Esna II, 169, 9   
+   
+*wp.t*		Esna II, 58, 1; Esna II, 77, 16; Esna II, 81, 5; Esna II, 127, 3; Esna II, 163, 17   
+   
+*wp.t-rnp.t*		Esna II, 55, 1   
+   
+*wp.t-rnpt*		Esna II, 55, 1   
+   
+*wp.wt*		Esna II, 127, 8   
+   
+*wpy*		Esna II, 55, 6; Esna II, 81, 6; Esna II, 81, 6; Esna II, 127, 8; Esna II, 162, 5   
+   
+*wnw.t*		Esna II, 77, 12; Esna II, 77, 14; Esna II, 77, 18; Esna II, 77, 18   
+   
+*wnw.wt*		Esna II, 163, 25   
+   
+*wnwn*		Esna II, 169, 1   
+   
+*wnf*		Esna II, 156, 16   
+   
+*wnf-ỉb*		Esna II, 124, 2   
+   
+*wnm*		Esna II, 110, 13   
+   
+*wnm-ỉȝb*		Esna II, 85, 3   
+   
+*wnm.t*		Esna II, 106, 2; Esna II, 107, 2; Esna II, 112, 5; Esna II, 184, 14; Esna II, 191, 18   
+   
+*wnmy.w*		Esna II, 131, 11   
+   
+*wnn*		Esna II, 64, 4; Esna II, 71, 12; Esna II, 77, 15; Esna II, 96, 1; Esna II, 96, 2; Esna II, 102, 1; Esna II, 102, 2; Esna II, 104, 5; Esna II, 104, 9; Esna II, 106, 1; Esna II, 107, 1; Esna II, 118, 4; Esna II, 130, 4; Esna II, 136, 16; Esna II, 162, 2   
+   
+*wnn.t*		Esna II, 54, 12; Esna II, 54, 4; Esna II, 67, 19; Esna II, 70, 12; Esna II, 70, 14; Esna II, 104, 2; Esna II, 106, 4; Esna II, 120, 13; Esna II, 135, 11; Esna II, 184, 15   
+   
+*wnḫ*		Esna II, 127, 10   
+   
+*wnḫy*		Esna II, 191, 21   
+   
+*wnš.w*		Esna II, 190, 5   
+   
+*wnḏ.w*		Esna II, 72, 17   
+   
+*wn-ḥr*		Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 15; Esna II, 77, 18   
+   
+*wn-nfr*		Esna II, 141, 12   
+   
+*wn-šps*		Esna II, 76, 11   
+   
+*wn*		Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 9; Esna II, 60, 2; Esna II, 60, 4; Esna II, 63, 1; Esna II, 64, 3; Esna II, 71, 1; Esna II, 77, 18; Esna II, 81, 4; Esna II, 85, 1; Esna II, 112, 12; Esna II, 127, 2; Esna II, 131, 15; Esna II, 131, 15; Esna II, 136, 10; Esna II, 163, 20; Esna II, 163, 20; Esna II, 163, 25; Esna II, 184, 20; Esna II, 184, 24; Esna II, 190, 2   
+   
+*wn.t*		Esna II, 55, 6; Esna II, 74, 26   
+   
+*wn.wt*		Esna II, 184, 22   
+   
+*wrr.t*		Esna II, 88, 12; Esna II, 191, 24   
+   
+*wrry.t*		Esna II, 155, 4   
+   
+*wrh*		Esna II, 58, 4; Esna II, 81, 5   
+   
+*wrḥ*		Esna II, 55, 7; Esna II, 63, 1; Esna II, 163, 21   
+   
+*wrš*		Esna II, 80, 4; Esna II, 129, 2; Esna II, 129, 2   
+   
+*wrḏ*		Esna II, 64, 2; Esna II, 84, 1   
+   
+*wrḏ-ỉb*		Esna II, 191, 24   
+   
+*wr-ḥkȝw*		Esna II, 55, 8; Esna II, 60, 4; Esna II, 72, 12; Esna II, 150, 2   
+   
+*wr-nrw*		Esna II, 112, 1   
+   
+*wr-pḥty*		Esna II, 91, 3; Esna II, 162, 1   
+   
+*wr-sḫm.w*		Esna II, 52, 21; Esna II, 74, 35   
+   
+*wr-šfy.t*		Esna II, 82, 1; Esna II, 120, 1; Esna II, 156, 18   
+   
+*wr-ww*		Esna II, 162, 5   
+   
+*wr*		Esna II, 50, 12; Esna II, 50, 4; Esna II, 50, 5; Esna II, 51, 13; Esna II, 54, 8; Esna II, 55, 2; Esna II, 61, 11; Esna II, 67, 20; Esna II, 70, 10; Esna II, 70, 12; Esna II, 70, 16; Esna II, 72, 12; Esna II, 72, 13; Esna II, 74, 36; Esna II, 81, 1; Esna II, 81, 2; Esna II, 81, 6; Esna II, 81, 6; Esna II, 85, 1; Esna II, 85, 2; Esna II, 85, 4; Esna II, 102, 2; Esna II, 113, 7; Esna II, 118, 4; Esna II, 123, 11; Esna II, 127, 10; Esna II, 129, 2; Esna II, 135, 13; Esna II, 150, 2; Esna II, 155, 4; Esna II, 156, 17; Esna II, 156, 21; Esna II, 163, 25; Esna II, 163, 25; Esna II, 163, 25; Esna II, 169, 8; Esna II, 176, 6; Esna II, 183, 5; Esna II, 184, 13; Esna II, 184, 21; Esna II, 184, 21; Esna II, 190, 1; Esna II, 191, 17   
+   
+*wr.t*		Esna II, 49, 10; Esna II, 51, 5; Esna II, 52, 23; Esna II, 52, 25; Esna II, 55, 5; Esna II, 55, 5; Esna II, 61, 8; Esna II, 62, 5; Esna II, 67, 17; Esna II, 71, 10; Esna II, 71, 5; Esna II, 72, 10; Esna II, 73, 10; Esna II, 73, 18; Esna II, 73, 5; Esna II, 74, 17; Esna II, 76, 11; Esna II, 76, 15; Esna II, 76, 3; Esna II, 76, 7; Esna II, 77, 14; Esna II, 77, 18; Esna II, 88, 16; Esna II, 91, 11; Esna II, 91, 13; Esna II, 91, 14; Esna II, 91, 15; Esna II, 110, 2; Esna II, 113, 12; Esna II, 118, 8; Esna II, 123, 5; Esna II, 136, 13; Esna II, 136, 7; Esna II, 143, 3; Esna II, 143, 7; Esna II, 155, 5; Esna II, 163, 19; Esna II, 163, 23; Esna II, 170, 11; Esna II, 176, 1   
+   
+*wr.t-ḥkȝ*		Esna II, 74, 29   
+   
+*wr.t-ḥkȝw*		Esna II, 74, 25; Esna II, 141, 7   
+   
+*wr.t-mrw.t*		Esna II, 55, 8   
+   
+*wr.w*		Esna II, 51, 12; Esna II, 58, 2; Esna II, 58, 2; Esna II, 58, 3; Esna II, 73, 20; Esna II, 81, 3; Esna II, 88, 5; Esna II, 104, 5; Esna II, 124, 1; Esna II, 140, 1; Esna II, 156, 22; Esna II, 156, 26; Esna II, 156, 26; Esna II, 156, 26; Esna II, 163, 18   
+   
+*wr.wy*		Esna II, 85, 4; Esna II, 124, 1   
+   
+*wry.t*		Esna II, 190, 4; Esna II, 191, 23; Esna II, 191, 27   
+   
+*wry.w*		Esna II, 191, 21   
+   
+*whȝ*		Esna II, 77, 10   
+   
+*wḥʿ-tȝ*		Esna II, 163, 23   
+   
+*wḥm*		Esna II, 51, 14; Esna II, 51, 9; Esna II, 54, 8; Esna II, 77, 13; Esna II, 104, 11; Esna II, 107, 3; Esna II, 127, 2; Esna II, 135, 13; Esna II, 150, 2; Esna II, 155, 10; Esna II, 176, 9; Esna II, 184, 20; Esna II, 184, 22; Esna II, 184, 27; Esna II, 184, 28   
+   
+*wḥm-ʿnḫ*		Esna II, 50, 7; Esna II, 96, 1; Esna II, 184, 20   
+   
+*wḥm-ḫʿ*		Esna II, 155, 4   
+   
+*wḥm-ḫpr*		Esna II, 155, 5   
+   
+*wḫȝ*		Esna II, 52, 5; Esna II, 155, 1; Esna II, 156, 21; Esna II, 162, 5; Esna II, 163, 17; Esna II, 176, 2; Esna II, 190, 1   
+   
+*wḫȝ.w*		Esna II, 162, 2; Esna II, 162, 9; Esna II, 183, 6   
+   
+*wḫ.w*		Esna II, 64, 4   
+   
+*wsỉr*		Esna II, 55, 2; Esna II, 55, 7; Esna II, 58, 5; Esna II, 71, 11; Esna II, 77, 18; Esna II, 81, 3; Esna II, 88, 14; Esna II, 110, 7; Esna II, 129, 3; Esna II, 140, 7; Esna II, 141, 9; Esna II, 163, 20; Esna II, 163, 26; Esna II, 184, 25; Esna II, 191, 24   
+   
+*wsỉr-nḫt*		Esna II, 130, 1; Esna II, 163, 27   
+   
+*wspsyns*		Esna II, 71, 3; Esna II, 97, 3   
+   
+*wspsynys*		Esna II, 102, 1   
+   
+*wsn*		Esna II, 103, 2   
+   
+*wsr*		Esna II, 74, 23; Esna II, 135, 16; Esna II, 156, 27   
+   
+*wsr.t*		Esna II, 60, 5; Esna II, 74, 18; Esna II, 91, 11; Esna II, 102, 2; Esna II, 146, 2; Esna II, 169, 1   
+   
+*wsḫ*		Esna II, 115, 8   
+   
+*wsḫ.t*		Esna II, 77, 10; Esna II, 163, 24   
+   
+*wsḫ.t-ḫʿ*		Esna II, 55, 9; Esna II, 77, 16   
+   
+*ws-n-p.t*		Esna II, 163, 20   
+   
+*ws*		Esna II, 184, 26   
+   
+*wšȝ*		Esna II, 113, 1   
+   
+*wšb*		Esna II, 155, 2   
+   
+*wšb.w*		Esna II, 155, 2   
+   
+*wšr*		Esna II, 80, 6; Esna II, 163, 26   
+   
+*wš*		Esna II, 85, 2   
+   
+*wtkr*		Esna II, 122, 3   
+   
+*wtṯ*		Esna II, 50, 5; Esna II, 58, 5; Esna II, 74, 6; Esna II, 141, 6; Esna II, 156, 22; Esna II, 183, 2   
+   
+*wṯz*		Esna II, 63, 1; Esna II, 77, 14; Esna II, 91, 11; Esna II, 128, 2; Esna II, 141, 11; Esna II, 141, 13; Esna II, 169, 1; Esna II, 169, 1; Esna II, 169, 10; Esna II, 176, 10; Esna II, 183, 9; Esna II, 184, 21   
+   
+*wṯz-ḫʿ*		Esna II, 106, 4; Esna II, 141, 3   
+   
+*wṯz-nfrw*		Esna II, 52, 22; Esna II, 74, 11; Esna II, 74, 35; Esna II, 162, 3   
+   
+*wṯt*		Esna II, 59, 1; Esna II, 82, 1   
+   
+*wdỉ*		Esna II, 52, 5; Esna II, 74, 12; Esna II, 74, 8; Esna II, 104, 8; Esna II, 127, 8; Esna II, 131, 11   
+   
+*wdpw*		Esna II, 143, 8   
+   
+*wdn*		Esna II, 54, 7   
+   
+*wd*		Esna II, 81, 5   
+   
+*wḏȝ*		Esna II, 156, 20; Esna II, 163, 28   
+   
+*wḏȝ.t*		Esna II, 60, 4; Esna II, 72, 13   
+   
+*wḏȝ.ty*		Esna II, 52, 6; Esna II, 127, 3   
+   
+*wḏʿ*		Esna II, 55, 3   
+   
+*wḏʿ-mdw*		Esna II, 81, 5; Esna II, 127, 8   
+   
+*wḏḥ*		Esna II, 54, 14; Esna II, 91, 17; Esna II, 124, 1   
+   
+*wḏḥw*		Esna II, 131, 9   
+   
+*wḏ*		Esna II, 59, 1; Esna II, 74, 23; Esna II, 81, 5; Esna II, 106, 3; Esna II, 127, 8; Esna II, 136, 16; Esna II, 156, 18; Esna II, 162, 5; Esna II, 163, 15; Esna II, 163, 24   
+   
+*wḏ.t*		Esna II, 95, 5   
+   
+*wḏy.wt*		Esna II, 190, 4   
+   
+*bȝw*		Esna II, 113, 9; Esna II, 131, 5; Esna II, 141, 14; Esna II, 169, 10; Esna II, 176, 1; Esna II, 184, 27; Esna II, 191, 17   
+   
+*bȝw.t*		Esna II, 162, 5; Esna II, 176, 3   
+   
+*bȝbȝ*		Esna II, 156, 22   
+   
+*bȝḥ*		Esna II, 55, 6; Esna II, 58, 3; Esna II, 63, 4; Esna II, 70, 9; Esna II, 72, 7; Esna II, 72, 7; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 14; Esna II, 96, 2   
+   
+*bȝḥ-m-msn*		Esna II, 156, 26   
+   
+*bȝẖ*		Esna II, 55, 3   
+   
+*bȝst.t*		Esna II, 50, 11; Esna II, 77, 15; Esna II, 163, 23   
+   
+*bȝšt.t*		Esna II, 67, 19   
+   
+*bȝq.t*		Esna II, 97, 3; Esna II, 156, 21; Esna II, 162, 1; Esna II, 183, 3   
+   
+*bȝk*		Esna II, 72, 7; Esna II, 156, 26   
+   
+*bȝk.w*		Esna II, 191, 24   
+   
+*bȝkȝ.wt*		Esna II, 102, 2; Esna II, 177, 11; Esna II, 184, 26   
+   
+*bȝkk*		Esna II, 127, 7   
+   
+*bȝ-bȝ.w*		Esna II, 184, 24   
+   
+*bȝ-wr*		Esna II, 162, 5   
+   
+*bȝ*		Esna II, 52, 26; Esna II, 54, 12; Esna II, 55, 3; Esna II, 70, 12; Esna II, 73, 9; Esna II, 80, 4; Esna II, 88, 12; Esna II, 91, 10; Esna II, 95, 7; Esna II, 103, 1; Esna II, 103, 2; Esna II, 106, 2; Esna II, 106, 4; Esna II, 106, 4; Esna II, 112, 1; Esna II, 113, 8; Esna II, 120, 1; Esna II, 120, 9; Esna II, 140, 4; Esna II, 140, 5; Esna II, 140, 6; Esna II, 140, 7; Esna II, 163, 23; Esna II, 190, 4; Esna II, 191, 13; Esna II, 191, 16; Esna II, 191, 19; Esna II, 191, 20; Esna II, 191, 20; Esna II, 191, 24   
+   
+*bȝ.t*		Esna II, 136, 15   
+   
+*bȝ.w*		Esna II, 59, 2; Esna II, 103, 2; Esna II, 105, 2; Esna II, 140, 1; Esna II, 141, 11; Esna II, 141, 13; Esna II, 141, 14; Esna II, 156, 19; Esna II, 156, 25   
+   
+*bȝ.w-ʿnḫ.w*		Esna II, 184, 23   
+   
+*bȝy.t*		Esna II, 191, 26   
+   
+*bỉȝ*		Esna II, 97, 3   
+   
+*bỉȝ.t*		Esna II, 74, 9   
+   
+*bỉȝ.wt*		Esna II, 72, 17   
+   
+*bỉk*		Esna II, 141, 9   
+   
+*bỉty*		Esna II, 50, 1; Esna II, 51, 1; Esna II, 52, 1; Esna II, 67, 15; Esna II, 141, 13   
+   
+*bỉty-bỉty.w*		Esna II, 184, 27   
+   
+*bʿr*		Esna II, 191, 21   
+   
+*bʿḥ*		Esna II, 54, 6; Esna II, 76, 14; Esna II, 76, 16; Esna II, 76, 5; Esna II, 96, 1; Esna II, 105, 4; Esna II, 143, 4; Esna II, 150, 2; Esna II, 156, 21; Esna II, 163, 23; Esna II, 191, 19   
+   
+*bʿḥ.w*		Esna II, 155, 2; Esna II, 156, 25; Esna II, 184, 28   
+   
+*bwt*		Esna II, 55, 3; Esna II, 127, 10   
+   
+*bwt-nṯr*		Esna II, 127, 10   
+   
+*bw*		Esna II, 51, 10; Esna II, 60, 1; Esna II, 60, 4; Esna II, 64, 3; Esna II, 73, 16; Esna II, 84, 1; Esna II, 124, 2; Esna II, 129, 4; Esna II, 129, 4; Esna II, 162, 2; Esna II, 184, 23   
+   
+*bw.t*		Esna II, 82, 2   
+   
+*bnr*		Esna II, 156, 19   
+   
+*bnr-mrw.t*		Esna II, 51, 14; Esna II, 88, 12   
+   
+*bns*		Esna II, 163, 28   
+   
+*bhȝ.w*		Esna II, 156, 22   
+   
+*bhd*		Esna II, 102, 1   
+   
+*bh.w*		Esna II, 191, 23   
+   
+*bḥn*		Esna II, 52, 25   
+   
+*bḥs.w*		Esna II, 190, 6   
+   
+*bḥdty*		Esna II, 74, 14; Esna II, 135, 5   
+   
+*bẖ*		Esna II, 72, 10; Esna II, 106, 1; Esna II, 141, 7; Esna II, 155, 8; Esna II, 170, 11; Esna II, 176, 8   
+   
+*bẖ.w*		Esna II, 156, 24   
+   
+*bzn*		Esna II, 49, 1   
+   
+*bs*		Esna II, 50, 8; Esna II, 64, 3; Esna II, 70, 5; Esna II, 105, 4; Esna II, 113, 10; Esna II, 162, 5; Esna II, 184, 22; Esna II, 184, 25; Esna II, 191, 19   
+   
+*bqnqn.w*		Esna II, 52, 10; Esna II, 52, 17; Esna II, 52, 17; Esna II, 74, 33; Esna II, 74, 9   
+   
+*btȝy.w*		Esna II, 156, 22   
+   
+*bdš.w*		Esna II, 127, 7   
+   
+*beloved*		Esna II, 150, 2   
+   
+*pȝw.t*		Esna II, 143, 4   
+   
+*pȝwty*		Esna II, 58, 2; Esna II, 71, 8; Esna II, 91, 8; Esna II, 112, 12; Esna II, 112, 15; Esna II, 120, 13; Esna II, 163, 16; Esna II, 184, 15   
+   
+*pȝwty.w*		Esna II, 58, 7; Esna II, 59, 2; Esna II, 63, 1; Esna II, 82, 2; Esna II, 118, 10; Esna II, 118, 11; Esna II, 120, 13; Esna II, 156, 19; Esna II, 162, 1; Esna II, 162, 2   
+   
+*pȝq*		Esna II, 163, 22   
+   
+*pȝ-ẖrd*		Esna II, 55, 5; Esna II, 61, 11; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 12; Esna II, 123, 10; Esna II, 184, 26   
+   
+*pȝ-nḫy-nfr*		Esna II, 55, 7   
+   
+*pȝ-tḫy.t*		Esna II, 191, 25   
+   
+*pȝ-wrš-n-hrw-16*		Esna II, 163, 27   
+   
+*pȝ-wrš-n-hrw-8*		Esna II, 130, 2   
+   
+*pȝ-wrš-n-hrw-9*		Esna II, 163, 27   
+   
+*pȝ*		Esna II, 51, 13; Esna II, 54, 13; Esna II, 55, 1; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 9; Esna II, 60, 2; Esna II, 60, 3; Esna II, 70, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 13; Esna II, 80, 5; Esna II, 103, 1; Esna II, 112, 1; Esna II, 127, 10; Esna II, 127, 10; Esna II, 127, 8; Esna II, 129, 2; Esna II, 131, 8; Esna II, 150, 2; Esna II, 190, 1   
+   
+*pȝy*		Esna II, 60, 2; Esna II, 77, 12   
+   
+*pȝy.w*		Esna II, 155, 4; Esna II, 184, 15; Esna II, 190, 2   
+   
+*pʿpʿ*		Esna II, 91, 16; Esna II, 141, 6; Esna II, 163, 24   
+   
+*pʿ.t*		Esna II, 70, 8; Esna II, 72, 14; Esna II, 191, 11   
+   
+*pʿy.t*		Esna II, 52, 6; Esna II, 59, 2; Esna II, 163, 19; Esna II, 191, 26   
+   
+*pwn.t*		Esna II, 62, 1; Esna II, 124, 1; Esna II, 125, 1; Esna II, 163, 23   
+   
+*pf*		Esna II, 169, 4; Esna II, 169, 7; Esna II, 169, 8   
+   
+*pfy*		Esna II, 55, 2; Esna II, 61, 1; Esna II, 110, 13; Esna II, 131, 10; Esna II, 131, 11; Esna II, 131, 13; Esna II, 176, 7   
+   
+*prỉ*		Esna II, 74, 14; Esna II, 110, 2   
+   
+*prḫ*		Esna II, 156, 16; Esna II, 176, 8   
+   
+*pr-ʿnḫ*		Esna II, 191, 17   
+   
+*pr-ḥʿʿ*		Esna II, 74, 15   
+   
+*pr-ḥḏ*		Esna II, 102, 1; Esna II, 124, 1   
+   
+*pr-ẖnmw*		Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 5; Esna II, 55, 6; Esna II, 77, 10; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 16; Esna II, 77, 17; Esna II, 81, 2; Esna II, 104, 8; Esna II, 129, 1; Esna II, 130, 1; Esna II, 130, 4; Esna II, 155, 3; Esna II, 163, 27   
+   
+*pr-ẖnmw-n-sḫ.t*		Esna II, 127, 4   
+   
+*pr-gbb*		Esna II, 72, 13   
+   
+*pr-m-snw.t*		Esna II, 156, 24   
+   
+*pr-mḏȝ.t*		Esna II, 136, 7   
+   
+*pr-mr*		Esna II, 55, 5   
+   
+*pr-ms*		Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 14; Esna II, 77, 15   
+   
+*pr-nṯr*		Esna II, 55, 2; Esna II, 55, 4; Esna II, 55, 7; Esna II, 63, 1; Esna II, 73, 4; Esna II, 77, 18; Esna II, 81, 6; Esna II, 82, 2; Esna II, 127, 7; Esna II, 129, 4; Esna II, 155, 3; Esna II, 163, 23; Esna II, 163, 26   
+   
+*pr-nsr*		Esna II, 74, 26; Esna II, 74, 29   
+   
+*pr-sȝḥw-rʿ*		Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 7; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 14   
+   
+*pr-wr*		Esna II, 52, 14; Esna II, 74, 26; Esna II, 74, 29; Esna II, 74, 32; Esna II, 91, 6; Esna II, 190, 9   
+   
+*pr*		Esna II, 49, 4; Esna II, 52, 22; Esna II, 52, 24; Esna II, 54, 11; Esna II, 54, 2; Esna II, 54, 7; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 7; Esna II, 55, 7; Esna II, 59, 1; Esna II, 63, 1; Esna II, 63, 3; Esna II, 64, 3; Esna II, 67, 16; Esna II, 67, 20; Esna II, 71, 1; Esna II, 71, 1; Esna II, 73, 21; Esna II, 74, 35; Esna II, 76, 12; Esna II, 76, 16; Esna II, 77, 14; Esna II, 82, 1; Esna II, 84, 1; Esna II, 84, 1; Esna II, 84, 1; Esna II, 95, 6; Esna II, 96, 1; Esna II, 102, 1; Esna II, 104, 5; Esna II, 105, 6; Esna II, 106, 2; Esna II, 106, 4; Esna II, 112, 13; Esna II, 115, 4; Esna II, 123, 8; Esna II, 124, 1; Esna II, 124, 2; Esna II, 127, 11; Esna II, 127, 6; Esna II, 127, 8; Esna II, 127, 9; Esna II, 131, 10; Esna II, 131, 15; Esna II, 135, 10; Esna II, 135, 16; Esna II, 136, 11; Esna II, 136, 2; Esna II, 141, 8; Esna II, 143, 4; Esna II, 146, 2; Esna II, 146, 2; Esna II, 150, 2; Esna II, 162, 2; Esna II, 163, 25; Esna II, 169, 9; Esna II, 183, 2; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 23; Esna II, 190, 5; Esna II, 191, 19; Esna II, 191, 23; Esna II, 191, 25   
+   
+*pr.t*		Esna II, 58, 2; Esna II, 64, 3; Esna II, 77, 15; Esna II, 82, 1; Esna II, 91, 16; Esna II, 115, 8; Esna II, 141, 6; Esna II, 146, 2; Esna II, 163, 20; Esna II, 163, 21; Esna II, 163, 25; Esna II, 184, 23   
+   
+*pr.w*		Esna II, 50, 4; Esna II, 76, 3   
+   
+*pḥwy*		Esna II, 184, 27   
+   
+*pḥty*		Esna II, 104, 7; Esna II, 104, 8; Esna II, 127, 7; Esna II, 127, 7   
+   
+*pḥ*		Esna II, 191, 17   
+   
+*pẖr*		Esna II, 55, 6; Esna II, 67, 12; Esna II, 74, 7; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 14; Esna II, 82, 1; Esna II, 85, 4; Esna II, 102, 1; Esna II, 118, 4; Esna II, 127, 11; Esna II, 127, 11; Esna II, 155, 4; Esna II, 162, 3; Esna II, 176, 8; Esna II, 190, 2   
+   
+*pẖr-ỉb*		Esna II, 58, 4   
+   
+*pẖr.w*		Esna II, 125, 2; Esna II, 184, 26   
+   
+*pẖrẖr*		Esna II, 163, 25   
+   
+*pẖrr*		Esna II, 184, 19   
+   
+*psš.t*		Esna II, 176, 8   
+   
+*psš.ty*		Esna II, 88, 6; Esna II, 163, 24; Esna II, 183, 3   
+   
+*psḏ*		Esna II, 52, 5; Esna II, 74, 8; Esna II, 106, 1; Esna II, 141, 3; Esna II, 150, 1; Esna II, 163, 22; Esna II, 191, 18   
+   
+*psḏ-m-nbw*		Esna II, 106, 1   
+   
+*psḏ.t*		Esna II, 50, 4; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 7; Esna II, 55, 9; Esna II, 55, 9; Esna II, 58, 6; Esna II, 58, 7; Esna II, 63, 1; Esna II, 64, 4; Esna II, 67, 14; Esna II, 74, 12; Esna II, 74, 18; Esna II, 74, 34; Esna II, 77, 10; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 18; Esna II, 77, 18; Esna II, 85, 3; Esna II, 85, 4; Esna II, 106, 4; Esna II, 110, 2; Esna II, 118, 4; Esna II, 127, 9; Esna II, 155, 5; Esna II, 163, 24; Esna II, 176, 1; Esna II, 183, 2; Esna II, 184, 27   
+   
+*ptr*		Esna II, 64, 3; Esna II, 74, 21; Esna II, 163, 27   
+   
+*ptḥ*		Esna II, 49, 11; Esna II, 55, 3; Esna II, 63, 3; Esna II, 73, 9; Esna II, 77, 10; Esna II, 81, 1; Esna II, 128, 5; Esna II, 141, 6; Esna II, 156, 22; Esna II, 156, 25; Esna II, 163, 21; Esna II, 177, 11; Esna II, 190, 3   
+   
+*ptḥ-ỉrỉ-tȝ*		Esna II, 156, 23   
+   
+*ptḫy.w*		Esna II, 156, 23   
+   
+*pt*		Esna II, 64, 3; Esna II, 96, 2   
+   
+*pds.wt-nt-š*		Esna II, 191, 16   
+   
+*pḏ-nmt.t*		Esna II, 127, 9   
+   
+*pḏ*		Esna II, 136, 1; Esna II, 136, 10; Esna II, 136, 2; Esna II, 136, 7   
+   
+*pḏ.t*		Esna II, 52, 25   
+   
+*p.t*		Esna II, 49, 12; Esna II, 50, 9; Esna II, 51, 10; Esna II, 51, 17; Esna II, 52, 6; Esna II, 63, 1; Esna II, 64, 4; Esna II, 67, 14; Esna II, 67, 9; Esna II, 70, 16; Esna II, 71, 8; Esna II, 74, 14; Esna II, 74, 18; Esna II, 74, 28; Esna II, 74, 29; Esna II, 77, 10; Esna II, 77, 10; Esna II, 80, 7; Esna II, 88, 15; Esna II, 105, 3; Esna II, 106, 3; Esna II, 106, 3; Esna II, 110, 2; Esna II, 110, 3; Esna II, 113, 16; Esna II, 115, 8; Esna II, 118, 11; Esna II, 135, 14; Esna II, 155, 5; Esna II, 156, 18; Esna II, 156, 18; Esna II, 162, 10; Esna II, 162, 3; Esna II, 162, 9; Esna II, 163, 11; Esna II, 163, 16; Esna II, 163, 19; Esna II, 163, 25; Esna II, 169, 1; Esna II, 176, 1; Esna II, 177, 11; Esna II, 177, 11; Esna II, 177, 11; Esna II, 183, 6; Esna II, 183, 9; Esna II, 184, 18; Esna II, 184, 18; Esna II, 184, 21; Esna II, 184, 21; Esna II, 184, 25; Esna II, 184, 26; Esna II, 184, 27; Esna II, 184, 27; Esna II, 190, 7; Esna II, 191, 16   
+   
+*p.t-tȝ*		Esna II, 77, 18   
+   
+*fȝỉ*		Esna II, 72, 1; Esna II, 72, 7; Esna II, 77, 10; Esna II, 141, 14; Esna II, 169, 10   
+   
+*fȝy*		Esna II, 183, 7; Esna II, 183, 8   
+   
+*fȝy.t*		Esna II, 169, 10   
+   
+*fnḏ*		Esna II, 105, 7; Esna II, 129, 3; Esna II, 156, 17   
+   
+*fqȝ.w*		Esna II, 127, 11   
+   
+*fk-ḥr.t*		Esna II, 125, 1   
+   
+*fdw*		Esna II, 106, 2; Esna II, 140, 1; Esna II, 156, 25   
+   
+*for*		Esna II, 156, 23   
+   
+*mȝȝ*		Esna II, 52, 12; Esna II, 52, 21; Esna II, 52, 24; Esna II, 52, 26; Esna II, 52, 3; Esna II, 52, 8; Esna II, 55, 5; Esna II, 55, 6; Esna II, 62, 9; Esna II, 64, 3; Esna II, 64, 4; Esna II, 73, 19; Esna II, 74, 11; Esna II, 74, 18; Esna II, 74, 20; Esna II, 74, 36; Esna II, 74, 6; Esna II, 77, 14; Esna II, 77, 15; Esna II, 80, 4; Esna II, 81, 4; Esna II, 81, 5; Esna II, 81, 6; Esna II, 85, 3; Esna II, 85, 4; Esna II, 85, 4; Esna II, 102, 2; Esna II, 104, 6; Esna II, 113, 15; Esna II, 127, 4; Esna II, 127, 9; Esna II, 129, 1; Esna II, 129, 1; Esna II, 155, 1; Esna II, 155, 3; Esna II, 156, 21; Esna II, 163, 12; Esna II, 163, 16; Esna II, 163, 27; Esna II, 169, 10; Esna II, 169, 8; Esna II, 176, 4; Esna II, 176, 8; Esna II, 183, 2; Esna II, 190, 1; Esna II, 191, 21   
+   
+*mȝȝ-ỉn*		Esna II, 190, 5   
+   
+*mȝȝ.t-ḥr*		Esna II, 191, 26   
+   
+*mȝỉ*		Esna II, 82, 1; Esna II, 127, 5; Esna II, 127, 6   
+   
+*mȝỉ-ḥzȝ*		Esna II, 162, 6; Esna II, 191, 21   
+   
+*mȝỉ.t*		Esna II, 127, 7   
+   
+*mȝʿ*		Esna II, 52, 17   
+   
+*mȝʿ-ḫrw*		Esna II, 55, 2; Esna II, 73, 15; Esna II, 81, 5; Esna II, 81, 5; Esna II, 127, 5; Esna II, 127, 8; Esna II, 141, 12; Esna II, 150, 2; Esna II, 163, 24; Esna II, 191, 20   
+   
+*mȝʿ.t*		Esna II, 96, 2; Esna II, 102, 2; Esna II, 156, 20; Esna II, 162, 4; Esna II, 176, 9; Esna II, 184, 21   
+   
+*mȝw*		Esna II, 162, 4   
+   
+*mȝwỉ*		Esna II, 143, 2   
+   
+*mȝwy*		Esna II, 50, 7; Esna II, 52, 6; Esna II, 74, 8; Esna II, 106, 1   
+   
+*mȝnw*		Esna II, 106, 1; Esna II, 155, 1   
+   
+*mȝrw*		Esna II, 77, 16   
+   
+*mȝ.wt*		Esna II, 155, 9   
+   
+*mȝy.w*		Esna II, 115, 4   
+   
+*mỉmỉ.t*		Esna II, 191, 27   
+   
+*mỉz*		Esna II, 74, 28; Esna II, 74, 29   
+   
+*mỉt.t*		Esna II, 55, 9; Esna II, 58, 4; Esna II, 61, 12; Esna II, 63, 3; Esna II, 70, 14; Esna II, 71, 1; Esna II, 77, 10; Esna II, 77, 12; Esna II, 77, 15; Esna II, 77, 15; Esna II, 81, 1; Esna II, 81, 2; Esna II, 95, 4; Esna II, 104, 1; Esna II, 129, 3; Esna II, 155, 3; Esna II, 155, 4; Esna II, 155, 5; Esna II, 156, 21; Esna II, 156, 21; Esna II, 163, 25; Esna II, 163, 25; Esna II, 163, 26; Esna II, 176, 4; Esna II, 176, 5; Esna II, 184, 15; Esna II, 184, 25; Esna II, 191, 21   
+   
+*mỉ-qd*		Esna II, 120, 8   
+   
+*mỉ*		Esna II, 49, 12; Esna II, 50, 7; Esna II, 51, 16; Esna II, 52, 6; Esna II, 52, 6; Esna II, 52, 9; Esna II, 55, 1; Esna II, 55, 6; Esna II, 59, 1; Esna II, 60, 2; Esna II, 63, 1; Esna II, 64, 3; Esna II, 64, 3; Esna II, 64, 4; Esna II, 67, 12; Esna II, 67, 9; Esna II, 70, 9; Esna II, 71, 13; Esna II, 71, 14; Esna II, 74, 5; Esna II, 74, 8; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 15; Esna II, 77, 16; Esna II, 80, 7; Esna II, 82, 2; Esna II, 85, 1; Esna II, 85, 3; Esna II, 91, 11; Esna II, 96, 2; Esna II, 97, 3; Esna II, 102, 2; Esna II, 102, 2; Esna II, 113, 16; Esna II, 113, 16; Esna II, 115, 4; Esna II, 118, 4; Esna II, 118, 4; Esna II, 130, 1; Esna II, 130, 5; Esna II, 131, 12; Esna II, 131, 9; Esna II, 141, 10; Esna II, 141, 13; Esna II, 141, 14; Esna II, 141, 4; Esna II, 141, 5; Esna II, 155, 3; Esna II, 155, 3; Esna II, 156, 21; Esna II, 162, 1; Esna II, 162, 10; Esna II, 162, 3; Esna II, 162, 3; Esna II, 162, 9; Esna II, 162, 9; Esna II, 169, 1; Esna II, 169, 1; Esna II, 169, 10; Esna II, 169, 9; Esna II, 176, 1; Esna II, 176, 10; Esna II, 183, 10; Esna II, 183, 6; Esna II, 183, 9; Esna II, 184, 22; Esna II, 184, 23; Esna II, 184, 25; Esna II, 184, 26; Esna II, 184, 27; Esna II, 190, 2; Esna II, 191, 12   
+   
+*mỉ.t*		Esna II, 74, 35   
+   
+*mỉ.w*		Esna II, 156, 25   
+   
+*mỉllỉons*		Esna II, 51, 16   
+   
+*mʿr-zp.w*		Esna II, 163, 24   
+   
+*mwnf*		Esna II, 156, 27   
+   
+*mwt*		Esna II, 110, 10; Esna II, 110, 9; Esna II, 163, 15; Esna II, 163, 24   
+   
+*mwt.*		Esna II, 60, 5   
+   
+*mwt.t*		Esna II, 110, 10; Esna II, 110, 9   
+   
+*mw*		Esna II, 50, 13; Esna II, 54, 11; Esna II, 54, 9; Esna II, 64, 2; Esna II, 67, 16; Esna II, 67, 16; Esna II, 67, 9; Esna II, 70, 16; Esna II, 70, 17; Esna II, 76, 8; Esna II, 77, 16; Esna II, 88, 13; Esna II, 95, 3; Esna II, 110, 10; Esna II, 127, 10; Esna II, 127, 2; Esna II, 130, 3; Esna II, 141, 7; Esna II, 143, 1; Esna II, 143, 3; Esna II, 163, 17; Esna II, 163, 17; Esna II, 184, 18; Esna II, 190, 2   
+   
+*mw.t*		Esna II, 55, 8; Esna II, 58, 3; Esna II, 58, 6; Esna II, 62, 4; Esna II, 64, 1; Esna II, 73, 7; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 14; Esna II, 80, 2; Esna II, 84, 1; Esna II, 85, 4; Esna II, 91, 11; Esna II, 91, 15; Esna II, 102, 2; Esna II, 104, 3; Esna II, 104, 3; Esna II, 104, 5; Esna II, 104, 7; Esna II, 118, 1; Esna II, 118, 4; Esna II, 118, 9; Esna II, 122, 1; Esna II, 123, 1; Esna II, 127, 4; Esna II, 136, 14; Esna II, 143, 4; Esna II, 145, 1; Esna II, 163, 23; Esna II, 169, 1; Esna II, 169, 1; Esna II, 184, 24; Esna II, 191, 24   
+   
+*mw.t-mw.wt*		Esna II, 71, 6; Esna II, 162, 1; Esna II, 170, 11; Esna II, 183, 1   
+   
+*mw.t-nṯr*		Esna II, 62, 5; Esna II, 63, 1; Esna II, 71, 10; Esna II, 71, 5; Esna II, 76, 11; Esna II, 76, 15; Esna II, 76, 3; Esna II, 76, 7; Esna II, 84, 1; Esna II, 85, 1; Esna II, 85, 4; Esna II, 91, 13; Esna II, 102, 1; Esna II, 104, 9; Esna II, 118, 11; Esna II, 118, 8; Esna II, 123, 6; Esna II, 136, 13; Esna II, 143, 3; Esna II, 143, 7; Esna II, 155, 5; Esna II, 162, 1; Esna II, 163, 18; Esna II, 170, 11   
+   
+*mw.t-rʿ*		Esna II, 81, 1; Esna II, 169, 1   
+   
+*mw.w*		Esna II, 51, 10   
+   
+*mfk*		Esna II, 58, 4; Esna II, 184, 26   
+   
+*mnỉ*		Esna II, 81, 4; Esna II, 156, 26; Esna II, 156, 26; Esna II, 156, 27; Esna II, 156, 27; Esna II, 156, 27; Esna II, 156, 27; Esna II, 190, 1   
+   
+*mnỉ.w*		Esna II, 155, 1; Esna II, 156, 26; Esna II, 156, 26; Esna II, 190, 10   
+   
+*mnỉw*		Esna II, 184, 20; Esna II, 190, 7   
+   
+*mnʿ.t*		Esna II, 155, 5   
+   
+*mnw*		Esna II, 77, 12; Esna II, 183, 1   
+   
+*mnw-ỉmn*		Esna II, 77, 12; Esna II, 77, 13   
+   
+*mnw.w*		Esna II, 190, 6   
+   
+*mnwr*		Esna II, 52, 15; Esna II, 125, 2   
+   
+*mnbỉt.wt*		Esna II, 191, 26   
+   
+*mnfy.t*		Esna II, 71, 3   
+   
+*mnmn*		Esna II, 162, 9; Esna II, 163, 25   
+   
+*mnmn.w*		Esna II, 190, 1   
+   
+*mnmnm.w*		Esna II, 184, 15   
+   
+*mnn.wt*		Esna II, 190, 3   
+   
+*mnḥ*		Esna II, 60, 5; Esna II, 104, 3; Esna II, 127, 6; Esna II, 176, 7   
+   
+*mnḥ.t*		Esna II, 122, 5   
+   
+*mnḥwy*		Esna II, 55, 5; Esna II, 77, 17; Esna II, 163, 18; Esna II, 191, 27   
+   
+*mnḥy*		Esna II, 191, 21   
+   
+*mnḥy.t*		Esna II, 49, 10; Esna II, 55, 3; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 8; Esna II, 58, 1; Esna II, 60, 2; Esna II, 60, 5; Esna II, 61, 8; Esna II, 67, 17; Esna II, 72, 10; Esna II, 73, 10; Esna II, 74, 10; Esna II, 74, 17; Esna II, 74, 26; Esna II, 77, 15; Esna II, 104, 4; Esna II, 104, 5; Esna II, 107, 1; Esna II, 113, 12; Esna II, 127, 7; Esna II, 141, 4; Esna II, 150, 1; Esna II, 163, 20; Esna II, 176, 7   
+   
+*mnḥy.t-nb.t-ww*		Esna II, 55, 3   
+   
+*mnḫ*		Esna II, 67, 3; Esna II, 73, 12; Esna II, 82, 1; Esna II, 113, 8; Esna II, 136, 10; Esna II, 146, 2; Esna II, 155, 10; Esna II, 183, 3   
+   
+*mnḫ.t*		Esna II, 55, 1; Esna II, 64, 4; Esna II, 77, 18; Esna II, 136, 15; Esna II, 136, 3; Esna II, 143, 4; Esna II, 163, 22   
+   
+*mnḫ.w*		Esna II, 64, 2; Esna II, 104, 5   
+   
+*mnḫt*		Esna II, 77, 15; Esna II, 77, 18   
+   
+*mnqb*		Esna II, 49, 13; Esna II, 125, 2   
+   
+*mnty.w*		Esna II, 155, 5   
+   
+*mnṯw*		Esna II, 91, 3   
+   
+*mnḏ.ty*		Esna II, 150, 2   
+   
+*mn*		Esna II, 49, 9; Esna II, 50, 4; Esna II, 51, 17; Esna II, 58, 1; Esna II, 58, 7; Esna II, 61, 1; Esna II, 62, 1; Esna II, 67, 15; Esna II, 67, 7; Esna II, 71, 13; Esna II, 71, 13; Esna II, 72, 1; Esna II, 72, 16; Esna II, 72, 7; Esna II, 73, 21; Esna II, 80, 7; Esna II, 80, 7; Esna II, 85, 2; Esna II, 96, 2; Esna II, 102, 2; Esna II, 104, 11; Esna II, 104, 3; Esna II, 107, 1; Esna II, 113, 16; Esna II, 113, 16; Esna II, 113, 9; Esna II, 135, 8; Esna II, 136, 2; Esna II, 156, 25; Esna II, 162, 10; Esna II, 169, 7; Esna II, 176, 10; Esna II, 176, 2; Esna II, 183, 10; Esna II, 184, 26   
+   
+*mn.t*		Esna II, 67, 12; Esna II, 85, 1; Esna II, 162, 4   
+   
+*mn.ty*		Esna II, 82, 1; Esna II, 113, 10   
+   
+*mn.w*		Esna II, 155, 4; Esna II, 156, 15   
+   
+*mrỉ*		Esna II, 97, 3; Esna II, 103, 2; Esna II, 113, 6   
+   
+*mrw.t*		Esna II, 62, 8; Esna II, 113, 13; Esna II, 183, 3; Esna II, 184, 21   
+   
+*mrn*		Esna II, 104, 10   
+   
+*mr*		Esna II, 49, 5; Esna II, 58, 4; Esna II, 61, 9; Esna II, 73, 13; Esna II, 73, 7; Esna II, 74, 29; Esna II, 74, 31; Esna II, 77, 11; Esna II, 88, 16; Esna II, 91, 4; Esna II, 96, 2; Esna II, 127, 7; Esna II, 163, 18   
+   
+*mr.t*		Esna II, 49, 11; Esna II, 156, 23; Esna II, 169, 1; Esna II, 191, 26   
+   
+*mr.t-ptḥ*		Esna II, 163, 23   
+   
+*mry*		Esna II, 61, 1; Esna II, 112, 7; Esna II, 118, 4; Esna II, 129, 4; Esna II, 135, 4; Esna II, 146, 1; Esna II, 146, 2; Esna II, 150, 2; Esna II, 156, 20; Esna II, 183, 3   
+   
+*mḥỉ*		Esna II, 77, 16; Esna II, 163, 17   
+   
+*mḥw*		Esna II, 76, 5; Esna II, 76, 7; Esna II, 127, 11; Esna II, 163, 25   
+   
+*mḥw-s*		Esna II, 88, 3; Esna II, 113, 13   
+   
+*mḥn*		Esna II, 60, 5; Esna II, 74, 10; Esna II, 74, 20; Esna II, 74, 23; Esna II, 104, 3; Esna II, 127, 3; Esna II, 127, 4; Esna II, 150, 1   
+   
+*mḥn.t*		Esna II, 74, 19; Esna II, 74, 35; Esna II, 141, 4; Esna II, 156, 18; Esna II, 176, 7   
+   
+*mḥs*		Esna II, 156, 21; Esna II, 191, 21   
+   
+*mḥty*		Esna II, 85, 1   
+   
+*mḥ-ỉb*		Esna II, 184, 25   
+   
+*mḥ-2.t*		Esna II, 77, 15   
+   
+*mḥ-n.t*		Esna II, 74, 26; Esna II, 85, 2   
+   
+*mḥ*		Esna II, 49, 11; Esna II, 49, 9; Esna II, 50, 8; Esna II, 54, 10; Esna II, 71, 8; Esna II, 74, 29; Esna II, 77, 14; Esna II, 77, 17; Esna II, 96, 2; Esna II, 118, 11; Esna II, 146, 2; Esna II, 183, 3   
+   
+*mḥ.t*		Esna II, 60, 4; Esna II, 60, 4; Esna II, 77, 17; Esna II, 81, 2; Esna II, 88, 15; Esna II, 104, 8; Esna II, 130, 4; Esna II, 163, 26   
+   
+*mḥ.t-wr.t*		Esna II, 58, 2; Esna II, 81, 3; Esna II, 91, 6; Esna II, 163, 17; Esna II, 163, 18; Esna II, 184, 18   
+   
+*mḥy*		Esna II, 60, 3   
+   
+*mḥy.t*		Esna II, 70, 17; Esna II, 95, 7; Esna II, 191, 18; Esna II, 191, 20   
+   
+*mḥy.wt*		Esna II, 190, 4   
+   
+*mẖr.t*		Esna II, 155, 4; Esna II, 156, 16   
+   
+*mzỉ*		Esna II, 72, 17; Esna II, 76, 4; Esna II, 120, 2   
+   
+*msỉ*		Esna II, 73, 9; Esna II, 103, 1   
+   
+*msw-nṯr*		Esna II, 60, 5   
+   
+*msw.t*		Esna II, 54, 12; Esna II, 141, 5; Esna II, 191, 14   
+   
+*msw.t-nṯr*		Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 15   
+   
+*mswt*		Esna II, 51, 3   
+   
+*msḫ.wt*		Esna II, 155, 4; Esna II, 176, 5   
+   
+*msḫȝ-ỉb*		Esna II, 58, 4   
+   
+*msḫʿ.w*		Esna II, 104, 11; Esna II, 107, 3; Esna II, 135, 13; Esna II, 150, 2; Esna II, 184, 27   
+   
+*msḫn.t*		Esna II, 51, 7; Esna II, 61, 9; Esna II, 64, 2; Esna II, 113, 13; Esna II, 150, 2; Esna II, 183, 3   
+   
+*ms*		Esna II, 58, 3; Esna II, 63, 4; Esna II, 70, 14; Esna II, 73, 7; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 18; Esna II, 77, 18; Esna II, 77, 18; Esna II, 77, 18; Esna II, 95, 4; Esna II, 112, 12; Esna II, 120, 13; Esna II, 141, 10; Esna II, 141, 9; Esna II, 146, 2; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 15   
+   
+*ms.t*		Esna II, 64, 1; Esna II, 85, 3; Esna II, 91, 14   
+   
+*ms.tw*		Esna II, 73, 8   
+   
+*ms.w*		Esna II, 51, 14; Esna II, 55, 2; Esna II, 55, 2; Esna II, 58, 2; Esna II, 58, 4; Esna II, 77, 15; Esna II, 112, 2; Esna II, 113, 13; Esna II, 115, 6; Esna II, 115, 7; Esna II, 163, 26; Esna II, 184, 19   
+   
+*ms.w-rʿ*		Esna II, 130, 1   
+   
+*ms.wt*		Esna II, 184, 22   
+   
+*ms.wy*		Esna II, 58, 3   
+   
+*mšʿ*		Esna II, 55, 6; Esna II, 71, 3   
+   
+*mks*		Esna II, 73, 14; Esna II, 73, 15   
+   
+*mk*		Esna II, 60, 3; Esna II, 127, 5; Esna II, 130, 1   
+   
+*mk.t*		Esna II, 52, 17; Esna II, 52, 23; Esna II, 74, 33   
+   
+*mk.t-nb*		Esna II, 155, 3   
+   
+*mtr*		Esna II, 64, 4; Esna II, 143, 1; Esna II, 143, 3   
+   
+*mṯn*		Esna II, 52, 17; Esna II, 52, 18; Esna II, 74, 34; Esna II, 74, 6   
+   
+*mdw*		Esna II, 72, 12; Esna II, 183, 2   
+   
+*mdw-nṯr*		Esna II, 67, 10   
+   
+*mḏ*		Esna II, 118, 1; Esna II, 125, 1; Esna II, 145, 1; Esna II, 149, 2; Esna II, 163, 22   
+   
+*m-ʿ*		Esna II, 51, 4; Esna II, 51, 4; Esna II, 51, 9; Esna II, 55, 1; Esna II, 59, 2; Esna II, 60, 3; Esna II, 63, 4; Esna II, 64, 2; Esna II, 77, 15; Esna II, 127, 2   
+   
+*m-ʿb*		Esna II, 124, 2   
+   
+*m-ʿqȝ*		Esna II, 130, 2   
+   
+*m-wn*		Esna II, 63, 4   
+   
+*m-bȝḥ*		Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 7; Esna II, 64, 1; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 14; Esna II, 77, 17; Esna II, 91, 6; Esna II, 102, 1   
+   
+*m-m*		Esna II, 50, 4; Esna II, 74, 18   
+   
+*m-mȝʿ*		Esna II, 60, 2   
+   
+*m-rwty*		Esna II, 77, 14; Esna II, 162, 2; Esna II, 184, 27   
+   
+*m-hȝ.t*		Esna II, 163, 24   
+   
+*m-ḥȝ.t*		Esna II, 72, 10   
+   
+*m-ḥr*		Esna II, 163, 28   
+   
+*m-ḥzỉ*		Esna II, 156, 21; Esna II, 176, 7   
+   
+*m-ḫm*		Esna II, 80, 7; Esna II, 88, 17; Esna II, 163, 25   
+   
+*m-ḫnt*		Esna II, 58, 1; Esna II, 58, 7; Esna II, 58, 7; Esna II, 63, 1; Esna II, 63, 1; Esna II, 63, 4; Esna II, 71, 11; Esna II, 80, 1; Esna II, 81, 3; Esna II, 82, 2; Esna II, 85, 1; Esna II, 95, 6; Esna II, 104, 1; Esna II, 104, 6; Esna II, 124, 2; Esna II, 127, 11; Esna II, 129, 2; Esna II, 130, 1; Esna II, 130, 3; Esna II, 130, 3; Esna II, 130, 3; Esna II, 156, 20; Esna II, 156, 21; Esna II, 169, 5; Esna II, 176, 5; Esna II, 176, 7; Esna II, 184, 26; Esna II, 191, 20; Esna II, 191, 21   
+   
+*m-ḫt*		Esna II, 58, 4; Esna II, 104, 4; Esna II, 129, 1; Esna II, 156, 18; Esna II, 163, 16; Esna II, 163, 16; Esna II, 184, 27; Esna II, 191, 18   
+   
+*m-ẖnw*		Esna II, 52, 22; Esna II, 59, 2; Esna II, 63, 1; Esna II, 71, 12; Esna II, 74, 35; Esna II, 77, 14; Esna II, 77, 16; Esna II, 84, 1; Esna II, 85, 1; Esna II, 104, 11; Esna II, 104, 8; Esna II, 104, 9; Esna II, 106, 3; Esna II, 124, 2; Esna II, 127, 3; Esna II, 130, 3; Esna II, 130, 4; Esna II, 155, 1; Esna II, 163, 17; Esna II, 163, 23; Esna II, 184, 26; Esna II, 190, 1; Esna II, 191, 19   
+   
+*m-sȝ*		Esna II, 77, 12; Esna II, 77, 14   
+   
+*m-snỉ*		Esna II, 136, 6; Esna II, 155, 8   
+   
+*m-qȝb*		Esna II, 191, 19   
+   
+*m-dbn*		Esna II, 52, 24; Esna II, 55, 6; Esna II, 55, 6   
+   
+*m.k*		Esna II, 156, 26; Esna II, 176, 8; Esna II, 191, 12   
+   
+*nȝy*		Esna II, 129, 3   
+   
+*nỉw.t*		Esna II, 49, 1; Esna II, 55, 8; Esna II, 58, 5; Esna II, 60, 2; Esna II, 60, 2; Esna II, 60, 3; Esna II, 60, 3; Esna II, 60, 5; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 14; Esna II, 77, 16; Esna II, 80, 1; Esna II, 80, 6; Esna II, 81, 1; Esna II, 81, 2; Esna II, 81, 4; Esna II, 104, 10; Esna II, 104, 11; Esna II, 104, 8; Esna II, 104, 9; Esna II, 162, 4; Esna II, 183, 4; Esna II, 184, 28   
+   
+*nỉw.t-š*		Esna II, 74, 26   
+   
+*nỉw.wt*		Esna II, 63, 4; Esna II, 64, 2; Esna II, 81, 2; Esna II, 84, 1; Esna II, 113, 9; Esna II, 127, 8; Esna II, 136, 8   
+   
+*nỉw.wwt*		Esna II, 84, 1   
+   
+*nỉnỉ*		Esna II, 184, 19   
+   
+*nỉs*		Esna II, 55, 1; Esna II, 82, 1; Esna II, 184, 25   
+   
+*nỉ*		Esna II, 51, 8; Esna II, 51, 8; Esna II, 59, 2; Esna II, 63, 1; Esna II, 64, 2; Esna II, 71, 1; Esna II, 74, 33; Esna II, 77, 14; Esna II, 80, 6; Esna II, 80, 7; Esna II, 81, 2; Esna II, 81, 6; Esna II, 85, 2; Esna II, 88, 16; Esna II, 104, 9; Esna II, 107, 1; Esna II, 127, 10; Esna II, 127, 10; Esna II, 127, 10; Esna II, 127, 11; Esna II, 129, 4; Esna II, 130, 3; Esna II, 130, 3; Esna II, 146, 2; Esna II, 150, 2; Esna II, 155, 7; Esna II, 155, 9; Esna II, 156, 20; Esna II, 156, 20; Esna II, 156, 20; Esna II, 156, 20; Esna II, 162, 10; Esna II, 162, 9; Esna II, 163, 16; Esna II, 163, 24; Esna II, 163, 25; Esna II, 163, 25; Esna II, 163, 25; Esna II, 163, 25; Esna II, 163, 26; Esna II, 163, 26; Esna II, 169, 8; Esna II, 184, 25   
+   
+*nʿỉ*		Esna II, 80, 6   
+   
+*nʿʿ*		Esna II, 191, 21   
+   
+*nʿš*		Esna II, 127, 6   
+   
+*nʿ*		Esna II, 55, 5   
+   
+*nʿy*		Esna II, 143, 3   
+   
+*nwn*		Esna II, 50, 5; Esna II, 54, 8; Esna II, 54, 8; Esna II, 58, 2; Esna II, 63, 3; Esna II, 64, 1; Esna II, 71, 7; Esna II, 73, 21; Esna II, 73, 9; Esna II, 76, 11; Esna II, 76, 12; Esna II, 76, 8; Esna II, 76, 9; Esna II, 80, 6; Esna II, 96, 1; Esna II, 104, 7; Esna II, 112, 11; Esna II, 112, 12; Esna II, 113, 9; Esna II, 156, 17; Esna II, 156, 18; Esna II, 156, 19   
+   
+*nwn-wr*		Esna II, 104, 6   
+   
+*nwr*		Esna II, 96, 1; Esna II, 110, 1; Esna II, 127, 6   
+   
+*nwḥ*		Esna II, 124, 2   
+   
+*nwd*		Esna II, 125, 1   
+   
+*nwd.t*		Esna II, 141, 8; Esna II, 150, 2   
+   
+*nw*		Esna II, 50, 8; Esna II, 54, 11; Esna II, 55, 1; Esna II, 55, 1; Esna II, 58, 2; Esna II, 58, 2; Esna II, 62, 1; Esna II, 64, 2; Esna II, 64, 3; Esna II, 72, 17; Esna II, 72, 7; Esna II, 76, 10; Esna II, 77, 16; Esna II, 81, 3; Esna II, 104, 4; Esna II, 104, 8; Esna II, 107, 1; Esna II, 115, 3; Esna II, 118, 10; Esna II, 118, 4; Esna II, 120, 2; Esna II, 124, 1; Esna II, 124, 1; Esna II, 124, 1; Esna II, 124, 2; Esna II, 125, 1; Esna II, 125, 1; Esna II, 125, 2; Esna II, 125, 2; Esna II, 127, 1; Esna II, 127, 6; Esna II, 131, 11; Esna II, 131, 13; Esna II, 156, 26; Esna II, 156, 26; Esna II, 156, 26; Esna II, 162, 3; Esna II, 163, 16   
+   
+*nw.t*		Esna II, 63, 1; Esna II, 64, 3; Esna II, 64, 4; Esna II, 73, 21; Esna II, 77, 17; Esna II, 88, 18; Esna II, 141, 7; Esna II, 169, 10; Esna II, 176, 1; Esna II, 176, 10; Esna II, 177, 11; Esna II, 183, 10; Esna II, 184, 13; Esna II, 184, 18; Esna II, 184, 21; Esna II, 190, 4   
+   
+*nw.w*		Esna II, 82, 1   
+   
+*nbȝ.t*		Esna II, 136, 2   
+   
+*nbỉ*		Esna II, 59, 1; Esna II, 63, 3; Esna II, 63, 4; Esna II, 80, 7; Esna II, 162, 3; Esna II, 183, 4; Esna II, 191, 20   
+   
+*nbỉ.w*		Esna II, 176, 8; Esna II, 191, 20   
+   
+*nbw*		Esna II, 50, 5; Esna II, 77, 12; Esna II, 130, 5; Esna II, 141, 3; Esna II, 141, 9; Esna II, 162, 3; Esna II, 176, 9; Esna II, 191, 18   
+   
+*nbw.t*		Esna II, 163, 23; Esna II, 183, 4   
+   
+*nbw.t-ʿȝy.t*		Esna II, 130, 4   
+   
+*nbsy.wt*		Esna II, 190, 5   
+   
+*nb-*		Esna II, 141, 6   
+   
+*nb-ʿnḫ*		Esna II, 81, 3; Esna II, 184, 25   
+   
+*nb-ḫʿ.w*		Esna II, 67, 2; Esna II, 70, 2; Esna II, 71, 3; Esna II, 72, 5; Esna II, 73, 2; Esna II, 74, 2; Esna II, 88, 2; Esna II, 91, 2; Esna II, 97, 3; Esna II, 113, 5; Esna II, 123, 2; Esna II, 136, 5; Esna II, 141, 2   
+   
+*nb-nḥp*		Esna II, 52, 21; Esna II, 61, 4   
+   
+*nb-nṯr.w*		Esna II, 52, 23   
+   
+*nb-pḥty*		Esna II, 81, 4; Esna II, 127, 3; Esna II, 127, 4   
+   
+*nb-sḫ.t*		Esna II, 127, 3   
+   
+*nb-tȝ-sn.t*		Esna II, 110, 13   
+   
+*nb-tȝ.wy*		Esna II, 67, 1; Esna II, 70, 1; Esna II, 71, 2; Esna II, 72, 4; Esna II, 73, 1; Esna II, 74, 1; Esna II, 74, 39; Esna II, 82, 1; Esna II, 88, 1; Esna II, 91, 1; Esna II, 122, 2; Esna II, 136, 4; Esna II, 141, 1; Esna II, 146, 2; Esna II, 149, 1; Esna II, 150, 2; Esna II, 156, 28; Esna II, 162, 1; Esna II, 191, 28   
+   
+*nb-wʿ*		Esna II, 146, 2   
+   
+*nb*		Esna II, 49, 1; Esna II, 49, 13; Esna II, 49, 2; Esna II, 49, 3; Esna II, 49, 5; Esna II, 49, 5; Esna II, 49, 9; Esna II, 50, 1; Esna II, 50, 10; Esna II, 50, 13; Esna II, 50, 2; Esna II, 50, 5; Esna II, 50, 8; Esna II, 50, 9; Esna II, 51, 1; Esna II, 51, 10; Esna II, 51, 2; Esna II, 51, 6; Esna II, 52, 1; Esna II, 52, 12; Esna II, 52, 12; Esna II, 52, 18; Esna II, 52, 2; Esna II, 52, 20; Esna II, 54, 11; Esna II, 54, 12; Esna II, 54, 16; Esna II, 54, 16; Esna II, 54, 16; Esna II, 54, 2; Esna II, 54, 2; Esna II, 54, 4; Esna II, 54, 4; Esna II, 54, 7; Esna II, 54, 8; Esna II, 54, 8; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 9; Esna II, 58, 4; Esna II, 58, 5; Esna II, 59, 1; Esna II, 61, 5; Esna II, 63, 1; Esna II, 63, 1; Esna II, 63, 4; Esna II, 64, 3; Esna II, 64, 4; Esna II, 67, 10; Esna II, 67, 10; Esna II, 67, 10; Esna II, 67, 13; Esna II, 67, 17; Esna II, 67, 18; Esna II, 67, 4; Esna II, 70, 11; Esna II, 70, 11; Esna II, 70, 12; Esna II, 70, 14; Esna II, 70, 14; Esna II, 70, 17; Esna II, 70, 4; Esna II, 70, 5; Esna II, 70, 7; Esna II, 71, 1; Esna II, 71, 14; Esna II, 71, 3; Esna II, 72, 11; Esna II, 72, 11; Esna II, 72, 13; Esna II, 73, 11; Esna II, 73, 12; Esna II, 73, 16; Esna II, 73, 4; Esna II, 73, 4; Esna II, 73, 4; Esna II, 74, 14; Esna II, 74, 19; Esna II, 74, 19; Esna II, 74, 34; Esna II, 74, 37; Esna II, 74, 5; Esna II, 74, 5; Esna II, 76, 12; Esna II, 76, 3; Esna II, 76, 3; Esna II, 76, 4; Esna II, 76, 4; Esna II, 76, 4; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 15; Esna II, 77, 15; Esna II, 77, 15; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 18; Esna II, 77, 18; Esna II, 80, 1; Esna II, 80, 3; Esna II, 80, 7; Esna II, 81, 2; Esna II, 81, 5; Esna II, 82, 1; Esna II, 84, 1; Esna II, 85, 2; Esna II, 88, 11; Esna II, 88, 18; Esna II, 88, 3; Esna II, 88, 7; Esna II, 88, 7; Esna II, 91, 14; Esna II, 91, 8; Esna II, 91, 9; Esna II, 95, 2; Esna II, 95, 4; Esna II, 96, 1; Esna II, 97, 1; Esna II, 97, 3; Esna II, 102, 1; Esna II, 103, 1; Esna II, 103, 2; Esna II, 103, 2; Esna II, 103, 2; Esna II, 103, 2; Esna II, 104, 2; Esna II, 104, 2; Esna II, 104, 3; Esna II, 104, 4; Esna II, 104, 8; Esna II, 104, 9; Esna II, 105, 6; Esna II, 106, 2; Esna II, 106, 4; Esna II, 107, 2; Esna II, 110, 10; Esna II, 110, 10; Esna II, 110, 12; Esna II, 110, 3; Esna II, 110, 9; Esna II, 112, 13; Esna II, 112, 2; Esna II, 112, 7; Esna II, 112, 7; Esna II, 112, 8; Esna II, 113, 10; Esna II, 113, 13; Esna II, 113, 15; Esna II, 113, 4; Esna II, 113, 7; Esna II, 115, 3; Esna II, 115, 7; Esna II, 118, 4; Esna II, 118, 4; Esna II, 118, 4; Esna II, 120, 10; Esna II, 120, 13; Esna II, 120, 3; Esna II, 120, 9; Esna II, 124, 1; Esna II, 124, 1; Esna II, 124, 1; Esna II, 124, 2; Esna II, 125, 1; Esna II, 125, 2; Esna II, 127, 11; Esna II, 127, 3; Esna II, 128, 5; Esna II, 129, 3; Esna II, 131, 10; Esna II, 131, 11; Esna II, 131, 14; Esna II, 131, 9; Esna II, 135, 12; Esna II, 135, 15; Esna II, 135, 15; Esna II, 135, 15; Esna II, 135, 16; Esna II, 135, 6; Esna II, 135, 6; Esna II, 135, 6; Esna II, 135, 6; Esna II, 135, 8; Esna II, 136, 16; Esna II, 136, 8; Esna II, 140, 4; Esna II, 140, 6; Esna II, 140, 7; Esna II, 141, 10; Esna II, 141, 10; Esna II, 141, 10; Esna II, 141, 4; Esna II, 141, 8; Esna II, 146, 1; Esna II, 149, 3; Esna II, 150, 2; Esna II, 155, 1; Esna II, 155, 1; Esna II, 155, 2; Esna II, 155, 3; Esna II, 156, 16; Esna II, 156, 17; Esna II, 156, 17; Esna II, 156, 18; Esna II, 156, 18; Esna II, 156, 21; Esna II, 156, 21; Esna II, 156, 24; Esna II, 162, 1; Esna II, 162, 3; Esna II, 163, 20; Esna II, 163, 20; Esna II, 163, 22; Esna II, 163, 22; Esna II, 163, 23; Esna II, 163, 23; Esna II, 163, 24; Esna II, 163, 25; Esna II, 163, 26; Esna II, 169, 9; Esna II, 170, 11; Esna II, 170, 11; Esna II, 176, 5; Esna II, 176, 6; Esna II, 176, 9; Esna II, 177, 11; Esna II, 177, 11; Esna II, 183, 1; Esna II, 183, 1; Esna II, 183, 2; Esna II, 183, 4; Esna II, 183, 8; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 20; Esna II, 184, 21; Esna II, 184, 21; Esna II, 184, 21; Esna II, 184, 24; Esna II, 184, 24; Esna II, 184, 27; Esna II, 190, 5; Esna II, 190, 5; Esna II, 191, 13; Esna II, 191, 16; Esna II, 191, 17; Esna II, 191, 17; Esna II, 191, 19; Esna II, 191, 20; Esna II, 191, 21; Esna II, 191, 21; Esna II, 191, 26; Esna II, 191, 28; Esna II, 191, 28   
+   
+*nb.t*		Esna II, 49, 10; Esna II, 50, 9; Esna II, 50, 9; Esna II, 55, 2; Esna II, 55, 5; Esna II, 55, 8; Esna II, 55, 9; Esna II, 55, 9; Esna II, 60, 5; Esna II, 61, 8; Esna II, 62, 5; Esna II, 62, 8; Esna II, 67, 18; Esna II, 70, 6; Esna II, 71, 5; Esna II, 72, 10; Esna II, 73, 10; Esna II, 73, 5; Esna II, 74, 17; Esna II, 74, 19; Esna II, 74, 26; Esna II, 74, 26; Esna II, 74, 26; Esna II, 74, 27; Esna II, 74, 29; Esna II, 74, 29; Esna II, 76, 11; Esna II, 76, 15; Esna II, 76, 3; Esna II, 76, 4; Esna II, 76, 7; Esna II, 88, 16; Esna II, 91, 13; Esna II, 91, 6; Esna II, 113, 12; Esna II, 113, 13; Esna II, 118, 9; Esna II, 122, 6; Esna II, 123, 6; Esna II, 125, 2; Esna II, 129, 1; Esna II, 135, 14; Esna II, 136, 13; Esna II, 136, 7; Esna II, 136, 8; Esna II, 143, 3; Esna II, 143, 7; Esna II, 145, 3; Esna II, 146, 2; Esna II, 156, 23; Esna II, 163, 13; Esna II, 163, 14; Esna II, 163, 19; Esna II, 163, 23; Esna II, 163, 23; Esna II, 170, 11   
+   
+*nb.t-*		Esna II, 74, 18   
+   
+*nb.t-ʿḥ*		Esna II, 74, 17   
+   
+*nb.t-ḥtp.t*		Esna II, 74, 27   
+   
+*nb.t-ḥw.t*		Esna II, 55, 5; Esna II, 77, 18; Esna II, 190, 3   
+   
+*nb.t-ḥzw*		Esna II, 191, 26   
+   
+*nb.t-ỉmȝw*		Esna II, 191, 25   
+   
+*nb.t-r-ḏr*		Esna II, 163, 16   
+   
+*nb.t-tȝ-sn.t*		Esna II, 88, 15   
+   
+*nb.t-ww*		Esna II, 50, 9; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 8; Esna II, 58, 1; Esna II, 60, 5; Esna II, 62, 8; Esna II, 71, 10; Esna II, 73, 17; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 14; Esna II, 77, 14; Esna II, 77, 15; Esna II, 77, 17; Esna II, 80, 3; Esna II, 88, 15; Esna II, 104, 5; Esna II, 110, 15; Esna II, 122, 7; Esna II, 127, 4; Esna II, 130, 1; Esna II, 146, 2; Esna II, 156, 19; Esna II, 163, 20; Esna II, 163, 27   
+   
+*nb.ty*		Esna II, 150, 2   
+   
+*nb.w*		Esna II, 58, 6; Esna II, 63, 3; Esna II, 72, 17; Esna II, 72, 7; Esna II, 74, 29; Esna II, 74, 29; Esna II, 77, 13; Esna II, 77, 16; Esna II, 115, 8; Esna II, 125, 1; Esna II, 127, 8; Esna II, 141, 14; Esna II, 141, 14; Esna II, 141, 5; Esna II, 141, 8; Esna II, 155, 4; Esna II, 155, 4; Esna II, 155, 5; Esna II, 156, 20; Esna II, 162, 3; Esna II, 162, 4; Esna II, 163, 16; Esna II, 163, 21; Esna II, 163, 25; Esna II, 169, 1; Esna II, 169, 10; Esna II, 169, 9; Esna II, 169, 9; Esna II, 169, 9; Esna II, 184, 20; Esna II, 184, 22; Esna II, 184, 22; Esna II, 184, 23; Esna II, 184, 23; Esna II, 184, 23; Esna II, 190, 2; Esna II, 190, 2; Esna II, 190, 6; Esna II, 191, 19; Esna II, 191, 24   
+   
+*nb.wt*		Esna II, 67, 18   
+   
+*nb.wy*		Esna II, 74, 12   
+   
+*nprỉ*		Esna II, 184, 23   
+   
+*npry*		Esna II, 155, 4; Esna II, 176, 6   
+   
+*np*		Esna II, 156, 14; Esna II, 156, 18; Esna II, 190, 2; Esna II, 191, 18   
+   
+*nfw*		Esna II, 110, 10   
+   
+*nfr*		Esna II, 49, 9; Esna II, 51, 14; Esna II, 52, 4; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 6; Esna II, 55, 8; Esna II, 58, 5; Esna II, 59, 1; Esna II, 59, 1; Esna II, 63, 1; Esna II, 64, 2; Esna II, 64, 3; Esna II, 70, 9; Esna II, 72, 11; Esna II, 73, 12; Esna II, 74, 7; Esna II, 76, 16; Esna II, 77, 16; Esna II, 77, 18; Esna II, 80, 5; Esna II, 81, 4; Esna II, 81, 5; Esna II, 81, 5; Esna II, 82, 1; Esna II, 85, 2; Esna II, 85, 4; Esna II, 96, 1; Esna II, 102, 1; Esna II, 104, 11; Esna II, 105, 1; Esna II, 105, 5; Esna II, 106, 1; Esna II, 112, 9; Esna II, 115, 8; Esna II, 120, 13; Esna II, 120, 6; Esna II, 124, 1; Esna II, 125, 2; Esna II, 127, 4; Esna II, 127, 8; Esna II, 127, 9; Esna II, 129, 3; Esna II, 130, 5; Esna II, 141, 14; Esna II, 141, 3; Esna II, 143, 4; Esna II, 143, 4; Esna II, 146, 2; Esna II, 150, 2; Esna II, 156, 14; Esna II, 156, 16; Esna II, 163, 22; Esna II, 169, 1; Esna II, 183, 1; Esna II, 183, 2; Esna II, 184, 19; Esna II, 184, 20; Esna II, 184, 23; Esna II, 190, 1; Esna II, 191, 28   
+   
+*nfr-ḥr*		Esna II, 70, 12; Esna II, 88, 12; Esna II, 156, 25; Esna II, 190, 3   
+   
+*nfr-ỉb*		Esna II, 127, 4   
+   
+*nfr-tm*		Esna II, 73, 6   
+   
+*nfr.t*		Esna II, 50, 10; Esna II, 52, 11; Esna II, 54, 4; Esna II, 55, 4; Esna II, 61, 9; Esna II, 73, 18; Esna II, 74, 9; Esna II, 81, 6; Esna II, 82, 2; Esna II, 106, 3; Esna II, 113, 13; Esna II, 125, 1   
+   
+*nfr.t-ỉmȝ*		Esna II, 156, 23   
+   
+*nfr.w*		Esna II, 54, 4; Esna II, 97, 3; Esna II, 156, 24   
+   
+*nfr.wy*		Esna II, 64, 4; Esna II, 64, 4; Esna II, 71, 1; Esna II, 74, 20; Esna II, 95, 2; Esna II, 95, 3; Esna II, 95, 4; Esna II, 95, 5; Esna II, 95, 6; Esna II, 95, 7; Esna II, 95, 8; Esna II, 156, 18   
+   
+*nfrw*		Esna II, 49, 11; Esna II, 54, 6; Esna II, 71, 8; Esna II, 72, 7; Esna II, 74, 22; Esna II, 74, 38; Esna II, 81, 6; Esna II, 88, 16; Esna II, 113, 9; Esna II, 118, 11; Esna II, 127, 9; Esna II, 143, 4; Esna II, 163, 23; Esna II, 176, 8; Esna II, 191, 18; Esna II, 191, 28   
+   
+*nfry*		Esna II, 191, 25   
+   
+*nfry.t*		Esna II, 55, 6; Esna II, 55, 8; Esna II, 55, 8; Esna II, 58, 7   
+   
+*nfryt*		Esna II, 77, 10   
+   
+*nfy*		Esna II, 74, 34   
+   
+*nmỉ.t*		Esna II, 107, 2   
+   
+*nmʿ*		Esna II, 106, 2   
+   
+*nmt.t*		Esna II, 54, 8; Esna II, 74, 34; Esna II, 113, 11; Esna II, 118, 4; Esna II, 155, 1   
+   
+*nnỉ*		Esna II, 162, 10; Esna II, 183, 8   
+   
+*nnw*		Esna II, 169, 3   
+   
+*nn-ỉb*		Esna II, 124, 1   
+   
+*nn*		Esna II, 52, 13; Esna II, 54, 8; Esna II, 55, 1; Esna II, 55, 5; Esna II, 58, 3; Esna II, 58, 7; Esna II, 58, 7; Esna II, 61, 12; Esna II, 64, 2; Esna II, 67, 12; Esna II, 71, 6; Esna II, 74, 19; Esna II, 77, 13; Esna II, 77, 14; Esna II, 80, 7; Esna II, 81, 2; Esna II, 91, 6; Esna II, 110, 14; Esna II, 110, 14; Esna II, 112, 12; Esna II, 120, 11; Esna II, 120, 3; Esna II, 125, 2; Esna II, 127, 10; Esna II, 130, 3; Esna II, 131, 12; Esna II, 131, 9; Esna II, 136, 3; Esna II, 176, 7; Esna II, 183, 8; Esna II, 183, 8; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 26; Esna II, 190, 1; Esna II, 190, 7; Esna II, 191, 16; Esna II, 191, 16; Esna II, 191, 17; Esna II, 191, 17; Esna II, 191, 19   
+   
+*nn.t*		Esna II, 113, 11; Esna II, 184, 18   
+   
+*nrw*		Esna II, 74, 19   
+   
+*nr*		Esna II, 127, 11   
+   
+*nr.w-ỉḥ.w*		Esna II, 155, 2   
+   
+*nhp*		Esna II, 52, 10; Esna II, 163, 26   
+   
+*nhm*		Esna II, 55, 3; Esna II, 84, 1; Esna II, 156, 16; Esna II, 163, 27; Esna II, 184, 24; Esna II, 184, 28; Esna II, 191, 19   
+   
+*nhs*		Esna II, 191, 21   
+   
+*nhq*		Esna II, 104, 6; Esna II, 191, 20   
+   
+*nh*		Esna II, 163, 22   
+   
+*nh.t*		Esna II, 52, 17; Esna II, 52, 17   
+   
+*nḥb*		Esna II, 183, 2; Esna II, 183, 5   
+   
+*nḥb-kȝ.w*		Esna II, 55, 1; Esna II, 156, 22; Esna II, 162, 8   
+   
+*nḥp*		Esna II, 51, 5; Esna II, 59, 1; Esna II, 59, 1; Esna II, 61, 1; Esna II, 63, 4; Esna II, 64, 1; Esna II, 64, 4; Esna II, 70, 15; Esna II, 70, 7; Esna II, 74, 11; Esna II, 80, 7; Esna II, 95, 2; Esna II, 96, 2; Esna II, 103, 2; Esna II, 104, 2; Esna II, 107, 1; Esna II, 120, 13; Esna II, 128, 5; Esna II, 183, 4; Esna II, 184, 15   
+   
+*nḥm*		Esna II, 55, 1; Esna II, 64, 2; Esna II, 112, 12; Esna II, 162, 8   
+   
+*nḥḥ*		Esna II, 51, 16; Esna II, 52, 5; Esna II, 64, 4; Esna II, 67, 15; Esna II, 67, 8; Esna II, 70, 9; Esna II, 80, 7; Esna II, 85, 2; Esna II, 85, 4; Esna II, 113, 13; Esna II, 129, 4; Esna II, 135, 13; Esna II, 136, 12; Esna II, 136, 3; Esna II, 141, 9; Esna II, 163, 28   
+   
+*nḥty.w*		Esna II, 191, 21   
+   
+*nḥ.t*		Esna II, 63, 4   
+   
+*nḫȝḫȝ*		Esna II, 141, 3   
+   
+*nḫỉ*		Esna II, 81, 3   
+   
+*nḫb*		Esna II, 51, 12; Esna II, 85, 4; Esna II, 104, 5   
+   
+*nḫb.t*		Esna II, 70, 3; Esna II, 112, 5; Esna II, 135, 4; Esna II, 163, 23; Esna II, 163, 23   
+   
+*nḫn*		Esna II, 55, 5; Esna II, 70, 3; Esna II, 107, 3; Esna II, 135, 4; Esna II, 141, 11; Esna II, 141, 14   
+   
+*nḫt*		Esna II, 74, 24; Esna II, 91, 3; Esna II, 135, 12; Esna II, 162, 1   
+   
+*nḫt-ʿ*		Esna II, 127, 7   
+   
+*nḫt-ḫpš.w*		Esna II, 104, 8   
+   
+*nḫy*		Esna II, 80, 5; Esna II, 118, 4   
+   
+*nsw*		Esna II, 74, 16   
+   
+*nsw.t*		Esna II, 50, 1; Esna II, 51, 1; Esna II, 52, 1; Esna II, 52, 15; Esna II, 52, 16; Esna II, 67, 7; Esna II, 67, 7; Esna II, 70, 9; Esna II, 95, 5; Esna II, 141, 14; Esna II, 141, 8; Esna II, 184, 25; Esna II, 191, 16; Esna II, 191, 23   
+   
+*nsw.t-bỉtỉ*		Esna II, 96, 1   
+   
+*nsw.t-bỉty*		Esna II, 49, 2; Esna II, 54, 1; Esna II, 54, 11; Esna II, 61, 2; Esna II, 62, 2; Esna II, 67, 1; Esna II, 70, 1; Esna II, 71, 2; Esna II, 72, 4; Esna II, 73, 1; Esna II, 73, 10; Esna II, 74, 1; Esna II, 74, 31; Esna II, 76, 1; Esna II, 76, 15; Esna II, 76, 7; Esna II, 88, 1; Esna II, 88, 6; Esna II, 91, 1; Esna II, 97, 3; Esna II, 112, 15; Esna II, 112, 3; Esna II, 113, 4; Esna II, 115, 3; Esna II, 118, 2; Esna II, 122, 2; Esna II, 135, 12; Esna II, 135, 2; Esna II, 136, 4; Esna II, 140, 2; Esna II, 141, 1; Esna II, 141, 14; Esna II, 143, 3; Esna II, 146, 2; Esna II, 149, 1; Esna II, 150, 2; Esna II, 156, 28; Esna II, 162, 1; Esna II, 183, 1; Esna II, 191, 28   
+   
+*nsw.t-nṯr.w*		Esna II, 163, 24   
+   
+*nsw.t-nsw.wt*		Esna II, 184, 27   
+   
+*nsw.wt*		Esna II, 162, 2   
+   
+*nswy.t*		Esna II, 51, 12; Esna II, 51, 15; Esna II, 51, 17; Esna II, 58, 6; Esna II, 183, 3   
+   
+*nsr.t*		Esna II, 74, 26; Esna II, 74, 29   
+   
+*ns-sw*		Esna II, 60, 2   
+   
+*ns*		Esna II, 122, 4   
+   
+*ns.t*		Esna II, 51, 4; Esna II, 67, 15; Esna II, 73, 14; Esna II, 74, 12; Esna II, 74, 24; Esna II, 88, 14; Esna II, 141, 7; Esna II, 155, 5; Esna II, 184, 26   
+   
+*nsy.wt*		Esna II, 141, 3   
+   
+*nsyw.t*		Esna II, 141, 10; Esna II, 141, 12; Esna II, 141, 9   
+   
+*nšp*		Esna II, 106, 2   
+   
+*nšn*		Esna II, 58, 4; Esna II, 163, 23   
+   
+*nqr*		Esna II, 184, 20   
+   
+*ngȝ.w*		Esna II, 155, 2   
+   
+*ng*		Esna II, 163, 22   
+   
+*ntf*		Esna II, 64, 1; Esna II, 105, 2; Esna II, 131, 15   
+   
+*nts*		Esna II, 64, 1   
+   
+*ntsn*		Esna II, 64, 2; Esna II, 104, 5   
+   
+*ntk*		Esna II, 54, 12; Esna II, 54, 16; Esna II, 54, 4; Esna II, 54, 8; Esna II, 113, 2; Esna II, 115, 4; Esna II, 115, 8; Esna II, 156, 17; Esna II, 156, 19; Esna II, 184, 19   
+   
+*ntt*		Esna II, 76, 12; Esna II, 76, 16; Esna II, 80, 3   
+   
+*ntṯ*		Esna II, 60, 5; Esna II, 60, 5; Esna II, 76, 4; Esna II, 143, 4; Esna II, 143, 8   
+   
+*nt-ʿ*		Esna II, 55, 1; Esna II, 58, 7; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 155, 3   
+   
+*nt*		Esna II, 52, 3; Esna II, 52, 9; Esna II, 52, 9; Esna II, 64, 3; Esna II, 73, 6; Esna II, 74, 8; Esna II, 77, 14; Esna II, 77, 14; Esna II, 80, 7; Esna II, 81, 1; Esna II, 110, 9; Esna II, 123, 8; Esna II, 127, 11; Esna II, 127, 9; Esna II, 156, 26; Esna II, 162, 2   
+   
+*nt.w-ʿ*		Esna II, 80, 7; Esna II, 104, 11   
+   
+*nty*		Esna II, 54, 12; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 5; Esna II, 55, 6; Esna II, 62, 6; Esna II, 67, 18; Esna II, 73, 15; Esna II, 73, 6; Esna II, 73, 6; Esna II, 76, 12; Esna II, 76, 4; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 15; Esna II, 77, 16; Esna II, 80, 1; Esna II, 81, 3; Esna II, 84, 1; Esna II, 85, 4; Esna II, 103, 2; Esna II, 104, 2; Esna II, 104, 8; Esna II, 112, 2; Esna II, 127, 10; Esna II, 127, 10; Esna II, 129, 1; Esna II, 130, 1; Esna II, 130, 1; Esna II, 130, 2; Esna II, 155, 1; Esna II, 156, 21; Esna II, 156, 21; Esna II, 176, 4; Esna II, 176, 5; Esna II, 177, 11; Esna II, 184, 15; Esna II, 191, 20; Esna II, 191, 21   
+   
+*nty-ḫwỉ*		Esna II, 49, 2; Esna II, 59, 1; Esna II, 70, 2; Esna II, 71, 3; Esna II, 82, 1; Esna II, 97, 3; Esna II, 102, 1; Esna II, 115, 7; Esna II, 141, 2; Esna II, 143, 7   
+   
+*nty.w*		Esna II, 77, 17; Esna II, 156, 22   
+   
+*nṯr*		Esna II, 52, 4; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 9; Esna II, 55, 9; Esna II, 58, 3; Esna II, 59, 1; Esna II, 63, 3; Esna II, 63, 3; Esna II, 63, 3; Esna II, 67, 6; Esna II, 70, 16; Esna II, 70, 5; Esna II, 73, 11; Esna II, 73, 4; Esna II, 73, 5; Esna II, 74, 14; Esna II, 74, 19; Esna II, 74, 20; Esna II, 74, 7; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 12; Esna II, 77, 14; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 17; Esna II, 80, 7; Esna II, 81, 3; Esna II, 82, 1; Esna II, 84, 1; Esna II, 91, 3; Esna II, 96, 2; Esna II, 103, 2; Esna II, 104, 1; Esna II, 104, 4; Esna II, 110, 13; Esna II, 112, 2; Esna II, 112, 9; Esna II, 113, 7; Esna II, 118, 4; Esna II, 120, 13; Esna II, 129, 4; Esna II, 130, 2; Esna II, 135, 10; Esna II, 135, 12; Esna II, 135, 13; Esna II, 141, 14; Esna II, 141, 3; Esna II, 146, 2; Esna II, 146, 2; Esna II, 155, 3; Esna II, 155, 4; Esna II, 156, 21; Esna II, 163, 21; Esna II, 169, 1; Esna II, 183, 1; Esna II, 183, 2; Esna II, 183, 3; Esna II, 191, 16   
+   
+*nṯr-ʿȝ*		Esna II, 184, 25   
+   
+*nṯr-nfr*		Esna II, 176, 1   
+   
+*nṯr.t*		Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 4; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 9; Esna II, 60, 3; Esna II, 64, 2; Esna II, 67, 6; Esna II, 77, 11; Esna II, 77, 16; Esna II, 104, 2   
+   
+*nṯr.t-ʿnḫ*		Esna II, 64, 1   
+   
+*nṯr.ty*		Esna II, 106, 2   
+   
+*nṯr.w*		Esna II, 50, 9; Esna II, 51, 6; Esna II, 52, 12; Esna II, 54, 16; Esna II, 54, 4; Esna II, 55, 1; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 8; Esna II, 58, 2; Esna II, 59, 1; Esna II, 59, 2; Esna II, 62, 9; Esna II, 63, 1; Esna II, 63, 3; Esna II, 63, 4; Esna II, 64, 4; Esna II, 70, 11; Esna II, 70, 12; Esna II, 70, 14; Esna II, 70, 4; Esna II, 72, 14; Esna II, 72, 6; Esna II, 73, 10; Esna II, 73, 18; Esna II, 73, 8; Esna II, 73, 9; Esna II, 74, 18; Esna II, 74, 29; Esna II, 74, 29; Esna II, 77, 11; Esna II, 77, 14; Esna II, 77, 15; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 91, 16; Esna II, 91, 8; Esna II, 91, 9; Esna II, 95, 4; Esna II, 97, 1; Esna II, 102, 2; Esna II, 103, 1; Esna II, 103, 1; Esna II, 103, 2; Esna II, 103, 2; Esna II, 104, 2; Esna II, 105, 2; Esna II, 107, 1; Esna II, 113, 12; Esna II, 113, 15; Esna II, 113, 3; Esna II, 113, 6; Esna II, 113, 7; Esna II, 118, 10; Esna II, 118, 11; Esna II, 127, 8; Esna II, 130, 1; Esna II, 130, 3; Esna II, 130, 4; Esna II, 136, 14; Esna II, 141, 11; Esna II, 141, 5; Esna II, 143, 4; Esna II, 155, 5; Esna II, 155, 5; Esna II, 156, 11; Esna II, 156, 12; Esna II, 156, 17; Esna II, 156, 18; Esna II, 156, 18; Esna II, 156, 19; Esna II, 156, 23; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 19; Esna II, 163, 21; Esna II, 163, 21; Esna II, 163, 22; Esna II, 163, 22; Esna II, 163, 22; Esna II, 163, 24; Esna II, 163, 27; Esna II, 169, 1; Esna II, 169, 7; Esna II, 183, 3; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 18; Esna II, 184, 20; Esna II, 184, 20; Esna II, 184, 21; Esna II, 184, 24; Esna II, 184, 27; Esna II, 184, 28; Esna II, 190, 6; Esna II, 190, 7; Esna II, 191, 12; Esna II, 191, 16   
+   
+*nṯr.w-nṯry.t*		Esna II, 183, 2   
+   
+*nṯr.w-wr.w*		Esna II, 76, 12   
+   
+*nṯr.y*		Esna II, 81, 2   
+   
+*nṯr.yt*		Esna II, 64, 4; Esna II, 74, 29; Esna II, 74, 29; Esna II, 77, 11; Esna II, 130, 1; Esna II, 156, 12; Esna II, 163, 19; Esna II, 184, 15   
+   
+*nṯrỉ*		Esna II, 52, 15   
+   
+*nṯrw*		Esna II, 63, 1   
+   
+*nṯry*		Esna II, 52, 22; Esna II, 64, 1; Esna II, 67, 9; Esna II, 73, 12; Esna II, 74, 36; Esna II, 76, 8; Esna II, 85, 2; Esna II, 118, 4; Esna II, 127, 5; Esna II, 127, 9; Esna II, 129, 1; Esna II, 130, 3; Esna II, 135, 12; Esna II, 163, 22; Esna II, 163, 26   
+   
+*nṯry.t*		Esna II, 55, 6; Esna II, 55, 8; Esna II, 63, 1; Esna II, 73, 18; Esna II, 91, 9; Esna II, 113, 3; Esna II, 163, 22; Esna II, 184, 20; Esna II, 184, 28; Esna II, 191, 12   
+   
+*nṯry.w*		Esna II, 63, 4; Esna II, 72, 6; Esna II, 191, 23   
+   
+*ndb.t*		Esna II, 141, 8   
+   
+*ndm*		Esna II, 49, 8; Esna II, 125, 1; Esna II, 191, 27   
+   
+*ndm-ḫrw*		Esna II, 156, 24   
+   
+*nḏm*		Esna II, 60, 2; Esna II, 62, 4; Esna II, 81, 5; Esna II, 81, 6; Esna II, 125, 2; Esna II, 128, 6; Esna II, 163, 23; Esna II, 169, 8; Esna II, 191, 18   
+   
+*nḏm-ỉb*		Esna II, 91, 10; Esna II, 124, 2; Esna II, 135, 8; Esna II, 155, 3; Esna II, 190, 2; Esna II, 191, 21; Esna II, 191, 28   
+   
+*nḏm-sṯỉ*		Esna II, 163, 21; Esna II, 163, 22   
+   
+*nḏm.wy*		Esna II, 124, 1   
+   
+*nḏm/ȝw.t-ỉb*		Esna II, 70, 7   
+   
+*nḏmnḏm*		Esna II, 103, 2; Esna II, 184, 18   
+   
+*nḏr*		Esna II, 136, 1; Esna II, 176, 1   
+   
+*nḏ-rȝ*		Esna II, 183, 4   
+   
+*nḏ*		Esna II, 162, 4; Esna II, 184, 27   
+   
+*nḏ.t*		Esna II, 55, 2; Esna II, 136, 15   
+   
+*nḏy*		Esna II, 191, 15   
+   
+*n-mrw.t*		Esna II, 60, 3   
+   
+*n-k*		Esna II, 88, 18   
+   
+*n.w*		Esna II, 190, 10   
+   
+*nyrwn*		Esna II, 91, 1   
+   
+*n.t*		Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 9; Esna II, 55, 9; Esna II, 59, 1; Esna II, 60, 3; Esna II, 60, 5; Esna II, 62, 10; Esna II, 62, 5; Esna II, 63, 3; Esna II, 64, 1; Esna II, 64, 4; Esna II, 64, 4; Esna II, 71, 5; Esna II, 71, 7; Esna II, 76, 11; Esna II, 76, 15; Esna II, 76, 3; Esna II, 76, 7; Esna II, 77, 11; Esna II, 77, 13; Esna II, 77, 14; Esna II, 77, 15; Esna II, 77, 16; Esna II, 80, 2; Esna II, 81, 1; Esna II, 81, 1; Esna II, 81, 1; Esna II, 91, 11; Esna II, 91, 13; Esna II, 91, 14; Esna II, 104, 4; Esna II, 104, 4; Esna II, 104, 6; Esna II, 104, 7; Esna II, 107, 1; Esna II, 112, 13; Esna II, 118, 4; Esna II, 118, 8; Esna II, 123, 5; Esna II, 125, 1; Esna II, 135, 10; Esna II, 135, 12; Esna II, 136, 13; Esna II, 136, 3; Esna II, 141, 7; Esna II, 143, 3; Esna II, 143, 7; Esna II, 156, 22; Esna II, 170, 11; Esna II, 190, 5; Esna II, 191, 19; Esna II, 191, 23   
+   
+*rȝ-ʿ.wy*		Esna II, 64, 2; Esna II, 104, 2   
+   
+*rȝ-ḥzȝ*		Esna II, 135, 12   
+   
+*rȝ*		Esna II, 63, 1; Esna II, 85, 1; Esna II, 129, 1; Esna II, 130, 4; Esna II, 130, 4; Esna II, 191, 17   
+   
+*rʿ-nb*		Esna II, 52, 26; Esna II, 54, 12; Esna II, 58, 7; Esna II, 59, 2; Esna II, 60, 5; Esna II, 61, 7; Esna II, 62, 9; Esna II, 63, 1; Esna II, 80, 7; Esna II, 81, 6; Esna II, 85, 3; Esna II, 95, 2; Esna II, 96, 2; Esna II, 107, 1; Esna II, 127, 11; Esna II, 127, 11; Esna II, 141, 5; Esna II, 156, 17; Esna II, 184, 28; Esna II, 191, 16   
+   
+*rʿ*		Esna II, 49, 3; Esna II, 51, 10; Esna II, 51, 16; Esna II, 51, 17; Esna II, 51, 3; Esna II, 51, 4; Esna II, 51, 8; Esna II, 52, 25; Esna II, 52, 6; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 2; Esna II, 58, 3; Esna II, 60, 1; Esna II, 60, 4; Esna II, 60, 5; Esna II, 60, 5; Esna II, 67, 14; Esna II, 67, 15; Esna II, 67, 5; Esna II, 67, 9; Esna II, 71, 14; Esna II, 73, 16; Esna II, 73, 17; Esna II, 73, 19; Esna II, 73, 7; Esna II, 73, 7; Esna II, 73, 8; Esna II, 73, 9; Esna II, 74, 17; Esna II, 74, 21; Esna II, 74, 24; Esna II, 74, 27; Esna II, 74, 38; Esna II, 74, 5; Esna II, 77, 11; Esna II, 77, 14; Esna II, 77, 15; Esna II, 77, 16; Esna II, 77, 17; Esna II, 80, 1; Esna II, 80, 1; Esna II, 80, 1; Esna II, 80, 4; Esna II, 80, 4; Esna II, 81, 3; Esna II, 84, 1; Esna II, 84, 1; Esna II, 85, 1; Esna II, 85, 3; Esna II, 88, 14; Esna II, 88, 15; Esna II, 91, 14; Esna II, 97, 3; Esna II, 106, 4; Esna II, 107, 3; Esna II, 110, 1; Esna II, 110, 3; Esna II, 113, 11; Esna II, 118, 4; Esna II, 118, 9; Esna II, 127, 3; Esna II, 127, 4; Esna II, 127, 8; Esna II, 129, 2; Esna II, 129, 3; Esna II, 130, 2; Esna II, 130, 4; Esna II, 130, 5; Esna II, 130, 5; Esna II, 130, 5; Esna II, 131, 10; Esna II, 131, 13; Esna II, 131, 15; Esna II, 135, 10; Esna II, 136, 15; Esna II, 140, 5; Esna II, 141, 12; Esna II, 155, 4; Esna II, 156, 24; Esna II, 162, 1; Esna II, 162, 1; Esna II, 162, 10; Esna II, 162, 5; Esna II, 163, 16; Esna II, 163, 18; Esna II, 169, 9; Esna II, 183, 3; Esna II, 183, 5; Esna II, 183, 6; Esna II, 184, 19; Esna II, 184, 22; Esna II, 184, 27; Esna II, 190, 3; Esna II, 191, 13; Esna II, 191, 19; Esna II, 191, 20; Esna II, 191, 21   
+   
+*rʿ.w*		Esna II, 191, 25   
+   
+*rʿy*		Esna II, 156, 23   
+   
+*rwỉ*		Esna II, 102, 2   
+   
+*rwh*		Esna II, 55, 6; Esna II, 55, 6   
+   
+*rwhȝ*		Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 4; Esna II, 55, 7; Esna II, 55, 9; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 18   
+   
+*rwty*		Esna II, 191, 16   
+   
+*rwḏ*		Esna II, 76, 16; Esna II, 80, 1; Esna II, 136, 10; Esna II, 155, 2; Esna II, 156, 17; Esna II, 162, 10; Esna II, 183, 10   
+   
+*rwḏ.w*		Esna II, 113, 10   
+   
+*rw*		Esna II, 55, 1; Esna II, 73, 8; Esna II, 91, 10; Esna II, 104, 6   
+   
+*rw.ty*		Esna II, 73, 8; Esna II, 104, 6   
+   
+*rmn*		Esna II, 63, 4; Esna II, 141, 11; Esna II, 176, 1   
+   
+*rmn-mw.t*		Esna II, 156, 25   
+   
+*rmn.wy*		Esna II, 110, 7   
+   
+*rmṯ*		Esna II, 52, 12; Esna II, 54, 16; Esna II, 54, 4; Esna II, 59, 1; Esna II, 63, 3; Esna II, 70, 14; Esna II, 70, 4; Esna II, 73, 9; Esna II, 91, 16; Esna II, 95, 4; Esna II, 104, 2; Esna II, 141, 11; Esna II, 156, 17; Esna II, 156, 20; Esna II, 163, 17; Esna II, 163, 21; Esna II, 169, 10; Esna II, 184, 20; Esna II, 184, 21; Esna II, 184, 24   
+   
+*rm.w*		Esna II, 76, 6; Esna II, 156, 21; Esna II, 190, 2   
+   
+*rmy*		Esna II, 163, 16   
+   
+*rmy.t*		Esna II, 163, 17   
+   
+*rnp*		Esna II, 50, 7; Esna II, 54, 11; Esna II, 54, 7; Esna II, 54, 9; Esna II, 67, 16; Esna II, 73, 8; Esna II, 135, 13; Esna II, 184, 20; Esna II, 191, 17   
+   
+*rnp.t*		Esna II, 106, 3   
+   
+*rnp.t-nfr.t*		Esna II, 55, 1   
+   
+*rnp.w*		Esna II, 72, 10; Esna II, 169, 8; Esna II, 169, 8   
+   
+*rnp.wt*		Esna II, 51, 17; Esna II, 51, 4; Esna II, 51, 8; Esna II, 51, 8; Esna II, 73, 15; Esna II, 73, 20; Esna II, 136, 11; Esna II, 156, 28; Esna II, 156, 28; Esna II, 163, 25; Esna II, 163, 28; Esna II, 184, 22   
+   
+*rnm*		Esna II, 169, 1   
+   
+*rnn.t*		Esna II, 50, 10; Esna II, 50, 3; Esna II, 60, 5; Esna II, 77, 12; Esna II, 77, 14; Esna II, 115, 8; Esna II, 156, 18; Esna II, 156, 25; Esna II, 190, 5   
+   
+*rnn.w*		Esna II, 190, 3; Esna II, 191, 21   
+   
+*rn-wr*		Esna II, 163, 24   
+   
+*rn*		Esna II, 55, 5; Esna II, 58, 1; Esna II, 58, 1; Esna II, 58, 1; Esna II, 58, 5; Esna II, 58, 6; Esna II, 60, 1; Esna II, 60, 1; Esna II, 60, 2; Esna II, 60, 2; Esna II, 60, 3; Esna II, 60, 5; Esna II, 63, 1; Esna II, 63, 3; Esna II, 64, 1; Esna II, 64, 1; Esna II, 74, 22; Esna II, 80, 2; Esna II, 80, 2; Esna II, 80, 4; Esna II, 81, 1; Esna II, 81, 1; Esna II, 81, 2; Esna II, 81, 2; Esna II, 84, 1; Esna II, 85, 2; Esna II, 85, 4; Esna II, 104, 1; Esna II, 104, 10; Esna II, 104, 4; Esna II, 104, 4; Esna II, 105, 1; Esna II, 106, 2; Esna II, 127, 4; Esna II, 127, 4; Esna II, 129, 1; Esna II, 130, 1; Esna II, 130, 1; Esna II, 130, 4; Esna II, 130, 5; Esna II, 131, 11; Esna II, 131, 13; Esna II, 156, 18; Esna II, 163, 27; Esna II, 169, 1; Esna II, 184, 28; Esna II, 190, 2; Esna II, 191, 15; Esna II, 191, 16; Esna II, 191, 16; Esna II, 191, 20   
+   
+*rrỉ-rr.wt*		Esna II, 183, 5   
+   
+*rr*		Esna II, 141, 7; Esna II, 150, 1; Esna II, 184, 23   
+   
+*rr.t*		Esna II, 163, 24   
+   
+*rr.ty*		Esna II, 150, 2   
+   
+*rhn*		Esna II, 58, 1; Esna II, 80, 1   
+   
+*rḫt*		Esna II, 155, 7   
+   
+*rḫ-dd-ṯȝw*		Esna II, 113, 8   
+   
+*rḫ-sỉ*		Esna II, 136, 6   
+   
+*rḫ*		Esna II, 55, 1; Esna II, 127, 10; Esna II, 155, 9; Esna II, 156, 20; Esna II, 169, 8; Esna II, 184, 25   
+   
+*rḫ.t*		Esna II, 163, 24   
+   
+*rḫ.w*		Esna II, 190, 4   
+   
+*rḫy.t*		Esna II, 52, 8; Esna II, 70, 8; Esna II, 163, 19; Esna II, 191, 11   
+   
+*rs-n.t*		Esna II, 63, 1; Esna II, 74, 26   
+   
+*rs*		Esna II, 143, 4   
+   
+*rs.t-ḥw.wt*		Esna II, 74, 36; Esna II, 91, 10; Esna II, 135, 12   
+   
+*rsy*		Esna II, 60, 2; Esna II, 63, 1; Esna II, 105, 7   
+   
+*rsy-nỉw.t*		Esna II, 84, 1   
+   
+*rsy.t*		Esna II, 60, 3; Esna II, 70, 17; Esna II, 104, 9; Esna II, 105, 1; Esna II, 191, 19   
+   
+*rsy.wt*		Esna II, 84, 1   
+   
+*ršw*		Esna II, 51, 15; Esna II, 58, 1; Esna II, 59, 2; Esna II, 80, 3; Esna II, 85, 4; Esna II, 146, 2; Esna II, 155, 3; Esna II, 155, 3; Esna II, 169, 7; Esna II, 176, 3; Esna II, 184, 28; Esna II, 191, 21   
+   
+*ršrš*		Esna II, 163, 27   
+   
+*rš*		Esna II, 163, 27   
+   
+*rkḥ-wr*		Esna II, 163, 21   
+   
+*rk*		Esna II, 150, 2; Esna II, 162, 2; Esna II, 163, 17; Esna II, 184, 25; Esna II, 191, 28   
+   
+*rtr*		Esna II, 123, 3   
+   
+*rdỉ*		Esna II, 74, 24; Esna II, 80, 1; Esna II, 127, 3; Esna II, 163, 21; Esna II, 184, 21; Esna II, 184, 25; Esna II, 191, 28   
+   
+*rdỉ.t*		Esna II, 88, 16; Esna II, 96, 2   
+   
+*rd.wy*		Esna II, 54, 8; Esna II, 80, 1   
+   
+*rḏỉ*		Esna II, 55, 9; Esna II, 71, 1; Esna II, 150, 2   
+   
+*rḏw*		Esna II, 54, 8   
+   
+*r-ȝw*		Esna II, 71, 7; Esna II, 71, 9; Esna II, 72, 7; Esna II, 80, 7; Esna II, 107, 1; Esna II, 124, 2; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 23; Esna II, 184, 26   
+   
+*r-ʿ*		Esna II, 70, 17; Esna II, 70, 17; Esna II, 73, 15; Esna II, 85, 2; Esna II, 163, 12; Esna II, 163, 16   
+   
+*r-bnr*		Esna II, 77, 13   
+   
+*r-pr*		Esna II, 183, 4   
+   
+*r-pr.w*		Esna II, 55, 7; Esna II, 77, 18; Esna II, 85, 2; Esna II, 162, 4   
+   
+*r-mn*		Esna II, 60, 2; Esna II, 84, 1; Esna II, 191, 16   
+   
+*r-mr*		Esna II, 61, 6   
+   
+*r-nfr*		Esna II, 136, 3   
+   
+*r-nw*		Esna II, 115, 2   
+   
+*r-rwty*		Esna II, 73, 16   
+   
+*r-ḥȝ*		Esna II, 55, 7; Esna II, 74, 7   
+   
+*r-ḥn.ty*		Esna II, 156, 28; Esna II, 156, 28   
+   
+*r-ḥr*		Esna II, 106, 2   
+   
+*r-ḥry*		Esna II, 77, 12   
+   
+*r-ḫ.t*		Esna II, 162, 1   
+   
+*r-ḫt*		Esna II, 54, 12   
+   
+*r-ẖnw*		Esna II, 77, 12; Esna II, 77, 16   
+   
+*r-gs*		Esna II, 58, 6; Esna II, 156, 28; Esna II, 163, 20   
+   
+*r-dbn*		Esna II, 155, 1   
+   
+*r-ḏr*		Esna II, 64, 2; Esna II, 91, 18; Esna II, 120, 12; Esna II, 146, 1; Esna II, 156, 20   
+   
+*r'-ȝw*		Esna II, 156, 25; Esna II, 191, 21   
+   
+*r'-ʿ*		Esna II, 74, 13   
+   
+*r'-ʿ.wy*		Esna II, 136, 3   
+   
+*r'-ḥn.t*		Esna II, 58, 1   
+   
+*r'-wȝ.t*		Esna II, 74, 33; Esna II, 80, 5; Esna II, 124, 2   
+   
+*hȝỉ*		Esna II, 110, 2   
+   
+*hȝw*		Esna II, 51, 17; Esna II, 128, 2; Esna II, 146, 2; Esna II, 162, 2   
+   
+*hȝby.wt*		Esna II, 190, 5   
+   
+*hȝ-snḏ*		Esna II, 163, 27   
+   
+*hȝ*		Esna II, 127, 2   
+   
+*hȝ.w*		Esna II, 97, 3   
+   
+*hȝy.t*		Esna II, 176, 1   
+   
+*hȝy.ty*		Esna II, 106, 1; Esna II, 128, 2; Esna II, 163, 19   
+   
+*hỉms*		Esna II, 72, 17   
+   
+*hwt*		Esna II, 110, 1; Esna II, 110, 6   
+   
+*hb*		Esna II, 74, 38; Esna II, 88, 16   
+   
+*hb.w*		Esna II, 156, 22; Esna II, 191, 24   
+   
+*hmhm*		Esna II, 127, 6   
+   
+*hmhmty*		Esna II, 163, 28   
+   
+*hnw*		Esna II, 184, 27   
+   
+*hnn*		Esna II, 141, 4   
+   
+*hn*		Esna II, 156, 17; Esna II, 163, 12; Esna II, 191, 12   
+   
+*hrw*		Esna II, 52, 6; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 60, 2; Esna II, 60, 5; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 14; Esna II, 77, 14; Esna II, 77, 17; Esna II, 77, 18; Esna II, 84, 1; Esna II, 85, 2; Esna II, 120, 3; Esna II, 127, 11; Esna II, 127, 5; Esna II, 129, 2; Esna II, 129, 2; Esna II, 131, 8; Esna II, 135, 12; Esna II, 141, 10; Esna II, 169, 8; Esna II, 169, 9; Esna II, 184, 14; Esna II, 184, 25; Esna II, 191, 18; Esna II, 191, 23   
+   
+*hrw-nfr*		Esna II, 77, 12; Esna II, 77, 15   
+   
+*hr*		Esna II, 105, 5; Esna II, 155, 3; Esna II, 163, 27; Esna II, 184, 21   
+   
+*hr.w*		Esna II, 70, 9; Esna II, 184, 22   
+   
+*hh*		Esna II, 74, 23   
+   
+*hkȝy.w*		Esna II, 190, 3   
+   
+*htt*		Esna II, 156, 17   
+   
+*htt.w*		Esna II, 156, 17   
+   
+*hyn*		Esna II, 156, 20   
+   
+*hy*		Esna II, 163, 19; Esna II, 163, 27; Esna II, 163, 28; Esna II, 184, 27   
+   
+*ḥȝw*		Esna II, 51, 4; Esna II, 162, 4   
+   
+*ḥȝp*		Esna II, 71, 11; Esna II, 81, 3; Esna II, 129, 3; Esna II, 130, 4; Esna II, 156, 20   
+   
+*ḥȝq*		Esna II, 141, 3   
+   
+*ḥȝt-ỉb*		Esna II, 127, 11   
+   
+*ḥȝty.w*		Esna II, 184, 24   
+   
+*ḥȝ-n*		Esna II, 63, 1   
+   
+*ḥȝ*		Esna II, 52, 17; Esna II, 52, 18; Esna II, 58, 1; Esna II, 63, 3; Esna II, 74, 39; Esna II, 74, 5; Esna II, 97, 3; Esna II, 110, 7; Esna II, 110, 7; Esna II, 162, 3   
+   
+*ḥȝ.t*		Esna II, 63, 3; Esna II, 71, 6; Esna II, 73, 18; Esna II, 91, 8; Esna II, 104, 1; Esna II, 118, 11; Esna II, 127, 4; Esna II, 136, 14; Esna II, 136, 15; Esna II, 163, 16; Esna II, 163, 25; Esna II, 170, 11; Esna II, 184, 15   
+   
+*ḥȝ.t-nṯr.w*		Esna II, 184, 27   
+   
+*ḥȝ.t-spȝ.wt*		Esna II, 191, 19   
+   
+*ḥȝy*		Esna II, 74, 8; Esna II, 105, 7; Esna II, 105, 7; Esna II, 106, 4; Esna II, 128, 6; Esna II, 128, 6   
+   
+*ḥȝy.t*		Esna II, 52, 3   
+   
+*ḥʿʿ*		Esna II, 62, 9; Esna II, 64, 4; Esna II, 74, 18; Esna II, 81, 6; Esna II, 91, 6; Esna II, 102, 1; Esna II, 102, 2; Esna II, 113, 15; Esna II, 124, 2; Esna II, 156, 18; Esna II, 163, 19; Esna II, 184, 22; Esna II, 184, 28   
+   
+*ḥʿʿ-ỉb*		Esna II, 76, 16   
+   
+*ḥʿʿ.wy*		Esna II, 52, 12   
+   
+*ḥʿw*		Esna II, 52, 26; Esna II, 60, 5; Esna II, 104, 3; Esna II, 127, 5; Esna II, 129, 2; Esna II, 163, 18; Esna II, 163, 22; Esna II, 184, 15; Esna II, 184, 23   
+   
+*ḥʿw-ʿnḫ*		Esna II, 59, 1   
+   
+*ḥʿpỉ*		Esna II, 50, 12; Esna II, 50, 3; Esna II, 54, 2; Esna II, 54, 5; Esna II, 54, 7; Esna II, 67, 20; Esna II, 76, 16; Esna II, 76, 5; Esna II, 76, 7; Esna II, 105, 4; Esna II, 105, 6; Esna II, 115, 3; Esna II, 115, 4; Esna II, 163, 20; Esna II, 169, 9; Esna II, 184, 15; Esna II, 184, 22; Esna II, 190, 5; Esna II, 191, 17; Esna II, 191, 19; Esna II, 191, 24   
+   
+*ḥʿpỉ-sỉp-*		Esna II, 115, 1   
+   
+*ḥʿ.w*		Esna II, 118, 1   
+   
+*ḥwỉ*		Esna II, 162, 1; Esna II, 163, 15   
+   
+*ḥwỉ-tȝ*		Esna II, 191, 27   
+   
+*ḥwn*		Esna II, 80, 1   
+   
+*ḥwn.t*		Esna II, 52, 23   
+   
+*ḥwnw*		Esna II, 51, 13; Esna II, 51, 15   
+   
+*ḥw*		Esna II, 58, 5   
+   
+*ḥw.t*		Esna II, 163, 24; Esna II, 191, 19   
+   
+*ḥw.t-*		Esna II, 155, 2   
+   
+*ḥw.t-ḥr*		Esna II, 55, 5; Esna II, 55, 8; Esna II, 77, 15; Esna II, 125, 2; Esna II, 129, 1; Esna II, 163, 23   
+   
+*ḥw.t-ḥtp*		Esna II, 55, 5   
+   
+*ḥw.t-ṯȝ.wy*		Esna II, 52, 11; Esna II, 55, 1; Esna II, 58, 6; Esna II, 77, 10; Esna II, 81, 6; Esna II, 82, 2; Esna II, 163, 28; Esna II, 184, 28   
+   
+*ḥw.t-ẖnmw*		Esna II, 63, 3; Esna II, 70, 8; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 14; Esna II, 96, 2; Esna II, 120, 6; Esna II, 162, 1   
+   
+*ḥw.t-ỉḥ.t*		Esna II, 124, 2   
+   
+*ḥw.t-ỉmn*		Esna II, 127, 10; Esna II, 129, 2   
+   
+*ḥw.t-ỉt*		Esna II, 58, 6; Esna II, 63, 3; Esna II, 64, 1; Esna II, 82, 1; Esna II, 104, 1; Esna II, 104, 6; Esna II, 136, 1; Esna II, 140, 6; Esna II, 163, 23; Esna II, 191, 16   
+   
+*ḥw.t-bȝ.w*		Esna II, 55, 1; Esna II, 71, 10; Esna II, 155, 3; Esna II, 163, 28; Esna II, 183, 2; Esna II, 184, 28   
+   
+*ḥw.t-bȝw*		Esna II, 156, 19   
+   
+*ḥw.t-kȝ.w-ptḥ*		Esna II, 73, 6   
+   
+*ḥw.t-mw.t*		Esna II, 58, 6; Esna II, 63, 3; Esna II, 64, 1; Esna II, 85, 1; Esna II, 104, 1; Esna II, 136, 1; Esna II, 163, 23   
+   
+*ḥw.t-n.t*		Esna II, 55, 9; Esna II, 63, 1; Esna II, 74, 9; Esna II, 77, 15; Esna II, 85, 4; Esna II, 91, 10   
+   
+*ḥw.t-nḥp*		Esna II, 64, 3   
+   
+*ḥw.t-nṯr*		Esna II, 49, 1; Esna II, 52, 13; Esna II, 52, 9; Esna II, 55, 6; Esna II, 63, 1; Esna II, 70, 5; Esna II, 71, 14; Esna II, 74, 36; Esna II, 74, 6; Esna II, 85, 2; Esna II, 113, 6; Esna II, 128, 5; Esna II, 136, 11; Esna II, 162, 2; Esna II, 162, 3; Esna II, 183, 4; Esna II, 184, 28   
+   
+*ḥw.t-rʿ*		Esna II, 73, 21   
+   
+*ḥw.t-sr*		Esna II, 50, 4   
+   
+*ḥw.t-wr*		Esna II, 74, 26   
+   
+*ḥw.wt*		Esna II, 113, 3; Esna II, 162, 4; Esna II, 163, 22   
+   
+*ḥw.wt-nṯr*		Esna II, 136, 9   
+   
+*ḥw.wt-nṯr.w*		Esna II, 113, 16; Esna II, 118, 11   
+   
+*ḥbʿy*		Esna II, 156, 27   
+   
+*ḥbs*		Esna II, 55, 2; Esna II, 77, 10   
+   
+*ḥb-n.t*		Esna II, 85, 2   
+   
+*ḥb-sd*		Esna II, 51, 17; Esna II, 73, 4; Esna II, 135, 6   
+   
+*ḥb-sd.w*		Esna II, 73, 20   
+   
+*ḥb-skr*		Esna II, 55, 7   
+   
+*ḥb*		Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 9; Esna II, 55, 9; Esna II, 55, 9; Esna II, 55, 9; Esna II, 60, 5; Esna II, 64, 3; Esna II, 64, 3; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 14; Esna II, 77, 15; Esna II, 77, 15; Esna II, 77, 15; Esna II, 77, 15; Esna II, 77, 15; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 18; Esna II, 77, 18; Esna II, 77, 18; Esna II, 77, 18; Esna II, 81, 5; Esna II, 81, 5; Esna II, 81, 5; Esna II, 81, 6; Esna II, 84, 1; Esna II, 85, 2; Esna II, 96, 2; Esna II, 127, 5; Esna II, 127, 8; Esna II, 163, 19; Esna II, 163, 21; Esna II, 163, 21; Esna II, 163, 22; Esna II, 163, 28; Esna II, 184, 26; Esna II, 184, 28   
+   
+*ḥb.w*		Esna II, 55, 1; Esna II, 67, 19; Esna II, 80, 6; Esna II, 184, 22   
+   
+*ḥb.w-sd*		Esna II, 51, 9; Esna II, 71, 14   
+   
+*ḥb.w-sd.w*		Esna II, 51, 12; Esna II, 51, 4   
+   
+*ḥby.w*		Esna II, 156, 22   
+   
+*ḥpỉ*		Esna II, 190, 8   
+   
+*ḥpḥp*		Esna II, 156, 24; Esna II, 190, 5; Esna II, 191, 23   
+   
+*ḥpt*		Esna II, 169, 8; Esna II, 169, 9   
+   
+*ḥp-ʿnḫ*		Esna II, 97, 3   
+   
+*ḥp.ty*		Esna II, 51, 10; Esna II, 73, 21; Esna II, 74, 13; Esna II, 141, 10; Esna II, 163, 12   
+   
+*ḥfȝ.t*		Esna II, 55, 5   
+   
+*ḥfn.w*		Esna II, 54, 4; Esna II, 73, 15; Esna II, 183, 3   
+   
+*ḥmw.w*		Esna II, 73, 9   
+   
+*ḥmw.wt*		Esna II, 55, 3; Esna II, 184, 27   
+   
+*ḥmn*		Esna II, 55, 5   
+   
+*ḥms*		Esna II, 143, 4   
+   
+*ḥm-nṯr*		Esna II, 77, 11; Esna II, 191, 16   
+   
+*ḥm*		Esna II, 52, 15; Esna II, 55, 3; Esna II, 58, 4; Esna II, 58, 6; Esna II, 60, 1; Esna II, 60, 3; Esna II, 74, 39; Esna II, 80, 1; Esna II, 80, 4; Esna II, 81, 2; Esna II, 81, 5; Esna II, 81, 5; Esna II, 85, 1; Esna II, 102, 2; Esna II, 106, 2; Esna II, 127, 5; Esna II, 127, 5; Esna II, 129, 2; Esna II, 162, 1; Esna II, 163, 23; Esna II, 163, 27; Esna II, 176, 1; Esna II, 191, 15; Esna II, 191, 16; Esna II, 191, 20   
+   
+*ḥm.t*		Esna II, 77, 17   
+   
+*ḥm.t-rȝ*		Esna II, 110, 10; Esna II, 156, 11   
+   
+*ḥm.w*		Esna II, 60, 1   
+   
+*ḥm.wt*		Esna II, 74, 29; Esna II, 184, 15   
+   
+*ḥm.wy*		Esna II, 80, 1   
+   
+*ḥnʿ*		Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 9; Esna II, 58, 1; Esna II, 58, 2; Esna II, 58, 3; Esna II, 58, 5; Esna II, 58, 6; Esna II, 58, 6; Esna II, 64, 1; Esna II, 64, 2; Esna II, 64, 4; Esna II, 64, 4; Esna II, 67, 9; Esna II, 70, 3; Esna II, 70, 6; Esna II, 70, 9; Esna II, 73, 19; Esna II, 74, 34; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 18; Esna II, 77, 18; Esna II, 80, 1; Esna II, 80, 3; Esna II, 81, 1; Esna II, 81, 3; Esna II, 81, 3; Esna II, 81, 3; Esna II, 84, 1; Esna II, 85, 2; Esna II, 85, 4; Esna II, 91, 10; Esna II, 91, 15; Esna II, 95, 8; Esna II, 104, 10; Esna II, 104, 2; Esna II, 104, 3; Esna II, 106, 4; Esna II, 106, 4; Esna II, 107, 1; Esna II, 127, 3; Esna II, 127, 4; Esna II, 136, 2; Esna II, 146, 2; Esna II, 156, 17; Esna II, 156, 26; Esna II, 163, 26; Esna II, 163, 26; Esna II, 184, 23; Esna II, 184, 23; Esna II, 184, 23   
+   
+*ḥnʿ.t*		Esna II, 63, 1   
+   
+*ḥnw*		Esna II, 141, 14   
+   
+*ḥnw.t*		Esna II, 50, 9; Esna II, 74, 26; Esna II, 106, 3; Esna II, 125, 1; Esna II, 136, 15; Esna II, 163, 19; Esna II, 163, 23   
+   
+*ḥnw.t-nṯr.w*		Esna II, 102, 1   
+   
+*ḥnb.t*		Esna II, 162, 4   
+   
+*ḥnf*		Esna II, 156, 17   
+   
+*ḥnmm.t*		Esna II, 156, 11; Esna II, 184, 27   
+   
+*ḥnskty*		Esna II, 191, 26   
+   
+*ḥnq.t*		Esna II, 110, 14; Esna II, 110, 4   
+   
+*ḥnk*		Esna II, 72, 2; Esna II, 96, 2; Esna II, 122, 1; Esna II, 135, 1; Esna II, 145, 1; Esna II, 169, 8   
+   
+*ḥn-sd.w*		Esna II, 191, 26   
+   
+*ḥn*		Esna II, 55, 4; Esna II, 55, 9; Esna II, 60, 4; Esna II, 74, 37; Esna II, 77, 16   
+   
+*ḥn.ty*		Esna II, 113, 2; Esna II, 136, 12; Esna II, 141, 9; Esna II, 163, 28; Esna II, 169, 8   
+   
+*ḥrỉ*		Esna II, 118, 4   
+   
+*ḥrr.w*		Esna II, 76, 3; Esna II, 110, 3; Esna II, 143, 6; Esna II, 155, 4; Esna II, 169, 9; Esna II, 176, 6; Esna II, 184, 15; Esna II, 184, 23   
+   
+*ḥr-ȝḫty*		Esna II, 191, 18   
+   
+*ḥr-ỉb*		Esna II, 51, 5; Esna II, 70, 16; Esna II, 73, 10; Esna II, 73, 9; Esna II, 77, 10; Esna II, 80, 4; Esna II, 81, 1; Esna II, 106, 1; Esna II, 129, 2; Esna II, 129, 3; Esna II, 135, 13; Esna II, 156, 27   
+   
+*ḥr-bỉty*		Esna II, 191, 25   
+   
+*ḥr-gs*		Esna II, 163, 19   
+   
+*ḥr-mr.ty*		Esna II, 191, 26   
+   
+*ḥr-n-ḥr*		Esna II, 184, 25   
+   
+*ḥr-sȝ*		Esna II, 55, 7; Esna II, 55, 9; Esna II, 58, 4; Esna II, 73, 8; Esna II, 77, 11; Esna II, 77, 16; Esna II, 163, 25; Esna II, 163, 26; Esna II, 184, 27; Esna II, 191, 23   
+   
+*ḥr-šdnw*		Esna II, 163, 19; Esna II, 191, 25   
+   
+*ḥr-tp*		Esna II, 51, 6; Esna II, 60, 5; Esna II, 74, 10; Esna II, 74, 35; Esna II, 127, 3; Esna II, 141, 5; Esna II, 150, 2; Esna II, 183, 3; Esna II, 184, 26   
+   
+*ḥr-zȝ-ỉs.t*		Esna II, 51, 17; Esna II, 58, 7; Esna II, 67, 3; Esna II, 77, 11; Esna II, 77, 11; Esna II, 88, 4   
+   
+*ḥr*		Esna II, 50, 12; Esna II, 50, 13; Esna II, 51, 10; Esna II, 51, 12; Esna II, 51, 17; Esna II, 51, 4; Esna II, 51, 4; Esna II, 52, 11; Esna II, 52, 17; Esna II, 52, 17; Esna II, 52, 17; Esna II, 52, 20; Esna II, 52, 20; Esna II, 52, 21; Esna II, 52, 22; Esna II, 52, 22; Esna II, 52, 23; Esna II, 52, 23; Esna II, 52, 24; Esna II, 52, 25; Esna II, 52, 25; Esna II, 52, 26; Esna II, 52, 26; Esna II, 52, 6; Esna II, 52, 6; Esna II, 52, 8; Esna II, 54, 12; Esna II, 54, 8; Esna II, 54, 8; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 4; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 8; Esna II, 58, 3; Esna II, 58, 5; Esna II, 58, 5; Esna II, 58, 6; Esna II, 58, 6; Esna II, 58, 7; Esna II, 59, 1; Esna II, 59, 2; Esna II, 59, 2; Esna II, 60, 2; Esna II, 60, 3; Esna II, 60, 4; Esna II, 60, 5; Esna II, 62, 7; Esna II, 63, 1; Esna II, 63, 4; Esna II, 63, 4; Esna II, 63, 4; Esna II, 64, 2; Esna II, 64, 2; Esna II, 64, 3; Esna II, 64, 4; Esna II, 67, 11; Esna II, 67, 13; Esna II, 67, 15; Esna II, 67, 18; Esna II, 67, 7; Esna II, 67, 8; Esna II, 70, 13; Esna II, 70, 15; Esna II, 70, 17; Esna II, 70, 3; Esna II, 70, 8; Esna II, 71, 14; Esna II, 71, 14; Esna II, 72, 15; Esna II, 72, 17; Esna II, 72, 17; Esna II, 73, 14; Esna II, 73, 16; Esna II, 73, 16; Esna II, 73, 4; Esna II, 73, 4; Esna II, 74, 12; Esna II, 74, 13; Esna II, 74, 19; Esna II, 74, 20; Esna II, 74, 23; Esna II, 74, 24; Esna II, 74, 24; Esna II, 74, 24; Esna II, 74, 29; Esna II, 74, 3; Esna II, 74, 33; Esna II, 74, 33; Esna II, 74, 34; Esna II, 74, 34; Esna II, 74, 35; Esna II, 74, 35; Esna II, 74, 36; Esna II, 74, 36; Esna II, 74, 36; Esna II, 74, 37; Esna II, 74, 37; Esna II, 74, 38; Esna II, 74, 38; Esna II, 74, 6; Esna II, 74, 8; Esna II, 76, 16; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 14; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 18; Esna II, 77, 18; Esna II, 77, 18; Esna II, 80, 4; Esna II, 80, 5; Esna II, 80, 7; Esna II, 80, 7; Esna II, 81, 1; Esna II, 81, 1; Esna II, 81, 2; Esna II, 81, 4; Esna II, 82, 2; Esna II, 84, 1; Esna II, 84, 1; Esna II, 85, 2; Esna II, 85, 3; Esna II, 85, 3; Esna II, 85, 4; Esna II, 85, 4; Esna II, 85, 4; Esna II, 88, 12; Esna II, 88, 13; Esna II, 88, 5; Esna II, 88, 6; Esna II, 91, 6; Esna II, 91, 9; Esna II, 95, 2; Esna II, 95, 2; Esna II, 95, 3; Esna II, 95, 3; Esna II, 95, 4; Esna II, 95, 5; Esna II, 95, 5; Esna II, 95, 6; Esna II, 96, 1; Esna II, 96, 1; Esna II, 96, 1; Esna II, 96, 2; Esna II, 96, 2; Esna II, 96, 2; Esna II, 102, 1; Esna II, 102, 1; Esna II, 102, 1; Esna II, 102, 1; Esna II, 102, 1; Esna II, 102, 2; Esna II, 102, 2; Esna II, 102, 2; Esna II, 102, 2; Esna II, 102, 2; Esna II, 102, 2; Esna II, 104, 2; Esna II, 104, 5; Esna II, 104, 7; Esna II, 104, 8; Esna II, 106, 2; Esna II, 106, 2; Esna II, 106, 3; Esna II, 106, 4; Esna II, 107, 1; Esna II, 107, 2; Esna II, 110, 10; Esna II, 110, 10; Esna II, 110, 3; Esna II, 110, 4; Esna II, 112, 8; Esna II, 113, 16; Esna II, 113, 16; Esna II, 118, 4; Esna II, 118, 4; Esna II, 120, 13; Esna II, 120, 13; Esna II, 124, 1; Esna II, 124, 2; Esna II, 127, 10; Esna II, 127, 11; Esna II, 127, 5; Esna II, 127, 5; Esna II, 127, 5; Esna II, 127, 5; Esna II, 129, 1; Esna II, 129, 3; Esna II, 130, 1; Esna II, 130, 2; Esna II, 130, 2; Esna II, 130, 3; Esna II, 130, 4; Esna II, 130, 4; Esna II, 135, 6; Esna II, 135, 8; Esna II, 136, 11; Esna II, 136, 12; Esna II, 136, 2; Esna II, 141, 12; Esna II, 141, 13; Esna II, 141, 14; Esna II, 141, 3; Esna II, 141, 3; Esna II, 141, 8; Esna II, 141, 9; Esna II, 143, 4; Esna II, 143, 4; Esna II, 146, 1; Esna II, 155, 1; Esna II, 155, 10; Esna II, 155, 4; Esna II, 155, 6; Esna II, 155, 7; Esna II, 156, 13; Esna II, 156, 16; Esna II, 156, 17; Esna II, 156, 18; Esna II, 156, 19; Esna II, 156, 19; Esna II, 156, 23; Esna II, 156, 24; Esna II, 162, 1; Esna II, 162, 2; Esna II, 162, 4; Esna II, 163, 14; Esna II, 163, 17; Esna II, 163, 17; Esna II, 163, 17; Esna II, 163, 17; Esna II, 163, 18; Esna II, 163, 18; Esna II, 163, 18; Esna II, 163, 18; Esna II, 163, 20; Esna II, 163, 24; Esna II, 163, 27; Esna II, 163, 27; Esna II, 163, 28; Esna II, 169, 1; Esna II, 169, 1; Esna II, 169, 1; Esna II, 169, 1; Esna II, 169, 1; Esna II, 169, 10; Esna II, 169, 2; Esna II, 169, 9; Esna II, 169, 9; Esna II, 170, 11; Esna II, 176, 1; Esna II, 176, 1; Esna II, 176, 1; Esna II, 176, 10; Esna II, 177, 11; Esna II, 177, 11; Esna II, 183, 3; Esna II, 183, 4; Esna II, 183, 9; Esna II, 184, 14; Esna II, 184, 19; Esna II, 184, 19; Esna II, 184, 19; Esna II, 184, 21; Esna II, 184, 21; Esna II, 184, 23; Esna II, 184, 24; Esna II, 184, 26; Esna II, 184, 27; Esna II, 184, 28; Esna II, 184, 28; Esna II, 190, 2; Esna II, 190, 3; Esna II, 190, 9; Esna II, 191, 15; Esna II, 191, 16; Esna II, 191, 16; Esna II, 191, 17; Esna II, 191, 18; Esna II, 191, 21   
+   
+*ḥr.t*		Esna II, 85, 1; Esna II, 85, 3; Esna II, 97, 3; Esna II, 128, 2; Esna II, 130, 1; Esna II, 163, 27; Esna II, 169, 1; Esna II, 176, 10; Esna II, 183, 10; Esna II, 191, 18   
+   
+*ḥr.t-ỉb*		Esna II, 71, 10   
+   
+*ḥr.t-tp*		Esna II, 71, 7; Esna II, 72, 10; Esna II, 73, 17; Esna II, 73, 5; Esna II, 76, 12; Esna II, 88, 15; Esna II, 113, 12   
+   
+*ḥr.w*		Esna II, 63, 4; Esna II, 124, 1; Esna II, 146, 2; Esna II, 184, 24   
+   
+*ḥr.w-nb*		Esna II, 104, 2; Esna II, 106, 2; Esna II, 113, 9; Esna II, 176, 1   
+   
+*ḥr.w-nb.w*		Esna II, 163, 21   
+   
+*ḥry*		Esna II, 51, 5; Esna II, 51, 5; Esna II, 55, 5; Esna II, 70, 11; Esna II, 74, 11; Esna II, 77, 18; Esna II, 103, 1   
+   
+*ḥry-ḫndw*		Esna II, 163, 20   
+   
+*ḥry-nḥp*		Esna II, 61, 6   
+   
+*ḥry-nṯr.w*		Esna II, 91, 7   
+   
+*ḥry-ns.t*		Esna II, 183, 2   
+   
+*ḥry-srḫ*		Esna II, 191, 14   
+   
+*ḥry-tȝ*		Esna II, 141, 5   
+   
+*ḥry-tp*		Esna II, 91, 8   
+   
+*ḥry-wḏb*		Esna II, 82, 1; Esna II, 115, 8   
+   
+*ḥry.t*		Esna II, 127, 9; Esna II, 163, 20   
+   
+*ḥry.w*		Esna II, 88, 18; Esna II, 110, 10; Esna II, 183, 1   
+   
+*ḥry.w-mw*		Esna II, 110, 1; Esna II, 110, 10; Esna II, 110, 10; Esna II, 110, 12; Esna II, 110, 13; Esna II, 110, 15; Esna II, 110, 2; Esna II, 110, 3; Esna II, 110, 9   
+   
+*ḥḥ-n-ḥḥ.w*		Esna II, 162, 6; Esna II, 176, 1   
+   
+*ḥḥ*		Esna II, 71, 14; Esna II, 112, 2; Esna II, 128, 4; Esna II, 135, 8; Esna II, 141, 3; Esna II, 163, 28; Esna II, 169, 10; Esna II, 183, 3; Esna II, 184, 21   
+   
+*ḥḥ.w*		Esna II, 51, 16; Esna II, 51, 9; Esna II, 54, 4; Esna II, 73, 20; Esna II, 120, 13; Esna II, 136, 11; Esna II, 176, 1   
+   
+*ḥzȝ-ḥr*		Esna II, 127, 6   
+   
+*ḥzw.t*		Esna II, 169, 8   
+   
+*ḥz.w*		Esna II, 156, 23   
+   
+*ḥsȝ.t*		Esna II, 155, 4; Esna II, 155, 4   
+   
+*ḥsb*		Esna II, 74, 38; Esna II, 184, 21   
+   
+*ḥsmn*		Esna II, 110, 14; Esna II, 110, 4; Esna II, 127, 10   
+   
+*ḥqȝ*		Esna II, 51, 17; Esna II, 70, 9; Esna II, 73, 4; Esna II, 88, 12; Esna II, 88, 3; Esna II, 97, 3; Esna II, 97, 3; Esna II, 113, 13; Esna II, 127, 8; Esna II, 141, 12; Esna II, 141, 7; Esna II, 141, 8; Esna II, 155, 1; Esna II, 155, 5; Esna II, 183, 3; Esna II, 184, 20; Esna II, 191, 14; Esna II, 191, 16   
+   
+*ḥqȝ.t*		Esna II, 74, 19; Esna II, 163, 13; Esna II, 163, 16; Esna II, 163, 23; Esna II, 191, 24   
+   
+*ḥqȝ.w*		Esna II, 88, 12   
+   
+*ḥqȝs*		Esna II, 156, 23   
+   
+*ḥqr*		Esna II, 55, 3   
+   
+*ḥqs*		Esna II, 190, 3   
+   
+*ḥqy.w*		Esna II, 190, 5   
+   
+*ḥkȝ*		Esna II, 51, 13; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 9; Esna II, 58, 5; Esna II, 60, 4; Esna II, 60, 4; Esna II, 61, 11; Esna II, 70, 10; Esna II, 72, 12; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 15; Esna II, 77, 15; Esna II, 77, 18; Esna II, 91, 12; Esna II, 107, 3; Esna II, 123, 10; Esna II, 150, 2; Esna II, 184, 26   
+   
+*ḥkn*		Esna II, 74, 12; Esna II, 163, 22   
+   
+*ḥkn.t-m-ʿnḫ*		Esna II, 74, 27   
+   
+*ḥknw*		Esna II, 112, 15; Esna II, 112, 9; Esna II, 125, 1   
+   
+*ḥtp*		Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 4; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 9; Esna II, 58, 5; Esna II, 59, 1; Esna II, 67, 18; Esna II, 71, 14; Esna II, 74, 24; Esna II, 74, 31; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 14; Esna II, 77, 14; Esna II, 77, 14; Esna II, 77, 15; Esna II, 77, 15; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 17; Esna II, 80, 3; Esna II, 82, 2; Esna II, 82, 2; Esna II, 82, 2; Esna II, 88, 5; Esna II, 91, 11; Esna II, 91, 18; Esna II, 91, 18; Esna II, 96, 1; Esna II, 102, 2; Esna II, 106, 4; Esna II, 129, 1; Esna II, 130, 3; Esna II, 156, 24; Esna II, 184, 21; Esna II, 184, 21; Esna II, 184, 23; Esna II, 184, 25; Esna II, 191, 21   
+   
+*ḥtp.t*		Esna II, 74, 29   
+   
+*ḥtp.w*		Esna II, 54, 12; Esna II, 55, 9; Esna II, 77, 17; Esna II, 131, 14; Esna II, 135, 1; Esna II, 163, 21; Esna II, 169, 9   
+   
+*ḥtp.w-nṯr*		Esna II, 72, 17; Esna II, 85, 2; Esna II, 102, 1; Esna II, 143, 8   
+   
+*ḥtp.w-nṯr.w*		Esna II, 184, 21   
+   
+*ḥtpty.w*		Esna II, 82, 2; Esna II, 129, 3; Esna II, 130, 2; Esna II, 163, 26; Esna II, 184, 25   
+   
+*ḥtm*		Esna II, 81, 3; Esna II, 163, 17   
+   
+*ḥtr*		Esna II, 88, 18; Esna II, 124, 2   
+   
+*ḥts*		Esna II, 130, 2; Esna II, 136, 2   
+   
+*ḥd*		Esna II, 135, 4   
+   
+*ḥḏmy.t*		Esna II, 190, 3   
+   
+*ḥḏḏ.wt*		Esna II, 128, 2   
+   
+*ḥḏ-tȝ*		Esna II, 77, 11; Esna II, 77, 16; Esna II, 110, 6   
+   
+*ḥḏ-wry*		Esna II, 156, 27   
+   
+*ḥḏ*		Esna II, 80, 7; Esna II, 124, 1; Esna II, 162, 3   
+   
+*ḥḏ.t*		Esna II, 70, 3; Esna II, 77, 13; Esna II, 80, 2   
+   
+*ḥḏ.t-wr.t*		Esna II, 125, 2   
+   
+*ḥḏ.w*		Esna II, 62, 1   
+   
+*ḥyt.yw*		Esna II, 156, 17   
+   
+*ḥy*		Esna II, 163, 20; Esna II, 169, 8   
+   
+*ḫȝʿ*		Esna II, 125, 2   
+   
+*ḫȝw*		Esna II, 118, 4; Esna II, 124, 1; Esna II, 125, 1   
+   
+*ḫȝw.t*		Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 7; Esna II, 55, 8; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 18; Esna II, 77, 18; Esna II, 156, 26   
+   
+*ḫȝbs*		Esna II, 74, 27   
+   
+*ḫȝbs.w*		Esna II, 106, 3; Esna II, 163, 13; Esna II, 163, 19; Esna II, 184, 18   
+   
+*ḫȝḫ*		Esna II, 105, 7   
+   
+*ḫȝs.wt*		Esna II, 50, 13; Esna II, 127, 11; Esna II, 141, 14; Esna II, 141, 14; Esna II, 156, 13; Esna II, 162, 1; Esna II, 163, 20   
+   
+*ḫȝty.w*		Esna II, 163, 14   
+   
+*ḫȝ-tpy.w*		Esna II, 156, 26   
+   
+*ḫȝ-wr*		Esna II, 136, 12   
+   
+*ḫȝ.w*		Esna II, 163, 21; Esna II, 163, 22; Esna II, 190, 10   
+   
+*ḫȝy.t*		Esna II, 176, 10   
+   
+*ḫỉ*		Esna II, 150, 2   
+   
+*ḫʿỉ*		Esna II, 52, 3; Esna II, 52, 6; Esna II, 55, 2; Esna II, 55, 6; Esna II, 72, 15; Esna II, 74, 24; Esna II, 74, 4; Esna II, 74, 6; Esna II, 74, 7; Esna II, 77, 18; Esna II, 85, 1; Esna II, 88, 10; Esna II, 113, 11; Esna II, 129, 4; Esna II, 135, 12; Esna II, 163, 24; Esna II, 191, 18   
+   
+*ḫʿ*		Esna II, 50, 13; Esna II, 55, 4; Esna II, 63, 1; Esna II, 63, 1; Esna II, 67, 7; Esna II, 74, 13; Esna II, 74, 24; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 13; Esna II, 77, 14; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 17; Esna II, 88, 6; Esna II, 141, 9   
+   
+*ḫʿ.ỉn*		Esna II, 129, 4   
+   
+*ḫʿ.w*		Esna II, 49, 3; Esna II, 50, 2; Esna II, 51, 2; Esna II, 52, 2   
+   
+*ḫʿy.t*		Esna II, 106, 3   
+   
+*ḫwỉ*		Esna II, 73, 4; Esna II, 77, 15; Esna II, 112, 4; Esna II, 118, 3; Esna II, 127, 5; Esna II, 131, 10; Esna II, 140, 3; Esna II, 141, 14; Esna II, 141, 14   
+   
+*ḫws*		Esna II, 96, 2; Esna II, 113, 3; Esna II, 113, 6; Esna II, 162, 5; Esna II, 184, 15   
+   
+*ḫw*		Esna II, 52, 24; Esna II, 74, 31; Esna II, 104, 9; Esna II, 130, 1; Esna II, 156, 18   
+   
+*ḫw.t*		Esna II, 52, 22; Esna II, 74, 36   
+   
+*ḫw.w*		Esna II, 156, 23   
+   
+*ḫwy.wt*		Esna II, 155, 5   
+   
+*ḫbỉ*		Esna II, 113, 13; Esna II, 141, 14   
+   
+*ḫbn-ḫrw*		Esna II, 156, 25   
+   
+*ḫbsy*		Esna II, 191, 24   
+   
+*ḫbsy.t*		Esna II, 156, 23   
+   
+*ḫpr*		Esna II, 50, 4; Esna II, 50, 5; Esna II, 55, 5; Esna II, 58, 5; Esna II, 59, 1; Esna II, 60, 2; Esna II, 60, 2; Esna II, 60, 3; Esna II, 60, 3; Esna II, 60, 5; Esna II, 63, 3; Esna II, 63, 3; Esna II, 70, 12; Esna II, 70, 14; Esna II, 70, 16; Esna II, 71, 6; Esna II, 71, 7; Esna II, 72, 10; Esna II, 72, 11; Esna II, 73, 18; Esna II, 73, 21; Esna II, 76, 4; Esna II, 80, 1; Esna II, 80, 4; Esna II, 81, 2; Esna II, 81, 2; Esna II, 84, 1; Esna II, 85, 2; Esna II, 91, 15; Esna II, 91, 8; Esna II, 104, 1; Esna II, 104, 2; Esna II, 104, 2; Esna II, 104, 4; Esna II, 104, 4; Esna II, 104, 4; Esna II, 104, 4; Esna II, 104, 4; Esna II, 104, 8; Esna II, 104, 9; Esna II, 106, 3; Esna II, 112, 10; Esna II, 112, 2; Esna II, 112, 2; Esna II, 118, 11; Esna II, 120, 13; Esna II, 124, 2; Esna II, 127, 4; Esna II, 131, 12; Esna II, 136, 14; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 17; Esna II, 163, 19; Esna II, 163, 25; Esna II, 163, 25; Esna II, 170, 11; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 24; Esna II, 184, 27; Esna II, 191, 20; Esna II, 191, 20   
+   
+*ḫpr.w*		Esna II, 50, 6; Esna II, 63, 3; Esna II, 76, 3; Esna II, 104, 4; Esna II, 104, 4; Esna II, 106, 3; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 25   
+   
+*ḫprỉ*		Esna II, 60, 4   
+   
+*ḫprw*		Esna II, 73, 6; Esna II, 81, 4; Esna II, 106, 2; Esna II, 135, 12; Esna II, 184, 25; Esna II, 190, 2   
+   
+*ḫpš.w*		Esna II, 135, 12   
+   
+*ḫfʿ*		Esna II, 70, 3; Esna II, 135, 16; Esna II, 141, 3; Esna II, 163, 24   
+   
+*ḫfḫf*		Esna II, 135, 12   
+   
+*ḫft*		Esna II, 64, 3; Esna II, 106, 3; Esna II, 136, 16; Esna II, 163, 17   
+   
+*ḫft-ḥr*		Esna II, 55, 6; Esna II, 55, 9; Esna II, 72, 2; Esna II, 77, 17   
+   
+*ḫfty*		Esna II, 72, 10; Esna II, 127, 1   
+   
+*ḫfty.w*		Esna II, 52, 25; Esna II, 62, 11; Esna II, 104, 8; Esna II, 127, 6; Esna II, 131, 12; Esna II, 131, 13; Esna II, 135, 13   
+   
+*ḫf-br.wy*		Esna II, 156, 24   
+   
+*ḫf*		Esna II, 52, 25; Esna II, 73, 4   
+   
+*ḫmnỉ.w*		Esna II, 163, 18; Esna II, 163, 18   
+   
+*ḫmnw*		Esna II, 67, 10; Esna II, 88, 7   
+   
+*ḫmny.w*		Esna II, 162, 1   
+   
+*ḫmḫm.w*		Esna II, 191, 24   
+   
+*ḫmt*		Esna II, 73, 9; Esna II, 80, 4   
+   
+*ḫm*		Esna II, 163, 23   
+   
+*ḫnm*		Esna II, 81, 6; Esna II, 124, 1; Esna II, 125, 2   
+   
+*ḫnmm*		Esna II, 141, 7; Esna II, 176, 8   
+   
+*ḫnmw*		Esna II, 169, 8   
+   
+*ḫnn*		Esna II, 129, 2; Esna II, 136, 3   
+   
+*ḫnn.w*		Esna II, 155, 4   
+   
+*ḫnsw*		Esna II, 55, 3; Esna II, 74, 37; Esna II, 84, 1; Esna II, 190, 4   
+   
+*ḫnsy.t*		Esna II, 190, 4; Esna II, 191, 23   
+   
+*ḫnt*		Esna II, 50, 5; Esna II, 58, 7; Esna II, 60, 1; Esna II, 63, 1; Esna II, 64, 1; Esna II, 64, 4; Esna II, 70, 12; Esna II, 71, 10; Esna II, 73, 6; Esna II, 81, 1; Esna II, 82, 1; Esna II, 85, 3; Esna II, 91, 14; Esna II, 107, 1; Esna II, 112, 13; Esna II, 113, 11; Esna II, 127, 10; Esna II, 127, 9; Esna II, 129, 3; Esna II, 129, 4; Esna II, 135, 13; Esna II, 136, 7; Esna II, 140, 5; Esna II, 150, 2; Esna II, 156, 16; Esna II, 162, 4; Esna II, 169, 1; Esna II, 183, 2; Esna II, 183, 3; Esna II, 191, 16; Esna II, 191, 19   
+   
+*ḫnt-tȝ*		Esna II, 49, 10; Esna II, 60, 3; Esna II, 61, 8; Esna II, 64, 1; Esna II, 67, 17; Esna II, 72, 10; Esna II, 73, 10; Esna II, 74, 17; Esna II, 84, 1; Esna II, 113, 12; Esna II, 122, 6; Esna II, 163, 26; Esna II, 183, 5   
+   
+*ḫnt.t*		Esna II, 73, 17   
+   
+*ḫntỉ*		Esna II, 60, 2; Esna II, 84, 1; Esna II, 106, 1; Esna II, 136, 3; Esna II, 146, 1; Esna II, 176, 1; Esna II, 191, 19; Esna II, 191, 24   
+   
+*ḫntỉ-nb-ʿnḫ*		Esna II, 52, 9   
+   
+*ḫntỉ-wȝḏ*		Esna II, 191, 25   
+   
+*ḫntš*		Esna II, 156, 16; Esna II, 169, 9   
+   
+*ḫnty*		Esna II, 60, 3; Esna II, 64, 3; Esna II, 64, 4; Esna II, 67, 15; Esna II, 67, 8; Esna II, 73, 11; Esna II, 81, 2; Esna II, 85, 1; Esna II, 85, 4; Esna II, 88, 5; Esna II, 91, 5; Esna II, 96, 2; Esna II, 113, 8; Esna II, 135, 6; Esna II, 141, 12; Esna II, 155, 3; Esna II, 156, 20; Esna II, 156, 22; Esna II, 169, 10; Esna II, 183, 1; Esna II, 183, 5; Esna II, 183, 5; Esna II, 183, 5; Esna II, 191, 17   
+   
+*ḫnty-ʿnḫ.w*		Esna II, 74, 13   
+   
+*ḫnty-ẖty*		Esna II, 190, 4   
+   
+*ḫnty-nb-ʿnḫ*		Esna II, 52, 26   
+   
+*ḫnd*		Esna II, 81, 2; Esna II, 127, 10; Esna II, 156, 20   
+   
+*ḫndw*		Esna II, 77, 12   
+   
+*ḫn.ty*		Esna II, 118, 10   
+   
+*ḫny.w*		Esna II, 184, 15   
+   
+*ḫrw*		Esna II, 191, 27   
+   
+*ḫrwy.t*		Esna II, 104, 9; Esna II, 127, 10; Esna II, 127, 2; Esna II, 127, 5; Esna II, 131, 12; Esna II, 156, 20   
+   
+*ḫrp*		Esna II, 118, 4   
+   
+*ḫrpw*		Esna II, 127, 7   
+   
+*ḫrs*		Esna II, 110, 2; Esna II, 110, 8   
+   
+*ḫr*		Esna II, 55, 5; Esna II, 58, 2; Esna II, 58, 3; Esna II, 58, 3; Esna II, 62, 9; Esna II, 67, 14; Esna II, 67, 14; Esna II, 67, 5; Esna II, 70, 5; Esna II, 73, 3; Esna II, 74, 27; Esna II, 76, 11; Esna II, 76, 15; Esna II, 76, 3; Esna II, 76, 7; Esna II, 77, 14; Esna II, 81, 6; Esna II, 127, 2; Esna II, 127, 8; Esna II, 129, 2; Esna II, 129, 4; Esna II, 130, 2; Esna II, 135, 8; Esna II, 143, 3; Esna II, 143, 7; Esna II, 163, 26; Esna II, 191, 17   
+   
+*ḫry.t*		Esna II, 81, 2   
+   
+*ḫsbḏ*		Esna II, 156, 15; Esna II, 176, 9; Esna II, 191, 18   
+   
+*ḫtỉ*		Esna II, 162, 2; Esna II, 191, 15   
+   
+*ḫt-mn*		Esna II, 104, 3; Esna II, 136, 16; Esna II, 136, 17; Esna II, 184, 21   
+   
+*ḫt-n-ʿnḫ*		Esna II, 54, 16   
+   
+*ḫt*		Esna II, 184, 27   
+   
+*ḫṯy.wt*		Esna II, 155, 7   
+   
+*ḫdỉ*		Esna II, 191, 20   
+   
+*ḫ.t*		Esna II, 55, 5   
+   
+*ḫ.t-n-ʿnḫ*		Esna II, 184, 23   
+   
+*ḫy*		Esna II, 58, 5; Esna II, 104, 5; Esna II, 106, 1; Esna II, 150, 2; Esna II, 155, 5; Esna II, 169, 10; Esna II, 183, 5; Esna II, 183, 7; Esna II, 183, 7; Esna II, 184, 24   
+   
+*ḫy.t*		Esna II, 169, 10   
+   
+*ẖȝb*		Esna II, 74, 28; Esna II, 74, 28   
+   
+*ẖȝ.wt*		Esna II, 76, 6; Esna II, 191, 21   
+   
+*ẖʿq*		Esna II, 127, 10   
+   
+*ẖpn*		Esna II, 191, 23   
+   
+*ẖms.w*		Esna II, 52, 15   
+   
+*ẖmty*		Esna II, 191, 25   
+   
+*ẖnw*		Esna II, 52, 11; Esna II, 81, 3; Esna II, 81, 4; Esna II, 191, 20   
+   
+*ẖnbb*		Esna II, 74, 7; Esna II, 106, 3   
+   
+*ẖnm*		Esna II, 51, 4; Esna II, 52, 20; Esna II, 58, 1; Esna II, 58, 5; Esna II, 58, 6; Esna II, 60, 5; Esna II, 64, 4; Esna II, 70, 15; Esna II, 73, 4; Esna II, 74, 37; Esna II, 80, 4; Esna II, 81, 1; Esna II, 91, 10; Esna II, 91, 4; Esna II, 104, 2; Esna II, 104, 3; Esna II, 104, 6; Esna II, 106, 2; Esna II, 106, 4; Esna II, 112, 15; Esna II, 120, 13; Esna II, 127, 3; Esna II, 130, 2; Esna II, 176, 8; Esna II, 184, 23   
+   
+*ẖnm-ỉtn*		Esna II, 55, 1; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 9; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 14; Esna II, 77, 15; Esna II, 77, 17   
+   
+*ẖnm.t*		Esna II, 127, 4; Esna II, 156, 21; Esna II, 190, 2   
+   
+*ẖnm.ty*		Esna II, 106, 2   
+   
+*ẖnm.w*		Esna II, 183, 5   
+   
+*ẖnm.wt*		Esna II, 191, 21   
+   
+*ẖnmm.ty*		Esna II, 184, 23   
+   
+*ẖnmw*		Esna II, 51, 13; Esna II, 52, 22; Esna II, 52, 4; Esna II, 54, 16; Esna II, 55, 1; Esna II, 55, 1; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 58, 1; Esna II, 59, 1; Esna II, 60, 2; Esna II, 61, 11; Esna II, 63, 4; Esna II, 64, 1; Esna II, 64, 2; Esna II, 70, 10; Esna II, 70, 4; Esna II, 70, 9; Esna II, 72, 12; Esna II, 73, 11; Esna II, 73, 5; Esna II, 74, 34; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 14; Esna II, 77, 15; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 18; Esna II, 77, 18; Esna II, 80, 3; Esna II, 80, 5; Esna II, 81, 1; Esna II, 82, 1; Esna II, 103, 2; Esna II, 104, 4; Esna II, 104, 5; Esna II, 120, 13; Esna II, 127, 3; Esna II, 127, 5; Esna II, 141, 4; Esna II, 141, 5; Esna II, 150, 2; Esna II, 162, 5; Esna II, 169, 2; Esna II, 176, 2; Esna II, 183, 3; Esna II, 183, 5; Esna II, 190, 1; Esna II, 191, 20; Esna II, 191, 23   
+   
+*ẖnmw-rʿ*		Esna II, 49, 5; Esna II, 50, 5; Esna II, 51, 5; Esna II, 54, 11; Esna II, 54, 2; Esna II, 54, 7; Esna II, 55, 1; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 8; Esna II, 59, 1; Esna II, 61, 5; Esna II, 70, 11; Esna II, 73, 10; Esna II, 77, 10; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 15; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 18; Esna II, 82, 1; Esna II, 88, 11; Esna II, 103, 1; Esna II, 110, 13; Esna II, 112, 13; Esna II, 113, 7; Esna II, 115, 3; Esna II, 115, 7; Esna II, 120, 9; Esna II, 131, 10; Esna II, 131, 14; Esna II, 131, 9; Esna II, 146, 1; Esna II, 149, 3; Esna II, 155, 1; Esna II, 177, 11; Esna II, 183, 1   
+   
+*ẖnmw.w*		Esna II, 58, 3; Esna II, 103, 2   
+   
+*ẖnmy.t*		Esna II, 191, 24   
+   
+*ẖn*		Esna II, 73, 4   
+   
+*ẖn.t*		Esna II, 55, 5; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 8; Esna II, 60, 5; Esna II, 77, 11; Esna II, 77, 15; Esna II, 77, 17   
+   
+*ẖrd*		Esna II, 51, 13; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 8; Esna II, 70, 10; Esna II, 150, 2   
+   
+*ẖr-ḥȝ.t*		Esna II, 52, 16; Esna II, 70, 16; Esna II, 85, 4; Esna II, 91, 15; Esna II, 162, 2; Esna II, 163, 16   
+   
+*ẖr*		Esna II, 49, 12; Esna II, 49, 9; Esna II, 50, 13; Esna II, 51, 15; Esna II, 54, 6; Esna II, 60, 4; Esna II, 64, 4; Esna II, 71, 12; Esna II, 71, 13; Esna II, 71, 13; Esna II, 72, 7; Esna II, 74, 29; Esna II, 76, 11; Esna II, 76, 16; Esna II, 76, 7; Esna II, 77, 10; Esna II, 77, 16; Esna II, 82, 1; Esna II, 85, 1; Esna II, 85, 4; Esna II, 102, 2; Esna II, 107, 1; Esna II, 115, 4; Esna II, 115, 6; Esna II, 115, 7; Esna II, 118, 11; Esna II, 127, 1; Esna II, 127, 2; Esna II, 127, 9; Esna II, 130, 1; Esna II, 136, 9; Esna II, 141, 10; Esna II, 141, 14; Esna II, 141, 4; Esna II, 155, 2; Esna II, 155, 4; Esna II, 155, 4; Esna II, 155, 4; Esna II, 156, 16; Esna II, 156, 17; Esna II, 156, 19; Esna II, 156, 21; Esna II, 162, 10; Esna II, 162, 8; Esna II, 163, 15; Esna II, 163, 17; Esna II, 163, 20; Esna II, 163, 20; Esna II, 163, 23; Esna II, 163, 24; Esna II, 163, 24; Esna II, 169, 1; Esna II, 169, 1; Esna II, 169, 10; Esna II, 169, 2; Esna II, 170, 11; Esna II, 176, 1; Esna II, 176, 1; Esna II, 176, 6; Esna II, 183, 10; Esna II, 183, 4; Esna II, 183, 6; Esna II, 183, 6; Esna II, 183, 8; Esna II, 184, 21; Esna II, 184, 21; Esna II, 184, 21; Esna II, 184, 26; Esna II, 184, 26; Esna II, 190, 2; Esna II, 190, 2; Esna II, 191, 21   
+   
+*ẖr.t*		Esna II, 54, 8   
+   
+*ẖr.t-ḥrw*		Esna II, 96, 2   
+   
+*ẖr.t-hrw*		Esna II, 80, 4; Esna II, 102, 1; Esna II, 120, 3   
+   
+*ẖr.w*		Esna II, 191, 17   
+   
+*ẖr.wt*		Esna II, 163, 21   
+   
+*ẖry-bȝq*		Esna II, 191, 26   
+   
+*ẖry.w*		Esna II, 88, 18; Esna II, 183, 1   
+   
+*ẖsy.w*		Esna II, 190, 3   
+   
+*ẖkr.w*		Esna II, 127, 1   
+   
+*ẖ.t*		Esna II, 60, 4; Esna II, 72, 10; Esna II, 95, 6; Esna II, 110, 5; Esna II, 150, 2; Esna II, 156, 19; Esna II, 184, 23   
+   
+*zȝw*		Esna II, 55, 8; Esna II, 55, 9; Esna II, 91, 14; Esna II, 91, 6; Esna II, 163, 17; Esna II, 163, 19; Esna II, 163, 23; Esna II, 163, 25; Esna II, 163, 25   
+   
+*zȝw-n-tȝ*		Esna II, 163, 25   
+   
+*zȝb-šw.ty*		Esna II, 52, 22; Esna II, 74, 14   
+   
+*zȝṯ*		Esna II, 64, 1; Esna II, 127, 10; Esna II, 127, 11; Esna II, 163, 25   
+   
+*zȝ-ẖn*		Esna II, 77, 17   
+   
+*zȝ-ẖn.t*		Esna II, 77, 16   
+   
+*zȝ-mr*		Esna II, 61, 4   
+   
+*zȝ-nḏm-ỉb*		Esna II, 156, 27   
+   
+*zȝ-rʿ*		Esna II, 50, 2; Esna II, 51, 2; Esna II, 52, 2; Esna II, 54, 2; Esna II, 54, 7; Esna II, 55, 5; Esna II, 61, 3; Esna II, 62, 3; Esna II, 67, 2; Esna II, 70, 2; Esna II, 71, 3; Esna II, 72, 5; Esna II, 73, 2; Esna II, 74, 2; Esna II, 76, 11; Esna II, 76, 2; Esna II, 76, 3; Esna II, 88, 11; Esna II, 88, 2; Esna II, 91, 2; Esna II, 96, 2; Esna II, 97, 3; Esna II, 102, 1; Esna II, 112, 4; Esna II, 113, 5; Esna II, 115, 7; Esna II, 118, 3; Esna II, 118, 4; Esna II, 123, 2; Esna II, 135, 3; Esna II, 136, 5; Esna II, 140, 3; Esna II, 141, 2; Esna II, 143, 7; Esna II, 184, 26   
+   
+*zȝ-tȝ*		Esna II, 163, 28   
+   
+*zȝ*		Esna II, 49, 3; Esna II, 51, 7; Esna II, 52, 22; Esna II, 52, 23; Esna II, 52, 26; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 5; Esna II, 58, 5; Esna II, 58, 5; Esna II, 58, 5; Esna II, 58, 6; Esna II, 60, 3; Esna II, 60, 5; Esna II, 62, 10; Esna II, 62, 7; Esna II, 63, 4; Esna II, 67, 7; Esna II, 72, 12; Esna II, 72, 13; Esna II, 73, 13; Esna II, 73, 3; Esna II, 74, 29; Esna II, 74, 37; Esna II, 77, 11; Esna II, 77, 15; Esna II, 77, 15; Esna II, 80, 4; Esna II, 80, 6; Esna II, 81, 3; Esna II, 81, 3; Esna II, 82, 1; Esna II, 84, 1; Esna II, 85, 3; Esna II, 88, 14; Esna II, 91, 4; Esna II, 96, 1; Esna II, 97, 3; Esna II, 104, 10; Esna II, 104, 11; Esna II, 104, 6; Esna II, 104, 9; Esna II, 104, 9; Esna II, 107, 1; Esna II, 110, 14; Esna II, 110, 6; Esna II, 118, 4; Esna II, 127, 4; Esna II, 127, 5; Esna II, 129, 1; Esna II, 129, 2; Esna II, 135, 10; Esna II, 141, 9; Esna II, 146, 2; Esna II, 155, 8; Esna II, 156, 26; Esna II, 163, 18; Esna II, 163, 20; Esna II, 169, 10; Esna II, 176, 9; Esna II, 183, 2; Esna II, 190, 7   
+   
+*zȝ.t*		Esna II, 58, 6; Esna II, 60, 5; Esna II, 63, 4; Esna II, 73, 17; Esna II, 102, 2   
+   
+*zȝ.t-rʿ*		Esna II, 130, 1; Esna II, 163, 27   
+   
+*zȝ.w*		Esna II, 156, 22   
+   
+*zȝ.w-n*		Esna II, 63, 3; Esna II, 136, 14   
+   
+*zbỉ*		Esna II, 54, 4; Esna II, 80, 6; Esna II, 163, 28; Esna II, 184, 22   
+   
+*zbỉ-n-sḏ.t*		Esna II, 77, 14; Esna II, 163, 28   
+   
+*zbỉ-sš.w*		Esna II, 156, 20   
+   
+*zbt.wt*		Esna II, 155, 3; Esna II, 176, 7   
+   
+*zbṯ*		Esna II, 163, 16   
+   
+*zp-snw*		Esna II, 50, 7; Esna II, 67, 8; Esna II, 67, 8; Esna II, 74, 29; Esna II, 74, 29; Esna II, 74, 29; Esna II, 127, 10; Esna II, 127, 10; Esna II, 127, 4; Esna II, 129, 2; Esna II, 141, 5; Esna II, 156, 20; Esna II, 156, 20; Esna II, 163, 20; Esna II, 163, 20   
+   
+*zp-tpy*		Esna II, 60, 5; Esna II, 73, 9; Esna II, 81, 3; Esna II, 106, 4; Esna II, 191, 20   
+   
+*zp-wʿ*		Esna II, 81, 5   
+   
+*zp*		Esna II, 58, 4; Esna II, 88, 9; Esna II, 95, 8; Esna II, 112, 11; Esna II, 127, 5; Esna II, 131, 13; Esna II, 156, 21; Esna II, 163, 21   
+   
+*zpy*		Esna II, 156, 24   
+   
+*zmȝ-mȝʿ.t*		Esna II, 162, 5; Esna II, 183, 5   
+   
+*zmȝ-wr*		Esna II, 191, 26   
+   
+*zmȝ.t*		Esna II, 74, 39   
+   
+*zmȝ.w*		Esna II, 81, 3   
+   
+*zmȝw*		Esna II, 184, 20   
+   
+*zmȝwy*		Esna II, 70, 13   
+   
+*zmȝy.w*		Esna II, 176, 10   
+   
+*zḫn.w*		Esna II, 51, 17; Esna II, 64, 4; Esna II, 169, 1; Esna II, 183, 10   
+   
+*zḫn.wt*		Esna II, 176, 1; Esna II, 184, 21   
+   
+*z.t*		Esna II, 81, 2; Esna II, 127, 10   
+   
+*sȝw*		Esna II, 143, 8   
+   
+*sȝwy*		Esna II, 163, 14   
+   
+*sȝbqy.w*		Esna II, 190, 5   
+   
+*sȝḥ*		Esna II, 127, 2; Esna II, 176, 10; Esna II, 191, 20   
+   
+*sȝḥ.w*		Esna II, 156, 22; Esna II, 156, 25; Esna II, 191, 23   
+   
+*sȝḫ*		Esna II, 162, 5; Esna II, 162, 5; Esna II, 183, 4   
+   
+*sȝẖ*		Esna II, 120, 1   
+   
+*sȝq*		Esna II, 110, 3   
+   
+*sȝ-n-ʿnḫ*		Esna II, 59, 2   
+   
+*sȝ*		Esna II, 55, 4; Esna II, 88, 18; Esna II, 91, 9; Esna II, 163, 18   
+   
+*sȝ.t*		Esna II, 52, 13; Esna II, 156, 26; Esna II, 176, 9   
+   
+*sȝy*		Esna II, 191, 23   
+   
+*sỉȝ*		Esna II, 52, 22; Esna II, 74, 36; Esna II, 150, 2   
+   
+*sỉwr*		Esna II, 50, 12   
+   
+*sỉp*		Esna II, 115, 3; Esna II, 136, 11; Esna II, 162, 3   
+   
+*sʿȝ*		Esna II, 162, 5   
+   
+*sʿnḫ*		Esna II, 54, 12; Esna II, 128, 5   
+   
+*sʿr*		Esna II, 102, 2; Esna II, 155, 1; Esna II, 155, 6; Esna II, 169, 9; Esna II, 183, 4; Esna II, 183, 4; Esna II, 183, 5; Esna II, 191, 19   
+   
+*sʿr-p.t*		Esna II, 191, 23   
+   
+*sʿr.w*		Esna II, 190, 1   
+   
+*sʿrq*		Esna II, 162, 3   
+   
+*sʿḥ.w*		Esna II, 156, 19   
+   
+*sʿḥʿ*		Esna II, 55, 7; Esna II, 74, 11; Esna II, 136, 11; Esna II, 162, 2; Esna II, 162, 5   
+   
+*sʿšȝ*		Esna II, 70, 7; Esna II, 143, 8   
+   
+*sʿq*		Esna II, 105, 3   
+   
+*sʿy*		Esna II, 191, 25   
+   
+*swȝ.w*		Esna II, 74, 39   
+   
+*swȝḏ*		Esna II, 131, 8; Esna II, 184, 22   
+   
+*swȝḏ-bȝ*		Esna II, 156, 27; Esna II, 162, 5; Esna II, 176, 1   
+   
+*swȝb*		Esna II, 49, 1   
+   
+*swȝš*		Esna II, 52, 8; Esna II, 102, 2; Esna II, 112, 15; Esna II, 184, 18; Esna II, 184, 19   
+   
+*swȝw.w*		Esna II, 82, 2   
+   
+*swʿb*		Esna II, 49, 13; Esna II, 49, 4; Esna II, 67, 10; Esna II, 67, 16; Esna II, 67, 6; Esna II, 77, 14; Esna II, 191, 27   
+   
+*swmnw*		Esna II, 55, 5; Esna II, 55, 5   
+   
+*swn*		Esna II, 124, 2   
+   
+*swr*		Esna II, 64, 4; Esna II, 74, 34; Esna II, 74, 35; Esna II, 76, 16; Esna II, 76, 8; Esna II, 85, 4; Esna II, 104, 7; Esna II, 110, 14; Esna II, 130, 3; Esna II, 162, 4; Esna II, 162, 4; Esna II, 183, 3; Esna II, 183, 4   
+   
+*swḥ.t*		Esna II, 63, 3; Esna II, 95, 2   
+   
+*swsḫ*		Esna II, 162, 4   
+   
+*swt*		Esna II, 55, 1   
+   
+*swtḫ*		Esna II, 190, 3   
+   
+*swtwt*		Esna II, 127, 11; Esna II, 176, 10   
+   
+*swḏȝ*		Esna II, 51, 7; Esna II, 52, 26; Esna II, 55, 4; Esna II, 77, 17; Esna II, 95, 6; Esna II, 127, 10; Esna II, 146, 1   
+   
+*sw*		Esna II, 52, 9; Esna II, 55, 1; Esna II, 59, 2; Esna II, 60, 5; Esna II, 63, 4; Esna II, 63, 4; Esna II, 73, 18; Esna II, 74, 12; Esna II, 74, 20; Esna II, 74, 8; Esna II, 77, 16; Esna II, 81, 1; Esna II, 96, 1; Esna II, 97, 3; Esna II, 106, 1; Esna II, 118, 4; Esna II, 127, 9; Esna II, 128, 5; Esna II, 129, 2; Esna II, 141, 11; Esna II, 141, 11; Esna II, 141, 6; Esna II, 150, 2; Esna II, 163, 17; Esna II, 169, 8; Esna II, 183, 3; Esna II, 184, 21; Esna II, 184, 22; Esna II, 184, 24; Esna II, 184, 24   
+   
+*sbȝ*		Esna II, 162, 2   
+   
+*sbỉ*		Esna II, 60, 3; Esna II, 60, 5; Esna II, 72, 16; Esna II, 77, 16; Esna II, 163, 17; Esna II, 163, 28   
+   
+*sbỉ.w*		Esna II, 52, 25; Esna II, 104, 8; Esna II, 163, 19   
+   
+*sbỉn*		Esna II, 104, 7   
+   
+*sbḫ.t*		Esna II, 163, 20   
+   
+*sbq.wy*		Esna II, 104, 7   
+   
+*sbk*		Esna II, 55, 5; Esna II, 62, 10; Esna II, 135, 9; Esna II, 156, 25; Esna II, 163, 18; Esna II, 190, 5; Esna II, 191, 27   
+   
+*sbk.wy*		Esna II, 80, 2   
+   
+*sbt.wt*		Esna II, 169, 10; Esna II, 169, 10   
+   
+*sbty*		Esna II, 97, 3   
+   
+*sbty.w*		Esna II, 162, 3   
+   
+*spȝ.t*		Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 58, 6; Esna II, 60, 2; Esna II, 80, 2; Esna II, 81, 1; Esna II, 81, 2; Esna II, 81, 2; Esna II, 84, 1; Esna II, 104, 10; Esna II, 127, 4; Esna II, 163, 25; Esna II, 191, 16   
+   
+*spȝ.wt*		Esna II, 64, 2; Esna II, 81, 5; Esna II, 84, 1; Esna II, 113, 9; Esna II, 136, 9; Esna II, 163, 23; Esna II, 183, 4   
+   
+*spȝw.t*		Esna II, 127, 8   
+   
+*spr*		Esna II, 52, 3; Esna II, 55, 6; Esna II, 58, 3; Esna II, 60, 1; Esna II, 60, 2; Esna II, 70, 8; Esna II, 76, 10; Esna II, 104, 1; Esna II, 155, 1; Esna II, 155, 7; Esna II, 163, 17; Esna II, 163, 18   
+   
+*spẖr*		Esna II, 51, 12; Esna II, 156, 18   
+   
+*sps*		Esna II, 191, 21   
+   
+*spt.y*		Esna II, 54, 16   
+   
+*spd*		Esna II, 113, 6; Esna II, 184, 21   
+   
+*spd.t*		Esna II, 163, 19   
+   
+*spy*		Esna II, 156, 24   
+   
+*sfḫ*		Esna II, 176, 10   
+   
+*sfsf*		Esna II, 129, 4   
+   
+*sfsf-ȝw*		Esna II, 163, 26   
+   
+*sf*		Esna II, 80, 7; Esna II, 131, 8   
+   
+*smȝ*		Esna II, 77, 16; Esna II, 104, 8; Esna II, 127, 7   
+   
+*smȝwỉ*		Esna II, 136, 2; Esna II, 183, 3   
+   
+*smȝwy*		Esna II, 183, 4   
+   
+*smn*		Esna II, 95, 5; Esna II, 113, 2; Esna II, 141, 10; Esna II, 143, 8; Esna II, 156, 28; Esna II, 162, 3; Esna II, 162, 8; Esna II, 169, 1; Esna II, 176, 1; Esna II, 177, 11; Esna II, 183, 5; Esna II, 184, 18   
+   
+*smn-nḥp*		Esna II, 77, 10   
+   
+*smn.w*		Esna II, 59, 2   
+   
+*smsw*		Esna II, 82, 1; Esna II, 135, 12   
+   
+*smtr*		Esna II, 143, 3   
+   
+*sm.w*		Esna II, 54, 4; Esna II, 76, 16; Esna II, 76, 4; Esna II, 76, 4; Esna II, 155, 4; Esna II, 163, 20; Esna II, 169, 8; Esna II, 176, 6; Esna II, 184, 23; Esna II, 190, 2   
+   
+*snỉ*		Esna II, 58, 4; Esna II, 163, 17   
+   
+*snỉ-r*		Esna II, 176, 10; Esna II, 183, 9   
+   
+*snỉ-tȝ*		Esna II, 52, 23; Esna II, 70, 17; Esna II, 73, 16; Esna II, 74, 34; Esna II, 156, 13; Esna II, 163, 11; Esna II, 163, 12; Esna II, 184, 27; Esna II, 191, 16   
+   
+*snw*		Esna II, 63, 3; Esna II, 118, 11; Esna II, 127, 5; Esna II, 156, 21; Esna II, 162, 1; Esna II, 163, 21; Esna II, 163, 22; Esna II, 176, 1   
+   
+*snb*		Esna II, 51, 4; Esna II, 70, 5; Esna II, 112, 7; Esna II, 118, 4; Esna II, 135, 15; Esna II, 135, 6; Esna II, 176, 10   
+   
+*snb-ỉb*		Esna II, 84, 1   
+   
+*snfr*		Esna II, 54, 16; Esna II, 73, 4; Esna II, 77, 17; Esna II, 77, 17; Esna II, 118, 1   
+   
+*snfr-ỉb*		Esna II, 59, 1   
+   
+*snm*		Esna II, 72, 17   
+   
+*snm.t*		Esna II, 67, 9; Esna II, 76, 8; Esna II, 191, 19   
+   
+*snn*		Esna II, 51, 3; Esna II, 52, 4; Esna II, 118, 4; Esna II, 141, 5; Esna II, 170, 11   
+   
+*snḥ*		Esna II, 141, 14   
+   
+*sns*		Esna II, 156, 12; Esna II, 163, 22   
+   
+*snsn*		Esna II, 73, 4; Esna II, 103, 2; Esna II, 156, 17   
+   
+*snṯ*		Esna II, 63, 4; Esna II, 113, 1; Esna II, 113, 16; Esna II, 113, 6; Esna II, 136, 11; Esna II, 136, 12; Esna II, 136, 2; Esna II, 136, 9; Esna II, 146, 1; Esna II, 162, 2; Esna II, 162, 6; Esna II, 169, 9   
+   
+*snṯr*		Esna II, 52, 16; Esna II, 55, 5; Esna II, 67, 14; Esna II, 67, 6; Esna II, 70, 8; Esna II, 74, 25; Esna II, 74, 25; Esna II, 74, 29; Esna II, 74, 29; Esna II, 77, 10; Esna II, 77, 17; Esna II, 110, 4; Esna II, 120, 1; Esna II, 125, 2; Esna II, 140, 1   
+   
+*snḏ*		Esna II, 156, 18; Esna II, 163, 20; Esna II, 169, 1; Esna II, 169, 10; Esna II, 184, 28   
+   
+*snḏm*		Esna II, 77, 16; Esna II, 104, 6; Esna II, 129, 1; Esna II, 163, 17   
+   
+*sn.t*		Esna II, 62, 6; Esna II, 63, 1; Esna II, 70, 3; Esna II, 104, 10; Esna II, 106, 3; Esna II, 127, 4; Esna II, 127, 6; Esna II, 149, 4   
+   
+*sn.ty*		Esna II, 58, 5; Esna II, 107, 2   
+   
+*sn.w*		Esna II, 104, 4   
+   
+*sn.wt*		Esna II, 190, 5   
+   
+*sn.wy*		Esna II, 80, 4   
+   
+*srwḏ*		Esna II, 71, 14; Esna II, 113, 2; Esna II, 143, 4; Esna II, 184, 22   
+   
+*srp.t*		Esna II, 130, 3   
+   
+*srḫ*		Esna II, 141, 9   
+   
+*srs*		Esna II, 106, 2   
+   
+*srq.t*		Esna II, 55, 2   
+   
+*srty.w*		Esna II, 191, 21   
+   
+*sr*		Esna II, 97, 3; Esna II, 183, 4; Esna II, 183, 5; Esna II, 191, 17   
+   
+*sr.w*		Esna II, 54, 4   
+   
+*shr*		Esna II, 130, 2   
+   
+*sḥb*		Esna II, 54, 14; Esna II, 125, 2   
+   
+*sḥn*		Esna II, 162, 4   
+   
+*sḥr*		Esna II, 55, 7; Esna II, 80, 5; Esna II, 110, 10; Esna II, 110, 12; Esna II, 110, 9   
+   
+*sḥtm*		Esna II, 110, 8   
+   
+*sḥtp*		Esna II, 58, 6; Esna II, 62, 4; Esna II, 74, 29; Esna II, 77, 15; Esna II, 77, 15; Esna II, 96, 2; Esna II, 102, 2; Esna II, 156, 17; Esna II, 156, 19   
+   
+*sḥd*		Esna II, 183, 6   
+   
+*sḥḏ*		Esna II, 52, 6; Esna II, 62, 7; Esna II, 70, 13; Esna II, 74, 28; Esna II, 74, 29; Esna II, 103, 2; Esna II, 162, 3; Esna II, 162, 9; Esna II, 170, 11; Esna II, 184, 13; Esna II, 184, 14; Esna II, 184, 20; Esna II, 191, 18   
+   
+*sḥḏ-wr*		Esna II, 156, 22; Esna II, 191, 21   
+   
+*sḥḏ.tȝ.wy*		Esna II, 184, 19   
+   
+*sḥ*		Esna II, 77, 10; Esna II, 85, 2; Esna II, 125, 2; Esna II, 162, 2   
+   
+*sḥ.w*		Esna II, 85, 2   
+   
+*sḫȝ*		Esna II, 80, 6   
+   
+*sḫȝ.t-ḥr*		Esna II, 155, 5; Esna II, 190, 3   
+   
+*sḫʿ*		Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 4; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 7; Esna II, 55, 8; Esna II, 55, 8; Esna II, 55, 9; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 14; Esna II, 77, 14; Esna II, 77, 16; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 18   
+   
+*sḫʿỉ*		Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 3   
+   
+*sḫp*		Esna II, 125, 1   
+   
+*sḫpr*		Esna II, 50, 6; Esna II, 54, 4; Esna II, 62, 6; Esna II, 76, 12; Esna II, 95, 3; Esna II, 104, 2; Esna II, 113, 10; Esna II, 113, 3; Esna II, 115, 4; Esna II, 163, 16; Esna II, 163, 18; Esna II, 163, 20; Esna II, 163, 20; Esna II, 163, 20; Esna II, 163, 25; Esna II, 177, 11; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 18; Esna II, 184, 18; Esna II, 191, 20   
+   
+*sḫm*		Esna II, 52, 20; Esna II, 59, 1; Esna II, 60, 5; Esna II, 70, 11; Esna II, 72, 10; Esna II, 72, 14; Esna II, 74, 33; Esna II, 131, 12; Esna II, 162, 4; Esna II, 163, 23; Esna II, 169, 1; Esna II, 176, 1; Esna II, 184, 27   
+   
+*sḫm.t*		Esna II, 49, 10; Esna II, 55, 8; Esna II, 60, 5; Esna II, 60, 5; Esna II, 67, 17; Esna II, 72, 10; Esna II, 72, 12; Esna II, 73, 6; Esna II, 74, 26; Esna II, 74, 29; Esna II, 77, 15; Esna II, 77, 15; Esna II, 110, 9; Esna II, 131, 14; Esna II, 131, 8; Esna II, 163, 23   
+   
+*sḫm.ty*		Esna II, 72, 15; Esna II, 88, 10; Esna II, 88, 3; Esna II, 88, 5; Esna II, 141, 10   
+   
+*sḫm.wt*		Esna II, 67, 18   
+   
+*sḫmty*		Esna II, 77, 13   
+   
+*sḫn*		Esna II, 95, 8; Esna II, 125, 2; Esna II, 127, 10; Esna II, 143, 6   
+   
+*sḫn.w*		Esna II, 96, 2; Esna II, 177, 11   
+   
+*sḫnt*		Esna II, 162, 4; Esna II, 183, 4   
+   
+*sḫr*		Esna II, 62, 11; Esna II, 104, 7; Esna II, 163, 19   
+   
+*sḫr.w*		Esna II, 58, 2; Esna II, 59, 1; Esna II, 59, 1; Esna II, 74, 34; Esna II, 81, 3; Esna II, 84, 1; Esna II, 88, 13; Esna II, 104, 6; Esna II, 106, 1; Esna II, 113, 16; Esna II, 113, 6; Esna II, 129, 3; Esna II, 163, 24; Esna II, 169, 10; Esna II, 184, 21   
+   
+*sḫḫ*		Esna II, 163, 11   
+   
+*sḫt*		Esna II, 190, 5   
+   
+*sḫt-šzp*		Esna II, 52, 4; Esna II, 64, 3; Esna II, 156, 22; Esna II, 183, 4   
+   
+*sḫd*		Esna II, 184, 24   
+   
+*sḫ.t*		Esna II, 50, 5; Esna II, 54, 4; Esna II, 55, 1; Esna II, 55, 3; Esna II, 55, 4; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 60, 5; Esna II, 73, 11; Esna II, 74, 37; Esna II, 76, 3; Esna II, 77, 12; Esna II, 77, 15; Esna II, 77, 16; Esna II, 77, 17; Esna II, 77, 17; Esna II, 77, 17; Esna II, 81, 2; Esna II, 81, 6; Esna II, 82, 1; Esna II, 82, 2; Esna II, 88, 11; Esna II, 104, 8; Esna II, 107, 2; Esna II, 115, 5; Esna II, 115, 7; Esna II, 127, 3; Esna II, 127, 3; Esna II, 127, 9; Esna II, 129, 1; Esna II, 130, 1; Esna II, 130, 4; Esna II, 143, 5; Esna II, 143, 7; Esna II, 146, 1; Esna II, 146, 1; Esna II, 155, 1; Esna II, 155, 3; Esna II, 163, 27; Esna II, 184, 21; Esna II, 191, 21   
+   
+*sḫ.t-ỉwr.t*		Esna II, 55, 5   
+   
+*sḫ.t-rʿ*		Esna II, 60, 3   
+   
+*sḫy*		Esna II, 162, 5   
+   
+*sẖr*		Esna II, 135, 13   
+   
+*sẖry.t*		Esna II, 191, 27   
+   
+*szp.w*		Esna II, 156, 22; Esna II, 156, 27   
+   
+*ssȝ*		Esna II, 115, 4   
+   
+*ssȝỉ*		Esna II, 146, 2   
+   
+*ssw*		Esna II, 129, 4; Esna II, 155, 1   
+   
+*sšȝ*		Esna II, 169, 10; Esna II, 184, 22   
+   
+*sšȝ.t*		Esna II, 110, 4; Esna II, 136, 2; Esna II, 136, 7; Esna II, 163, 19; Esna II, 190, 4; Esna II, 191, 27   
+   
+*sšp*		Esna II, 155, 2; Esna II, 156, 21   
+   
+*sšm*		Esna II, 58, 2; Esna II, 70, 8; Esna II, 80, 4; Esna II, 129, 2; Esna II, 163, 20; Esna II, 184, 22   
+   
+*sšm.t*		Esna II, 88, 16   
+   
+*sšm.w*		Esna II, 73, 6   
+   
+*sšmw*		Esna II, 156, 27   
+   
+*sšn*		Esna II, 74, 26; Esna II, 162, 5; Esna II, 169, 4; Esna II, 176, 8   
+   
+*sšr.w*		Esna II, 120, 12   
+   
+*sšš*		Esna II, 184, 28   
+   
+*sšš.t*		Esna II, 52, 21; Esna II, 74, 37   
+   
+*sšš.wy*		Esna II, 102, 2   
+   
+*sštȝ*		Esna II, 102, 2; Esna II, 124, 1; Esna II, 176, 1; Esna II, 184, 24   
+   
+*sšd*		Esna II, 88, 10   
+   
+*sš-ḥr-sȝ-ȝḥ.t*		Esna II, 191, 27   
+   
+*sš-nṯr*		Esna II, 55, 6   
+   
+*sš*		Esna II, 77, 17; Esna II, 127, 10; Esna II, 156, 16; Esna II, 163, 21; Esna II, 183, 5   
+   
+*sš.w*		Esna II, 85, 4; Esna II, 136, 7; Esna II, 156, 28; Esna II, 163, 19   
+   
+*sqȝ*		Esna II, 81, 5; Esna II, 169, 1; Esna II, 176, 1; Esna II, 183, 5   
+   
+*skr*		Esna II, 141, 14   
+   
+*sk*		Esna II, 129, 4; Esna II, 183, 8   
+   
+*sgb*		Esna II, 76, 4; Esna II, 130, 3   
+   
+*stw.t*		Esna II, 128, 4   
+   
+*stwḫ*		Esna II, 129, 3   
+   
+*stp*		Esna II, 74, 29; Esna II, 183, 3   
+   
+*stp-zȝ*		Esna II, 74, 19   
+   
+*stp.w-zȝ*		Esna II, 63, 3   
+   
+*st*		Esna II, 50, 4; Esna II, 73, 19; Esna II, 80, 1; Esna II, 80, 4; Esna II, 130, 3   
+   
+*st.wt*		Esna II, 52, 6; Esna II, 74, 13; Esna II, 163, 16   
+   
+*sṯȝ*		Esna II, 77, 12; Esna II, 77, 13   
+   
+*sṯȝm*		Esna II, 63, 1; Esna II, 107, 3; Esna II, 163, 22; Esna II, 191, 17   
+   
+*sṯỉ*		Esna II, 54, 8; Esna II, 62, 4; Esna II, 76, 16; Esna II, 76, 16; Esna II, 77, 18; Esna II, 95, 3; Esna II, 124, 1; Esna II, 128, 6; Esna II, 169, 9; Esna II, 176, 8; Esna II, 184, 26   
+   
+*sṯỉ-rȝ*		Esna II, 150, 2   
+   
+*sṯny*		Esna II, 141, 8   
+   
+*sṯz*		Esna II, 176, 1   
+   
+*sṯty.w*		Esna II, 72, 17   
+   
+*sṯ*		Esna II, 104, 8   
+   
+*sṯ.t*		Esna II, 76, 16; Esna II, 155, 6   
+   
+*sdȝdȝ*		Esna II, 163, 20   
+   
+*sd*		Esna II, 51, 4   
+   
+*sḏfȝ*		Esna II, 96, 1   
+   
+*sḏm*		Esna II, 104, 1; Esna II, 155, 2; Esna II, 183, 2   
+   
+*sḏm.w*		Esna II, 155, 2   
+   
+*sḏm.wt*		Esna II, 191, 25   
+   
+*sḏr*		Esna II, 55, 3; Esna II, 156, 19; Esna II, 163, 26   
+   
+*sḏr.w*		Esna II, 156, 19   
+   
+*sḏty*		Esna II, 107, 3   
+   
+*sḏd*		Esna II, 74, 7; Esna II, 141, 3   
+   
+*sḏdȝ*		Esna II, 191, 18   
+   
+*sḏḏ*		Esna II, 141, 4   
+   
+*sḏ*		Esna II, 61, 12; Esna II, 74, 38   
+   
+*s.wt*		Esna II, 55, 7   
+   
+*syf*		Esna II, 60, 4   
+   
+*s.t*		Esna II, 51, 5; Esna II, 55, 8; Esna II, 58, 3; Esna II, 72, 15; Esna II, 77, 14; Esna II, 77, 17; Esna II, 77, 18; Esna II, 80, 2; Esna II, 80, 7; Esna II, 81, 1; Esna II, 81, 3; Esna II, 84, 1; Esna II, 84, 1; Esna II, 85, 1; Esna II, 91, 11; Esna II, 102, 2; Esna II, 118, 4; Esna II, 124, 1; Esna II, 124, 2; Esna II, 125, 1; Esna II, 125, 2; Esna II, 127, 11; Esna II, 127, 9; Esna II, 129, 3; Esna II, 136, 8; Esna II, 141, 6; Esna II, 143, 8; Esna II, 156, 16; Esna II, 156, 20; Esna II, 156, 20; Esna II, 163, 18; Esna II, 170, 11; Esna II, 170, 11; Esna II, 176, 10; Esna II, 183, 3; Esna II, 184, 25; Esna II, 184, 27   
+   
+*s.t-*		Esna II, 67, 7   
+   
+*s.t-ʿȝ..t*		Esna II, 163, 27   
+   
+*s.t-ʿȝ.t*		Esna II, 55, 4; Esna II, 55, 5; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 130, 1   
+   
+*s.t-ʿn.t*		Esna II, 58, 1   
+   
+*s.t-ḥr*		Esna II, 50, 13; Esna II, 71, 14; Esna II, 74, 13; Esna II, 74, 4; Esna II, 82, 1; Esna II, 88, 5; Esna II, 88, 6; Esna II, 112, 8; Esna II, 135, 6; Esna II, 141, 10; Esna II, 141, 12; Esna II, 170, 11   
+   
+*s.t-ḥr.t*		Esna II, 77, 14; Esna II, 77, 16; Esna II, 129, 1   
+   
+*s.t-ḥry*		Esna II, 55, 2   
+   
+*s.t-ḫnt*		Esna II, 183, 5   
+   
+*s.t-ỉb*		Esna II, 63, 1; Esna II, 106, 3; Esna II, 191, 20   
+   
+*s.t-f*		Esna II, 55, 5   
+   
+*s.t-nbỉ*		Esna II, 63, 3   
+   
+*s.t-rȝ*		Esna II, 163, 15; Esna II, 163, 24; Esna II, 163, 24   
+   
+*s.t-rʿ*		Esna II, 169, 1; Esna II, 176, 1   
+   
+*s.t-wr.t*		Esna II, 52, 12   
+   
+*s.tb*		Esna II, 169, 1   
+   
+*s..*		Esna II, 130, 3   
+   
+*sy*		Esna II, 55, 3; Esna II, 58, 1; Esna II, 63, 1; Esna II, 85, 4; Esna II, 106, 3; Esna II, 163, 16; Esna II, 184, 21   
+   
+*šȝỉ*		Esna II, 163, 24; Esna II, 184, 24   
+   
+*šȝʿ*		Esna II, 49, 6; Esna II, 51, 6; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 5; Esna II, 58, 7; Esna II, 62, 6; Esna II, 63, 3; Esna II, 64, 1; Esna II, 67, 10; Esna II, 67, 4; Esna II, 73, 7; Esna II, 73, 8; Esna II, 91, 15; Esna II, 105, 7; Esna II, 107, 1; Esna II, 107, 1; Esna II, 112, 11; Esna II, 120, 13; Esna II, 136, 7; Esna II, 143, 8; Esna II, 162, 1; Esna II, 163, 16; Esna II, 170, 11; Esna II, 184, 15; Esna II, 191, 20; Esna II, 191, 20; Esna II, 191, 28   
+   
+*šȝʿ.t*		Esna II, 64, 1; Esna II, 136, 13   
+   
+*šȝʿ.w*		Esna II, 191, 20   
+   
+*šȝ*		Esna II, 76, 4   
+   
+*šȝ.w*		Esna II, 54, 16; Esna II, 156, 16   
+   
+*šȝy*		Esna II, 64, 2; Esna II, 115, 8; Esna II, 150, 2   
+   
+*šȝy-nfr*		Esna II, 80, 6   
+   
+*šȝy.w*		Esna II, 115, 8   
+   
+*šʿsy.t*		Esna II, 191, 25   
+   
+*šʿ*		Esna II, 163, 25   
+   
+*šʿy*		Esna II, 113, 1; Esna II, 113, 3   
+   
+*šww*		Esna II, 62, 7; Esna II, 85, 3; Esna II, 107, 2; Esna II, 170, 11; Esna II, 184, 14; Esna II, 191, 19   
+   
+*šwty*		Esna II, 70, 12   
+   
+*šw*		Esna II, 51, 17; Esna II, 52, 26; Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 3; Esna II, 55, 5; Esna II, 55, 8; Esna II, 58, 4; Esna II, 59, 2; Esna II, 60, 1; Esna II, 60, 5; Esna II, 73, 6; Esna II, 77, 11; Esna II, 77, 11; Esna II, 77, 15; Esna II, 80, 1; Esna II, 80, 2; Esna II, 81, 3; Esna II, 84, 1; Esna II, 84, 1; Esna II, 88, 11; Esna II, 88, 14; Esna II, 95, 7; Esna II, 96, 2; Esna II, 104, 9; Esna II, 113, 8; Esna II, 120, 11; Esna II, 127, 4; Esna II, 129, 1; Esna II, 129, 3; Esna II, 140, 4; Esna II, 141, 12; Esna II, 141, 6; Esna II, 156, 22; Esna II, 156, 24; Esna II, 156, 25; Esna II, 162, 5; Esna II, 169, 1; Esna II, 176, 1; Esna II, 176, 10; Esna II, 177, 11; Esna II, 183, 9; Esna II, 184, 21; Esna II, 184, 27; Esna II, 191, 16   
+   
+*šw.t-nṯr*		Esna II, 110, 10; Esna II, 110, 8   
+   
+*šw.ty*		Esna II, 77, 13; Esna II, 141, 4; Esna II, 184, 21   
+   
+*šwy*		Esna II, 105, 3   
+   
+*šbn*		Esna II, 54, 4; Esna II, 169, 9; Esna II, 191, 27   
+   
+*šbn.w*		Esna II, 155, 4; Esna II, 156, 26; Esna II, 191, 21   
+   
+*šbny*		Esna II, 191, 23   
+   
+*šb.wy*		Esna II, 156, 22   
+   
+*šps*		Esna II, 52, 12; Esna II, 52, 24; Esna II, 55, 5; Esna II, 55, 6; Esna II, 59, 1; Esna II, 59, 1; Esna II, 60, 4; Esna II, 70, 11; Esna II, 73, 11; Esna II, 73, 5; Esna II, 74, 38; Esna II, 96, 2; Esna II, 102, 1; Esna II, 106, 1; Esna II, 113, 7; Esna II, 125, 1; Esna II, 135, 10; Esna II, 163, 26; Esna II, 176, 1; Esna II, 183, 1; Esna II, 191, 18; Esna II, 191, 20   
+   
+*šps.t*		Esna II, 73, 18   
+   
+*šps.w*		Esna II, 74, 9   
+   
+*šp*		Esna II, 104, 5   
+   
+*šfy-ḥȝ.t*		Esna II, 88, 12   
+   
+*šfy-šfy.w*		Esna II, 184, 24   
+   
+*šfy.t*		Esna II, 64, 4; Esna II, 74, 13; Esna II, 85, 4; Esna II, 129, 4; Esna II, 163, 20; Esna II, 184, 26; Esna II, 191, 16; Esna II, 191, 17   
+   
+*šmȝ.w*		Esna II, 156, 16; Esna II, 169, 9   
+   
+*šmȝy.w*		Esna II, 163, 14   
+   
+*šmʿ*		Esna II, 52, 15; Esna II, 52, 20; Esna II, 54, 5; Esna II, 60, 1; Esna II, 81, 1   
+   
+*šmʿ-mḥw*		Esna II, 72, 7; Esna II, 88, 5; Esna II, 150, 2   
+   
+*šmʿ-nfr*		Esna II, 55, 7; Esna II, 62, 10; Esna II, 80, 6; Esna II, 135, 13; Esna II, 135, 9; Esna II, 163, 18   
+   
+*šmʿ-s*		Esna II, 88, 3; Esna II, 113, 13   
+   
+*šmʿ.w*		Esna II, 191, 25   
+   
+*šmw*		Esna II, 55, 6; Esna II, 73, 7; Esna II, 77, 15; Esna II, 77, 16; Esna II, 163, 22; Esna II, 163, 25   
+   
+*šmr.t*		Esna II, 63, 1   
+   
+*šms*		Esna II, 80, 7; Esna II, 85, 3; Esna II, 102, 1; Esna II, 110, 3; Esna II, 123, 1; Esna II, 141, 13; Esna II, 141, 14; Esna II, 163, 21   
+   
+*šms-ỉb*		Esna II, 63, 4; Esna II, 72, 17; Esna II, 76, 4; Esna II, 127, 5   
+   
+*šms-cows*		Esna II, 156, 23   
+   
+*šms.wy*		Esna II, 156, 22   
+   
+*šm*		Esna II, 60, 5; Esna II, 81, 2; Esna II, 110, 10; Esna II, 110, 10; Esna II, 191, 21   
+   
+*šnỉ.w-tȝ*		Esna II, 169, 9   
+   
+*šnʿ*		Esna II, 162, 5; Esna II, 169, 3; Esna II, 169, 9   
+   
+*šnʿ.t*		Esna II, 96, 2   
+   
+*šnʿ.w*		Esna II, 191, 26   
+   
+*šnw*		Esna II, 74, 19; Esna II, 106, 2; Esna II, 141, 10; Esna II, 169, 8   
+   
+*šnw.t*		Esna II, 163, 21   
+   
+*šn*		Esna II, 51, 9; Esna II, 73, 21; Esna II, 77, 12; Esna II, 155, 10; Esna II, 184, 28   
+   
+*šhb*		Esna II, 105, 1   
+   
+*šzp*		Esna II, 50, 13; Esna II, 51, 10; Esna II, 51, 4; Esna II, 52, 11; Esna II, 55, 1; Esna II, 55, 2; Esna II, 58, 6; Esna II, 70, 9; Esna II, 71, 14; Esna II, 72, 17; Esna II, 72, 3; Esna II, 73, 3; Esna II, 74, 9; Esna II, 77, 16; Esna II, 91, 6; Esna II, 102, 2; Esna II, 112, 12; Esna II, 135, 16; Esna II, 141, 10; Esna II, 155, 4; Esna II, 156, 24; Esna II, 162, 6; Esna II, 162, 9; Esna II, 191, 18; Esna II, 191, 18   
+   
+*šzp-ʿnḫ*		Esna II, 52, 4   
+   
+*šsm.t*		Esna II, 125, 2   
+   
+*šsmw*		Esna II, 118, 4; Esna II, 125, 2; Esna II, 191, 25   
+   
+*šsr*		Esna II, 104, 8   
+   
+*šsr-tȝ*		Esna II, 112, 10   
+   
+*šsr.w*		Esna II, 131, 11   
+   
+*šsṯy.t*		Esna II, 156, 23   
+   
+*šs*		Esna II, 136, 1; Esna II, 136, 10; Esna II, 136, 2; Esna II, 136, 7   
+   
+*štȝ*		Esna II, 104, 1; Esna II, 169, 3; Esna II, 191, 19   
+   
+*štȝ-*		Esna II, 112, 1   
+   
+*štȝ-ḥn.ty*		Esna II, 156, 24   
+   
+*štȝ-ḫʿ.w*		Esna II, 135, 13   
+   
+*štȝ.t*		Esna II, 52, 23; Esna II, 60, 3; Esna II, 63, 1; Esna II, 71, 12; Esna II, 74, 37; Esna II, 76, 12; Esna II, 81, 3; Esna II, 104, 2; Esna II, 107, 1; Esna II, 129, 3; Esna II, 136, 13; Esna II, 155, 4; Esna II, 156, 20; Esna II, 163, 20; Esna II, 170, 11; Esna II, 170, 11   
+   
+*štȝ.w*		Esna II, 163, 27   
+   
+*šdỉ*		Esna II, 169, 3   
+   
+*šdnw.t*		Esna II, 155, 5   
+   
+*šd*		Esna II, 77, 15; Esna II, 80, 2; Esna II, 115, 8; Esna II, 141, 7; Esna II, 155, 4; Esna II, 156, 15   
+   
+*šd.t*		Esna II, 50, 10; Esna II, 77, 17; Esna II, 143, 4; Esna II, 156, 24; Esna II, 156, 25; Esna II, 191, 27   
+   
+*šdy.wt*		Esna II, 143, 3; Esna II, 191, 18   
+   
+*qȝ*		Esna II, 104, 5; Esna II, 115, 8; Esna II, 163, 11; Esna II, 163, 16   
+   
+*qȝ.w-ḥn.ty*		Esna II, 191, 21   
+   
+*qȝy*		Esna II, 104, 5; Esna II, 163, 16; Esna II, 183, 5   
+   
+*qȝy.w*		Esna II, 115, 4   
+   
+*qbb*		Esna II, 60, 4; Esna II, 130, 3   
+   
+*qbḥw*		Esna II, 50, 4; Esna II, 54, 11; Esna II, 54, 4; Esna II, 55, 5; Esna II, 55, 6; Esna II, 77, 10; Esna II, 77, 17; Esna II, 191, 19; Esna II, 191, 20   
+   
+*qfȝ*		Esna II, 131, 7   
+   
+*qmȝ*		Esna II, 51, 7; Esna II, 63, 3; Esna II, 67, 19; Esna II, 70, 12; Esna II, 73, 9; Esna II, 73, 9; Esna II, 81, 1; Esna II, 104, 2; Esna II, 104, 3; Esna II, 112, 2; Esna II, 113, 9; Esna II, 118, 10; Esna II, 118, 11; Esna II, 129, 2; Esna II, 135, 11; Esna II, 136, 16; Esna II, 141, 6; Esna II, 162, 1; Esna II, 162, 2; Esna II, 163, 16; Esna II, 163, 18; Esna II, 163, 18; Esna II, 163, 21; Esna II, 163, 25; Esna II, 163, 25; Esna II, 163, 25; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 15; Esna II, 184, 27; Esna II, 191, 16   
+   
+*qmȝ-*		Esna II, 77, 14   
+   
+*qmȝty.w*		Esna II, 52, 17   
+   
+*qmḥ.w*		Esna II, 124, 1   
+   
+*qnd*		Esna II, 102, 2   
+   
+*qn-rnp.t*		Esna II, 191, 19   
+   
+*qn*		Esna II, 55, 9; Esna II, 55, 9; Esna II, 81, 5; Esna II, 127, 6; Esna II, 127, 8; Esna II, 191, 17   
+   
+*qn.w*		Esna II, 54, 4; Esna II, 162, 3   
+   
+*qrr.ty*		Esna II, 54, 7   
+   
+*qs.w*		Esna II, 95, 3   
+   
+*qdỉ*		Esna II, 52, 13; Esna II, 55, 6; Esna II, 61, 6; Esna II, 63, 3; Esna II, 64, 1; Esna II, 70, 14; Esna II, 73, 9; Esna II, 74, 9; Esna II, 95, 2; Esna II, 95, 4; Esna II, 103, 1; Esna II, 103, 2; Esna II, 103, 2; Esna II, 104, 2; Esna II, 107, 1; Esna II, 120, 13; Esna II, 141, 11; Esna II, 184, 15; Esna II, 191, 20   
+   
+*qdỉ-qdỉ.w*		Esna II, 80, 7; Esna II, 183, 5   
+   
+*qdỉ.t*		Esna II, 136, 8   
+   
+*qdỉ.w*		Esna II, 63, 4; Esna II, 103, 2   
+   
+*qdfty.w*		Esna II, 163, 14   
+   
+*qd*		Esna II, 58, 7; Esna II, 102, 1; Esna II, 127, 2; Esna II, 136, 1; Esna II, 191, 16   
+   
+*kȝwt*		Esna II, 88, 6   
+   
+*kȝpw*		Esna II, 124, 1; Esna II, 125, 1   
+   
+*kȝ-ḥr-kȝ*		Esna II, 55, 5; Esna II, 81, 5; Esna II, 127, 5; Esna II, 163, 21   
+   
+*kȝ-ỉwnw*		Esna II, 191, 24   
+   
+*kȝ-nẖt*		Esna II, 74, 3   
+   
+*kȝ-ps*		Esna II, 191, 27   
+   
+*kȝ*		Esna II, 49, 7; Esna II, 58, 3; Esna II, 58, 4; Esna II, 59, 1; Esna II, 60, 4; Esna II, 63, 1; Esna II, 70, 12; Esna II, 72, 2; Esna II, 72, 7; Esna II, 74, 24; Esna II, 76, 14; Esna II, 76, 4; Esna II, 80, 7; Esna II, 84, 1; Esna II, 91, 3; Esna II, 102, 2; Esna II, 102, 2; Esna II, 103, 2; Esna II, 104, 1; Esna II, 104, 11; Esna II, 104, 11; Esna II, 104, 5; Esna II, 104, 5; Esna II, 106, 3; Esna II, 112, 13; Esna II, 112, 15; Esna II, 120, 1; Esna II, 127, 9; Esna II, 129, 4; Esna II, 163, 12; Esna II, 163, 24; Esna II, 163, 27; Esna II, 176, 1; Esna II, 184, 21; Esna II, 184, 25; Esna II, 184, 26; Esna II, 191, 19; Esna II, 191, 19; Esna II, 191, 21   
+   
+*kȝ.t*		Esna II, 49, 13; Esna II, 55, 2; Esna II, 58, 3; Esna II, 61, 7; Esna II, 63, 4; Esna II, 64, 2; Esna II, 64, 4; Esna II, 84, 1; Esna II, 113, 8; Esna II, 136, 10; Esna II, 136, 3; Esna II, 162, 2; Esna II, 162, 3; Esna II, 190, 2   
+   
+*kȝ.w*		Esna II, 58, 5; Esna II, 70, 12; Esna II, 72, 11; Esna II, 91, 5; Esna II, 95, 3; Esna II, 96, 2; Esna II, 105, 4; Esna II, 146, 2; Esna II, 155, 5; Esna II, 155, 5; Esna II, 156, 18; Esna II, 156, 21; Esna II, 156, 25; Esna II, 156, 25; Esna II, 183, 2; Esna II, 184, 18; Esna II, 191, 27   
+   
+*km-ȝ.t*		Esna II, 70, 11   
+   
+*km*		Esna II, 184, 22; Esna II, 184, 24; Esna II, 190, 1; Esna II, 191, 21   
+   
+*km.t*		Esna II, 50, 3; Esna II, 73, 12; Esna II, 77, 16; Esna II, 107, 1; Esna II, 150, 2; Esna II, 155, 1   
+   
+*kmy.t*		Esna II, 190, 3   
+   
+*kmy.w*		Esna II, 156, 26; Esna II, 190, 8   
+   
+*knm.t*		Esna II, 124, 2   
+   
+*kns.t*		Esna II, 81, 4; Esna II, 156, 17   
+   
+*krmnyqs*		Esna II, 49, 3; Esna II, 91, 2   
+   
+*krdys*		Esna II, 91, 1   
+   
+*kḥkḥ*		Esna II, 73, 8   
+   
+*ksw*		Esna II, 156, 11; Esna II, 184, 28   
+   
+*ksrs*		Esna II, 49, 2; Esna II, 61, 2; Esna II, 62, 2; Esna II, 71, 2; Esna II, 112, 3; Esna II, 118, 2; Esna II, 140, 2; Esna II, 146, 2; Esna II, 150, 2   
+   
+*ks*		Esna II, 115, 5; Esna II, 115, 7   
+   
+*kkw*		Esna II, 112, 12; Esna II, 184, 20   
+   
+*kysrs*		Esna II, 70, 2; Esna II, 96, 1; Esna II, 97, 3; Esna II, 115, 3; Esna II, 141, 1; Esna II, 143, 3   
+   
+*k.t*		Esna II, 73, 7   
+   
+*ky*		Esna II, 184, 15   
+   
+*ky.w*		Esna II, 60, 3   
+   
+*gȝỉ*		Esna II, 176, 9   
+   
+*gȝw*		Esna II, 169, 1   
+   
+*gȝw.t*		Esna II, 162, 3   
+   
+*gȝwty.w*		Esna II, 163, 26   
+   
+*gȝbw.t*		Esna II, 176, 9   
+   
+*gȝ.wt*		Esna II, 124, 1   
+   
+*gỉve*		Esna II, 51, 16   
+   
+*gbb*		Esna II, 49, 4; Esna II, 55, 5; Esna II, 58, 5; Esna II, 67, 12; Esna II, 77, 11; Esna II, 88, 18; Esna II, 104, 11; Esna II, 107, 3; Esna II, 110, 7; Esna II, 140, 6; Esna II, 190, 4   
+   
+*gbgb.w*		Esna II, 191, 24   
+   
+*gb.t*		Esna II, 104, 2; Esna II, 136, 16   
+   
+*gm-bȝ.w*		Esna II, 55, 3   
+   
+*gm-wš*		Esna II, 183, 3   
+   
+*gm*		Esna II, 55, 1; Esna II, 55, 3; Esna II, 81, 1; Esna II, 85, 2   
+   
+*gnḥ-rʿ*		Esna II, 190, 3   
+   
+*gnḥy.w*		Esna II, 190, 4   
+   
+*gnẖ.w*		Esna II, 85, 3   
+   
+*gnš.w*		Esna II, 130, 4   
+   
+*grb*		Esna II, 51, 9; Esna II, 73, 21   
+   
+*grḥ*		Esna II, 156, 21; Esna II, 184, 14; Esna II, 184, 22   
+   
+*grg*		Esna II, 61, 1; Esna II, 61, 6; Esna II, 63, 4; Esna II, 64, 2; Esna II, 84, 1; Esna II, 113, 13; Esna II, 136, 9; Esna II, 156, 18; Esna II, 170, 11; Esna II, 183, 3   
+   
+*grgb*		Esna II, 81, 6   
+   
+*grds*		Esna II, 49, 2   
+   
+*gs-ḥry*		Esna II, 130, 3   
+   
+*gs-dp.t*		Esna II, 80, 5   
+   
+*gs-rsy*		Esna II, 130, 1   
+   
+*gs*		Esna II, 127, 7; Esna II, 129, 1   
+   
+*gs.w-pr.w*		Esna II, 136, 8; Esna II, 184, 26; Esna II, 191, 15   
+   
+*tȝš*		Esna II, 84, 1   
+   
+*tȝšw*		Esna II, 162, 4   
+   
+*tȝ-*		Esna II, 62, 5; Esna II, 123, 8; Esna II, 149, 3   
+   
+*tȝ-ḥr-ȝw*		Esna II, 50, 11   
+   
+*tȝ-ṯnn*		Esna II, 58, 2; Esna II, 58, 7; Esna II, 63, 3; Esna II, 64, 1; Esna II, 71, 6; Esna II, 80, 7; Esna II, 81, 1; Esna II, 103, 2; Esna II, 104, 1; Esna II, 104, 4; Esna II, 104, 4; Esna II, 104, 6; Esna II, 106, 1; Esna II, 136, 14; Esna II, 141, 4; Esna II, 176, 2   
+   
+*tȝ-mḥw*		Esna II, 55, 9; Esna II, 63, 1; Esna II, 73, 20; Esna II, 81, 1; Esna II, 88, 12; Esna II, 136, 15; Esna II, 141, 13; Esna II, 184, 26   
+   
+*tȝ-mrỉ*		Esna II, 71, 9; Esna II, 72, 7; Esna II, 156, 18; Esna II, 191, 20   
+   
+*tȝ-nṯr*		Esna II, 62, 1; Esna II, 118, 4; Esna II, 124, 1; Esna II, 163, 23   
+   
+*tȝ-nn.t*		Esna II, 156, 22   
+   
+*tȝ-nt-šmr.t*		Esna II, 55, 9   
+   
+*tȝ-r-ḏr*		Esna II, 54, 8; Esna II, 55, 2; Esna II, 81, 2; Esna II, 84, 1; Esna II, 127, 9; Esna II, 184, 25   
+   
+*tȝ-sṯỉ*		Esna II, 54, 8   
+   
+*tȝ-šmʿ*		Esna II, 58, 7; Esna II, 63, 1; Esna II, 63, 1; Esna II, 73, 20; Esna II, 85, 1; Esna II, 88, 12; Esna II, 127, 11; Esna II, 136, 15; Esna II, 141, 14; Esna II, 163, 19; Esna II, 163, 25; Esna II, 163, 25; Esna II, 170, 11; Esna II, 184, 26   
+   
+*tȝ-sn.t*		Esna II, 49, 5; Esna II, 50, 9; Esna II, 52, 20; Esna II, 54, 11; Esna II, 54, 2; Esna II, 54, 7; Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 5; Esna II, 55, 7; Esna II, 55, 8; Esna II, 59, 1; Esna II, 61, 5; Esna II, 62, 8; Esna II, 70, 11; Esna II, 71, 5; Esna II, 72, 7; Esna II, 73, 4; Esna II, 76, 11; Esna II, 76, 15; Esna II, 76, 3; Esna II, 76, 7; Esna II, 77, 10; Esna II, 77, 12; Esna II, 77, 14; Esna II, 77, 14; Esna II, 77, 15; Esna II, 77, 17; Esna II, 77, 18; Esna II, 81, 1; Esna II, 81, 2; Esna II, 81, 6; Esna II, 88, 7; Esna II, 91, 13; Esna II, 96, 2; Esna II, 102, 1; Esna II, 102, 2; Esna II, 103, 1; Esna II, 104, 9; Esna II, 107, 1; Esna II, 112, 13; Esna II, 113, 7; Esna II, 115, 3; Esna II, 115, 7; Esna II, 118, 9; Esna II, 120, 9; Esna II, 123, 7; Esna II, 131, 10; Esna II, 131, 14; Esna II, 131, 9; Esna II, 135, 13; Esna II, 136, 11; Esna II, 136, 13; Esna II, 140, 7; Esna II, 143, 3; Esna II, 143, 7; Esna II, 145, 3; Esna II, 146, 2; Esna II, 156, 20; Esna II, 163, 18; Esna II, 163, 19; Esna II, 163, 26; Esna II, 163, 28; Esna II, 170, 11; Esna II, 170, 11; Esna II, 177, 11; Esna II, 183, 1; Esna II, 183, 2; Esna II, 184, 28   
+   
+*tȝ-wr*		Esna II, 184, 19   
+   
+*tȝ*		Esna II, 50, 4; Esna II, 51, 10; Esna II, 51, 9; Esna II, 52, 6; Esna II, 52, 6; Esna II, 55, 5; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 6; Esna II, 58, 2; Esna II, 58, 3; Esna II, 59, 2; Esna II, 60, 2; Esna II, 60, 3; Esna II, 60, 3; Esna II, 61, 1; Esna II, 61, 6; Esna II, 64, 1; Esna II, 64, 2; Esna II, 67, 14; Esna II, 70, 13; Esna II, 70, 15; Esna II, 70, 16; Esna II, 71, 8; Esna II, 73, 21; Esna II, 73, 21; Esna II, 74, 19; Esna II, 76, 4; Esna II, 80, 1; Esna II, 80, 7; Esna II, 80, 7; Esna II, 81, 1; Esna II, 84, 1; Esna II, 88, 15; Esna II, 91, 18; Esna II, 95, 5; Esna II, 95, 6; Esna II, 97, 1; Esna II, 102, 2; Esna II, 107, 1; Esna II, 107, 1; Esna II, 112, 12; Esna II, 113, 13; Esna II, 115, 8; Esna II, 118, 11; Esna II, 118, 11; Esna II, 120, 11; Esna II, 120, 11; Esna II, 120, 12; Esna II, 120, 8; Esna II, 127, 10; Esna II, 127, 5; Esna II, 135, 13; Esna II, 135, 16; Esna II, 136, 16; Esna II, 141, 10; Esna II, 141, 7; Esna II, 141, 7; Esna II, 146, 1; Esna II, 146, 2; Esna II, 150, 2; Esna II, 155, 3; Esna II, 155, 5; Esna II, 156, 11; Esna II, 156, 18; Esna II, 156, 20; Esna II, 162, 10; Esna II, 162, 9; Esna II, 163, 11; Esna II, 163, 16; Esna II, 163, 16; Esna II, 163, 19; Esna II, 163, 20; Esna II, 163, 23; Esna II, 163, 25; Esna II, 163, 25; Esna II, 163, 25; Esna II, 170, 11; Esna II, 170, 11; Esna II, 177, 11; Esna II, 177, 11; Esna II, 183, 3; Esna II, 183, 3; Esna II, 184, 18; Esna II, 184, 20; Esna II, 184, 26; Esna II, 184, 26; Esna II, 190, 9; Esna II, 191, 16; Esna II, 191, 17; Esna II, 191, 18   
+   
+*tȝ.w*		Esna II, 88, 18; Esna II, 113, 15; Esna II, 163, 20; Esna II, 184, 20   
+   
+*tȝ.wy*		Esna II, 49, 2; Esna II, 50, 1; Esna II, 50, 3; Esna II, 51, 1; Esna II, 51, 16; Esna II, 52, 1; Esna II, 52, 20; Esna II, 54, 8; Esna II, 62, 7; Esna II, 70, 13; Esna II, 70, 17; Esna II, 70, 9; Esna II, 74, 33; Esna II, 76, 14; Esna II, 76, 16; Esna II, 88, 16; Esna II, 88, 5; Esna II, 91, 8; Esna II, 97, 3; Esna II, 103, 2; Esna II, 113, 4; Esna II, 127, 11; Esna II, 135, 8; Esna II, 141, 10; Esna II, 141, 10; Esna II, 143, 4; Esna II, 156, 13; Esna II, 156, 18; Esna II, 170, 11; Esna II, 183, 1; Esna II, 184, 13; Esna II, 184, 14; Esna II, 191, 14; Esna II, 191, 14; Esna II, 191, 18; Esna II, 191, 19   
+   
+*tȝy*		Esna II, 191, 21   
+   
+*tȝy.t*		Esna II, 74, 27   
+   
+*tȝy.wt*		Esna II, 190, 3; Esna II, 190, 5   
+   
+*tỉtỉs*		Esna II, 71, 2; Esna II, 96, 1   
+   
+*tỉ-šps*		Esna II, 125, 1; Esna II, 163, 22   
+   
+*tỉ.t*		Esna II, 74, 37   
+   
+*tʿn.t*		Esna II, 77, 13   
+   
+*twȝ*		Esna II, 64, 4; Esna II, 169, 10; Esna II, 176, 1; Esna II, 176, 10; Esna II, 177, 11; Esna II, 183, 9; Esna II, 184, 21; Esna II, 184, 21   
+   
+*twȝy.t*		Esna II, 169, 10   
+   
+*twm*		Esna II, 61, 3; Esna II, 123, 4   
+   
+*twmtyns*		Esna II, 62, 3; Esna II, 112, 4   
+   
+*twr*		Esna II, 49, 6; Esna II, 49, 8; Esna II, 67, 13; Esna II, 67, 18; Esna II, 67, 4; Esna II, 96, 1; Esna II, 96, 1; Esna II, 127, 11; Esna II, 127, 9; Esna II, 184, 21   
+   
+*twt*		Esna II, 60, 4; Esna II, 191, 16   
+   
+*twt.w*		Esna II, 191, 16   
+   
+*twtw*		Esna II, 55, 2; Esna II, 118, 4; Esna II, 163, 18   
+   
+*tbrys*		Esna II, 49, 2   
+   
+*tp-ʿ*		Esna II, 74, 38; Esna II, 106, 1; Esna II, 162, 1   
+   
+*tp-rȝ*		Esna II, 70, 15; Esna II, 120, 1; Esna II, 163, 19   
+   
+*tp-rnp.t*		Esna II, 51, 15; Esna II, 163, 13   
+   
+*tp-sms*		Esna II, 136, 2   
+   
+*tp-tr.w*		Esna II, 184, 22   
+   
+*tp-wȝ.t*		Esna II, 52, 11   
+   
+*tp*		Esna II, 64, 1; Esna II, 70, 13; Esna II, 74, 19; Esna II, 74, 20; Esna II, 74, 23; Esna II, 77, 18; Esna II, 141, 5; Esna II, 141, 8; Esna II, 150, 2; Esna II, 163, 17; Esna II, 184, 22; Esna II, 184, 23   
+   
+*tp.t*		Esna II, 163, 22   
+   
+*tp.t-nwn*		Esna II, 156, 17   
+   
+*tp.w*		Esna II, 104, 4; Esna II, 127, 6   
+   
+*tp.w-rd.w*		Esna II, 136, 12   
+   
+*tpy*		Esna II, 51, 13; Esna II, 58, 2; Esna II, 61, 11; Esna II, 64, 1; Esna II, 70, 10; Esna II, 72, 12; Esna II, 73, 7; Esna II, 77, 15; Esna II, 112, 11; Esna II, 120, 13; Esna II, 131, 13; Esna II, 150, 2; Esna II, 162, 1   
+   
+*tpy.w*		Esna II, 74, 39   
+   
+*tpy.w-ʿ*		Esna II, 55, 1; Esna II, 55, 1; Esna II, 162, 2   
+   
+*tpy.w-ỉȝ.t*		Esna II, 52, 17   
+   
+*tpy.w-tȝ*		Esna II, 54, 16; Esna II, 76, 8; Esna II, 104, 1; Esna II, 190, 1   
+   
+*tfn*		Esna II, 73, 7   
+   
+*tfn.t*		Esna II, 55, 1; Esna II, 55, 3; Esna II, 55, 7; Esna II, 60, 1; Esna II, 60, 3; Esna II, 60, 5; Esna II, 73, 17; Esna II, 73, 6; Esna II, 77, 11; Esna II, 80, 1; Esna II, 81, 4; Esna II, 88, 15; Esna II, 127, 3; Esna II, 127, 4; Esna II, 127, 6; Esna II, 130, 4; Esna II, 130, 5; Esna II, 141, 6; Esna II, 146, 2; Esna II, 156, 22; Esna II, 156, 24; Esna II, 191, 21   
+   
+*tfy*		Esna II, 110, 9   
+   
+*tmȝ.t*		Esna II, 58, 1; Esna II, 60, 5; Esna II, 62, 6; Esna II, 63, 3; Esna II, 71, 7; Esna II, 91, 15; Esna II, 113, 12; Esna II, 136, 15; Esna II, 156, 19; Esna II, 163, 28; Esna II, 184, 23   
+   
+*tmtỉʿns*		Esna II, 59, 1   
+   
+*tmtyns*		Esna II, 115, 7   
+   
+*tmdyns*		Esna II, 82, 1   
+   
+*tm*		Esna II, 51, 4; Esna II, 104, 3; Esna II, 129, 2   
+   
+*tnỉ*		Esna II, 183, 3   
+   
+*tnm*		Esna II, 190, 3   
+   
+*tnṯȝ.t*		Esna II, 141, 3   
+   
+*trȝtyns*		Esna II, 141, 14   
+   
+*trȝyns*		Esna II, 141, 14   
+   
+*tr*		Esna II, 51, 14; Esna II, 51, 14; Esna II, 54, 8; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 55, 6; Esna II, 55, 6; Esna II, 55, 7; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 16; Esna II, 77, 16; Esna II, 80, 5; Esna II, 80, 5; Esna II, 85, 1; Esna II, 104, 11; Esna II, 104, 11; Esna II, 104, 11; Esna II, 115, 4; Esna II, 122, 3; Esna II, 140, 2; Esna II, 143, 2; Esna II, 191, 17   
+   
+*thỉ*		Esna II, 156, 26   
+   
+*thm*		Esna II, 54, 4; Esna II, 156, 16   
+   
+*tḫn*		Esna II, 52, 24; Esna II, 74, 38   
+   
+*tḫ*		Esna II, 124, 2; Esna II, 124, 2   
+   
+*tš*		Esna II, 64, 2   
+   
+*tqr-pḥty*		Esna II, 127, 7   
+   
+*tkȝ*		Esna II, 77, 18; Esna II, 156, 24   
+   
+*tkn*		Esna II, 97, 3   
+   
+*tym*		Esna II, 122, 4   
+   
+*tymdns*		Esna II, 118, 3; Esna II, 118, 4   
+   
+*tymtyns*		Esna II, 140, 3   
+   
+*tyns*		Esna II, 123, 4   
+   
+*ty*		Esna II, 135, 11   
+   
+*ty.t*		Esna II, 52, 23   
+   
+*ṯȝỉ*		Esna II, 130, 3   
+   
+*ṯȝw*		Esna II, 54, 16; Esna II, 59, 1; Esna II, 70, 15; Esna II, 70, 17; Esna II, 105, 1; Esna II, 106, 2; Esna II, 113, 11; Esna II, 156, 17; Esna II, 156, 19; Esna II, 177, 11; Esna II, 184, 23; Esna II, 191, 18   
+   
+*ṯȝ*		Esna II, 130, 3   
+   
+*ṯȝ.wy*		Esna II, 58, 1; Esna II, 64, 4; Esna II, 73, 8; Esna II, 80, 4; Esna II, 85, 4; Esna II, 104, 10; Esna II, 104, 6; Esna II, 169, 7; Esna II, 183, 5   
+   
+*ṯȝy*		Esna II, 77, 16; Esna II, 169, 6   
+   
+*ṯȝy.w*		Esna II, 74, 29; Esna II, 184, 15; Esna II, 184, 27; Esna II, 184, 28   
+   
+*ṯȝy.w-ḥm.wt*		Esna II, 184, 23   
+   
+*ṯwf*		Esna II, 155, 1; Esna II, 155, 2; Esna II, 156, 21; Esna II, 169, 6; Esna II, 183, 5; Esna II, 190, 1   
+   
+*ṯb.ty*		Esna II, 130, 3; Esna II, 141, 14   
+   
+*ṯpḥ.t*		Esna II, 50, 4; Esna II, 67, 16; Esna II, 67, 20; Esna II, 76, 16; Esna II, 96, 1; Esna II, 105, 4; Esna II, 115, 4   
+   
+*ṯpḥ.t-ḏȝ.t*		Esna II, 73, 10   
+   
+*ṯmȝ-ʿ*		Esna II, 162, 1   
+   
+*ṯnỉ*		Esna II, 51, 6; Esna II, 73, 18; Esna II, 74, 21; Esna II, 85, 1; Esna II, 95, 5; Esna II, 103, 2; Esna II, 106, 1; Esna II, 136, 14; Esna II, 141, 4; Esna II, 150, 2; Esna II, 150, 2; Esna II, 184, 22   
+   
+*ṯnỉ.t*		Esna II, 73, 6   
+   
+*ṯnw*		Esna II, 155, 9; Esna II, 156, 26; Esna II, 169, 8; Esna II, 191, 28   
+   
+*ṯnn.t*		Esna II, 156, 24   
+   
+*ṯnr*		Esna II, 127, 6   
+   
+*ṯrḥy.w*		Esna II, 190, 4   
+   
+*ṯhh*		Esna II, 163, 19   
+   
+*ṯḥn*		Esna II, 54, 16; Esna II, 76, 4; Esna II, 155, 4; Esna II, 156, 15; Esna II, 156, 16; Esna II, 169, 7; Esna II, 169, 8; Esna II, 169, 9; Esna II, 176, 6; Esna II, 176, 7; Esna II, 184, 26   
+   
+*ṯḥn.wy*		Esna II, 74, 20; Esna II, 85, 4   
+   
+*ṯḥḥ*		Esna II, 163, 28   
+   
+*ṯzm*		Esna II, 136, 8   
+   
+*ṯz-pẖr*		Esna II, 67, 11; Esna II, 67, 5; Esna II, 67, 5; Esna II, 131, 15; Esna II, 163, 26   
+   
+*ṯz*		Esna II, 55, 2; Esna II, 58, 2; Esna II, 64, 2; Esna II, 67, 12; Esna II, 72, 10; Esna II, 77, 13; Esna II, 91, 16; Esna II, 105, 2; Esna II, 107, 2; Esna II, 183, 5   
+   
+*ṯz.wt*		Esna II, 125, 2   
+   
+*ṯsy.t*		Esna II, 191, 27   
+   
+*ṯtf*		Esna II, 77, 17; Esna II, 77, 17   
+   
+*ṯybrys*		Esna II, 70, 1   
+   
+*ṯ.t*		Esna II, 85, 2   
+   
+*dỉ-ʿ*		Esna II, 74, 6   
+   
+*dỉ*		Esna II, 49, 13; Esna II, 49, 8; Esna II, 49, 9; Esna II, 52, 10; Esna II, 55, 7; Esna II, 63, 4; Esna II, 64, 1; Esna II, 70, 17; Esna II, 70, 9; Esna II, 74, 5; Esna II, 74, 8; Esna II, 77, 12; Esna II, 77, 16; Esna II, 91, 18; Esna II, 91, 6; Esna II, 97, 2; Esna II, 110, 4; Esna II, 110, 4; Esna II, 112, 7; Esna II, 118, 4; Esna II, 127, 5; Esna II, 135, 15; Esna II, 141, 7; Esna II, 156, 28; Esna II, 163, 17; Esna II, 163, 26; Esna II, 170, 11; Esna II, 184, 21; Esna II, 191, 17   
+   
+*dỉ.*		Esna II, 102, 1   
+   
+*dỉ.t*		Esna II, 77, 15   
+   
+*dwȝ*		Esna II, 52, 6; Esna II, 63, 4; Esna II, 74, 29; Esna II, 156, 18; Esna II, 156, 18; Esna II, 156, 19; Esna II, 163, 26; Esna II, 184, 18; Esna II, 184, 18; Esna II, 184, 19; Esna II, 191, 12   
+   
+*dwȝ-mw.t*		Esna II, 156, 23; Esna II, 191, 25   
+   
+*dwȝ.t*		Esna II, 70, 16; Esna II, 71, 11; Esna II, 156, 18; Esna II, 156, 19; Esna II, 163, 16   
+   
+*dwȝty.w*		Esna II, 156, 19   
+   
+*dwȝw*		Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 11; Esna II, 141, 5   
+   
+*dwn*		Esna II, 155, 1; Esna II, 156, 21; Esna II, 169, 2; Esna II, 176, 7   
+   
+*dwn-ʿn.wy*		Esna II, 67, 5   
+   
+*dbn.wy*		Esna II, 176, 1   
+   
+*dbhy*		Esna II, 191, 24   
+   
+*dbḥ*		Esna II, 63, 4   
+   
+*dbḥ.w*		Esna II, 120, 2; Esna II, 124, 1   
+   
+*dp*		Esna II, 155, 5   
+   
+*dmỉ*		Esna II, 74, 28; Esna II, 74, 29   
+   
+*dmḏ*		Esna II, 50, 13; Esna II, 70, 3; Esna II, 88, 6; Esna II, 156, 26; Esna II, 184, 25   
+   
+*dmḏ.w*		Esna II, 52, 17   
+   
+*dmḏy.t*		Esna II, 50, 12; Esna II, 155, 7; Esna II, 184, 22; Esna II, 191, 17   
+   
+*dm*		Esna II, 156, 18   
+   
+*dns*		Esna II, 85, 2   
+   
+*dns.w*		Esna II, 191, 23   
+   
+*dndn*		Esna II, 84, 1; Esna II, 102, 2   
+   
+*dndn.w*		Esna II, 191, 27   
+   
+*drp*		Esna II, 63, 1   
+   
+*drp-rȝ*		Esna II, 58, 3   
+   
+*drf*		Esna II, 191, 21   
+   
+*dr*		Esna II, 52, 25; Esna II, 67, 13; Esna II, 155, 7; Esna II, 163, 19   
+   
+*dhn*		Esna II, 183, 3   
+   
+*dhn-tȝ*		Esna II, 64, 3   
+   
+*dḫn*		Esna II, 169, 1   
+   
+*dsds*		Esna II, 124, 2   
+   
+*dsy.t*		Esna II, 156, 23   
+   
+*dšr.w*		Esna II, 156, 27; Esna II, 190, 3   
+   
+*dgȝ*		Esna II, 73, 4; Esna II, 163, 28; Esna II, 169, 7; Esna II, 176, 1; Esna II, 191, 11   
+   
+*dgỉ.n*		Esna II, 184, 24   
+   
+*d.t*		Esna II, 71, 14   
+   
+*dy*		Esna II, 52, 18; Esna II, 52, 18; Esna II, 80, 1   
+   
+*ḏȝỉs.w*		Esna II, 58, 2; Esna II, 81, 3; Esna II, 163, 18; Esna II, 163, 18   
+   
+*ḏȝm.w*		Esna II, 155, 8   
+   
+*ḏȝḏȝ*		Esna II, 55, 6   
+   
+*ḏȝḏȝ.t*		Esna II, 156, 17; Esna II, 183, 2   
+   
+*ḏȝ-rȝ*		Esna II, 55, 2   
+   
+*ḏȝ*		Esna II, 52, 19; Esna II, 74, 33; Esna II, 74, 39   
+   
+*ḏȝ.t*		Esna II, 52, 18; Esna II, 55, 7; Esna II, 74, 33; Esna II, 74, 39; Esna II, 80, 5; Esna II, 110, 10   
+   
+*ḏỉ*		Esna II, 50, 12; Esna II, 50, 13; Esna II, 50, 7; Esna II, 50, 8; Esna II, 51, 15; Esna II, 51, 16; Esna II, 51, 8; Esna II, 67, 20; Esna II, 71, 13; Esna II, 71, 9; Esna II, 72, 11; Esna II, 72, 16; Esna II, 73, 15; Esna II, 73, 20; Esna II, 88, 10; Esna II, 88, 14; Esna II, 88, 18; Esna II, 113, 11; Esna II, 113, 16; Esna II, 135, 16; Esna II, 136, 12; Esna II, 136, 17; Esna II, 141, 12   
+   
+*ḏw*		Esna II, 104, 9; Esna II, 110, 10; Esna II, 110, 10; Esna II, 110, 12; Esna II, 110, 9; Esna II, 129, 2; Esna II, 176, 9   
+   
+*ḏw.w*		Esna II, 51, 10; Esna II, 70, 16; Esna II, 127, 6; Esna II, 156, 16   
+   
+*ḏbȝ*		Esna II, 55, 2; Esna II, 55, 8; Esna II, 113, 1; Esna II, 113, 2; Esna II, 162, 4; Esna II, 163, 22   
+   
+*ḏbȝ.t*		Esna II, 129, 4   
+   
+*ḏp*		Esna II, 70, 6; Esna II, 74, 26   
+   
+*ḏfȝ.w*		Esna II, 54, 12; Esna II, 72, 11; Esna II, 105, 4   
+   
+*ḏfȝw*		Esna II, 96, 2; Esna II, 156, 18   
+   
+*ḏfn*		Esna II, 82, 1; Esna II, 163, 22   
+   
+*ḏfḏ*		Esna II, 60, 4; Esna II, 72, 13   
+   
+*ḏmd*		Esna II, 88, 3   
+   
+*ḏrty.w*		Esna II, 162, 2   
+   
+*ḏr-ʿ*		Esna II, 80, 3   
+   
+*ḏr-bȝḥ*		Esna II, 60, 1; Esna II, 80, 2   
+   
+*ḏr*		Esna II, 58, 3; Esna II, 58, 4; Esna II, 63, 1; Esna II, 71, 7; Esna II, 80, 1; Esna II, 81, 1; Esna II, 81, 2; Esna II, 82, 2; Esna II, 110, 7; Esna II, 127, 4; Esna II, 129, 2; Esna II, 163, 16   
+   
+*ḏhwty*		Esna II, 191, 26   
+   
+*ḏḥwtỉ*		Esna II, 84, 1   
+   
+*ḏḥwty*		Esna II, 55, 1; Esna II, 55, 2; Esna II, 55, 2; Esna II, 55, 3; Esna II, 58, 6; Esna II, 60, 4; Esna II, 67, 13; Esna II, 67, 4; Esna II, 74, 29; Esna II, 77, 10; Esna II, 77, 11; Esna II, 77, 11; Esna II, 110, 12; Esna II, 110, 4; Esna II, 130, 2; Esna II, 163, 27   
+   
+*ḏsr*		Esna II, 52, 11; Esna II, 52, 21; Esna II, 74, 33; Esna II, 74, 35; Esna II, 77, 16; Esna II, 81, 2; Esna II, 85, 4; Esna II, 106, 2; Esna II, 112, 13; Esna II, 113, 8; Esna II, 131, 6; Esna II, 131, 6; Esna II, 156, 20; Esna II, 162, 2; Esna II, 162, 3; Esna II, 162, 6; Esna II, 163, 23; Esna II, 163, 24; Esna II, 176, 1; Esna II, 183, 4; Esna II, 184, 25; Esna II, 184, 25   
+   
+*ḏsr-sštȝ*		Esna II, 163, 20   
+   
+*ḏsr.t*		Esna II, 127, 9   
+   
+*ḏs*		Esna II, 107, 1; Esna II, 184, 15   
+   
+*ḏt*		Esna II, 58, 1   
+   
+*ḏdȝ*		Esna II, 115, 8   
+   
+*ḏdȝ-m-ỉwf*		Esna II, 191, 25   
+   
+*ḏd-bȝ.w*		Esna II, 131, 6   
+   
+*ḏd-mdw*		Esna II, 49, 10; Esna II, 49, 5; Esna II, 50, 5; Esna II, 50, 9; Esna II, 51, 13; Esna II, 51, 5; Esna II, 54, 11; Esna II, 54, 7; Esna II, 61, 11; Esna II, 61, 5; Esna II, 61, 8; Esna II, 62, 10; Esna II, 62, 5; Esna II, 62, 8; Esna II, 67, 10; Esna II, 67, 17; Esna II, 67, 3; Esna II, 70, 11; Esna II, 70, 3; Esna II, 70, 6; Esna II, 71, 1; Esna II, 71, 10; Esna II, 71, 5; Esna II, 72, 10; Esna II, 73, 11; Esna II, 73, 17; Esna II, 74, 25; Esna II, 76, 11; Esna II, 76, 15; Esna II, 76, 3; Esna II, 76, 7; Esna II, 88, 11; Esna II, 88, 15; Esna II, 88, 4; Esna II, 88, 7; Esna II, 91, 13; Esna II, 91, 3; Esna II, 91, 7; Esna II, 113, 1; Esna II, 113, 12; Esna II, 113, 7; Esna II, 115, 3; Esna II, 115, 7; Esna II, 118, 8; Esna II, 135, 9; Esna II, 136, 13; Esna II, 136, 7; Esna II, 143, 3; Esna II, 143, 7   
+   
+*ḏd*		Esna II, 52, 12; Esna II, 55, 7; Esna II, 58, 6; Esna II, 58, 6; Esna II, 58, 7; Esna II, 59, 1; Esna II, 60, 1; Esna II, 60, 1; Esna II, 60, 2; Esna II, 60, 2; Esna II, 60, 2; Esna II, 60, 5; Esna II, 60, 5; Esna II, 63, 1; Esna II, 63, 1; Esna II, 63, 4; Esna II, 72, 12; Esna II, 73, 8; Esna II, 77, 16; Esna II, 77, 17; Esna II, 80, 2; Esna II, 80, 3; Esna II, 81, 2; Esna II, 84, 1; Esna II, 104, 10; Esna II, 113, 16; Esna II, 129, 2; Esna II, 129, 2; Esna II, 130, 2; Esna II, 130, 5; Esna II, 131, 6; Esna II, 135, 16; Esna II, 135, 16; Esna II, 162, 10; Esna II, 176, 10; Esna II, 183, 10; Esna II, 184, 24; Esna II, 184, 26; Esna II, 191, 20   
+   
+*ḏd.ỉn*		Esna II, 60, 5; Esna II, 80, 1; Esna II, 84, 1; Esna II, 84, 1; Esna II, 104, 3; Esna II, 104, 3; Esna II, 104, 9; Esna II, 127, 4; Esna II, 129, 2   
+   
+*ḏd.t*		Esna II, 82, 2   
+   
+*ḏ.t*		Esna II, 51, 16; Esna II, 51, 4; Esna II, 52, 24; Esna II, 52, 5; Esna II, 58, 7; Esna II, 64, 4; Esna II, 67, 8; Esna II, 70, 9; Esna II, 71, 6; Esna II, 73, 10; Esna II, 74, 13; Esna II, 74, 22; Esna II, 74, 31; Esna II, 74, 5; Esna II, 82, 2; Esna II, 85, 4; Esna II, 88, 6; Esna II, 91, 5; Esna II, 97, 2; Esna II, 97, 3; Esna II, 113, 13; Esna II, 127, 5; Esna II, 129, 4; Esna II, 130, 5; Esna II, 135, 13; Esna II, 135, 15; Esna II, 135, 6; Esna II, 136, 11; Esna II, 141, 12; Esna II, 162, 1; Esna II, 162, 10; Esna II, 163, 28; Esna II, 163, 28; Esna II, 176, 10   
+   
+*-ỉb*		Esna II, 84, 1; Esna II, 163, 28   
+   
+*-ỉrw.w*		Esna II, 77, 16   
+   
+*-ʿ*		Esna II, 130, 2   
+   
+*-bȝst.t*		Esna II, 123, 8   
+   
+*-m-wr.t*		Esna II, 191, 25   
+   
+*-nb*		Esna II, 155, 1   
+   
+*-nḫy-nfr*		Esna II, 55, 7; Esna II, 74, 34; Esna II, 77, 10; Esna II, 77, 10; Esna II, 77, 16   
+   
+*-n.t*		Esna II, 77, 14   
+   
+*-ḥȝ.t*		Esna II, 77, 16   
+   
+*-ḥr*		Esna II, 163, 25   
+   
+*-ḥry.w*		Esna II, 155, 1   
+   
+*-ḫt*		Esna II, 55, 6   
+   
+*-ẖrd*		Esna II, 77, 12; Esna II, 77, 12; Esna II, 77, 15; Esna II, 77, 15; Esna II, 77, 18   
+   
+*-sn.t*		Esna II, 60, 2; Esna II, 163, 25   
+   
+*-sḫ.t*		Esna II, 96, 2   
+   
+*-sš*		Esna II, 54, 4   
+   
+*-ḏr*		Esna II, 70, 15; Esna II, 74, 18; Esna II, 127, 10; Esna II, 141, 6; Esna II, 170, 11; Esna II, 184, 20   
+   
+*ywtqrtr*		Esna II, 112, 3   
+   
+*xpr*		Esna II, 91, 17   
+   
+*of*		Esna II, 51, 16; Esna II, 150, 2   
+   
+*xnm*		Esna II, 77, 18   
+   
+*3-nw*		Esna II, 176, 1   
+   
+*4-nw*		Esna II, 81, 5; Esna II, 163, 21   
+   
+*2.t*		Esna II, 77, 12   
+   
+*8.t*		Esna II, 77, 14; Esna II, 77, 18   
+   
+*___*		Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 14   
+   
+*____*		Esna II, 77, 13; Esna II, 77, 13; Esna II, 77, 13   
+   
+*1/15*		Esna II, 163, 21   
+   
+*1/2*		Esna II, 163, 21; Esna II, 163, 22   
+   
+*1/3*		Esna II, 163, 21; Esna II, 163, 22   
+   
+*1/30*		Esna II, 64, 3; Esna II, 81, 5; Esna II, 163, 22   
+   
+*1/5+1/15*		Esna II, 163, 21   
+   
+*1/6*		Esna II, 127, 5   
+   
+*10*		Esna II, 77, 10; Esna II, 77, 18   
+   
+*11*		Esna II, 77, 10   
+   
+*12.t*		Esna II, 77, 18   
+   
+*13*		Esna II, 77, 16   
+   
+*18*		Esna II, 77, 10   
+   
+*20*		Esna II, 55, 6   
+   
+*21*		Esna II, 55, 8   
+   
+*26*		Esna II, 163, 22   
+   
+*27*		Esna II, 163, 21   
+   
+*you*		Esna II, 51, 16

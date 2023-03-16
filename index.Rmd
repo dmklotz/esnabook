@@ -34,18 +34,20 @@ I have picked the temple of Esna to start with for several reasons. First of all
 
 Nonetheless there remain many individual offering scenes, bandeaus, and other interstitial texts of great interest.  The final impetus for this project came from the original publishers of the hieroglyphic text editions, the IFAO, which released all published volumes as [open-access PDFs](https://www.ifao.egnet.net/publications/catalogue/Temples-Esna/) in 2021. Please buy or download the PDFs as soon as possible.
 
-```{r progres, echo=FALSE}
+```{r progress, echo=FALSE}
 
-n_total <- length(list.files(pattern = "Esna_"))
+n_total <- sum(as.integer(stringr::str_extract(list.files(pattern = "Esna_"), "[0-9]{3}")) < 46, na.rm=T)
 
 ```
-As a first goal, I am working exclusively on the Roman Period inscriptions from *Esna* II (scenes 46-193). So far, **`r n_total`/148 (`r round(100.0*n_total/148.0, 1)`%)** of those scenes are complete and online. I have moved on to translating [Esna III](https://bookdown.org/shemanefer/Esna3/), but I will continue to update and proofread *Esna* II, especially as I find more parallels or clues to improved readings elsewhere. 
+As a first goal, I translated the Roman Period inscriptions from *Esna* II (scenes 46-193). Those are complete, and just awaiting proofreading and edits. I have moved on to translating [Esna III](https://bookdown.org/shemanefer/Esna3/), but I will continue to update and proofread *Esna* II, especially as I find more parallels or clues to improved readings elsewhere. 
+
+For my second goal, I am adding the Ptolemaic inscriptions from *Esna* II (scenes 1-45). Many of these have already been translated by @recklinghausen-derchain and @pichel, but I am including my own translations here for the sake of completeness, but more importantly to facilitate cross-references and to include the earlier inscriptions in glossaries and indexes (still in preparation). So far **`r n_total`/45 (`r round(100.0*n_total/45.0, 1)`%)** are finished and online.
 
 ## Contribute! {-}
 
 I welcome any feedback for this project, whether regarding the format, corrections, alternative suggestions for translations, or notes to any important references I might have overlooked. Or perhaps you would like to volunteer to translate certain texts!  You may contact me directly at <shemanefer@gmail.com>. I will of course fully acknowledge any suggestions, and add you to the list of contributors.  
 
-I would also appreciate help with relevant bibliography, especially newer monographs. I already have most basic references in digital or paper form, but if you noticing any major ommissions, please let me know. 
+I would also appreciate help with relevant bibliography, especially newer monographs. I already have most basic references in digital or paper form, but if you noticing any major omissions, please let me know. 
 
 ## Photographs {-}
 
@@ -59,4 +61,4 @@ If anybody has good digital images they would like to share for this book, pleas
 
 ## Contributors {-}
 
-Daniel Arpagaus; Maged Mahgoub
+Daniel Arpagaus; Maged Mahgoub; Abaraham I. Fernández Pichel
