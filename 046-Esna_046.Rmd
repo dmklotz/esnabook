@@ -1,5 +1,3 @@
-# (PART) Facade (46-102) {-}
-
 # Outer Frame of the Facade (46-48) {-}
 
 ## Esna 46 {-}
